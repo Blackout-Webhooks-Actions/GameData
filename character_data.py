@@ -270,8 +270,8 @@ def get_item_name(item_id):
 enemy_drop_materials = image_mapping["Items"]["Character and Weapon Enhancement Material"]
 
 # Extract required fields
-filtered_data = (
-		[
+filtered_data = {
+		"characters": [
 			paimon_data  # Add Paimon data to the top
 		] +
 		[
@@ -315,7 +315,7 @@ filtered_data = (
 			}
 			for char in final_data if char["Constellation"].lower() != "viator"
 		]
-)
+}
 
 # Save to character_data.json
 with open("character_data.json", "w", encoding="utf-8") as f:
