@@ -114,11 +114,11 @@
     "itemName": "Everflame Seed"
   },
   "Cleansing Heart": {
-    "bossName": "Rhodeia of Loch",
+    "bossName": "Oceanid",
     "itemName": "Cleansing Heart"
   },
   "Juvenile Jade": {
-    "bossName": "Primo Geovishap",
+    "bossName": "Pyro Primo Geovishap",
     "itemName": "Juvenile Jade"
   },
   "Crystalline Bloom": {
@@ -182,15 +182,15 @@
     "itemName": "Pseudo-Stamens"
   },
   "Evergloom Ring": {
-    "bossName": "Iniquitous Baptist",
+    "bossName": "Iniquitous Baptist - Invoker of Flame, Frost, and Fulmination",
     "itemName": "Evergloom Ring"
   },
   "Artificed Spare Clockwork Component — Coppelia": {
-    "bossName": "Icewind Suite",
+    "bossName": "Icewind Suite: Dirge of Coppelia",
     "itemName": "Artificed Spare Clockwork Component — Coppelia"
   },
   "Artificed Spare Clockwork Component — Coppelius": {
-    "bossName": "Icewind Suite",
+    "bossName": "Icewind Suite: Nemesis of Coppelius",
     "itemName": "Artificed Spare Clockwork Component — Coppelius"
   },
   "Emperor's Resolution": {
@@ -198,7 +198,7 @@
     "itemName": "Emperor's Resolution"
   },
   "\"Tourbillon Device\"": {
-    "bossName": "Prototype Cal. Breguet",
+    "bossName": "Experimental Field Generator",
     "itemName": "\"Tourbillon Device\""
   },
   "Fontemer Unihorn": {
@@ -218,11 +218,11 @@
     "itemName": "Fragment of a Golden Melody"
   },
   "Mark of the Binding Blessing": {
-    "bossName": "Holawaqa Ngoubou",
+    "bossName": "Goldflame Qucusaur Tyrant",
     "itemName": "Mark of the Binding Blessing"
   },
   "Overripe Flamegranate": {
-    "bossName": "Kongamato",
+    "bossName": "Gluttonous Yumkasaur Mountain King",
     "itemName": "Overripe Flamegranate"
   },
   "Gold-Inscribed Secret Source Core": {
@@ -230,7 +230,7 @@
     "itemName": "Gold-Inscribed Secret Source Core"
   },
   "Ensnaring Gaze": {
-    "bossName": "Tenebrous Papilla",
+    "bossName": "Tenebrous Papilla: Type I",
     "itemName": "Ensnaring Gaze"
   },
   "Talisman of the Enigmatic Land": {
@@ -238,7 +238,7 @@
     "itemName": "Talisman of the Enigmatic Land"
   },
   "Sparkless Statue Core": {
-    "bossName": "Lava Dragon Statues",
+    "bossName": "Lava Dragon Statue",
     "itemName": "Sparkless Statue Core"
   },
   "Secret Source Airflow Accumulator": {
@@ -250,63 +250,63 @@
 
 
   "Dvalin's Plume": {
-    "bossName": "Stormterror Dvalin",
+    "bossName": "Stormterror",
     "itemName": "Dvalin's Plume"
   },
   "Dvalin's Claw": {
-    "bossName": "Stormterror Dvalin",
+    "bossName": "Stormterror",
     "itemName": "Dvalin's Claw"
   },
   "Dvalin's Sigh": {
-    "bossName": "Stormterror Dvalin",
+    "bossName": "Stormterror",
     "itemName": "Dvalin's Sigh"
   },
   "Tail of Boreas": {
-    "bossName": "Andrius",
+    "bossName": "Lupus Boreas, Dominator of Wolves",
     "itemName": "Tail of Boreas"
   },
   "Ring of Boreas": {
-    "bossName": "Andrius",
+    "bossName": "Lupus Boreas, Dominator of Wolves",
     "itemName": "Ring of Boreas"
   },
   "Spirit Locket of Boreas": {
-    "bossName": "Andrius",
+    "bossName": "Lupus Boreas, Dominator of Wolves",
     "itemName": "Spirit Locket of Boreas"
   },
   "Tusk of Monoceros Caeli": {
-    "bossName": "Childe",
+    "bossName": "Childe P1",
     "itemName": "Tusk of Monoceros Caeli"
   },
   "Shard of a Foul Legacy": {
-    "bossName": "Childe",
+    "bossName": "Childe P1",
     "itemName": "Shard of a Foul Legacy"
   },
   "Shadow of the Warrior": {
-    "bossName": "Childe",
+    "bossName": "Childe P1",
     "itemName": "Shadow of the Warrior"
   },
   "Dragon Lord's Crown": {
-    "bossName": "Azhdaha (Weekly Boss)",
+    "bossName": "Azhdaha",
     "itemName": "Dragon Lord's Crown"
   },
   "Bloodjade Branch": {
-    "bossName": "Azhdaha (Weekly Boss)",
+    "bossName": "Azhdaha",
     "itemName": "Bloodjade Branch"
   },
   "Gilded Scale": {
-    "bossName": "Azhdaha (Weekly Boss)",
+    "bossName": "Azhdaha",
     "itemName": "Gilded Scale"
   },
   "Molten Moment": {
-    "bossName": "La Signora",
+    "bossName": "Crimson Witch of Embers",
     "itemName": "Molten Moment"
   },
   "Hellfire Butterfly": {
-    "bossName": "La Signora",
+    "bossName": "Crimson Witch of Embers",
     "itemName": "Hellfire Butterfly"
   },
   "Ashen Heart": {
-    "bossName": "La Signora",
+    "bossName": "Crimson Witch of Embers",
     "itemName": "Ashen Heart"
   },
   "Mudra of the Malefic General": {
@@ -322,27 +322,27 @@
     "itemName": "The Meaning of Aeons"
   },
   "Puppet Strings": {
-    "bossName": "Everlasting Lord of Arcane Wisdom",
+    "bossName": "Shouki no Kami P1",
     "itemName": "Puppet Strings"
   },
   "Mirror of Mushin": {
-    "bossName": "Everlasting Lord of Arcane Wisdom",
+    "bossName": "Shouki no Kami P1",
     "itemName": "Mirror of Mushin"
   },
   "Daka's Bell": {
-    "bossName": "Everlasting Lord of Arcane Wisdom",
+    "bossName": "Shouki no Kami P1",
     "itemName": "Daka's Bell"
   },
   "Worldspan Fern": {
-    "bossName": "Guardian of Apep's Oasis",
+    "bossName": "Warden of Oasis Prime",
     "itemName": "Worldspan Fern"
   },
   "Primordial Greenbloom": {
-    "bossName": "Guardian of Apep's Oasis",
+    "bossName": "Warden of Oasis Prime",
     "itemName": "Primordial Greenbloom"
   },
   "Everamber": {
-    "bossName": "Guardian of Apep's Oasis",
+    "bossName": "Warden of Oasis Prime",
     "itemName": "Everamber"
   },
   "Lightless Silk String": {
@@ -370,19 +370,19 @@
     "itemName": "Denial and Judgment"
   },
   "Eroded Horn": {
-    "bossName": "Lord of Eroded Primal Flame",
+    "bossName": "Gosoythoth",
     "itemName": "Eroded Horn"
   },
   "Eroded Sunfire": {
-    "bossName": "Lord of Eroded Primal Flame",
+    "bossName": "Gosoythoth",
     "itemName": "Eroded Sunfire"
   },
   "Eroded Scale-Feather": {
-    "bossName": "Lord of Eroded Primal Flame",
+    "bossName": "Gosoythoth",
     "itemName": "Eroded Scale-Feather"
   },
   "???": {
-    "bossName": "???",
+    "bossName": "Game before the Gate",
     "itemName": "???"
   },
 
