@@ -22,4 +22,15 @@ jobs:
           pip install --upgrade pip
 
       - name: Run image mapping update script
-        run: python your_script.py
+        run: python mapping_data_update.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git diff --quiet || git commit -m "Update image mapping data"
+        
+      - name: Push changes
+        run: |
+          git push
