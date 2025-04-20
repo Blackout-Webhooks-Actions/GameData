@@ -1,6 +1,6 @@
 ﻿{
   "Slime Materials": {
-    "enemyName": "Slime",
+    "enemyName": "Large Hydro Slime",
     "itemName1": "Slime Condensate",
     "itemName2": "Slime Secretions",
     "itemName3": "Slime Concentrate"
@@ -12,79 +12,79 @@
     "itemName3": "Ominous Mask"
   },
   "Samachurl Materials": {
-    "enemyName": "Samachurl",
+    "enemyName": "Electro Samachurl",
     "itemName1": "Divining Scroll",
     "itemName2": "Sealed Scroll",
     "itemName3": "Forbidden Curse Scroll"
   },
   "Hilichurl Shooter Materials": {
-    "enemyName": "Hilichurl Shooter",
+    "enemyName": "Electro Hilichurl Shooter",
     "itemName1": "Firm Arrowhead",
     "itemName2": "Sharp Arrowhead",
     "itemName3": "Weathered Arrowhead"
   },
   "Fatui Skirmisher Materials": {
-    "enemyName": "Fatui Skirmisher",
+    "enemyName": "Fatui Skirmisher - Cryogunner Legionnaire",
     "itemName1": "Recruit's Insignia",
     "itemName2": "Sergeant's Insignia",
     "itemName3": "Lieutenant's Insignia"
   },
   "Treasure Hoarder Materials": {
-    "enemyName": "Treasure Hoarder",
+    "enemyName": "Treasure Hoarders: Crusher",
     "itemName1": "Treasure Hoarder Insignia",
     "itemName2": "Silver Raven Insignia",
     "itemName3": "Golden Raven Insignia"
   },
   "Whopperflower Materials": {
-    "enemyName": "Whopperflower",
+    "enemyName": "Cryo Whopperflower",
     "itemName1": "Whopperflower Nectar",
     "itemName2": "Shimmering Nectar",
     "itemName3": "Energy Nectar"
   },
   "Nobushi Materials": {
-    "enemyName": "Nobushi",
+    "enemyName": "Nobushi: Jintouban",
     "itemName1": "Old Handguard",
     "itemName2": "Kageuchi Handguard",
     "itemName3": "Famed Handguard"
   },
   "Specter Materials": {
-    "enemyName": "Specter",
+    "enemyName": "Pyro Specter",
     "itemName1": "Spectral Husk",
     "itemName2": "Spectral Heart",
     "itemName3": "Spectral Nucleus"
   },
   "Fungus Materials": {
-    "enemyName": "Fungus",
+    "enemyName": "Floating Dendro Fungus",
     "itemName1": "Fungal Spores",
     "itemName2": "Luminescent Pollen",
     "itemName3": "Crystalline Cyst Dust"
   },
   "The Eremites Materials": {
-    "enemyName": "The Eremites",
+    "enemyName": "Eremite Axe Vanguard",
     "itemName1": "Faded Red Satin",
     "itemName2": "Trimmed Red Silk",
     "itemName3": "Rich Red Brocade"
   },
   "Fontemer Aberrant Materials": {
-    "enemyName": "Fontemer Aberrant",
+    "enemyName": "Sternshield Crab",
     "itemName1": "Transoceanic Pearl",
     "itemName2": "Transoceanic Chunk",
     "itemName3": "Xenochromatic Crystal"
   },
   "Clockwork Meka Materials": {
-    "enemyName": "Clockwork Meka",
+    "enemyName": "Assault Specialist Mek - Ousia",
     "itemName1": "Meshing Gear",
     "itemName2": "Mechanical Spur Gear",
     "itemName3": "Artificed Dynamic Gear"
   },
   "Natlan Saurian Materials": {
-    "enemyName": "Natlan Saurian",
+    "enemyName": "Tepetlisaur Whelp",
     "itemName1": "Juvenile Fang",
     "itemName2": "Seasoned Fang",
     "itemName3": "Tyrant's Fang"
   },
   "Sauroform Tribal Warrior Materials": {
-    "enemyName": "Sauroform Tribal Warrior",
+    "enemyName": "Swiftstep Seeker",
     "itemName1": "Sentry's Wooden Whistle",
     "itemName2": "Warrior's Metal Whistle",
     "itemName3": "Saurian-Crowned Warrior's Golden Whistle"
