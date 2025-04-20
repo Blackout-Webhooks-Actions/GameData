@@ -2,6 +2,7 @@ import json
 import re
 import requests
 import os
+from pathlib import Path
 
 # URLs of JavaScript files
 urls = {
@@ -13,15 +14,19 @@ urls = {
 
 # Fetch JavaScript content
 
-os.makedirs("debug_js", exist_ok=True)
+
+debug_dir = Path(__file__).parent / "debug_js"
+debug_dir.mkdir(exist_ok=True)
+
 responses = {}
 for key, url in urls.items():
 	response = requests.get(url)
 	response.raise_for_status()
 	responses[key] = response
-	with open(f"debug_js/{key}.js", "w", encoding="utf-8") as f:
+	js_path = debug_dir / f"{key}.js"
+	with open(js_path, "w", encoding="utf-8") as f:
 		f.write(response.text)
-	print(f"Downloaded {key}.js ({len(response.text)} bytes)")
+	print(f"Downloaded {key}.js ({len(response.text)} bytes) -> saved to {js_path}")
 for key, response in responses.items():
 	response.raise_for_status()
 
