@@ -5998,6 +5998,72 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 112,
+            "name": "Escoffier",
+            "constellation": "Dulciaria Structura",
+            "version": "5.6",
+            "star": 5,
+            "nation": "Fontaine",
+            "element": "Cryo",
+            "weapon": "Polearm",
+            "birthday": "06-08",
+            "title": "Tasteful Excellence",
+            "description": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
+            "reruns": [],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Clockwork Meka Materials",
+                            "elementalGem": "Shivada Jade",
+                            "normalBossDrop": "Secret Source Airflow Accumulator",
+                            "localSpecialty": "Beryl Conch"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Clockwork Meka Materials",
+                            "weeklyBossDrop": "Eroded Horn",
+                            "talentBooks": "Justice"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "name": "Ifa",
+            "constellation": "Catena Opele",
+            "version": "5.6",
+            "star": 4,
+            "nation": "Natlan",
+            "element": "Anemo",
+            "weapon": "Catalyst",
+            "birthday": "03-23",
+            "title": "In the Wake of Wandering Winds",
+            "description": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
+            "reruns": [],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Natlan Saurian Materials",
+                            "elementalGem": "Vayuda Turquoise",
+                            "normalBossDrop": "Sparkless Statue Core",
+                            "localSpecialty": "Saurian Claw Succulent"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Natlan Saurian Materials",
+                            "weeklyBossDrop": "???",
+                            "talentBooks": "Conflict"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
