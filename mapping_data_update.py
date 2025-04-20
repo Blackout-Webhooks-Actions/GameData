@@ -35,7 +35,7 @@ for character in character_data:
 	_name = character.get("_name")
 
 	# Skip if the name is "Traveler"
-	if name == "Traveler":
+	if name == "Traveler" or _name == "Keqing2":
 		continue
 
 	# Check if Name and _name are different
@@ -97,7 +97,7 @@ for weapon in weapon_data:
 
 	if icons:
 		# Get the first icon and remove the "UI_EquipIcon_" prefix
-		new_name = icons[0].replace("UI_EquipIcon_", "")
+		new_name = icons.replace("UI_EquipIcon_", "")
 
 		# Extract weapon type (first part of the new_name)
 		weapon_type = new_name.split('_')[0]
