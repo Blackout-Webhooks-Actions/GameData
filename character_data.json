@@ -6102,7 +6102,7 @@
                     "talents": [
                         {
                             "enemyDrop": "Natlan Saurian Materials",
-                            "weeklyBossDrop": "???",
+                            "weeklyBossDrop": null,
                             "talentBooks": "Conflict"
                         }
                     ]
