@@ -5,21 +5,10 @@
         "Desc": "An ancient longbow crested with red feathers, a sacred relic of the Flower-Feather Clan that has been passed down from generation to generation.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Qoyllorsnova",
-            "UI_EquipIcon_Bow_Qoyllorsnova_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Bow_Qoyllorsnova",
+        "Stat": 608.0745972,
         "Custom": "CD",
-        "CustomStat": 0.6615359715223312,
-        "MonIcons": [
-            "keq",
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
-        ],
-        "MonIDs": [
-            0,
-            55105
-        ],
+        "CustomStat": 0.661536,
         "AscMatID": 114072,
         "MatIDs": [
             112118,
@@ -38,21 +27,10 @@
         "Desc": "Legendary bow of the fairies. Whether on the stage or the battlefield, it can easily touch the hearts of the listener.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Arcdange",
-            "UI_EquipIcon_Bow_Arcdange_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Bow_Arcdange",
+        "Stat": 541.829758,
         "Custom": "HP",
-        "CustomStat": 0.6615359715223312,
-        "MonIcons": [
-            "UI_MonsterIcon_Striped",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            61902,
-            61601
-        ],
+        "CustomStat": 0.661536,
         "AscMatID": 114056,
         "MatIDs": [
             112097,
@@ -71,21 +49,10 @@
         "Desc": "A stage prop once used by a past \"Great Magician.\" Its final secret was that it was also a weapon beyond the pale.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Pledge",
-            "UI_EquipIcon_Bow_Pledge_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Bow_Pledge",
+        "Stat": 608.0745972,
         "Custom": "CD",
-        "CustomStat": 0.6615359715223312,
-        "MonIcons": [
-            "UI_MonsterIcon_Necalevia_Normal",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            510,
-            61601
-        ],
+        "CustomStat": 0.661536,
         "AscMatID": 114052,
         "MatIDs": [
             112088,
@@ -104,21 +71,10 @@
         "Desc": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Ayus",
-            "UI_EquipIcon_Bow_Ayus_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Bow_Ayus",
+        "Stat": 541.829758,
         "Custom": "CR",
-        "CustomStat": 0.44102400383353235,
-        "MonIcons": [
-            "wds",
-            "emdc"
-        ],
-        "MonIDs": [
-            61201,
-            53101
-        ],
+        "CustomStat": 0.441024,
         "AscMatID": 114048,
         "MatIDs": [
             112064,
@@ -137,21 +93,10 @@
         "Desc": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Narukami",
-            "UI_EquipIcon_Bow_Narukami_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Bow_Narukami",
+        "Stat": 608.0745972,
         "Custom": "CD",
-        "CustomStat": 0.6615359715223312,
-        "MonIcons": [
-            "fmm",
-            "ehil"
-        ],
-        "MonIDs": [
-            30501,
-            10110
-        ],
+        "CustomStat": 0.661536,
         "AscMatID": 114032,
         "MatIDs": [
             112052,
@@ -170,21 +115,10 @@
         "Desc": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Kirin",
-            "UI_EquipIcon_Bow_Kirin_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Bow_Kirin",
+        "Stat": 541.829758,
         "Custom": "CD",
-        "CustomStat": 0.8820480076670647,
-        "MonIcons": [
-            "shsb",
-            "hspc"
-        ],
-        "MonIDs": [
-            20701,
-            601
-        ],
+        "CustomStat": 0.882048,
         "AscMatID": 114016,
         "MatIDs": [
             112019,
@@ -203,21 +137,10 @@
         "Desc": "A pristine bow that is as sharp as the glaciers of the far north.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Worldbane",
-            "UI_EquipIcon_Bow_Worldbane_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Bow_Worldbane",
+        "Stat": 608.0745972,
         "Custom": "CR",
-        "CustomStat": 0.3307679857611656,
-        "MonIcons": [
-            "trh",
-            "hspc"
-        ],
-        "MonIDs": [
-            20502,
-            601
-        ],
+        "CustomStat": 0.330768,
         "AscMatID": 114036,
         "MatIDs": [
             112058,
@@ -236,21 +159,10 @@
         "Desc": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Widsith",
-            "UI_EquipIcon_Bow_Widsith_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Bow_Widsith",
+        "Stat": 608.0745972,
         "Custom": "ER",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "mita",
-            "fsc2"
-        ],
-        "MonIDs": [
-            10201,
-            30101
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114008,
         "MatIDs": [
             112016,
@@ -269,21 +181,10 @@
         "Desc": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Amos",
-            "UI_EquipIcon_Bow_Amos_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Bow_Amos",
+        "Stat": 608.0745972,
         "Custom": "ATK",
-        "CustomStat": 0.4961520128697157,
-        "MonIcons": [
-            "rgi",
-            "lhslm"
-        ],
-        "MonIDs": [
-            40101,
-            111
-        ],
+        "CustomStat": 0.49615200000000004,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -302,21 +203,10 @@
         "Desc": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within.",
         "Type": 5,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Bow_Dvalin",
-            "UI_EquipIcon_Bow_Dvalin_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Bow_Dvalin",
+        "Stat": 674.3345459999999,
         "Custom": "CR",
-        "CustomStat": 0.22051200191676618,
-        "MonIcons": [
-            "pam",
-            "ehil"
-        ],
-        "MonIDs": [
-            20101,
-            10110
-        ],
+        "CustomStat": 0.220512,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -330,26 +220,37 @@
         "V": "L"
     },
     {
+        "_id": "15432",
+        "Name": "Sequence of Solitude",
+        "Desc": "A mechanical longbow purpose-built for long shots and silent kills. Its twang is swallowed up amidst the night, the note lengthy and cold.",
+        "Type": 5,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Bow_Stinger",
+        "Stat": 509.605949,
+        "Custom": "HP",
+        "CustomStat": 0.41346,
+        "AscMatID": 114052,
+        "MatIDs": [
+            112121,
+            112085
+        ],
+        "EquipAffixName": "Silent Trigger",
+        "EquipAffixID": 115432,
+        "Extra": [],
+        "Story": 195432,
+        "StoryCount": 1,
+        "V": "5"
+    },
+    {
         "_id": "15431",
         "Name": "Chain Breaker",
         "Desc": "A jade-adorned longbow. The gentle winds always seem to swirl gently about its string. Legends claim that this weapon was made in a far more ancient era by a dragon artisan.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Isikhulu",
-            "UI_EquipIcon_Bow_Isikhulu_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Isikhulu",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_Striped",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            61902,
-            62001
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114072,
         "MatIDs": [
             112097,
@@ -368,21 +269,10 @@
         "Desc": "A longbow that burns like a flame. The feathers that adorn it are said to have come from the ancient tyrant Ngoubou.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Umpakati",
-            "UI_EquipIcon_Bow_Umpakati_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Umpakati",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "UI_MonsterIcon_Lava_Solid",
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
-        ],
-        "MonIDs": [
-            62702,
-            55105
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114072,
         "MatIDs": [
             112112,
@@ -401,21 +291,10 @@
         "Desc": "A measuring instrument that you can rarely find nowadays. It is capable of firing arrows.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Mechanic",
-            "UI_EquipIcon_Bow_Mechanic_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Mechanic",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_Necalevia_Normal",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            510,
-            61601
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114052,
         "MatIDs": [
             112088,
@@ -434,21 +313,10 @@
         "Desc": "A prototype for a standard-issue weapon the Yuheng commissioned from Blackcliff Forge after having analyzed the ancient mechanisms that protected the adeptal abode upon Tianheng.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Ultimatum",
-            "UI_EquipIcon_Bow_Ultimatum_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Ultimatum",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "moxiang2",
-            "fsc2"
-        ],
-        "MonIDs": [
-            61402,
-            30101
-        ],
         "AscMatID": 114024,
         "MatIDs": [
             112100,
@@ -467,21 +335,10 @@
         "Desc": "A strange longbow that resembles a sea creature. Its string makes no sound at all.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Vorpal",
-            "UI_EquipIcon_Bow_Vorpal_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Vorpal",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "UI_MonsterIcon_Necalevia_Normal",
-            "ehil"
-        ],
-        "MonIDs": [
-            510,
-            10110
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114052,
         "MatIDs": [
             112088,
@@ -500,21 +357,10 @@
         "Desc": "An ancient longbow that is a remnant of King Deshret's ancient era. An indecipherable ancient text and solemn patterns have been carved into it.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Gurabad",
-            "UI_EquipIcon_Bow_Gurabad_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Gurabad",
+        "Stat": 564.7837244,
         "Custom": "CR",
-        "CustomStat": 0.18375999589264394,
-        "MonIcons": [
-            "hhilr",
-            "fdf"
-        ],
-        "MonIDs": [
-            10402,
-            60902
-        ],
+        "CustomStat": 0.18376,
         "AscMatID": 114048,
         "MatIDs": [
             112079,
@@ -533,21 +379,10 @@
         "Desc": "A golden bow forged from the description in the story. If you use it as a normal weapon, you can also view it as a part of a fictional world that has made it off the pages.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Ibis",
-            "UI_EquipIcon_Bow_Ibis_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Ibis",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "hhilr",
-            "emdc"
-        ],
-        "MonIDs": [
-            10402,
-            53101
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114040,
         "MatIDs": [
             112079,
@@ -566,21 +401,10 @@
         "Desc": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Fin",
-            "UI_EquipIcon_Bow_Fin_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Fin",
+        "Stat": 509.605949,
         "Custom": "ER",
-        "CustomStat": 0.45940000684559346,
-        "MonIcons": [
-            "wds",
-            "fdf"
-        ],
-        "MonIDs": [
-            61201,
-            60902
-        ],
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114048,
         "MatIDs": [
             112064,
@@ -599,21 +423,10 @@
         "Desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Arakalari",
-            "UI_EquipIcon_Bow_Arakalari_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Bow_Arakalari",
+        "Stat": 454.36315250000007,
         "Custom": "ATK",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "wds",
-            "ehil"
-        ],
-        "MonIDs": [
-            61201,
-            10110
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114048,
         "MatIDs": [
             112064,
@@ -632,21 +445,10 @@
         "Desc": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Maria",
-            "UI_EquipIcon_Bow_Maria_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Maria",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "fmm",
-            "hspc"
-        ],
-        "MonIDs": [
-            30501,
-            601
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114032,
         "MatIDs": [
             112052,
@@ -665,21 +467,10 @@
         "Desc": "A uniquely-designed bow. This should not belong in this world.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Predator",
-            "UI_EquipIcon_Bow_Predator_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Predator",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "fmm",
-            "ehil"
-        ],
-        "MonIDs": [
-            30501,
-            10110
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114032,
         "MatIDs": [
             112052,
@@ -698,21 +489,10 @@
         "Desc": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Bakufu",
-            "UI_EquipIcon_Bow_Bakufu_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Bow_Bakufu",
+        "Stat": 454.36315250000007,
         "Custom": "ATK",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "fmm",
-            "ehil"
-        ],
-        "MonIDs": [
-            30501,
-            10110
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114032,
         "MatIDs": [
             112052,
@@ -731,21 +511,10 @@
         "Desc": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Fleurfair",
-            "UI_EquipIcon_Bow_Fleurfair_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Fleurfair",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "pam",
-            "cwp"
-        ],
-        "MonIDs": [
-            20101,
-            60101
-        ],
         "AscMatID": 114012,
         "MatIDs": [
             112022,
@@ -764,21 +533,10 @@
         "Desc": "A bow painted the color of transgression and nights of illusion.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Nachtblind",
-            "UI_EquipIcon_Bow_Nachtblind_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Nachtblind",
+        "Stat": 509.605949,
         "Custom": "Phys",
-        "CustomStat": 0.5172843940854073,
-        "MonIcons": [
-            "mita",
-            "thcr1"
-        ],
-        "MonIDs": [
-            10201,
-            50701
-        ],
+        "CustomStat": 0.5172844000000001,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -797,21 +555,10 @@
         "Desc": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Fallensun",
-            "UI_EquipIcon_Bow_Fallensun_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Fallensun",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "fpa",
-            "esc"
-        ],
-        "MonIDs": [
-            30201,
-            10306
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114024,
         "MatIDs": [
             112031,
@@ -830,21 +577,10 @@
         "Desc": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Outlaw",
-            "UI_EquipIcon_Bow_Outlaw_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Outlaw",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "rgi",
-            "lhslm"
-        ],
-        "MonIDs": [
-            40101,
-            111
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -863,21 +599,10 @@
         "Desc": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Viridescent",
-            "UI_EquipIcon_Bow_Viridescent_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Viridescent",
+        "Stat": 509.605949,
         "Custom": "CR",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "mita",
-            "ehil"
-        ],
-        "MonIDs": [
-            10201,
-            10110
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -896,21 +621,10 @@
         "Desc": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Blackrock",
-            "UI_EquipIcon_Bow_Blackrock_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Blackrock",
+        "Stat": 564.7837244,
         "Custom": "CD",
-        "CustomStat": 0.3675199917852879,
-        "MonIcons": [
-            "fpa",
-            "cwp"
-        ],
-        "MonIDs": [
-            30201,
-            60101
-        ],
+        "CustomStat": 0.36752,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -929,21 +643,10 @@
         "Desc": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Exotic",
-            "UI_EquipIcon_Bow_Exotic_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Bow_Exotic",
+        "Stat": 454.36315250000007,
         "Custom": "Phys",
-        "CustomStat": 0.6897109965980054,
-        "MonIcons": [
-            "gv",
-            "fsc2"
-        ],
-        "MonIDs": [
-            60401,
-            30101
-        ],
+        "CustomStat": 0.689711002,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -962,21 +665,10 @@
         "Desc": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Proto",
-            "UI_EquipIcon_Bow_Proto_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Proto",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "fecm",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30301,
-            50701
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -995,21 +687,10 @@
         "Desc": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Recluse",
-            "UI_EquipIcon_Bow_Recluse_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Recluse",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "fpa",
-            "hil"
-        ],
-        "MonIDs": [
-            30201,
-            10101
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -1028,21 +709,10 @@
         "Desc": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Theocrat",
-            "UI_EquipIcon_Bow_Theocrat_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Theocrat",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "rgi",
-            "esc"
-        ],
-        "MonIDs": [
-            40101,
-            10306
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -1061,21 +731,10 @@
         "Desc": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Fossil",
-            "UI_EquipIcon_Bow_Fossil_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Bow_Fossil",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "pam",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20101,
-            111
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -1094,21 +753,10 @@
         "Desc": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Troupe",
-            "UI_EquipIcon_Bow_Troupe_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Bow_Troupe",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "mita",
-            "ehil"
-        ],
-        "MonIDs": [
-            10201,
-            10110
-        ],
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -1127,21 +775,10 @@
         "Desc": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
         "Type": 5,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Bow_Zephyrus",
-            "UI_EquipIcon_Bow_Zephyrus_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Bow_Zephyrus",
+        "Stat": 454.36315250000007,
         "Custom": "ER",
-        "CustomStat": 0.6125317907929421,
-        "MonIcons": [
-            "rgi",
-            "cwp"
-        ],
-        "MonIDs": [
-            40101,
-            60101
-        ],
+        "CustomStat": 0.6125318020000001,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -1160,21 +797,10 @@
         "Desc": "A longbow made of ebony wood with stiffer limbs than ordinary bows. It is also a far more powerful weapon.",
         "Type": 5,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Bow_Hardwood",
-            "UI_EquipIcon_Bow_Hardwood_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Bow_Hardwood",
+        "Stat": 401.2935898,
         "Custom": "ATK",
-        "CustomStat": 0.35190040120482446,
-        "MonIcons": [
-            "keq",
-            "keq"
-        ],
-        "MonIDs": [
-            0,
-            0
-        ],
+        "CustomStat": 0.35190040000000006,
         "AscMatID": 0,
         "MatIDs": [
             0,
@@ -1193,21 +819,10 @@
         "Desc": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
         "Type": 5,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Bow_Msg",
-            "UI_EquipIcon_Bow_Msg_Awaken"
-        ],
-        "Stat": 448.2215715484619,
+        "Icons": "UI_EquipIcon_Bow_Msg",
+        "Stat": 448.2215814,
         "Custom": "CD",
-        "CustomStat": 0.3123920169770718,
-        "MonIcons": [
-            "fecm",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30301,
-            50701
-        ],
+        "CustomStat": 0.31239200000000006,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -1226,21 +841,10 @@
         "Desc": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.",
         "Type": 5,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Bow_Sling",
-            "UI_EquipIcon_Bow_Sling_Awaken"
-        ],
-        "Stat": 354.37938537597654,
+        "Icons": "UI_EquipIcon_Bow_Sling",
+        "Stat": 354.37940000000003,
         "Custom": "CR",
-        "CustomStat": 0.3123920169770718,
-        "MonIcons": [
-            "fpa",
-            "hil"
-        ],
-        "MonIDs": [
-            30201,
-            10101
-        ],
+        "CustomStat": 0.31239200000000006,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -1259,21 +863,10 @@
         "Desc": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
         "Type": 5,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Bow_Curve",
-            "UI_EquipIcon_Bow_Curve_Awaken"
-        ],
-        "Stat": 354.37938537597654,
+        "Icons": "UI_EquipIcon_Bow_Curve",
+        "Stat": 354.37940000000003,
         "Custom": "HP",
-        "CustomStat": 0.46919899468123916,
-        "MonIcons": [
-            "rgi",
-            "esc"
-        ],
-        "MonIDs": [
-            40101,
-            10306
-        ],
+        "CustomStat": 0.46919900200000003,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -1292,21 +885,10 @@
         "Desc": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
         "Type": 5,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Bow_Arjuna",
-            "UI_EquipIcon_Bow_Arjuna_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Bow_Arjuna",
+        "Stat": 401.2935898,
         "Custom": "CD",
-        "CustomStat": 0.4685879912376404,
-        "MonIcons": [
-            "pam",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20101,
-            111
-        ],
+        "CustomStat": 0.468588,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -1325,21 +907,10 @@
         "Desc": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.",
         "Type": 5,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Bow_Crowfeather",
-            "UI_EquipIcon_Bow_Crowfeather_Awaken"
-        ],
-        "Stat": 448.2215715484619,
+        "Icons": "UI_EquipIcon_Bow_Crowfeather",
+        "Stat": 448.2215814,
         "Custom": "EM",
-        "CustomStat": 93.71759824752809,
-        "MonIcons": [
-            "mita",
-            "ehil"
-        ],
-        "MonIDs": [
-            10201,
-            10110
-        ],
+        "CustomStat": 93.7176,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -1358,21 +929,10 @@
         "Desc": "A trophy made from gemstones from the Collective of Plenty and crystals from the Flower-Feather Clan. It is said to have once belonged to a legendary wrestler.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_VaresaTransformer",
-            "UI_EquipIcon_Catalyst_VaresaTransformer_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Catalyst_VaresaTransformer",
+        "Stat": 674.3345459999999,
         "Custom": "CD",
-        "CustomStat": 0.44102400383353235,
-        "MonIcons": [
-            "keq",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            0,
-            62001
-        ],
+        "CustomStat": 0.441024,
         "AscMatID": 114068,
         "MatIDs": [
             112121,
@@ -1383,7 +943,7 @@
         "Extra": [],
         "Story": 194519,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "14518",
@@ -1391,21 +951,10 @@
         "Desc": "A bell lantern forged from purple jade. They say it brings sweet dreams when placed beside one's pillow.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_SakuraFan",
-            "UI_EquipIcon_Catalyst_SakuraFan_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Catalyst_SakuraFan",
+        "Stat": 541.829758,
         "Custom": "EM",
-        "CustomStat": 264.6143929901123,
-        "MonIcons": [
-            "UI_MonsterIcon_Lava_Solid",
-            "hspc"
-        ],
-        "MonIDs": [
-            62702,
-            601
-        ],
+        "CustomStat": 264.61440000000005,
         "AscMatID": 114032,
         "MatIDs": [
             112112,
@@ -1424,21 +973,10 @@
         "Desc": "A statue carved in the shape of an eagle, a sacred relic of the Masters of the Night-Wind that has been passed down from generation to generation.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Figurines",
-            "UI_EquipIcon_Catalyst_Figurines_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Catalyst_Figurines",
+        "Stat": 541.829758,
         "Custom": "EM",
-        "CustomStat": 264.6143929901123,
-        "MonIcons": [
-            "UI_MonsterIcon_Wayob_Mosasaurus",
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
-        ],
-        "MonIDs": [
-            62602,
-            55105
-        ],
+        "CustomStat": 264.61440000000005,
         "AscMatID": 114068,
         "MatIDs": [
             112109,
@@ -1457,21 +995,10 @@
         "Desc": "A commemorative item originally reserved for the champion of the \"First All-Tribe Surfing Championship.\" Since said tournament is currently in the preparatory stage, the prize is in temporary storage at the Leisurely Puffer, with the shop owner as its custodian.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_MechaPufferfish",
-            "UI_EquipIcon_Catalyst_MechaPufferfish_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Catalyst_MechaPufferfish",
+        "Stat": 541.829758,
         "Custom": "CD",
-        "CustomStat": 0.8820480076670647,
-        "MonIcons": [
-            "UI_MonsterIcon_Wayob_Mosasaurus",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            62602,
-            62001
-        ],
+        "CustomStat": 0.882048,
         "AscMatID": 114064,
         "MatIDs": [
             112109,
@@ -1490,21 +1017,10 @@
         "Desc": "A fan carved from pure jade, around which swirls an ancient aura of adeptal energy.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_MountainGale",
-            "UI_EquipIcon_Catalyst_MountainGale_Awaken"
-        ],
-        "Stat": 740.5801415100098,
+        "Icons": "UI_EquipIcon_Catalyst_MountainGale",
+        "Stat": 740.5801544000001,
         "Custom": "ATK",
-        "CustomStat": 0.1653839928805828,
-        "MonIcons": [
-            "UI_MonsterIcon_Striped",
-            "esc"
-        ],
-        "MonIDs": [
-            61902,
-            10306
-        ],
+        "CustomStat": 0.165384,
         "AscMatID": 114020,
         "MatIDs": [
             112097,
@@ -1523,21 +1039,10 @@
         "Desc": "A manual that was once passed down from generation to generation within an underwater priory. Today, none know of its existence.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Iudex",
-            "UI_EquipIcon_Catalyst_Iudex_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Catalyst_Iudex",
+        "Stat": 541.829758,
         "Custom": "CD",
-        "CustomStat": 0.8820480076670647,
-        "MonIcons": [
-            "UI_MonsterIcon_Ovacua_Chaos_01",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            21103,
-            40662
-        ],
+        "CustomStat": 0.882048,
         "AscMatID": 114056,
         "MatIDs": [
             112091,
@@ -1556,21 +1061,10 @@
         "Desc": "A floating device that can monitor certain phenomena. It was picked up and modified to serve other purposes following its abandonment.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Wheatley",
-            "UI_EquipIcon_Catalyst_Wheatley_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Catalyst_Wheatley",
+        "Stat": 674.3345459999999,
         "Custom": "CR",
-        "CustomStat": 0.22051200191676618,
-        "MonIcons": [
-            "UI_MonsterIcon_Fatuus_Escadron_Wind",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            30602,
-            61601
-        ],
+        "CustomStat": 0.220512,
         "AscMatID": 114060,
         "MatIDs": [
             112094,
@@ -1589,21 +1083,10 @@
         "Desc": "A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Alaya",
-            "UI_EquipIcon_Catalyst_Alaya_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Catalyst_Alaya",
+        "Stat": 674.3345459999999,
         "Custom": "CD",
-        "CustomStat": 0.44102400383353235,
-        "MonIcons": [
-            "wds",
-            "fdf"
-        ],
-        "MonIDs": [
-            61201,
-            60902
-        ],
+        "CustomStat": 0.441024,
         "AscMatID": 114048,
         "MatIDs": [
             112064,
@@ -1622,21 +1105,10 @@
         "Desc": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Ayus",
-            "UI_EquipIcon_Catalyst_Ayus_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Catalyst_Ayus",
+        "Stat": 541.829758,
         "Custom": "EM",
-        "CustomStat": 264.6143929901123,
-        "MonIcons": [
-            "pc",
-            "fdf"
-        ],
-        "MonIDs": [
-            40401,
-            60902
-        ],
+        "CustomStat": 264.61440000000005,
         "AscMatID": 114044,
         "MatIDs": [
             112073,
@@ -1655,21 +1127,10 @@
         "Desc": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Narukami",
-            "UI_EquipIcon_Catalyst_Narukami_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Catalyst_Narukami",
+        "Stat": 608.0745972,
         "Custom": "CD",
-        "CustomStat": 0.6615359715223312,
-        "MonIcons": [
-            "trh",
-            "hspc"
-        ],
-        "MonIDs": [
-            20502,
-            601
-        ],
+        "CustomStat": 0.661536,
         "AscMatID": 114036,
         "MatIDs": [
             112058,
@@ -1688,21 +1149,10 @@
         "Desc": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Kaleido",
-            "UI_EquipIcon_Catalyst_Kaleido_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Catalyst_Kaleido",
+        "Stat": 608.0745972,
         "Custom": "HP",
-        "CustomStat": 0.4961520128697157,
-        "MonIcons": [
-            "fmm",
-            "hspc"
-        ],
-        "MonIDs": [
-            30501,
-            601
-        ],
+        "CustomStat": 0.49615200000000004,
         "AscMatID": 114028,
         "MatIDs": [
             112052,
@@ -1721,21 +1171,10 @@
         "Desc": "A ritual vessel carved from jade that reflects the luster of the skies and the clear waters.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Morax",
-            "UI_EquipIcon_Catalyst_Morax_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Catalyst_Morax",
+        "Stat": 608.0745972,
         "Custom": "HP",
-        "CustomStat": 0.4961520128697157,
-        "MonIcons": [
-            "hhilr",
-            "fdf"
-        ],
-        "MonIDs": [
-            10402,
-            60902
-        ],
+        "CustomStat": 0.49615200000000004,
         "AscMatID": 114016,
         "MatIDs": [
             112079,
@@ -1754,21 +1193,10 @@
         "Desc": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Kunwu",
-            "UI_EquipIcon_Catalyst_Kunwu_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Catalyst_Kunwu",
+        "Stat": 608.0745972,
         "Custom": "ATK",
-        "CustomStat": 0.4961520128697157,
-        "MonIcons": [
-            "gv",
-            "hil"
-        ],
-        "MonIDs": [
-            60401,
-            10101
-        ],
+        "CustomStat": 0.49615200000000004,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -1787,21 +1215,10 @@
         "Desc": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Fourwinds",
-            "UI_EquipIcon_Catalyst_Fourwinds_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Catalyst_Fourwinds",
+        "Stat": 608.0745972,
         "Custom": "CR",
-        "CustomStat": 0.3307679857611656,
-        "MonIcons": [
-            "rgi",
-            "lhslm"
-        ],
-        "MonIDs": [
-            40101,
-            111
-        ],
+        "CustomStat": 0.330768,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -1820,21 +1237,10 @@
         "Desc": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.",
         "Type": 3,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Dvalin",
-            "UI_EquipIcon_Catalyst_Dvalin_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Catalyst_Dvalin",
+        "Stat": 674.3345459999999,
         "Custom": "ATK",
-        "CustomStat": 0.3307679857611656,
-        "MonIcons": [
-            "pam",
-            "ehil"
-        ],
-        "MonIDs": [
-            20101,
-            10110
-        ],
+        "CustomStat": 0.330768,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -1853,21 +1259,10 @@
         "Desc": "This jade vessel was created by a hero of yesteryear. Legend has it that it once shot the giant dragon that dwelt in the volcano down from the skies.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Isikhulu",
-            "UI_EquipIcon_Catalyst_Isikhulu_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Isikhulu",
+        "Stat": 509.605949,
         "Custom": "HP",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "UI_MonsterIcon_Wayob_Mosasaurus",
-            "hil"
-        ],
-        "MonIDs": [
-            62602,
-            10101
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114068,
         "MatIDs": [
             112109,
@@ -1886,21 +1281,10 @@
         "Desc": "A boomerang made from the fangs of a giant sea serpent. It was a rare weapon indeed that the giant Tupac would call \"trusty.\"",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Umpakati",
-            "UI_EquipIcon_Catalyst_Umpakati_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Catalyst_Umpakati",
+        "Stat": 454.36315250000007,
         "Custom": "ER",
-        "CustomStat": 0.6125317907929421,
-        "MonIcons": [
-            "UI_MonsterIcon_Wayob_Mosasaurus",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            62602,
-            62001
-        ],
+        "CustomStat": 0.6125318020000001,
         "AscMatID": 114064,
         "MatIDs": [
             112109,
@@ -1919,21 +1303,10 @@
         "Desc": "A ritual vessel passed down amongst the Meztli. They say that this was once a treasure much-valued, yet never used, by the hero \"Giant\" Tupac.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_ConchSprayer",
-            "UI_EquipIcon_Catalyst_ConchSprayer_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_ConchSprayer",
+        "Stat": 509.605949,
         "Custom": "HP",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "UI_MonsterIcon_ToothTrap",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            40901,
-            62001
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114072,
         "MatIDs": [
             112115,
@@ -1952,21 +1325,10 @@
         "Desc": "An anthology of exquisite poetry. It contains quite a few poems beloved by Mondstadters, concerning the skies, dandelions, and other such topics.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_DandelionPoem",
-            "UI_EquipIcon_Catalyst_DandelionPoem_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Catalyst_DandelionPoem",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "gv",
-            "thcr1"
-        ],
-        "MonIDs": [
-            60401,
-            50701
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114008,
         "MatIDs": [
             112043,
@@ -1985,21 +1347,10 @@
         "Desc": "A strangely-shaped anthology of scripts. All the scripts written by Coppelius are recorded within.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Vorpal",
-            "UI_EquipIcon_Catalyst_Vorpal_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Catalyst_Vorpal",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_Ovacua_Chaos_01",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            21103,
-            61601
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114056,
         "MatIDs": [
             112091,
@@ -2018,21 +1369,10 @@
         "Desc": "An ancient jade pendant that gleams like clear water. It seems to have been used in ancient ceremonies.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Yue",
-            "UI_EquipIcon_Catalyst_Yue_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Catalyst_Yue",
+        "Stat": 454.36315250000007,
         "Custom": "CR",
-        "CustomStat": 0.3675199917852879,
-        "MonIcons": [
-            "fecm",
-            "esc"
-        ],
-        "MonIDs": [
-            30301,
-            10306
-        ],
+        "CustomStat": 0.36752,
         "AscMatID": 114016,
         "MatIDs": [
             112028,
@@ -2051,21 +1391,10 @@
         "Desc": "A fruit you obtained from an Aranara tale. It holds the potential to conquer any crisis.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Arakalari",
-            "UI_EquipIcon_Catalyst_Arakalari_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Arakalari",
+        "Stat": 509.605949,
         "Custom": "ER",
-        "CustomStat": 0.45940000684559346,
-        "MonIcons": [
-            "shsb",
-            "fdf"
-        ],
-        "MonIDs": [
-            20701,
-            60902
-        ],
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114044,
         "MatIDs": [
             112019,
@@ -2084,21 +1413,10 @@
         "Desc": "This was originally a device used by researchers to observe and perform calculations on celestial phenomena. It serves as a conduit and catalyst.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Pleroma",
-            "UI_EquipIcon_Catalyst_Pleroma_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Pleroma",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "wds",
-            "fdf"
-        ],
-        "MonIDs": [
-            61201,
-            60902
-        ],
         "AscMatID": 114044,
         "MatIDs": [
             112064,
@@ -2117,21 +1435,10 @@
         "Desc": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Jyanome",
-            "UI_EquipIcon_Catalyst_Jyanome_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Catalyst_Jyanome",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "trh",
-            "hspc"
-        ],
-        "MonIDs": [
-            20502,
-            601
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114028,
         "MatIDs": [
             112058,
@@ -2150,21 +1457,10 @@
         "Desc": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Bakufu",
-            "UI_EquipIcon_Catalyst_Bakufu_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Catalyst_Bakufu",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "fmm",
-            "esc"
-        ],
-        "MonIDs": [
-            30501,
-            10306
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114028,
         "MatIDs": [
             112052,
@@ -2183,21 +1479,10 @@
         "Desc": "A children's book filled with childish short stories at which one cannot help but laugh.<br>Even those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Ludiharpastum",
-            "UI_EquipIcon_Catalyst_Ludiharpastum_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Catalyst_Ludiharpastum",
+        "Stat": 454.36315250000007,
         "Custom": "ATK",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "pam",
-            "hil"
-        ],
-        "MonIDs": [
-            20101,
-            10101
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -2216,21 +1501,10 @@
         "Desc": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Everfrost",
-            "UI_EquipIcon_Catalyst_Everfrost_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Everfrost",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "rgi",
-            "cwp"
-        ],
-        "MonIDs": [
-            40101,
-            60101
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -2249,21 +1523,10 @@
         "Desc": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Outlaw",
-            "UI_EquipIcon_Catalyst_Outlaw_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Catalyst_Outlaw",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "pam",
-            "thcr1"
-        ],
-        "MonIDs": [
-            20101,
-            50701
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -2282,21 +1545,10 @@
         "Desc": "A dim black glaze pearl that is said to have the power to read the purity of one's heart.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Truelens",
-            "UI_EquipIcon_Catalyst_Truelens_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Catalyst_Truelens",
+        "Stat": 454.36315250000007,
         "Custom": "ATK",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "fecm",
-            "hil"
-        ],
-        "MonIDs": [
-            30301,
-            10101
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -2315,21 +1567,10 @@
         "Desc": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Blackrock",
-            "UI_EquipIcon_Catalyst_Blackrock_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Blackrock",
+        "Stat": 509.605949,
         "Custom": "CD",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "fpa",
-            "esc"
-        ],
-        "MonIDs": [
-            30201,
-            10306
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -2348,21 +1589,10 @@
         "Desc": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Exotic",
-            "UI_EquipIcon_Catalyst_Exotic_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Catalyst_Exotic",
+        "Stat": 564.7837244,
         "Custom": "EM",
         "CustomStat": 110.256,
-        "MonIcons": [
-            "gv",
-            "lhslm"
-        ],
-        "MonIDs": [
-            60401,
-            111
-        ],
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -2381,21 +1611,10 @@
         "Desc": "A dully gilded catalyst secretly guarded in the Blackcliff Forge. It seems to glow with the very light from the sky.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Proto",
-            "UI_EquipIcon_Catalyst_Proto_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Proto",
+        "Stat": 509.605949,
         "Custom": "HP",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "fecm",
-            "ehil"
-        ],
-        "MonIDs": [
-            30301,
-            10110
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -2414,21 +1633,10 @@
         "Desc": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Resurrection",
-            "UI_EquipIcon_Catalyst_Resurrection_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Resurrection",
+        "Stat": 509.605949,
         "Custom": "CR",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "fpa",
-            "cwp"
-        ],
-        "MonIDs": [
-            30201,
-            60101
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -2447,21 +1655,10 @@
         "Desc": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Theocrat",
-            "UI_EquipIcon_Catalyst_Theocrat_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Catalyst_Theocrat",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "mita",
-            "fsc2"
-        ],
-        "MonIDs": [
-            10201,
-            30101
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -2480,21 +1677,10 @@
         "Desc": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Fossil",
-            "UI_EquipIcon_Catalyst_Fossil_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Catalyst_Fossil",
+        "Stat": 454.36315250000007,
         "Custom": "EM",
         "CustomStat": 220.512,
-        "MonIcons": [
-            "rgi",
-            "thcr1"
-        ],
-        "MonIDs": [
-            40101,
-            50701
-        ],
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -2513,21 +1699,10 @@
         "Desc": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Troupe",
-            "UI_EquipIcon_Catalyst_Troupe_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Troupe",
+        "Stat": 509.605949,
         "Custom": "CD",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "pam",
-            "hil"
-        ],
-        "MonIDs": [
-            20101,
-            10101
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -2546,21 +1721,10 @@
         "Desc": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter.",
         "Type": 3,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Zephyrus",
-            "UI_EquipIcon_Catalyst_Zephyrus_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Catalyst_Zephyrus",
+        "Stat": 509.605949,
         "Custom": "ER",
-        "CustomStat": 0.45940000684559346,
-        "MonIcons": [
-            "mita",
-            "esc"
-        ],
-        "MonIDs": [
-            10201,
-            10306
-        ],
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -2579,21 +1743,10 @@
         "Desc": "A catalyst carved out of amber that gains a warm halo under the sun.",
         "Type": 3,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Amber",
-            "UI_EquipIcon_Catalyst_Amber_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Catalyst_Amber",
+        "Stat": 401.2935898,
         "Custom": "EM",
-        "CustomStat": 140.57640175247192,
-        "MonIcons": [
-            "keq",
-            "keq"
-        ],
-        "MonIDs": [
-            0,
-            0
-        ],
+        "CustomStat": 140.5764,
         "AscMatID": 0,
         "MatIDs": [
             0,
@@ -2612,21 +1765,10 @@
         "Desc": "A jade pendant formed by piecing together two jade stones.",
         "Type": 3,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Phoney",
-            "UI_EquipIcon_Catalyst_Phoney_Awaken"
-        ],
-        "Stat": 448.2215715484619,
+        "Icons": "UI_EquipIcon_Catalyst_Phoney",
+        "Stat": 448.2215814,
         "Custom": "CR",
-        "CustomStat": 0.1561960084885359,
-        "MonIcons": [
-            "fecm",
-            "fsc2"
-        ],
-        "MonIDs": [
-            30301,
-            30101
-        ],
+        "CustomStat": 0.15619600000000003,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -2645,21 +1787,10 @@
         "Desc": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"",
         "Type": 3,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Jade",
-            "UI_EquipIcon_Catalyst_Jade_Awaken"
-        ],
-        "Stat": 448.2215715484619,
+        "Icons": "UI_EquipIcon_Catalyst_Jade",
+        "Stat": 448.2215814,
         "Custom": "EM",
-        "CustomStat": 93.71759824752809,
-        "MonIcons": [
-            "fpa",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30201,
-            50701
-        ],
+        "CustomStat": 93.7176,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -2678,21 +1809,10 @@
         "Desc": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy.",
         "Type": 3,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Lightnov",
-            "UI_EquipIcon_Catalyst_Lightnov_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Catalyst_Lightnov",
+        "Stat": 401.2935898,
         "Custom": "ER",
-        "CustomStat": 0.39049000410735607,
-        "MonIcons": [
-            "rgi",
-            "hil"
-        ],
-        "MonIDs": [
-            40101,
-            10101
-        ],
+        "CustomStat": 0.39049000000000006,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -2711,21 +1831,10 @@
         "Desc": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
         "Type": 3,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Pulpfic",
-            "UI_EquipIcon_Catalyst_Pulpfic_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Catalyst_Pulpfic",
+        "Stat": 401.2935898,
         "Custom": "HP",
-        "CustomStat": 0.35190040120482446,
-        "MonIcons": [
-            "pam",
-            "esc"
-        ],
-        "MonIDs": [
-            20101,
-            10306
-        ],
+        "CustomStat": 0.35190040000000006,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -2744,21 +1853,10 @@
         "Desc": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments.",
         "Type": 3,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Catalyst_Intro",
-            "UI_EquipIcon_Catalyst_Intro_Awaken"
-        ],
-        "Stat": 354.37938537597654,
+        "Icons": "UI_EquipIcon_Catalyst_Intro",
+        "Stat": 354.37940000000003,
         "Custom": "EM",
-        "CustomStat": 187.43519649505618,
-        "MonIcons": [
-            "mita",
-            "lhslm"
-        ],
-        "MonIDs": [
-            10201,
-            111
-        ],
+        "CustomStat": 187.4352,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -2772,26 +1870,37 @@
         "V": "L"
     },
     {
+        "_id": "13514",
+        "Name": "Symphonist of Scents",
+        "Desc": "An elegantly built polearm, said to have been a conductor's baton wielded by a great musician to bridge tune and taste.",
+        "Type": 4,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Pole_Trident",
+        "Stat": 608.0745972,
+        "Custom": "CD",
+        "CustomStat": 0.661536,
+        "AscMatID": 114056,
+        "MatIDs": [
+            112088,
+            112082
+        ],
+        "EquipAffixName": "Seasoned Symphony",
+        "EquipAffixID": 113514,
+        "Extra": [],
+        "Story": 193514,
+        "StoryCount": 1,
+        "V": "5"
+    },
+    {
         "_id": "13513",
         "Name": "Lumidouce Elegy",
         "Desc": "A magnificent polearm adorned with azure crystal. It is said to have been a certain legendary Champion Duelist's treasure — and yet, not once was it ever used.",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_Muguet",
-            "UI_EquipIcon_Pole_Muguet_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Pole_Muguet",
+        "Stat": 608.0745972,
         "Custom": "CR",
-        "CustomStat": 0.3307679857611656,
-        "MonIcons": [
-            "moxiang2",
-            "cwp"
-        ],
-        "MonIDs": [
-            61402,
-            60101
-        ],
+        "CustomStat": 0.330768,
         "AscMatID": 114060,
         "MatIDs": [
             112100,
@@ -2810,21 +1919,10 @@
         "Desc": "A keen-edged weapon, luster dazzling as the crimson moon. It is said that an ancient dynasty once regarded it as a ritual object that could bridge two worlds, but none still remember the beliefs and ceremonies of that bygone age.",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_BloodMoon",
-            "UI_EquipIcon_Pole_BloodMoon_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Pole_BloodMoon",
+        "Stat": 674.3345459999999,
         "Custom": "CR",
-        "CustomStat": 0.22051200191676618,
-        "MonIcons": [
-            "moxiang2",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            61402,
-            40662
-        ],
+        "CustomStat": 0.220512,
         "AscMatID": 114060,
         "MatIDs": [
             112100,
@@ -2843,21 +1941,10 @@
         "Desc": "One of a paired set of scepters fashioned from obsidian. Legend has it that these staves grant the right to lead the people of the desert, but no retainer now lives who can verify the proper appearance of these regalia.",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_Deshret",
-            "UI_EquipIcon_Pole_Deshret_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Pole_Deshret",
+        "Stat": 541.829758,
         "Custom": "CR",
-        "CustomStat": 0.44102400383353235,
-        "MonIcons": [
-            "rd",
-            "fdf"
-        ],
-        "MonIDs": [
-            40301,
-            60902
-        ],
+        "CustomStat": 0.441024,
         "AscMatID": 114044,
         "MatIDs": [
             112070,
@@ -2876,21 +1963,10 @@
         "Desc": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down...",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_Narukami",
-            "UI_EquipIcon_Pole_Narukami_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Pole_Narukami",
+        "Stat": 608.0745972,
         "Custom": "ER",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "rdt2",
-            "njtb"
-        ],
-        "MonIDs": [
-            40202,
-            50801
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114036,
         "MatIDs": [
             112049,
@@ -2909,21 +1985,10 @@
         "Desc": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past.",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_Santika",
-            "UI_EquipIcon_Pole_Santika_Awaken"
-        ],
-        "Stat": 740.5801415100098,
+        "Icons": "UI_EquipIcon_Pole_Santika",
+        "Stat": 740.5801544000001,
         "Custom": "ATK",
-        "CustomStat": 0.1653839928805828,
-        "MonIcons": [
-            "fecm",
-            "cwp"
-        ],
-        "MonIDs": [
-            30301,
-            60101
-        ],
+        "CustomStat": 0.165384,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -2942,21 +2007,10 @@
         "Desc": "A jade polearm made by the archons, capable of slaying ancient beasts.",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_Morax",
-            "UI_EquipIcon_Pole_Morax_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Pole_Morax",
+        "Stat": 674.3345459999999,
         "Custom": "CR",
-        "CustomStat": 0.22051200191676618,
-        "MonIcons": [
-            "fpa",
-            "fsc2"
-        ],
-        "MonIDs": [
-            30201,
-            30101
-        ],
+        "CustomStat": 0.220512,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -2975,21 +2029,10 @@
         "Desc": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air.",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_Kunwu",
-            "UI_EquipIcon_Pole_Kunwu_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Pole_Kunwu",
+        "Stat": 608.0745972,
         "Custom": "ATK",
-        "CustomStat": 0.4961520128697157,
-        "MonIcons": [
-            "gv",
-            "thcr1"
-        ],
-        "MonIDs": [
-            60401,
-            50701
-        ],
+        "CustomStat": 0.49615200000000004,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -3008,21 +2051,10 @@
         "Desc": "A polearm that symbolizes Dvalin's firm resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind.",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_Dvalin",
-            "UI_EquipIcon_Pole_Dvalin_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Pole_Dvalin",
+        "Stat": 674.3345459999999,
         "Custom": "ER",
-        "CustomStat": 0.3675199917852879,
-        "MonIcons": [
-            "rgi",
-            "esc"
-        ],
-        "MonIDs": [
-            40101,
-            10306
-        ],
+        "CustomStat": 0.36752,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -3041,21 +2073,10 @@
         "Desc": "A \"firewood staff\" that was once used in ancient and long-lost rituals.",
         "Type": 4,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Pole_Homa",
-            "UI_EquipIcon_Pole_Homa_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Pole_Homa",
+        "Stat": 608.0745972,
         "Custom": "CD",
-        "CustomStat": 0.6615359715223312,
-        "MonIcons": [
-            "pam",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20101,
-            111
-        ],
+        "CustomStat": 0.661536,
         "AscMatID": 114024,
         "MatIDs": [
             112022,
@@ -3074,21 +2095,10 @@
         "Desc": "Once upon a time, there was a youkai that roamed Inazuma in the form of a lantern's flame. This must once have been one of its vessels.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Aoandon",
-            "UI_EquipIcon_Pole_Aoandon_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Aoandon",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "keq",
-            "njtb"
-        ],
-        "MonIDs": [
-            0,
-            50801
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114036,
         "MatIDs": [
             112118,
@@ -3107,21 +2117,10 @@
         "Desc": "A keen polearm forged from jade. It gives off rainbow-hued light when exposed to sunlight.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Isikhulu",
-            "UI_EquipIcon_Pole_Isikhulu_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Pole_Isikhulu",
+        "Stat": 509.605949,
         "Custom": "DEF",
-        "CustomStat": 0.5172843940854073,
-        "MonIcons": [
-            "UI_MonsterIcon_ToothTrap",
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
-        ],
-        "MonIDs": [
-            40901,
-            55105
-        ],
+        "CustomStat": 0.5172844000000001,
         "AscMatID": 114068,
         "MatIDs": [
             112115,
@@ -3140,21 +2139,10 @@
         "Desc": "This polearm was once jointly forged by the craftsmen in the mines as a sacrifice to the spirits of the mountains.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Umpakati",
-            "UI_EquipIcon_Pole_Umpakati_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Umpakati",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "UI_MonsterIcon_Lava_Solid",
-            "cwp"
-        ],
-        "MonIDs": [
-            62702,
-            60101
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114068,
         "MatIDs": [
             112112,
@@ -3173,21 +2161,10 @@
         "Desc": "A long-handled drill that you can rarely find nowadays. It was often used in delving and in carving stones.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Mechanic",
-            "UI_EquipIcon_Pole_Mechanic_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Mechanic",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_Fatuus_Escadron_Wind",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            30602,
-            40662
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114052,
         "MatIDs": [
             112094,
@@ -3206,21 +2183,10 @@
         "Desc": "A caduceus symbolizing the glory of alchemy, made from special alloys to match its special status. It is exceedingly rigid and heavy, and would probably hurt pretty bad if used as a cudgel.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Caduceus",
-            "UI_EquipIcon_Pole_Caduceus_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Pole_Caduceus",
+        "Stat": 509.605949,
         "Custom": "HP",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "UI_MonsterIcon_Striped",
-            "hspc"
-        ],
-        "MonIDs": [
-            61902,
-            601
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114040,
         "MatIDs": [
             112097,
@@ -3239,21 +2205,10 @@
         "Desc": "A sharp spear. Only its tip remains freshly bloodstained.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Vorpal",
-            "UI_EquipIcon_Pole_Vorpal_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Vorpal",
+        "Stat": 564.7837244,
         "Custom": "HP",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_Ovacua_Chaos_01",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            21103,
-            40662
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114060,
         "MatIDs": [
             112091,
@@ -3272,21 +2227,10 @@
         "Desc": "A polearm used by those seeking to catch fish in the tundra. It lets none escape.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Shanty",
-            "UI_EquipIcon_Pole_Shanty_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Pole_Shanty",
+        "Stat": 509.605949,
         "Custom": "CR",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "hhilr",
-            "cwp"
-        ],
-        "MonIDs": [
-            10402,
-            60101
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114060,
         "MatIDs": [
             112079,
@@ -3305,21 +2249,10 @@
         "Desc": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing...",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Windvane",
-            "UI_EquipIcon_Pole_Windvane_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Pole_Windvane",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "shsb",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20701,
-            111
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114008,
         "MatIDs": [
             112019,
@@ -3338,21 +2271,10 @@
         "Desc": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Arakalari",
-            "UI_EquipIcon_Pole_Arakalari_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Arakalari",
+        "Stat": 564.7837244,
         "Custom": "EM",
         "CustomStat": 110.256,
-        "MonIcons": [
-            "rd",
-            "fsc2"
-        ],
-        "MonIDs": [
-            40301,
-            30101
-        ],
         "AscMatID": 114044,
         "MatIDs": [
             112070,
@@ -3371,21 +2293,10 @@
         "Desc": "A naginata forged from luminescent material deep in the ocean depths. It was once the possession of the tengu race.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Maria",
-            "UI_EquipIcon_Pole_Maria_Awaken"
-        ],
-        "Stat": 620.0329480934142,
+        "Icons": "UI_EquipIcon_Pole_Maria",
+        "Stat": 620.0329535,
         "Custom": "ATK",
-        "CustomStat": 0.13781999691948296,
-        "MonIcons": [
-            "trh",
-            "njtb"
-        ],
-        "MonIDs": [
-            20502,
-            50801
-        ],
+        "CustomStat": 0.13782,
         "AscMatID": 114036,
         "MatIDs": [
             112058,
@@ -3404,21 +2315,10 @@
         "Desc": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Mori",
-            "UI_EquipIcon_Pole_Mori_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Pole_Mori",
+        "Stat": 509.605949,
         "Custom": "ER",
-        "CustomStat": 0.45940000684559346,
-        "MonIcons": [
-            "rdt2",
-            "hspc"
-        ],
-        "MonIDs": [
-            40202,
-            601
-        ],
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114036,
         "MatIDs": [
             112049,
@@ -3437,21 +2337,10 @@
         "Desc": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Bakufu",
-            "UI_EquipIcon_Pole_Bakufu_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Bakufu",
+        "Stat": 564.7837244,
         "Custom": "EM",
         "CustomStat": 110.256,
-        "MonIcons": [
-            "rdt2",
-            "thcr1"
-        ],
-        "MonIDs": [
-            40202,
-            50701
-        ],
         "AscMatID": 114036,
         "MatIDs": [
             112049,
@@ -3470,21 +2359,10 @@
         "Desc": "A spear created from the fang of a dragon. It is oddly warm to the touch.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Everfrost",
-            "UI_EquipIcon_Pole_Everfrost_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Pole_Everfrost",
+        "Stat": 454.36315250000007,
         "Custom": "Phys",
-        "CustomStat": 0.6897109965980054,
-        "MonIcons": [
-            "fecm",
-            "fsc2"
-        ],
-        "MonIDs": [
-            30301,
-            30101
-        ],
+        "CustomStat": 0.689711002,
         "AscMatID": 114008,
         "MatIDs": [
             112028,
@@ -3503,21 +2381,10 @@
         "Desc": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Theocrat",
-            "UI_EquipIcon_Pole_Theocrat_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Theocrat",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "fecm",
-            "fsc2"
-        ],
-        "MonIDs": [
-            30301,
-            30101
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -3536,21 +2403,10 @@
         "Desc": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Zephyrus",
-            "UI_EquipIcon_Pole_Zephyrus_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Zephyrus",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "rgi",
-            "lhslm"
-        ],
-        "MonIDs": [
-            40101,
-            111
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -3569,21 +2425,10 @@
         "Desc": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Lapis",
-            "UI_EquipIcon_Pole_Lapis_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Lapis",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "gv",
-            "ehil"
-        ],
-        "MonIDs": [
-            60401,
-            10110
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -3602,21 +2447,10 @@
         "Desc": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Gladiator",
-            "UI_EquipIcon_Pole_Gladiator_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Pole_Gladiator",
+        "Stat": 454.36315250000007,
         "Custom": "CR",
-        "CustomStat": 0.3675199917852879,
-        "MonIcons": [
-            "pam",
-            "cwp"
-        ],
-        "MonIDs": [
-            20101,
-            60101
-        ],
+        "CustomStat": 0.36752,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -3635,21 +2469,10 @@
         "Desc": "A weapon made of blackcliff and aerosiderite. There is a dark crimson glow on its cold black sheen.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Blackrock",
-            "UI_EquipIcon_Pole_Blackrock_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Pole_Blackrock",
+        "Stat": 509.605949,
         "Custom": "CD",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "fecm",
-            "fsc2"
-        ],
-        "MonIDs": [
-            30301,
-            30101
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -3668,21 +2491,10 @@
         "Desc": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Exotic",
-            "UI_EquipIcon_Pole_Exotic_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Pole_Exotic",
+        "Stat": 564.7837244,
         "Custom": "Phys",
-        "CustomStat": 0.34485779157280927,
-        "MonIcons": [
-            "fpa",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30201,
-            50701
-        ],
+        "CustomStat": 0.344857798,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -3701,21 +2513,10 @@
         "Desc": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Proto",
-            "UI_EquipIcon_Pole_Proto_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Pole_Proto",
+        "Stat": 509.605949,
         "Custom": "ER",
-        "CustomStat": 0.45940000684559346,
-        "MonIcons": [
-            "gv",
-            "hil"
-        ],
-        "MonIDs": [
-            60401,
-            10101
-        ],
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -3734,21 +2535,10 @@
         "Desc": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
         "Type": 4,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Pole_Stardust",
-            "UI_EquipIcon_Pole_Stardust_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Pole_Stardust",
+        "Stat": 454.36315250000007,
         "Custom": "EM",
         "CustomStat": 220.512,
-        "MonIcons": [
-            "fecm",
-            "esc"
-        ],
-        "MonIDs": [
-            30301,
-            10306
-        ],
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -3767,21 +2557,10 @@
         "Desc": "Reserve",
         "Type": 4,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Pole_Flagpole",
-            "UI_EquipIcon_Pole_Flagpole_Awaken"
-        ],
-        "Stat": 189.42539414596558,
+        "Icons": "UI_EquipIcon_Pole_Flagpole",
+        "Stat": 189.42540000000002,
         "Custom": "",
         "CustomStat": 0.0,
-        "MonIcons": [
-            "keq",
-            "keq"
-        ],
-        "MonIDs": [
-            0,
-            0
-        ],
         "AscMatID": 0,
         "MatIDs": [
             0,
@@ -3800,21 +2579,10 @@
         "Desc": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel.",
         "Type": 4,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Pole_Noire",
-            "UI_EquipIcon_Pole_Noire_Awaken"
-        ],
-        "Stat": 354.37938537597654,
+        "Icons": "UI_EquipIcon_Pole_Noire",
+        "Stat": 354.37940000000003,
         "Custom": "HP",
-        "CustomStat": 0.46919899468123916,
-        "MonIcons": [
-            "gv",
-            "ehil"
-        ],
-        "MonIDs": [
-            60401,
-            10110
-        ],
+        "CustomStat": 0.46919900200000003,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -3833,21 +2601,10 @@
         "Desc": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers.",
         "Type": 4,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Pole_Halberd",
-            "UI_EquipIcon_Pole_Halberd_Awaken"
-        ],
-        "Stat": 448.2215715484619,
+        "Icons": "UI_EquipIcon_Pole_Halberd",
+        "Stat": 448.2215814,
         "Custom": "ATK",
-        "CustomStat": 0.23460179061442615,
-        "MonIcons": [
-            "fecm",
-            "cwp"
-        ],
-        "MonIDs": [
-            30301,
-            60101
-        ],
+        "CustomStat": 0.23460179800000003,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -3866,21 +2623,10 @@
         "Desc": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
         "Type": 4,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Pole_Ruby",
-            "UI_EquipIcon_Pole_Ruby_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Pole_Ruby",
+        "Stat": 401.2935898,
         "Custom": "CR",
-        "CustomStat": 0.2342939956188202,
-        "MonIcons": [
-            "fpa",
-            "fsc2"
-        ],
-        "MonIDs": [
-            30201,
-            30101
-        ],
+        "CustomStat": 0.234294,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -3899,21 +2645,10 @@
         "Desc": "A greatsword that dazzles like the rising sun. It has witnessed the extinguishing and rekindling of innumerable suns.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_RadianceSword",
-            "UI_EquipIcon_Claymore_RadianceSword_Awaken"
-        ],
-        "Stat": 740.5801415100098,
+        "Icons": "UI_EquipIcon_Claymore_RadianceSword",
+        "Stat": 740.5801544000001,
         "Custom": "CR",
-        "CustomStat": 0.11025600095838309,
-        "MonIcons": [
-            "UI_MonsterIcon_ToothTrap",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            40901,
-            62001
-        ],
+        "CustomStat": 0.110256,
         "AscMatID": 114064,
         "MatIDs": [
             112115,
@@ -3932,21 +2667,10 @@
         "Desc": "A giant sword forged from pure turquoise. Due to its greater weight than most ordinary weapons, it was named for Kongomato the Mountain King.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_EmeraldSword",
-            "UI_EquipIcon_Claymore_EmeraldSword_Awaken"
-        ],
-        "Stat": 740.5801415100098,
+        "Icons": "UI_EquipIcon_Claymore_EmeraldSword",
+        "Stat": 740.5801544000001,
         "Custom": "CR",
-        "CustomStat": 0.11025600095838309,
-        "MonIcons": [
-            "UI_MonsterIcon_Lava_Solid",
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
-        ],
-        "MonIDs": [
-            62702,
-            55105
-        ],
+        "CustomStat": 0.110256,
         "AscMatID": 114068,
         "MatIDs": [
             112112,
@@ -3965,21 +2689,10 @@
         "Desc": "A weapon once used by a young maiden who forsook her family name, stained with the blood of enemies and loved ones both.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_GoldenVerdict",
-            "UI_EquipIcon_Claymore_GoldenVerdict_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Claymore_GoldenVerdict",
+        "Stat": 674.3345459999999,
         "Custom": "CR",
-        "CustomStat": 0.22051200191676618,
-        "MonIcons": [
-            "UI_MonsterIcon_Ovacua_Chaos_01",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            21103,
-            40662
-        ],
+        "CustomStat": 0.220512,
         "AscMatID": 114052,
         "MatIDs": [
             112091,
@@ -3998,21 +2711,10 @@
         "Desc": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Deshret",
-            "UI_EquipIcon_Claymore_Deshret_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Claymore_Deshret",
+        "Stat": 608.0745972,
         "Custom": "CR",
-        "CustomStat": 0.3307679857611656,
-        "MonIcons": [
-            "csfb",
-            "emdc"
-        ],
-        "MonIDs": [
-            61002,
-            53101
-        ],
+        "CustomStat": 0.330768,
         "AscMatID": 114048,
         "MatIDs": [
             112076,
@@ -4031,21 +2733,10 @@
         "Desc": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Itadorimaru",
-            "UI_EquipIcon_Claymore_Itadorimaru_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Claymore_Itadorimaru",
+        "Stat": 541.829758,
         "Custom": "CD",
-        "CustomStat": 0.8820480076670647,
-        "MonIcons": [
-            "trh",
-            "njtb"
-        ],
-        "MonIDs": [
-            20502,
-            50801
-        ],
+        "CustomStat": 0.882048,
         "AscMatID": 114032,
         "MatIDs": [
             112058,
@@ -4064,21 +2755,10 @@
         "Desc": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Kunwu",
-            "UI_EquipIcon_Claymore_Kunwu_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Claymore_Kunwu",
+        "Stat": 608.0745972,
         "Custom": "ATK",
-        "CustomStat": 0.4961520128697157,
-        "MonIcons": [
-            "fecm",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30301,
-            50701
-        ],
+        "CustomStat": 0.49615200000000004,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -4097,21 +2777,10 @@
         "Desc": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Widsith",
-            "UI_EquipIcon_Claymore_Widsith_Awaken"
-        ],
-        "Stat": 740.5801415100098,
+        "Icons": "UI_EquipIcon_Claymore_Widsith",
+        "Stat": 740.5801544000001,
         "Custom": "Phys",
-        "CustomStat": 0.20673000821471216,
-        "MonIcons": [
-            "mita",
-            "hil"
-        ],
-        "MonIDs": [
-            10201,
-            10101
-        ],
+        "CustomStat": 0.20673,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -4130,21 +2799,10 @@
         "Desc": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Wolfmound",
-            "UI_EquipIcon_Claymore_Wolfmound_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Claymore_Wolfmound",
+        "Stat": 608.0745972,
         "Custom": "ATK",
-        "CustomStat": 0.4961520128697157,
-        "MonIcons": [
-            "rgi",
-            "esc"
-        ],
-        "MonIDs": [
-            40101,
-            10306
-        ],
+        "CustomStat": 0.49615200000000004,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -4163,21 +2821,10 @@
         "Desc": "A claymore that symbolizes the pride of Dvalin soaring through the skies. When swung, it emits a deep hum as the full force of Dvalin's command of the sky and the wind is unleashed.",
         "Type": 2,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Dvalin",
-            "UI_EquipIcon_Claymore_Dvalin_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Claymore_Dvalin",
+        "Stat": 674.3345459999999,
         "Custom": "ER",
-        "CustomStat": 0.3675199917852879,
-        "MonIcons": [
-            "pam",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20101,
-            111
-        ],
+        "CustomStat": 0.36752,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -4196,21 +2843,10 @@
         "Desc": "A heavy blade that people claim was beloved by the hero known as the Firethief. They say that even the Lord of Cinder Keep's flames could not burn it away.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Isikhulu",
-            "UI_EquipIcon_Claymore_Isikhulu_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Isikhulu",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_Lava_Solid",
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
-        ],
-        "MonIDs": [
-            62702,
-            55105
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114064,
         "MatIDs": [
             112112,
@@ -4229,21 +2865,10 @@
         "Desc": "Bold Burkina from the Scions of the Canopy once made this weapon with the hero Tenoch's help — all for the sake of obtaining Flamegranates unmatched throughout Natlan.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Umpakati",
-            "UI_EquipIcon_Claymore_Umpakati_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Umpakati",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_ToothTrap",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            40901,
-            62001
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114072,
         "MatIDs": [
             112115,
@@ -4262,21 +2887,10 @@
         "Desc": "An old-school power saw that you can rarely find nowadays. It was once a cutting tool trusted by workers all around.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Mechanic",
-            "UI_EquipIcon_Claymore_Mechanic_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Claymore_Mechanic",
+        "Stat": 454.36315250000007,
         "Custom": "HP",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "UI_MonsterIcon_Ovacua_Chaos_01",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            21103,
-            40662
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114060,
         "MatIDs": [
             112091,
@@ -4295,21 +2909,10 @@
         "Desc": "A magical sword that can only be wielded by the ultimate overlord who rules the seas. As it has been made with special water-resistant materials, it will not get ruined by water damage even after being immersed. Why, one might even call it invincible!",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Champion",
-            "UI_EquipIcon_Claymore_Champion_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Champion",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "UI_MonsterIcon_Fatuus_Escadron_Wind",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            30602,
-            40662
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114060,
         "MatIDs": [
             112094,
@@ -4328,21 +2931,10 @@
         "Desc": "An exquisitely-crafted, standard-model sword forged for the high-ranking officers and flagship captains of Fontaine's old navy.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Vorpal",
-            "UI_EquipIcon_Claymore_Vorpal_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Vorpal",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "UI_MonsterIcon_Ovacua_Chaos_01",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            21103,
-            40662
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114060,
         "MatIDs": [
             112091,
@@ -4361,21 +2953,10 @@
         "Desc": "Most people will find this obsidian-inlaid club quite convincing indeed.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_BeastTamer",
-            "UI_EquipIcon_Claymore_BeastTamer_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_BeastTamer",
+        "Stat": 564.7837244,
         "Custom": "CR",
-        "CustomStat": 0.18375999589264394,
-        "MonIcons": [
-            "csfb",
-            "lhslm"
-        ],
-        "MonIDs": [
-            61002,
-            111
-        ],
+        "CustomStat": 0.18376,
         "AscMatID": 114044,
         "MatIDs": [
             112076,
@@ -4394,21 +2975,10 @@
         "Desc": "A graceful and elegant greatsword that is decorated with flowers and ribbons.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Fleurfair",
-            "UI_EquipIcon_Claymore_Fleurfair_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Fleurfair",
+        "Stat": 564.7837244,
         "Custom": "EM",
         "CustomStat": 110.256,
-        "MonIcons": [
-            "csfb",
-            "hspc"
-        ],
-        "MonIDs": [
-            61002,
-            601
-        ],
         "AscMatID": 114012,
         "MatIDs": [
             112076,
@@ -4427,21 +2997,10 @@
         "Desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Arakalari",
-            "UI_EquipIcon_Claymore_Arakalari_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Arakalari",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "rd",
-            "emdc"
-        ],
-        "MonIDs": [
-            40301,
-            53101
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114040,
         "MatIDs": [
             112070,
@@ -4460,21 +3019,10 @@
         "Desc": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Maria",
-            "UI_EquipIcon_Claymore_Maria_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Maria",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "trh",
-            "njtb"
-        ],
-        "MonIDs": [
-            20502,
-            50801
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114028,
         "MatIDs": [
             112058,
@@ -4493,21 +3041,10 @@
         "Desc": "An ancient greatsword that gleams like the waters themselves. A thousand years of sand erosion has not dulled its unnaturally sharp edge one bit.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Pleroma",
-            "UI_EquipIcon_Claymore_Pleroma_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Pleroma",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "rd",
-            "thcr1"
-        ],
-        "MonIDs": [
-            40301,
-            50701
-        ],
         "AscMatID": 114048,
         "MatIDs": [
             112070,
@@ -4526,21 +3063,10 @@
         "Desc": "A blade that was once made in Tatarasuna. Heavy and tough.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Bakufu",
-            "UI_EquipIcon_Claymore_Bakufu_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Bakufu",
+        "Stat": 509.605949,
         "Custom": "ER",
-        "CustomStat": 0.45940000684559346,
-        "MonIcons": [
-            "rdt2",
-            "njtb"
-        ],
-        "MonIDs": [
-            40202,
-            50801
-        ],
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114032,
         "MatIDs": [
             112049,
@@ -4559,21 +3085,10 @@
         "Desc": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_MillenniaTuna",
-            "UI_EquipIcon_Claymore_MillenniaTuna_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Claymore_MillenniaTuna",
+        "Stat": 454.36315250000007,
         "Custom": "ATK",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "gv",
-            "lhslm"
-        ],
-        "MonIDs": [
-            60401,
-            111
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -4592,21 +3107,10 @@
         "Desc": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Dragonfell",
-            "UI_EquipIcon_Claymore_Dragonfell_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Dragonfell",
+        "Stat": 564.7837244,
         "Custom": "Phys",
-        "CustomStat": 0.34485779157280927,
-        "MonIcons": [
-            "mita",
-            "lhslm"
-        ],
-        "MonIDs": [
-            10201,
-            111
-        ],
+        "CustomStat": 0.344857798,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -4625,21 +3129,10 @@
         "Desc": "A greatsword carved and chiseled from the very bedrock of Liyue.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Lapis",
-            "UI_EquipIcon_Claymore_Lapis_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Lapis",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "fpa",
-            "ehil"
-        ],
-        "MonIDs": [
-            30201,
-            10110
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -4658,21 +3151,10 @@
         "Desc": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Kione",
-            "UI_EquipIcon_Claymore_Kione_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Kione",
+        "Stat": 509.605949,
         "Custom": "CR",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "gv",
-            "cwp"
-        ],
-        "MonIDs": [
-            60401,
-            60101
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -4691,21 +3173,10 @@
         "Desc": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to pommel.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Blackrock",
-            "UI_EquipIcon_Claymore_Blackrock_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Blackrock",
+        "Stat": 509.605949,
         "Custom": "CD",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "fecm",
-            "fsc2"
-        ],
-        "MonIDs": [
-            30301,
-            30101
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -4724,21 +3195,10 @@
         "Desc": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Exotic",
-            "UI_EquipIcon_Claymore_Exotic_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Exotic",
+        "Stat": 509.605949,
         "Custom": "DEF",
-        "CustomStat": 0.5172843940854073,
-        "MonIcons": [
-            "fpa",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30201,
-            50701
-        ],
+        "CustomStat": 0.5172844000000001,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -4757,21 +3217,10 @@
         "Desc": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Proto",
-            "UI_EquipIcon_Claymore_Proto_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Proto",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "gv",
-            "hil"
-        ],
-        "MonIDs": [
-            60401,
-            10101
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -4790,21 +3239,10 @@
         "Desc": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Perdue",
-            "UI_EquipIcon_Claymore_Perdue_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Perdue",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "fecm",
-            "esc"
-        ],
-        "MonIDs": [
-            30301,
-            10306
-        ],
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -4823,21 +3261,10 @@
         "Desc": "An old greatsword that belonged to the erstwhile rulers of Mondstadt. It is made from the finest-quality materials and has stood the test of time. A weapon for use by the nobility only.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Theocrat",
-            "UI_EquipIcon_Claymore_Theocrat_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Theocrat",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "rgi",
-            "lhslm"
-        ],
-        "MonIDs": [
-            40101,
-            111
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -4856,21 +3283,10 @@
         "Desc": "A ceremonial greatsword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Fossil",
-            "UI_EquipIcon_Claymore_Fossil_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Claymore_Fossil",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "pam",
-            "ehil"
-        ],
-        "MonIDs": [
-            20101,
-            10110
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -4889,21 +3305,10 @@
         "Desc": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Troupe",
-            "UI_EquipIcon_Claymore_Troupe_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Claymore_Troupe",
+        "Stat": 509.605949,
         "Custom": "HP",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "mita",
-            "cwp"
-        ],
-        "MonIDs": [
-            10201,
-            60101
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -4922,21 +3327,10 @@
         "Desc": "A heavy ceremonial sword of the Knights of Favonius. It channels elemental power easily and is highly destructive.",
         "Type": 2,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Zephyrus",
-            "UI_EquipIcon_Claymore_Zephyrus_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Claymore_Zephyrus",
+        "Stat": 454.36315250000007,
         "Custom": "ER",
-        "CustomStat": 0.6125317907929421,
-        "MonIcons": [
-            "rgi",
-            "fsc2"
-        ],
-        "MonIDs": [
-            40101,
-            30101
-        ],
+        "CustomStat": 0.6125318020000001,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -4955,21 +3349,10 @@
         "Desc": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.",
         "Type": 2,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Mitsurugi",
-            "UI_EquipIcon_Claymore_Mitsurugi_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Claymore_Mitsurugi",
+        "Stat": 401.2935898,
         "Custom": "Phys",
-        "CustomStat": 0.43918640695512295,
-        "MonIcons": [
-            "gv",
-            "thcr1"
-        ],
-        "MonIDs": [
-            60401,
-            50701
-        ],
+        "CustomStat": 0.43918640000000003,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -4988,21 +3371,10 @@
         "Desc": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.",
         "Type": 2,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Reasoning",
-            "UI_EquipIcon_Claymore_Reasoning_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Claymore_Reasoning",
+        "Stat": 401.2935898,
         "Custom": "ATK",
-        "CustomStat": 0.35190040120482446,
-        "MonIcons": [
-            "fecm",
-            "hil"
-        ],
-        "MonIDs": [
-            30301,
-            10101
-        ],
+        "CustomStat": 0.35190040000000006,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -5021,21 +3393,10 @@
         "Desc": "A simple but heavy greatsword made of polished black quartz with a golden gilt. It has an air of elegance and dignity about it.",
         "Type": 2,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Quartz",
-            "UI_EquipIcon_Claymore_Quartz_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Claymore_Quartz",
+        "Stat": 401.2935898,
         "Custom": "EM",
-        "CustomStat": 140.57640175247192,
-        "MonIcons": [
-            "keq",
-            "keq"
-        ],
-        "MonIDs": [
-            0,
-            0
-        ],
+        "CustomStat": 140.5764,
         "AscMatID": 0,
         "MatIDs": [
             0,
@@ -5054,21 +3415,10 @@
         "Desc": "A claymore made from white iron. Lightweight without compromising on power. Effective even when wielded by one of average strength, it is extremely deadly in the hands of a physically stronger wielder.",
         "Type": 2,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Tin",
-            "UI_EquipIcon_Claymore_Tin_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Claymore_Tin",
+        "Stat": 401.2935898,
         "Custom": "DEF",
-        "CustomStat": 0.43918640695512295,
-        "MonIcons": [
-            "rgi",
-            "lhslm"
-        ],
-        "MonIDs": [
-            40101,
-            111
-        ],
+        "CustomStat": 0.43918640000000003,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -5087,21 +3437,10 @@
         "Desc": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however.",
         "Type": 2,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Siegfry",
-            "UI_EquipIcon_Claymore_Siegfry_Awaken"
-        ],
-        "Stat": 354.37938537597654,
+        "Icons": "UI_EquipIcon_Claymore_Siegfry",
+        "Stat": 354.37940000000003,
         "Custom": "EM",
-        "CustomStat": 187.43519649505618,
-        "MonIcons": [
-            "pam",
-            "ehil"
-        ],
-        "MonIDs": [
-            20101,
-            10110
-        ],
+        "CustomStat": 187.4352,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -5120,21 +3459,10 @@
         "Desc": "A replica of the famed sword of Arundolyn, the Lion of Light. Feel the power of a legendary hero as you hold this sword in your hand! Imagine yourself as the great warrior himself! Note: Daydreaming not recommended in live combat.",
         "Type": 2,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Claymore_Glaive",
-            "UI_EquipIcon_Claymore_Glaive_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Claymore_Glaive",
+        "Stat": 401.2935898,
         "Custom": "HP",
-        "CustomStat": 0.35190040120482446,
-        "MonIcons": [
-            "mita",
-            "cwp"
-        ],
-        "MonIDs": [
-            10201,
-            60101
-        ],
+        "CustomStat": 0.35190040000000006,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -5153,21 +3481,10 @@
         "Desc": "An obsidian blade of unparalleled sharpness, light as a song. It was modified by a certain artisan to come equipped with a record-playing detachable Phlogiston Device.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_XochitlsTube",
-            "UI_EquipIcon_Sword_XochitlsTube_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Sword_XochitlsTube",
+        "Stat": 541.829758,
         "Custom": "DEF",
-        "CustomStat": 0.8269200328588486,
-        "MonIcons": [
-            "UI_MonsterIcon_ToothTrap",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            40901,
-            62001
-        ],
+        "CustomStat": 0.82692,
         "AscMatID": 114072,
         "MatIDs": [
             112115,
@@ -5186,21 +3503,10 @@
         "Desc": "A rapier once wielded by a deceiver who had forsaken everything. In the past, it was primarily used as a tool when he had to disguise his identity.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Estoc",
-            "UI_EquipIcon_Sword_Estoc_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Sword_Estoc",
+        "Stat": 674.3345459999999,
         "Custom": "CD",
-        "CustomStat": 0.44102400383353235,
-        "MonIcons": [
-            "UI_MonsterIcon_Fatuus_Escadron_Wind",
-            "UI_MonsterIcon_MachinaIustitia_Excavator"
-        ],
-        "MonIDs": [
-            30602,
-            40662
-        ],
+        "CustomStat": 0.441024,
         "AscMatID": 114052,
         "MatIDs": [
             112094,
@@ -5219,21 +3525,10 @@
         "Desc": "This famous blade was once created by the hand of Urakusai, the renowned literatus. Legend has it that it has never cut any living creature in all these hundreds of years.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Needle",
-            "UI_EquipIcon_Sword_Needle_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Sword_Needle",
+        "Stat": 541.829758,
         "Custom": "CD",
-        "CustomStat": 0.8820480076670647,
-        "MonIcons": [
-            "rdt2",
-            "njtb"
-        ],
-        "MonIDs": [
-            40202,
-            50801
-        ],
+        "CustomStat": 0.882048,
         "AscMatID": 114028,
         "MatIDs": [
             112049,
@@ -5252,21 +3547,10 @@
         "Desc": "A scepter around which swirls pure water. In days long past, it once symbolized the highest authority over the seas.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Regalis",
-            "UI_EquipIcon_Sword_Regalis_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Sword_Regalis",
+        "Stat": 541.829758,
         "Custom": "CD",
-        "CustomStat": 0.8820480076670647,
-        "MonIcons": [
-            "UI_MonsterIcon_Necalevia_Normal",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            510,
-            61601
-        ],
+        "CustomStat": 0.882048,
         "AscMatID": 114056,
         "MatIDs": [
             112088,
@@ -5285,21 +3569,10 @@
         "Desc": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Ayus",
-            "UI_EquipIcon_Sword_Ayus_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Sword_Ayus",
+        "Stat": 541.829758,
         "Custom": "CD",
-        "CustomStat": 0.8820480076670647,
-        "MonIcons": [
-            "csfb",
-            "emdc"
-        ],
-        "MonIDs": [
-            61002,
-            53101
-        ],
+        "CustomStat": 0.882048,
         "AscMatID": 114040,
         "MatIDs": [
             112076,
@@ -5318,21 +3591,10 @@
         "Desc": "One of a paired set of scepters fashioned from obsidian. They say that this can be used as a key to open the gate to a paradise that lies at the end of the ocean of sand.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Deshret",
-            "UI_EquipIcon_Sword_Deshret_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Sword_Deshret",
+        "Stat": 541.829758,
         "Custom": "HP",
-        "CustomStat": 0.6615359715223312,
-        "MonIcons": [
-            "pc",
-            "emdc"
-        ],
-        "MonIDs": [
-            40401,
-            53101
-        ],
+        "CustomStat": 0.661536,
         "AscMatID": 114040,
         "MatIDs": [
             112073,
@@ -5351,21 +3613,10 @@
         "Desc": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Amenoma",
-            "UI_EquipIcon_Sword_Amenoma_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Sword_Amenoma",
+        "Stat": 608.0745972,
         "Custom": "CR",
-        "CustomStat": 0.3307679857611656,
-        "MonIcons": [
-            "shsb",
-            "njtb"
-        ],
-        "MonIDs": [
-            20701,
-            50801
-        ],
+        "CustomStat": 0.330768,
         "AscMatID": 114032,
         "MatIDs": [
             112019,
@@ -5384,21 +3635,10 @@
         "Desc": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Narukami",
-            "UI_EquipIcon_Sword_Narukami_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Sword_Narukami",
+        "Stat": 674.3345459999999,
         "Custom": "CD",
-        "CustomStat": 0.44102400383353235,
-        "MonIcons": [
-            "rdt2",
-            "njtb"
-        ],
-        "MonIDs": [
-            40202,
-            50801
-        ],
+        "CustomStat": 0.441024,
         "AscMatID": 114028,
         "MatIDs": [
             112049,
@@ -5417,21 +3657,10 @@
         "Desc": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Morax",
-            "UI_EquipIcon_Sword_Morax_Awaken"
-        ],
-        "Stat": 541.8297563171386,
+        "Icons": "UI_EquipIcon_Sword_Morax",
+        "Stat": 541.829758,
         "Custom": "CR",
-        "CustomStat": 0.44102400383353235,
-        "MonIcons": [
-            "fecm",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30301,
-            50701
-        ],
+        "CustomStat": 0.441024,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -5450,21 +3679,10 @@
         "Desc": "A symbol of a legendary pact, this sharp blade once cut off the peak of a mountain.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Kunwu",
-            "UI_EquipIcon_Sword_Kunwu_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Sword_Kunwu",
+        "Stat": 608.0745972,
         "Custom": "ATK",
-        "CustomStat": 0.4961520128697157,
-        "MonIcons": [
-            "fpa",
-            "hil"
-        ],
-        "MonIDs": [
-            30201,
-            10101
-        ],
+        "CustomStat": 0.49615200000000004,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -5483,21 +3701,10 @@
         "Desc": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Widsith",
-            "UI_EquipIcon_Sword_Widsith_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Sword_Widsith",
+        "Stat": 608.0745972,
         "Custom": "EM",
-        "CustomStat": 198.46080350494387,
-        "MonIcons": [
-            "rgi",
-            "esc"
-        ],
-        "MonIDs": [
-            40101,
-            10306
-        ],
+        "CustomStat": 198.46080000000003,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -5516,21 +3723,10 @@
         "Desc": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Dvalin",
-            "UI_EquipIcon_Sword_Dvalin_Awaken"
-        ],
-        "Stat": 608.074606689453,
+        "Icons": "UI_EquipIcon_Sword_Dvalin",
+        "Stat": 608.0745972,
         "Custom": "ER",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "pam",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20101,
-            111
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -5549,21 +3745,10 @@
         "Desc": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it.",
         "Type": 1,
         "Rank": 5,
-        "Icons": [
-            "UI_EquipIcon_Sword_Falcon",
-            "UI_EquipIcon_Sword_Falcon_Awaken"
-        ],
-        "Stat": 674.3345301132201,
+        "Icons": "UI_EquipIcon_Sword_Falcon",
+        "Stat": 674.3345459999999,
         "Custom": "Phys",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "mita",
-            "ehil"
-        ],
-        "MonIDs": [
-            10201,
-            10110
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -5582,21 +3767,10 @@
         "Desc": "A ceremonial blade forged by Sanhaj, the great high priest of the Masters of the Night-Wind. In tales of bygone days, Sanhaj could use this curved blade to perform rituals, blurring the boundary between the Night Kingdom and the present world.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_SacrificialNgombe",
-            "UI_EquipIcon_Sword_SacrificialNgombe_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Sword_SacrificialNgombe",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "keq",
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
-        ],
-        "MonIDs": [
-            0,
-            55105
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114068,
         "MatIDs": [
             112118,
@@ -5615,21 +3789,10 @@
         "Desc": "A peculiarly shaped jade longsword that has been passed down amongst the Masters of the Night-Wind as a \"priestly flute.\"",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Isikhulu",
-            "UI_EquipIcon_Sword_Isikhulu_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Sword_Isikhulu",
+        "Stat": 454.36315250000007,
         "Custom": "DEF",
-        "CustomStat": 0.6897109965980054,
-        "MonIcons": [
-            "moxiang2",
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small"
-        ],
-        "MonIDs": [
-            61402,
-            62001
-        ],
+        "CustomStat": 0.689711002,
         "AscMatID": 114064,
         "MatIDs": [
             112100,
@@ -5648,21 +3811,10 @@
         "Desc": "A longsword made of bone that has only grown harder after being hit and swung countless times. It is said that this was the hero Wanjiru's reliable weapon.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Umpakati",
-            "UI_EquipIcon_Sword_Umpakati_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Sword_Umpakati",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_Wayob_Mosasaurus",
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
-        ],
-        "MonIDs": [
-            62602,
-            55105
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114064,
         "MatIDs": [
             112109,
@@ -5681,21 +3833,10 @@
         "Desc": "A sacred blade indwelt with great enough reason and will to create and destroy a universe, or a dream.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Purewill",
-            "UI_EquipIcon_Sword_Purewill"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Purewill",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "keq",
-            "keq"
-        ],
-        "MonIDs": [
-            0,
-            0
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 0,
         "MatIDs": [
             0,
@@ -5714,21 +3855,10 @@
         "Desc": "A sword whose power faded when the story ended. It will now embark upon a new journey with the power that remains within it, which commemorates a certain great dream.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Purewill",
-            "UI_EquipIcon_Sword_Purewill"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Purewill",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "UI_MonsterIcon_Fatuus_Escadron_Wind",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            30602,
-            61601
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114052,
         "MatIDs": [
             112094,
@@ -5747,21 +3877,10 @@
         "Desc": "A convenient cutting tool that you can rarely find nowadays. You can replace the blades as they are dulled by usage.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Mechanic",
-            "UI_EquipIcon_Sword_Mechanic_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Mechanic",
+        "Stat": 509.605949,
         "Custom": "HP",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "UI_MonsterIcon_Fatuus_Escadron_Wind",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            30602,
-            61601
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114056,
         "MatIDs": [
             112094,
@@ -5780,21 +3899,10 @@
         "Desc": "A handy length of abandoned copper pipe that was once used as a weapon. It was famous — or infamous, depending — in some circles.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Machination",
-            "UI_EquipIcon_Sword_Machination_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Machination",
+        "Stat": 509.605949,
         "Custom": "ER",
-        "CustomStat": 0.45940000684559346,
-        "MonIcons": [
-            "UI_MonsterIcon_Necalevia_Normal",
-            "UI_MonsterIcon_HermitCrab_Mature"
-        ],
-        "MonIDs": [
-            510,
-            61601
-        ],
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114052,
         "MatIDs": [
             112088,
@@ -5813,21 +3921,10 @@
         "Desc": "This longsword is as silent as the mysterious ocean depths. It is even more ancient than its stylings might imply.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Vorpal",
-            "UI_EquipIcon_Sword_Vorpal_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Sword_Vorpal",
+        "Stat": 564.7837244,
         "Custom": "ATK",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "UI_MonsterIcon_Necalevia_Normal",
-            "njtb"
-        ],
-        "MonIDs": [
-            510,
-            50801
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114056,
         "MatIDs": [
             112088,
@@ -5846,21 +3943,10 @@
         "Desc": "Legend has it that this longsword was once used by a wandering knight in the distant past.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Boreas",
-            "UI_EquipIcon_Sword_Boreas_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Boreas",
+        "Stat": 509.605949,
         "Custom": "CR",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "rgi",
-            "hil"
-        ],
-        "MonIDs": [
-            40101,
-            10101
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114004,
         "MatIDs": [
             112025,
@@ -5879,21 +3965,10 @@
         "Desc": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Kasabouzu",
-            "UI_EquipIcon_Sword_Kasabouzu_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Kasabouzu",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "pc",
-            "njtb"
-        ],
-        "MonIDs": [
-            40401,
-            50801
-        ],
         "AscMatID": 114032,
         "MatIDs": [
             112073,
@@ -5912,21 +3987,10 @@
         "Desc": "An ominous purple aura clings to this bizarre blade. Its wicked aura and hostility have both decreased greatly.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_YoutouEnchanted",
-            "UI_EquipIcon_Sword_YoutouEnchanted"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_YoutouEnchanted",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.20673000821471216,
-        "MonIcons": [
-            "keq",
-            "keq"
-        ],
-        "MonIDs": [
-            0,
-            0
-        ],
+        "CustomStat": 0.20673,
         "AscMatID": 0,
         "MatIDs": [
             0,
@@ -5945,21 +4009,10 @@
         "Desc": "The battered cursed blade shows its true form. Yet any innate endowment it might have had has been ground to dust during its journey.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_YoutouShattered",
-            "UI_EquipIcon_Sword_YoutouShattered"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_YoutouShattered",
+        "Stat": 509.605949,
         "Custom": "ATK",
         "CustomStat": 0.0,
-        "MonIcons": [
-            "keq",
-            "keq"
-        ],
-        "MonIDs": [
-            0,
-            0
-        ],
         "AscMatID": 0,
         "MatIDs": [
             0,
@@ -5978,21 +4031,10 @@
         "Desc": "An ominous purple aura clings to this bizarre blade. It has the power to control its wielder's heart and mind.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_YoutouEnchanted",
-            "UI_EquipIcon_Sword_YoutouEnchanted"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_YoutouEnchanted",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "keq",
-            "keq"
-        ],
-        "MonIDs": [
-            0,
-            0
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 0,
         "MatIDs": [
             0,
@@ -6011,21 +4053,10 @@
         "Desc": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Pleroma",
-            "UI_EquipIcon_Sword_Pleroma_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Pleroma",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "pc",
-            "emdc"
-        ],
-        "MonIDs": [
-            40401,
-            53101
-        ],
         "AscMatID": 114040,
         "MatIDs": [
             112073,
@@ -6044,21 +4075,10 @@
         "Desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Arakalari",
-            "UI_EquipIcon_Sword_Arakalari_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Sword_Arakalari",
+        "Stat": 564.7837244,
         "Custom": "ER",
-        "CustomStat": 0.3062681886702776,
-        "MonIcons": [
-            "rd",
-            "emdc"
-        ],
-        "MonIDs": [
-            40301,
-            53101
-        ],
+        "CustomStat": 0.30626819800000005,
         "AscMatID": 114040,
         "MatIDs": [
             112070,
@@ -6077,21 +4097,10 @@
         "Desc": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Youtou",
-            "UI_EquipIcon_Sword_Youtou_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Youtou",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "shsb",
-            "hspc"
-        ],
-        "MonIDs": [
-            20701,
-            601
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114036,
         "MatIDs": [
             112019,
@@ -6110,21 +4119,10 @@
         "Desc": "A sword made from materials that do not belong in this world. The power within might even be able to withstand the corruption of a venom that could corrode a mighty dragon.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Opus",
-            "UI_EquipIcon_Sword_Opus_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Sword_Opus",
+        "Stat": 454.36315250000007,
         "Custom": "DEF",
-        "CustomStat": 0.6897109965980054,
-        "MonIcons": [
-            "rgi",
-            "hil"
-        ],
-        "MonIDs": [
-            40101,
-            10101
-        ],
+        "CustomStat": 0.689711002,
         "AscMatID": 114004,
         "MatIDs": [
             112025,
@@ -6143,21 +4141,10 @@
         "Desc": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Bakufu",
-            "UI_EquipIcon_Sword_Bakufu_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Sword_Bakufu",
+        "Stat": 454.36315250000007,
         "Custom": "ATK",
-        "CustomStat": 0.5512799876779318,
-        "MonIcons": [
-            "rdt2",
-            "njtb"
-        ],
-        "MonIDs": [
-            40202,
-            50801
-        ],
+        "CustomStat": 0.55128,
         "AscMatID": 114028,
         "MatIDs": [
             112049,
@@ -6176,21 +4163,10 @@
         "Desc": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Magnum",
-            "UI_EquipIcon_Sword_Magnum_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Magnum",
+        "Stat": 509.605949,
         "Custom": "ER",
-        "CustomStat": 0.45940000684559346,
-        "MonIcons": [
-            "mita",
-            "fsc2"
-        ],
-        "MonIDs": [
-            10201,
-            30101
-        ],
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114012,
         "MatIDs": [
             112016,
@@ -6209,21 +4185,10 @@
         "Desc": "A sword of unique craftsmanship. It does not appear to belong to this world.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Psalmus",
-            "UI_EquipIcon_Sword_Psalmus_Awaken"
-        ],
-        "Stat": 440.1935861740112,
+        "Icons": "UI_EquipIcon_Sword_Psalmus",
+        "Stat": 440.19358980000004,
         "Custom": "ATK",
-        "CustomStat": 0.35190040120482446,
-        "MonIcons": [
-            "pam",
-            "thcr1"
-        ],
-        "MonIDs": [
-            20101,
-            50701
-        ],
+        "CustomStat": 0.35190040000000006,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -6242,21 +4207,10 @@
         "Desc": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Outlaw",
-            "UI_EquipIcon_Sword_Outlaw_Awaken"
-        ],
-        "Stat": 620.0329480934142,
+        "Icons": "UI_EquipIcon_Sword_Outlaw",
+        "Stat": 620.0329535,
         "Custom": "EM",
-        "CustomStat": 55.12794304466248,
-        "MonIcons": [
-            "mita",
-            "esc"
-        ],
-        "MonIDs": [
-            10201,
-            10306
-        ],
+        "CustomStat": 55.12794487200001,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -6275,21 +4229,10 @@
         "Desc": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Bloodstained",
-            "UI_EquipIcon_Sword_Bloodstained_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Bloodstained",
+        "Stat": 509.605949,
         "Custom": "CR",
-        "CustomStat": 0.2756399938389659,
-        "MonIcons": [
-            "pam",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20101,
-            111
-        ],
+        "CustomStat": 0.27564,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -6308,21 +4251,10 @@
         "Desc": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Blackrock",
-            "UI_EquipIcon_Sword_Blackrock_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Sword_Blackrock",
+        "Stat": 564.7837244,
         "Custom": "CD",
-        "CustomStat": 0.3675199917852879,
-        "MonIcons": [
-            "fpa",
-            "ehil"
-        ],
-        "MonIDs": [
-            30201,
-            10110
-        ],
+        "CustomStat": 0.36752,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -6341,21 +4273,10 @@
         "Desc": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Exotic",
-            "UI_EquipIcon_Sword_Exotic_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Exotic",
+        "Stat": 509.605949,
         "Custom": "EM",
         "CustomStat": 165.38400000000001,
-        "MonIcons": [
-            "gv",
-            "cwp"
-        ],
-        "MonIDs": [
-            60401,
-            60101
-        ],
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -6374,21 +4295,10 @@
         "Desc": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Proto",
-            "UI_EquipIcon_Sword_Proto_Awaken"
-        ],
-        "Stat": 564.7837438659668,
+        "Icons": "UI_EquipIcon_Sword_Proto",
+        "Stat": 564.7837244,
         "Custom": "Phys",
-        "CustomStat": 0.34485779157280927,
-        "MonIcons": [
-            "fecm",
-            "fsc2"
-        ],
-        "MonIDs": [
-            30301,
-            30101
-        ],
+        "CustomStat": 0.344857798,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -6407,21 +4317,10 @@
         "Desc": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Rockkiller",
-            "UI_EquipIcon_Sword_Rockkiller_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Rockkiller",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "fpa",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30201,
-            50701
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -6440,21 +4339,10 @@
         "Desc": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Theocrat",
-            "UI_EquipIcon_Sword_Theocrat_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Theocrat",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "mita",
-            "hil"
-        ],
-        "MonIDs": [
-            10201,
-            10101
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -6473,21 +4361,10 @@
         "Desc": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Fossil",
-            "UI_EquipIcon_Sword_Fossil_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Sword_Fossil",
+        "Stat": 454.36315250000007,
         "Custom": "ER",
-        "CustomStat": 0.6125317907929421,
-        "MonIcons": [
-            "rgi",
-            "esc"
-        ],
-        "MonIDs": [
-            40101,
-            10306
-        ],
+        "CustomStat": 0.6125318020000001,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -6506,21 +4383,10 @@
         "Desc": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Troupe",
-            "UI_EquipIcon_Sword_Troupe_Awaken"
-        ],
-        "Stat": 509.60596325683593,
+        "Icons": "UI_EquipIcon_Sword_Troupe",
+        "Stat": 509.605949,
         "Custom": "ATK",
-        "CustomStat": 0.4134600164294243,
-        "MonIcons": [
-            "pam",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20101,
-            111
-        ],
+        "CustomStat": 0.41346,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -6539,21 +4405,10 @@
         "Desc": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
         "Type": 1,
         "Rank": 4,
-        "Icons": [
-            "UI_EquipIcon_Sword_Zephyrus",
-            "UI_EquipIcon_Sword_Zephyrus_Awaken"
-        ],
-        "Stat": 454.3631624221802,
+        "Icons": "UI_EquipIcon_Sword_Zephyrus",
+        "Stat": 454.36315250000007,
         "Custom": "ER",
-        "CustomStat": 0.6125317907929421,
-        "MonIcons": [
-            "mita",
-            "ehil"
-        ],
-        "MonIDs": [
-            10201,
-            10110
-        ],
+        "CustomStat": 0.6125318020000001,
         "AscMatID": 114004,
         "MatIDs": [
             112016,
@@ -6572,21 +4427,10 @@
         "Desc": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...",
         "Type": 1,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Sword_Mitsurugi",
-            "UI_EquipIcon_Sword_Mitsurugi_Awaken"
-        ],
-        "Stat": 354.37938537597654,
+        "Icons": "UI_EquipIcon_Sword_Mitsurugi",
+        "Stat": 354.37940000000003,
         "Custom": "ER",
-        "CustomStat": 0.5206518099606038,
-        "MonIcons": [
-            "gv",
-            "fsc2"
-        ],
-        "MonIDs": [
-            60401,
-            30101
-        ],
+        "CustomStat": 0.520651802,
         "AscMatID": 114024,
         "MatIDs": [
             112043,
@@ -6605,21 +4449,10 @@
         "Desc": "A sharp filleting knife. The blade is long, thin, and incredibly sharp.",
         "Type": 1,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Sword_Sashimi",
-            "UI_EquipIcon_Sword_Sashimi_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Sword_Sashimi",
+        "Stat": 401.2935898,
         "Custom": "ATK",
-        "CustomStat": 0.35190040120482446,
-        "MonIcons": [
-            "fecm",
-            "thcr1"
-        ],
-        "MonIDs": [
-            30301,
-            50701
-        ],
+        "CustomStat": 0.35190040000000006,
         "AscMatID": 114020,
         "MatIDs": [
             112028,
@@ -6638,21 +4471,10 @@
         "Desc": "A perfectly ordinary iron sword, just slightly darker than most.",
         "Type": 1,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Sword_Darker",
-            "UI_EquipIcon_Sword_Darker_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Sword_Darker",
+        "Stat": 401.2935898,
         "Custom": "EM",
-        "CustomStat": 140.57640175247192,
-        "MonIcons": [
-            "fpa",
-            "hil"
-        ],
-        "MonIDs": [
-            30201,
-            10101
-        ],
+        "CustomStat": 140.5764,
         "AscMatID": 114016,
         "MatIDs": [
             112031,
@@ -6671,21 +4493,10 @@
         "Desc": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
         "Type": 1,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Sword_Traveler",
-            "UI_EquipIcon_Sword_Traveler_Awaken"
-        ],
-        "Stat": 448.2215715484619,
+        "Icons": "UI_EquipIcon_Sword_Traveler",
+        "Stat": 448.2215814,
         "Custom": "DEF",
-        "CustomStat": 0.2927893863022328,
-        "MonIcons": [
-            "rgi",
-            "esc"
-        ],
-        "MonIDs": [
-            40101,
-            10306
-        ],
+        "CustomStat": 0.29278940200000003,
         "AscMatID": 114012,
         "MatIDs": [
             112025,
@@ -6704,21 +4515,10 @@
         "Desc": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
         "Type": 1,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Sword_Dawn",
-            "UI_EquipIcon_Sword_Dawn_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Sword_Dawn",
+        "Stat": 401.2935898,
         "Custom": "CD",
-        "CustomStat": 0.4685879912376404,
-        "MonIcons": [
-            "pam",
-            "lhslm"
-        ],
-        "MonIDs": [
-            20101,
-            111
-        ],
+        "CustomStat": 0.468588,
         "AscMatID": 114008,
         "MatIDs": [
             112022,
@@ -6737,21 +4537,10 @@
         "Desc": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.",
         "Type": 1,
         "Rank": 3,
-        "Icons": [
-            "UI_EquipIcon_Sword_Steel",
-            "UI_EquipIcon_Sword_Steel_Awaken"
-        ],
-        "Stat": 401.2935770187378,
+        "Icons": "UI_EquipIcon_Sword_Steel",
+        "Stat": 401.2935898,
         "Custom": "ATK",
-        "CustomStat": 0.35190040120482446,
-        "MonIcons": [
-            "mita",
-            "ehil"
-        ],
-        "MonIDs": [
-            10201,
-            10110
-        ],
+        "CustomStat": 0.35190040000000006,
         "AscMatID": 114004,
         "MatIDs": [
             112016,

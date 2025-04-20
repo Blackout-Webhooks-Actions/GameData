@@ -511,25 +511,6 @@
         "Class": "Hypostases",
         "Category": "Elemental Life"
     },
-    "4051": {
-        "_id": 4051,
-        "Name": "Sonata of the Snowy Path",
-        "Title": [
-            "Daleth"
-        ],
-        "Desc": "Code name: Daleth. A high-purity Cryo entity.\nResearch suggests that there are subtle differences between elemental hypostases and other elemental life forms in terms of their physical composition. Perhaps these differences can account for their high level of homeostasis and their almost mechanical movements.",
-        "Color": "Ice",
-        "HP": 4.5,
-        "HPCurve": 2,
-        "ATK": 6.0,
-        "ATKCurve": 4,
-        "Immune": [
-            "Ice"
-        ],
-        "Icon": [
-            "ch"
-        ]
-    },
     "406": {
         "_id": 406,
         "Name": "Pyro Hypostasis",
@@ -13348,136 +13329,6 @@
         "Class": "5.3",
         "Category": "Events"
     },
-    "55501": {
-        "_id": 55501,
-        "Name": "",
-        "Title": [
-            "???",
-            ""
-        ],
-        "Desc": "",
-        "HP": 0.6,
-        "HPCurve": 2,
-        "ATK": 1.6,
-        "ATKCurve": 4,
-        "RESBase": {
-            "Phys": -0.2
-        },
-        "Icon": [
-            "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
-        ]
-    },
-    "55502": {
-        "_id": 55502,
-        "Name": "",
-        "Title": [
-            "???",
-            ""
-        ],
-        "Desc": "",
-        "HP": 0.8,
-        "HPCurve": 2,
-        "ATK": 1.8,
-        "ATKCurve": 4,
-        "RESBase": {
-            "Phys": -0.2
-        },
-        "Icon": [
-            "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
-        ]
-    },
-    "55503": {
-        "_id": 55503,
-        "Name": "",
-        "Title": [
-            "???",
-            ""
-        ],
-        "Desc": "",
-        "HP": 0.8,
-        "HPCurve": 2,
-        "ATK": 1.8,
-        "ATKCurve": 4,
-        "RESBase": {
-            "Phys": -0.2
-        },
-        "Icon": [
-            "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
-        ]
-    },
-    "55504": {
-        "_id": 55504,
-        "Name": "",
-        "Title": [
-            "???",
-            ""
-        ],
-        "Desc": "",
-        "HP": 1.0,
-        "HPCurve": 2,
-        "ATK": 2.0,
-        "ATKCurve": 4,
-        "RESBase": {
-            "Phys": -0.2
-        },
-        "Icon": [
-            "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
-        ]
-    },
-    "55505": {
-        "_id": 55505,
-        "Name": "",
-        "Title": [
-            "???",
-            ""
-        ],
-        "Desc": "",
-        "HP": 1.0,
-        "HPCurve": 2,
-        "ATK": 2.0,
-        "ATKCurve": 4,
-        "RESBase": {
-            "Phys": -0.2
-        },
-        "Icon": [
-            "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
-        ]
-    },
-    "55506": {
-        "_id": 55506,
-        "Name": "",
-        "Title": [
-            "???",
-            ""
-        ],
-        "Desc": "",
-        "HP": 0.8,
-        "HPCurve": 2,
-        "ATK": 2.0,
-        "ATKCurve": 4,
-        "RESBase": {
-            "Phys": -0.2
-        },
-        "Icon": [
-            "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
-        ]
-    },
-    "55507": {
-        "_id": 55507,
-        "Name": "Tepetlisaurus Tribe Chief",
-        "Title": [],
-        "Desc": "",
-        "HP": 2.8,
-        "HPCurve": 2,
-        "ATK": 4.0,
-        "ATKCurve": 4,
-        "RESBase": {
-            "Phys": -0.2
-        },
-        "Icon": [
-            "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
-        ]
-    },
     "28030901": {
         "_id": 28030901,
         "Name": "Flowcurrent Bird",
@@ -14939,6 +14790,9 @@
         "Icon": [
             "UI_MonsterIcon_Human_Male_Sword_Bisonsaurus"
         ],
+        "Csx": [
+            "ECOtherHumanFactions"
+        ],
         "Class": "Ferocious Warriors",
         "Category": "Other Human Factions"
     },
@@ -14967,6 +14821,9 @@
         "Icon": [
             "UI_MonsterIcon_Human_MuscleMan_Claymore_Bisonsaurus"
         ],
+        "Csx": [
+            "ECOtherHumanFactions"
+        ],
         "Class": "Ferocious Warriors",
         "Category": "Other Human Factions"
     },
@@ -14994,6 +14851,9 @@
         },
         "Icon": [
             "UI_MonsterIcon_Human_Fat_Sword_Bisonsaurus"
+        ],
+        "Csx": [
+            "ECOtherHumanFactions"
         ],
         "Class": "Ferocious Warriors",
         "Category": "Other Human Factions"
@@ -15024,6 +14884,9 @@
         "Icon": [
             "UI_MonsterIcon_Tribalwarrior_Powermaul_Bisonsaurus"
         ],
+        "Csx": [
+            "ECOtherHumanFactions"
+        ],
         "Class": "Tatankasaurus Warriors",
         "Category": "Other Human Factions"
     },
@@ -15053,6 +14916,9 @@
         "Icon": [
             "UI_MonsterIcon_Tribalwarrior_Slingshot_Bisonsaurus"
         ],
+        "Csx": [
+            "ECOtherHumanFactions"
+        ],
         "Class": "Tatankasaurus Warriors",
         "Category": "Other Human Factions"
     },
@@ -15079,7 +14945,10 @@
             "Rock": 0.10000000149011612
         },
         "Icon": [
-            "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead"
+            "UI_MonsterIcon_Tribalwarrior_Slingshot_Bisonsaurus"
+        ],
+        "Csx": [
+            "ECLegends"
         ],
         "Class": "5.5 Night's Trials",
         "Category": "Local Legends"
@@ -15110,6 +14979,9 @@
         "Icon": [
             "UI_MonsterIcon_Natsaurus_Bisonsaurus_Small"
         ],
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Sauri Whelps",
         "Category": "Mystical Beasts"
     },
@@ -15139,6 +15011,9 @@
         "Icon": [
             "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal"
         ],
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Sauri",
         "Category": "Mystical Beasts"
     },
@@ -15167,6 +15042,9 @@
         "Icon": [
             "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal"
         ],
+        "Csx": [
+            "ECLegends"
+        ],
         "Class": "5.5 Overworld Local Legends",
         "Category": "Local Legends"
     },
@@ -15194,6 +15072,9 @@
         },
         "Icon": [
             "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal"
+        ],
+        "Csx": [
+            "ECLegends"
         ],
         "Class": "Spiral Abyss Versions",
         "Category": "Local Legends"
@@ -15226,6 +15107,9 @@
         "Icon": [
             "UI_MonsterIcon_Wayob_Bisonsaurus"
         ],
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Wayob Manifstations",
         "Category": "Mystical Beasts"
     },
@@ -15253,6 +15137,9 @@
         },
         "Icon": [
             "UI_MonsterIcon_Wayob_Bisonsaurus"
+        ],
+        "Csx": [
+            "ECLegends"
         ],
         "Class": "5.5 Night's Trials",
         "Category": "Local Legends"
@@ -15301,6 +15188,9 @@
         ],
         "Tut": 3089,
         "Tutorial": 62703,
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Lava Avatars",
         "Category": "Mystical Beasts"
     },
@@ -15328,6 +15218,9 @@
         },
         "Icon": [
             "UI_MonsterIcon_Lava_Solid"
+        ],
+        "Csx": [
+            "ECLegendsInfinitesimal"
         ],
         "Class": "5.5 Overworld Local Legends",
         "Category": "Local Legends"
@@ -15360,6 +15253,9 @@
         ],
         "Tut": 3088,
         "Tutorial": 62901,
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Volcano Creatures",
         "Category": "Mystical Beasts"
     },
@@ -15378,6 +15274,9 @@
         "Icon": [
             "UI_AnimalIcon_Penguin_01"
         ],
+        "Csx": [
+            "ECLegends&"
+        ],
         "Class": "5.5 Overworld Local Legends",
         "Category": "Local Legends"
     },
@@ -15395,6 +15294,9 @@
         "RESBase": {},
         "Icon": [
             "UI_AnimalIcon_Capra_01"
+        ],
+        "Csx": [
+            "ECLegends&"
         ],
         "Class": "5.5 Overworld Local Legends",
         "Category": "Local Legends"
@@ -15498,5 +15400,205 @@
         ],
         "Class": "Natlan",
         "Category": "Animals"
+    },
+    "91220": {
+        "_id": 91220,
+        "Name": "Game before the Gate",
+        "Title": [
+            "Not the One Who Plays at \"Chess Games\""
+        ],
+        "Desc": "???",
+        "HP": 25.0,
+        "HPCurve": 2,
+        "ATK": 10.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.10000000149011612,
+            "Fire": 0.10000000149011612,
+            "Water": 0.7,
+            "Elec": 0.7,
+            "Ice": 0.10000000149011612,
+            "Grass": 0.10000000149011612,
+            "Wind": 0.10000000149011612,
+            "Rock": 0.10000000149011612
+        },
+        "Icon": [
+            "UI_MonsterIcon_GiantChess"
+        ],
+        "MultiPlayerID": 103,
+        "Tutorial": 91200,
+        "Class": "Game before the Gate",
+        "Category": "Weekly BOSS"
+    },
+    "40905": {
+        "_id": 40905,
+        "Name": "Secret Source Automaton: Overseer Device",
+        "Title": [
+            "Secret Source Automaton: Overseer Device",
+            "Ancient Ruins Master Terminal"
+        ],
+        "Desc": "A domination mechanism from the ancient ruins.\nIn ancient times, to oversee the operation of their mega-cities, a mighty race vested part of their power into a form of phlogiston-engineered intelligence. Driven by their mission, and by means of various other mechanisms, the machines upon which it was bestowed once controlled the functioning of myriad cities across the land. Now, long after their ancient civilization's fall through wars with an emerging race, these once-wise contraptions retain only the most basic of commands.",
+        "Color": "Water",
+        "HP": 10.8,
+        "HPCurve": 2,
+        "ATK": 8.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.10000000149011612,
+            "Fire": 0.10000000149011612,
+            "Water": 0.10000000149011612,
+            "Elec": 0.10000000149011612,
+            "Ice": 0.10000000149011612,
+            "Grass": 0.10000000149011612,
+            "Wind": 0.10000000149011612,
+            "Rock": 0.10000000149011612
+        },
+        "NoRESBase": true,
+        "RESState": [
+            {
+                "State": "World",
+                "All": 0
+            },
+            {
+                "State": "Abyss",
+                "All": 3.7
+            },
+            {
+                "State": "Improved",
+                "All": 2
+            },
+            {
+                "State": "Low_Energy",
+                "All": -0.4,
+                "Ice": -0.4
+            },
+            {
+                "State": "Nightsoul",
+                "All": 0.4
+            }
+        ],
+        "Icon": [
+            "UI_MonsterIcon_DragonCollar"
+        ],
+        "Tut": 3091,
+        "Tutorial": 40905,
+        "Class": "Secret Source Automaton",
+        "Category": "Automatons"
+    },
+    "91201": {
+        "_id": 91201,
+        "Name": "Chess Game: King Piece",
+        "Title": [
+            "Not the One Who Plays at \"Chess Games\""
+        ],
+        "Desc": "???",
+        "HP": 16.0,
+        "HPCurve": 2,
+        "ATK": 10.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.10000000149011612,
+            "Fire": 0.699999988079071,
+            "Water": 0.10000000149011612,
+            "Elec": 0.10000000149011612,
+            "Ice": 0.10000000149011612,
+            "Grass": 0.10000000149011612,
+            "Wind": 0.10000000149011612,
+            "Rock": 0.10000000149011612
+        },
+        "Icon": [
+            "UI_MonsterIcon_GiantChess_King"
+        ],
+        "MultiPlayerID": 103,
+        "Tutorial": 91200,
+        "Class": "Game before the Gate",
+        "Category": "Weekly BOSS"
+    },
+    "91202": {
+        "_id": 91202,
+        "Name": "Chess Game: Queen Piece",
+        "Title": [
+            "Not the One Who Plays at \"Chess Games\""
+        ],
+        "Desc": "???",
+        "HP": 6.0,
+        "HPCurve": 2,
+        "ATK": 10.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.10000000149011612,
+            "Fire": 0.699999988079071,
+            "Water": 0.10000000149011612,
+            "Elec": 0.10000000149011612,
+            "Ice": 0.10000000149011612,
+            "Grass": 0.10000000149011612,
+            "Wind": 0.10000000149011612,
+            "Rock": 0.10000000149011612
+        },
+        "Icon": [
+            "UI_MonsterIcon_GiantChess_Queen"
+        ],
+        "MultiPlayerID": 103,
+        "Tutorial": 91200,
+        "Class": "Game before the Gate",
+        "Category": "Weekly BOSS"
+    },
+    "91211": {
+        "_id": 91211,
+        "Name": "Ascended King",
+        "Title": [
+            "Not the One Who Plays at \"Chess Games\""
+        ],
+        "Desc": "???",
+        "HP": 25.0,
+        "HPCurve": 2,
+        "ATK": 11.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.10000000149011612,
+            "Fire": 0.7,
+            "Water": 0.10000000149011612,
+            "Elec": 0.10000000149011612,
+            "Ice": 0.10000000149011612,
+            "Grass": 0.10000000149011612,
+            "Wind": 0.10000000149011612,
+            "Rock": 0.10000000149011612
+        },
+        "Icon": [
+            "UI_MonsterIcon_GiantChess_King"
+        ],
+        "MultiPlayerID": 103,
+        "Tutorial": 91200,
+        "Class": "Game before the Gate",
+        "Category": "Weekly BOSS"
+    },
+    "91212": {
+        "_id": 91212,
+        "Name": "Sublimated Queen",
+        "Title": [
+            "Not the One Who Plays at \"Chess Games\""
+        ],
+        "Desc": "???",
+        "HP": 25.0,
+        "HPCurve": 2,
+        "ATK": 10.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.10000000149011612,
+            "Fire": 0.10000000149011612,
+            "Water": 0.7,
+            "Elec": 0.7,
+            "Ice": 0.10000000149011612,
+            "Grass": 0.10000000149011612,
+            "Wind": 0.10000000149011612,
+            "Rock": 0.10000000149011612
+        },
+        "Icon": [
+            "UI_MonsterIcon_GiantChess_Queen"
+        ],
+        "MultiPlayerID": 103,
+        "Tutorial": 91200,
+        "Class": "Game before the Gate",
+        "Category": "Weekly BOSS"
     }
 }

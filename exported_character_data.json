@@ -14,30 +14,20 @@
         "Element": "Elec",
         "Birthday": "11/20",
         "Icon": "UI_AvatarIcon_Keqing",
-        "Poise": "Melee",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104312,
-        "BossMat": 401,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100058,
         "AscMat": 113002,
         "WeekMat": 113007,
-        "Pics": [
-            "cwp",
-            "eh",
-            "and"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 13103,
             "ATK": 323,
             "DEF": 799,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "9.0",
         "Fetter": 42,
         "_CV": {
@@ -47,11 +37,12 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Iansan",
-            "Varesa"
+            "Escoffier",
+            "Ifa"
         ],
         "NW": [
-            14519
+            15432,
+            13514
         ],
         "NR": [],
         "VS": [
@@ -61,7 +52,83 @@
             "4",
             "5"
         ],
-        "Note": "5.5v5"
+        "Note": "5.6v5"
+    },
+    {
+        "_name": "Ifa",
+        "_id": 113,
+        "Name": "Ifa",
+        "Desc": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
+        "Title": "In the Wake of Wandering Winds",
+        "Constellation": "Catena Opele",
+        "Nation": "Natlan",
+        "Belong": "Tlalocan",
+        "Grade": 4,
+        "Type": "Male",
+        "Weapon": "Catalyst",
+        "Element": "Wind",
+        "Birthday": "3/23",
+        "Icon": "UI_AvatarIcon_Ifa",
+        "CommonMatt": 112103,
+        "TalentMat": 3,
+        "TalentMatt": 104355,
+        "SpecialityMat": 101250,
+        "AscMat": 113072,
+        "WeekMat": 113074,
+        "CustomPromote": "EM",
+        "Curve": 104,
+        "ShowStats": {
+            "HP": 10081,
+            "ATK": 178,
+            "DEF": 605,
+            "Custom": 96
+        },
+        "Version": "5.6v5",
+        "Fetter": 113,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
+    },
+    {
+        "_name": "Escoffier",
+        "_id": 112,
+        "Name": "Escoffier",
+        "Desc": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
+        "Title": "Tasteful Excellence",
+        "Constellation": "Dulciaria Structura",
+        "Nation": "Fontaine",
+        "Belong": "Fontaine",
+        "Grade": 5,
+        "Type": "Girl",
+        "Weapon": "Pole",
+        "Element": "Ice",
+        "Birthday": "6/8",
+        "Icon": "UI_AvatarIcon_Escoffier",
+        "CommonMatt": 112085,
+        "TalentMat": 2,
+        "TalentMatt": 104343,
+        "SpecialityMat": 101232,
+        "AscMat": 113076,
+        "WeekMat": 113068,
+        "CustomPromote": "CR",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 13348,
+            "ATK": 347,
+            "DEF": 732,
+            "Custom": 0.192
+        },
+        "Version": "5.6v5",
+        "Fetter": 112,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
     },
     {
         "_name": "Varesa",
@@ -78,37 +145,27 @@
         "Element": "Elec",
         "Birthday": "11/15",
         "Icon": "UI_AvatarIcon_Varesa",
-        "Poise": "Range",
         "CommonMatt": 112103,
-        "CommonMat": 62001,
         "TalentMat": 3,
         "TalentMatt": 104355,
-        "BossMat": 0,
-        "WeeklyMat": 0,
         "SpecialityMat": 101254,
         "AscMat": 113072,
         "WeekMat": 113070,
-        "Pics": [
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small",
-            "keq1",
-            "keq1"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 12699,
             "ATK": 356,
             "DEF": 782,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
-        "Version": "5.5v5",
+        "Version": "5.5",
         "Fetter": 111,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "乔苏",
+            "_EN": "M・A・O",
+            "_JP": "Jane Jackson",
+            "_KR": "Kim Yea-lim"
         }
     },
     {
@@ -126,37 +183,27 @@
         "Element": "Elec",
         "Birthday": "8/8",
         "Icon": "UI_AvatarIcon_Iansan",
-        "Poise": "Melee",
         "CommonMatt": 112106,
-        "CommonMat": 55105,
         "TalentMat": 1,
         "TalentMatt": 104349,
-        "BossMat": 0,
-        "WeeklyMat": 91001,
         "SpecialityMat": 101255,
         "AscMat": 113067,
         "WeekMat": 113062,
-        "Pics": [
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
-            "keq1",
-            "laopu"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 10657,
             "ATK": 257,
             "DEF": 638,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
-        "Version": "5.5v5",
+        "Version": "5.5",
         "Fetter": 110,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "真理",
+            "_EN": "大橋彩香",
+            "_JP": "Katrina Salisbury",
+            "_KR": "Lee Jae-hyun"
         }
     },
     {
@@ -174,30 +221,20 @@
         "Element": "Wind",
         "Birthday": "3/16",
         "Icon": "UI_AvatarIcon_Mizuki",
-        "Poise": "Range",
         "CommonMatt": 112046,
-        "CommonMat": 50801,
         "TalentMat": 1,
         "TalentMatt": 104322,
-        "BossMat": 0,
-        "WeeklyMat": 91001,
         "SpecialityMat": 101206,
         "AscMat": 113071,
         "WeekMat": 113060,
-        "Pics": [
-            "njtb",
-            "keq1",
-            "laopu"
-        ],
         "CustomPromote": "EM",
         "Curve": 105,
         "ShowStats": {
             "HP": 12736,
             "ATK": 215,
             "DEF": 757,
-            "Custom": 115.19999694824219
+            "Custom": 115.2
         },
-        "ShowStats2": {},
         "Version": "5.4",
         "Fetter": 109,
         "_CV": {
@@ -222,30 +259,20 @@
         "Element": "Wind",
         "Birthday": "1/6",
         "Icon": "UI_AvatarIcon_Lanyan",
-        "Poise": "Range",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104315,
-        "BossMat": 40902,
-        "WeeklyMat": 0,
         "SpecialityMat": 101241,
         "AscMat": 113066,
         "WeekMat": 113069,
-        "Pics": [
-            "cwp",
-            "UI_MonsterIcon_DragonClaw",
-            "keq1"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 9244,
             "ATK": 251,
             "DEF": 580,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "5.3",
         "Fetter": 108,
         "_CV": {
@@ -270,30 +297,20 @@
         "Element": "Ice",
         "Birthday": "1/20",
         "Icon": "UI_AvatarIcon_Citlali",
-        "Poise": "Range",
         "CommonMatt": 112103,
-        "CommonMat": 62001,
         "TalentMat": 2,
         "TalentMatt": 104352,
-        "BossMat": 0,
-        "WeeklyMat": 91001,
         "SpecialityMat": 101249,
         "AscMat": 113071,
         "WeekMat": 113062,
-        "Pics": [
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small",
-            "keq1",
-            "laopu"
-        ],
         "CustomPromote": "EM",
         "Curve": 105,
         "ShowStats": {
             "HP": 11634,
             "ATK": 127,
             "DEF": 763,
-            "Custom": 115.19999694824219
+            "Custom": 115.2
         },
-        "ShowStats2": {},
         "Version": "5.3",
         "Fetter": 107,
         "_CV": {
@@ -318,30 +335,20 @@
         "Element": "Fire",
         "Birthday": "8/28",
         "Icon": "UI_AvatarIcon_Mavuika",
-        "Poise": "Melee",
         "CommonMatt": 112106,
-        "CommonMat": 55105,
         "TalentMat": 1,
         "TalentMatt": 104349,
-        "BossMat": 40902,
-        "WeeklyMat": 0,
         "SpecialityMat": 101253,
         "AscMat": 113066,
         "WeekMat": 113068,
-        "Pics": [
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
-            "UI_MonsterIcon_DragonClaw",
-            "keq1"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 12552,
             "ATK": 359,
             "DEF": 792,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "5.3",
         "Fetter": 106,
         "_CV": {
@@ -392,12 +399,7 @@
             "_EN": "悠木碧 & 古賀葵",
             "_JP": "Sarah Miller-Crews & Corina Boettger",
             "_KR": "Lee Sae-ah & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "laopu"
-        ]
+        }
     },
     {
         "_name": "PlayerBoy_Fire",
@@ -440,12 +442,7 @@
             "_EN": "堀江瞬 & 古賀葵",
             "_JP": "Zach Aguilar & Corina Boettger",
             "_KR": "Lee Kyeong-tae & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "laopu"
-        ]
+        }
     },
     {
         "_name": "Olorun",
@@ -462,30 +459,20 @@
         "Element": "Elec",
         "Birthday": "10/14",
         "Icon": "UI_AvatarIcon_Olorun",
-        "Poise": "Range",
         "CommonMatt": 112103,
-        "CommonMat": 62001,
         "TalentMat": 2,
         "TalentMatt": 104352,
-        "BossMat": 62303,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101252,
         "AscMat": 113064,
         "WeekMat": 113054,
-        "Pics": [
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small",
-            "UI_MonsterIcon_Natsaurus_Flamingo_Primo",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 9244,
             "ATK": 244,
             "DEF": 587,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "5.2",
         "Fetter": 105,
         "_CV": {
@@ -510,30 +497,20 @@
         "Element": "Wind",
         "Birthday": "12/10",
         "Icon": "UI_AvatarIcon_Chasca",
-        "Poise": "Range",
         "CommonMatt": 112103,
-        "CommonMat": 62001,
         "TalentMat": 3,
         "TalentMatt": 104355,
-        "BossMat": 0,
-        "WeeklyMat": 91001,
         "SpecialityMat": 101253,
         "AscMat": 113067,
         "WeekMat": 113061,
-        "Pics": [
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small",
-            "keq1",
-            "laopu"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 9797,
             "ATK": 347,
             "DEF": 615,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "5.2",
         "Fetter": 104,
         "_CV": {
@@ -558,30 +535,20 @@
         "Element": "Rock",
         "Birthday": "3/13",
         "Icon": "UI_AvatarIcon_Xilonen",
-        "Poise": "Melee",
         "CommonMatt": 112106,
-        "CommonMat": 55105,
         "TalentMat": 2,
         "TalentMatt": 104352,
-        "BossMat": 40902,
-        "WeeklyMat": 90701,
         "SpecialityMat": 101248,
         "AscMat": 113066,
         "WeekMat": 113042,
-        "Pics": [
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
-            "UI_MonsterIcon_DragonClaw",
-            "nad"
-        ],
         "CustomPromote": "DEF",
         "Curve": 105,
         "ShowStats": {
             "HP": 12405,
             "ATK": 275,
             "DEF": 930,
-            "Custom": 0.36000001430511475
+            "Custom": 0.36
         },
-        "ShowStats2": {},
         "Version": "5.1",
         "Fetter": 103,
         "_CV": {
@@ -606,30 +573,20 @@
         "Element": "Water",
         "Birthday": "8/3",
         "Icon": "UI_AvatarIcon_Mualani",
-        "Poise": "Range",
         "CommonMatt": 112106,
-        "CommonMat": 55105,
         "TalentMat": 1,
         "TalentMatt": 104349,
-        "BossMat": 62303,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101247,
         "AscMat": 113064,
         "WeekMat": 113056,
-        "Pics": [
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
-            "UI_MonsterIcon_Natsaurus_Flamingo_Primo",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 15185,
             "ATK": 182,
             "DEF": 570,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "5.0",
         "Fetter": 102,
         "_CV": {
@@ -654,36 +611,26 @@
         "Element": "Grass",
         "Birthday": "11/11",
         "Icon": "UI_AvatarIcon_Kinich",
-        "Poise": "Melee",
         "CommonMatt": 112103,
-        "CommonMat": 62001,
         "TalentMat": 2,
         "TalentMatt": 104352,
-        "BossMat": 62203,
-        "WeeklyMat": 91001,
         "SpecialityMat": 101250,
         "AscMat": 113065,
         "WeekMat": 113062,
-        "Pics": [
-            "UI_MonsterIcon_Natsaurus_Drillhead_Small",
-            "UI_MonsterIcon_Natsaurus_Hookwalker_Primo",
-            "laopu"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 12858,
             "ATK": 332,
             "DEF": 802,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "5.0",
         "Fetter": 101,
         "_CV": {
             "_CH": "斑马 & 弭洋",
             "_EN": "杉山紀彰 & 竹内順子",
-            "_JP": "John Patneaude & Abby Espiritu",
+            "_JP": "Jacob Takanashi & John Patneaude & Abby Espiritu",
             "_KR": "Kang Seong-woo & Park Li-na"
         }
     },
@@ -702,30 +649,20 @@
         "Element": "Rock",
         "Birthday": "4/22",
         "Icon": "UI_AvatarIcon_Kachina",
-        "Poise": "Melee",
         "CommonMatt": 112106,
-        "CommonMat": 55105,
         "TalentMat": 3,
         "TalentMatt": 104355,
-        "BossMat": 62203,
-        "WeeklyMat": 91001,
         "SpecialityMat": 101249,
         "AscMat": 113065,
         "WeekMat": 113060,
-        "Pics": [
-            "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
-            "UI_MonsterIcon_Natsaurus_Hookwalker_Primo",
-            "laopu"
-        ],
         "CustomPromote": "Rock",
         "Curve": 104,
         "ShowStats": {
             "HP": 11799,
             "ATK": 217,
             "DEF": 792,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "5.0",
         "Fetter": 100,
         "_CV": {
@@ -750,30 +687,20 @@
         "Element": "Grass",
         "Birthday": "9/22",
         "Icon": "UI_AvatarIcon_Emilie",
-        "Poise": "Melee",
         "CommonMatt": 112085,
-        "CommonMat": 40662,
         "TalentMat": 3,
         "TalentMatt": 104346,
-        "BossMat": 61401,
-        "WeeklyMat": 91001,
         "SpecialityMat": 101238,
         "AscMat": 113059,
         "WeekMat": 113061,
-        "Pics": [
-            "UI_MonsterIcon_MachinaIustitia_Excavator",
-            "moxiang1",
-            "laopu"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 13568,
             "ATK": 335,
             "DEF": 730,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "4.8",
         "Fetter": 99,
         "_CV": {
@@ -798,30 +725,20 @@
         "Element": "Elec",
         "Birthday": "9/20",
         "Icon": "UI_AvatarIcon_Clorinde",
-        "Poise": "Melee",
         "CommonMatt": 112082,
-        "CommonMat": 61601,
         "TalentMat": 2,
         "TalentMatt": 104343,
-        "BossMat": 61801,
-        "WeeklyMat": 90801,
         "SpecialityMat": 101237,
         "AscMat": 113053,
         "WeekMat": 113048,
-        "Pics": [
-            "UI_MonsterIcon_HermitCrab_Mature",
-            "UI_MonsterIcon_SeaHorse_Primo_Electric",
-            "ap"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 12956,
             "ATK": 337,
             "DEF": 784,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "4.7",
         "Fetter": 98,
         "_CV": {
@@ -846,21 +763,12 @@
         "Element": "Elec",
         "Birthday": "5/31",
         "Icon": "UI_AvatarIcon_Sethos",
-        "Poise": "Range",
         "CommonMatt": 112067,
-        "CommonMat": 53101,
         "TalentMat": 3,
         "TalentMatt": 104337,
-        "BossMat": 61901,
-        "WeeklyMat": 90701,
         "SpecialityMat": 101224,
         "AscMat": 113058,
         "WeekMat": 113043,
-        "Pics": [
-            "emdc",
-            "UI_MonsterIcon_Hermit",
-            "nad"
-        ],
         "CustomPromote": "EM",
         "Curve": 104,
         "ShowStats": {
@@ -869,7 +777,6 @@
             "DEF": 560,
             "Custom": 96
         },
-        "ShowStats2": {},
         "Version": "4.7",
         "Fetter": 97,
         "_CV": {
@@ -894,30 +801,20 @@
         "Element": "Water",
         "Birthday": "3/30",
         "Icon": "UI_AvatarIcon_Sigewinne",
-        "Poise": "Range",
         "CommonMatt": 112082,
-        "CommonMat": 61601,
         "TalentMat": 1,
         "TalentMatt": 104340,
-        "BossMat": 512,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101233,
         "AscMat": 113057,
         "WeekMat": 113055,
-        "Pics": [
-            "UI_MonsterIcon_HermitCrab_Mature",
-            "UI_MonsterIcon_Narcissusborn_Normal_01",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "HP",
         "Curve": 105,
         "ShowStats": {
             "HP": 13348,
             "ATK": 193,
             "DEF": 500,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "4.7",
         "Fetter": 95,
         "_CV": {
@@ -942,30 +839,20 @@
         "Element": "Fire",
         "Birthday": "8/22",
         "Icon": "UI_AvatarIcon_Arlecchino",
-        "Poise": "Melee",
         "CommonMatt": 112034,
-        "CommonMat": 30101,
         "TalentMat": 3,
         "TalentMatt": 104346,
-        "BossMat": 61401,
-        "WeeklyMat": 91001,
         "SpecialityMat": 101236,
         "AscMat": 113059,
         "WeekMat": 113060,
-        "Pics": [
-            "fsc2",
-            "moxiang1",
-            "laopu"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 13103,
             "ATK": 342,
             "DEF": 765,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "4.6",
         "Fetter": 96,
         "_CV": {
@@ -990,30 +877,20 @@
         "Element": "Rock",
         "Birthday": "8/17",
         "Icon": "UI_AvatarIcon_Chiori",
-        "Poise": "Melee",
         "CommonMatt": 112055,
-        "CommonMat": 601,
         "TalentMat": 3,
         "TalentMatt": 104328,
-        "BossMat": 40702,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101204,
         "AscMat": 113049,
         "WeekMat": 113054,
-        "Pics": [
-            "hspc",
-            "UI_MonsterIcon_MachinaIustitia_Nutcracker",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 11438,
             "ATK": 323,
             "DEF": 953,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "4.5",
         "Fetter": 94,
         "_CV": {
@@ -1038,30 +915,20 @@
         "Element": "Wind",
         "Birthday": "4/11",
         "Icon": "UI_AvatarIcon_Liuyun",
-        "Poise": "Range",
         "CommonMatt": 112010,
-        "CommonMat": 10306,
         "TalentMat": 3,
         "TalentMatt": 104318,
-        "BossMat": 61901,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101241,
         "AscMat": 113058,
         "WeekMat": 113055,
-        "Pics": [
-            "esc",
-            "UI_MonsterIcon_Hermit",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "ATK",
         "Curve": 105,
         "ShowStats": {
             "HP": 10409,
             "ATK": 335,
             "DEF": 573,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "4.4",
         "Fetter": 93,
         "_CV": {
@@ -1086,30 +953,20 @@
         "Element": "Fire",
         "Birthday": "12/22",
         "Icon": "UI_AvatarIcon_Gaming",
-        "Poise": "Melee",
         "CommonMatt": 112004,
-        "CommonMat": 111,
         "TalentMat": 1,
         "TalentMatt": 104312,
-        "BossMat": 61701,
-        "WeeklyMat": 90901,
         "SpecialityMat": 100033,
         "AscMat": 113051,
         "WeekMat": 113056,
-        "Pics": [
-            "lhslm",
-            "UI_MonsterIcon_HermitCrab_Primo",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 11419,
             "ATK": 302,
             "DEF": 703,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "4.4",
         "Fetter": 92,
         "_CV": {
@@ -1134,30 +991,20 @@
         "Element": "Rock",
         "Birthday": "8/16",
         "Icon": "UI_AvatarIcon_Navia",
-        "Poise": "Melee",
         "CommonMatt": 112082,
-        "CommonMat": 61601,
         "TalentMat": 1,
         "TalentMatt": 104340,
-        "BossMat": 40701,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101240,
         "AscMat": 113050,
         "WeekMat": 113054,
-        "Pics": [
-            "UI_MonsterIcon_HermitCrab_Mature",
-            "UI_MonsterIcon_MachinaIustitia_Nutcracker",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 12650,
             "ATK": 352,
             "DEF": 793,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "4.3",
         "Fetter": 91,
         "_CV": {
@@ -1182,30 +1029,20 @@
         "Element": "Fire",
         "Birthday": "1/10",
         "Icon": "UI_AvatarIcon_Chevreuse",
-        "Poise": "Melee",
         "CommonMatt": 112085,
-        "CommonMat": 40662,
         "TalentMat": 3,
         "TalentMatt": 104346,
-        "BossMat": 61801,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101235,
         "AscMat": 113053,
         "WeekMat": 113055,
-        "Pics": [
-            "UI_MonsterIcon_MachinaIustitia_Excavator",
-            "UI_MonsterIcon_SeaHorse_Primo_Electric",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 11962,
             "ATK": 193,
             "DEF": 605,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "4.3",
         "Fetter": 90,
         "_CV": {
@@ -1230,30 +1067,20 @@
         "Element": "Water",
         "Birthday": "10/13",
         "Icon": "UI_AvatarIcon_Furina",
-        "Poise": "Melee",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104343,
-        "BossMat": 512,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101238,
         "AscMat": 113057,
         "WeekMat": 113056,
-        "Pics": [
-            "cwp",
-            "UI_MonsterIcon_Narcissusborn_Normal_01",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 15307,
             "ATK": 244,
             "DEF": 696,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "4.2",
         "Fetter": 89,
         "_CV": {
@@ -1278,30 +1105,20 @@
         "Element": "Ice",
         "Birthday": "4/10",
         "Icon": "UI_AvatarIcon_Charlotte",
-        "Poise": "Range",
         "CommonMatt": 112085,
-        "CommonMat": 40612,
         "TalentMat": 2,
         "TalentMatt": 104343,
-        "BossMat": 40801,
-        "WeeklyMat": 90901,
         "SpecialityMat": 101232,
         "AscMat": 113052,
         "WeekMat": 113054,
-        "Pics": [
-            "UI_MonsterIcon_MachinaIustitia_Excavator",
-            "UI_MonsterIcon_MachinaIustitia_Gravitas",
-            "UI_MonsterIcon_Ptahur_Devourer"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 10766,
             "ATK": 173,
             "DEF": 546,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "4.2",
         "Fetter": 88,
         "_CV": {
@@ -1326,30 +1143,20 @@
         "Element": "Water",
         "Birthday": "12/18",
         "Icon": "UI_AvatarIcon_Neuvillette",
-        "Poise": "Range",
         "CommonMatt": 112082,
-        "CommonMat": 61601,
         "TalentMat": 1,
         "TalentMatt": 104340,
-        "BossMat": 61801,
-        "WeeklyMat": 90801,
         "SpecialityMat": 101237,
         "AscMat": 113053,
         "WeekMat": 113048,
-        "Pics": [
-            "UI_MonsterIcon_HermitCrab_Mature",
-            "UI_MonsterIcon_SeaHorse_Primo_Electric",
-            "ap"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 14695,
             "ATK": 208,
             "DEF": 576,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "4.1",
         "Fetter": 87,
         "_CV": {
@@ -1374,30 +1181,20 @@
         "Element": "Ice",
         "Birthday": "11/23",
         "Icon": "UI_AvatarIcon_Wriothesley",
-        "Poise": "Melee",
         "CommonMatt": 112085,
-        "CommonMat": 40612,
         "TalentMat": 3,
         "TalentMatt": 104346,
-        "BossMat": 40801,
-        "WeeklyMat": 90801,
         "SpecialityMat": 101239,
         "AscMat": 113052,
         "WeekMat": 113047,
-        "Pics": [
-            "UI_MonsterIcon_MachinaIustitia_Excavator",
-            "UI_MonsterIcon_MachinaIustitia_Gravitas",
-            "ap"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 13593,
             "ATK": 311,
             "DEF": 763,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "4.1",
         "Fetter": 86,
         "_CV": {
@@ -1422,30 +1219,20 @@
         "Element": "Ice",
         "Birthday": "9/24",
         "Icon": "UI_AvatarIcon_Freminet",
-        "Poise": "Melee",
         "CommonMatt": 112082,
-        "CommonMat": 61601,
         "TalentMat": 2,
         "TalentMatt": 104343,
-        "BossMat": 40701,
-        "WeeklyMat": 90801,
         "SpecialityMat": 101233,
         "AscMat": 113050,
         "WeekMat": 113046,
-        "Pics": [
-            "UI_MonsterIcon_HermitCrab_Mature",
-            "UI_MonsterIcon_MachinaIustitia_Nutcracker",
-            "ap"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 12071,
             "ATK": 255,
             "DEF": 708,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "4.0",
         "Fetter": 85,
         "_CV": {
@@ -1470,30 +1257,20 @@
         "Element": "Fire",
         "Birthday": "2/2",
         "Icon": "UI_AvatarIcon_Liney",
-        "Poise": "Range",
         "CommonMatt": 112034,
-        "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104340,
-        "BossMat": 61701,
-        "WeeklyMat": 90801,
         "SpecialityMat": 101236,
         "AscMat": 113051,
         "WeekMat": 113047,
-        "Pics": [
-            "fsc2",
-            "UI_MonsterIcon_HermitCrab_Primo",
-            "ap"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 11021,
             "ATK": 318,
             "DEF": 538,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "4.0",
         "Fetter": 84,
         "_CV": {
@@ -1518,30 +1295,20 @@
         "Element": "Wind",
         "Birthday": "2/2",
         "Icon": "UI_AvatarIcon_Linette",
-        "Poise": "Melee",
         "CommonMatt": 112085,
-        "CommonMat": 40612,
         "TalentMat": 3,
         "TalentMatt": 104346,
-        "BossMat": 40702,
-        "WeeklyMat": 90801,
         "SpecialityMat": 101235,
         "AscMat": 113049,
         "WeekMat": 113048,
-        "Pics": [
-            "UI_MonsterIcon_MachinaIustitia_Excavator",
-            "UI_MonsterIcon_MachinaIustitia_Nutcracker",
-            "ap"
-        ],
         "CustomPromote": "Wind",
         "Curve": 104,
         "ShowStats": {
             "HP": 12397,
             "ATK": 232,
             "DEF": 712,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "4.0",
         "Fetter": 83,
         "_CV": {
@@ -1592,12 +1359,7 @@
             "_EN": "悠木碧 & 古賀葵",
             "_JP": "Sarah Miller-Crews & Corina Boettger",
             "_KR": "Lee Sae-ah & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "ap"
-        ]
+        }
     },
     {
         "_name": "PlayerBoy_Water",
@@ -1640,12 +1402,7 @@
             "_EN": "堀江瞬 & 古賀葵",
             "_JP": "Zach Aguilar & Corina Boettger",
             "_KR": "Lee Kyeong-tae & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "ap"
-        ]
+        }
     },
     {
         "_name": "Momoka",
@@ -1662,30 +1419,20 @@
         "Element": "Grass",
         "Birthday": "1/22",
         "Icon": "UI_AvatarIcon_Momoka",
-        "Poise": "Melee",
         "CommonMatt": 112055,
-        "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104322,
-        "BossMat": 21001,
-        "WeeklyMat": 90801,
         "SpecialityMat": 101208,
         "AscMat": 113045,
         "WeekMat": 113048,
-        "Pics": [
-            "hspc",
-            "ib",
-            "ap"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 12180,
             "ATK": 223,
             "DEF": 546,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "3.7",
         "Fetter": 61,
         "_CV": {
@@ -1710,30 +1457,20 @@
         "Element": "Grass",
         "Birthday": "4/25",
         "Icon": "UI_AvatarIcon_Baizhuer",
-        "Poise": "Range",
         "CommonMatt": 112061,
-        "CommonMat": 60902,
         "TalentMat": 3,
         "TalentMatt": 104318,
-        "BossMat": 21001,
-        "WeeklyMat": 90801,
         "SpecialityMat": 100034,
         "AscMat": 113045,
         "WeekMat": 113046,
-        "Pics": [
-            "fdf",
-            "ib",
-            "ap"
-        ],
         "CustomPromote": "HP",
         "Curve": 105,
         "ShowStats": {
             "HP": 13348,
             "ATK": 193,
             "DEF": 500,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "3.6",
         "Fetter": 82,
         "_CV": {
@@ -1758,21 +1495,12 @@
         "Element": "Grass",
         "Birthday": "7/9",
         "Icon": "UI_AvatarIcon_Kaveh",
-        "Poise": "Melee",
         "CommonMatt": 112061,
-        "CommonMat": 60902,
         "TalentMat": 2,
         "TalentMatt": 104334,
-        "BossMat": 407,
-        "WeeklyMat": 90801,
         "SpecialityMat": 101223,
         "AscMat": 113040,
         "WeekMat": 113047,
-        "Pics": [
-            "fdf",
-            "dh",
-            "ap"
-        ],
         "CustomPromote": "EM",
         "Curve": 104,
         "ShowStats": {
@@ -1781,7 +1509,6 @@
             "DEF": 751,
             "Custom": 96
         },
-        "ShowStats2": {},
         "Version": "3.6",
         "Fetter": 81,
         "_CV": {
@@ -1806,30 +1533,20 @@
         "Element": "Ice",
         "Birthday": "8/11",
         "Icon": "UI_AvatarIcon_Mika",
-        "Poise": "Melee",
         "CommonMatt": 112034,
-        "CommonMat": 30101,
         "TalentMat": 3,
         "TalentMatt": 104309,
-        "BossMat": 61301,
-        "WeeklyMat": 90701,
         "SpecialityMat": 100021,
         "AscMat": 113044,
         "WeekMat": 113042,
-        "Pics": [
-            "fsc2",
-            "sw",
-            "nad"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 12506,
             "ATK": 223,
             "DEF": 713,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "3.5",
         "Fetter": 80,
         "_CV": {
@@ -1854,30 +1571,20 @@
         "Element": "Fire",
         "Birthday": "4/7",
         "Icon": "UI_AvatarIcon_Dehya",
-        "Poise": "Melee",
         "CommonMatt": 112067,
-        "CommonMat": 53101,
         "TalentMat": 3,
         "TalentMatt": 104337,
-        "BossMat": 40501,
-        "WeeklyMat": 90701,
         "SpecialityMat": 101222,
         "AscMat": 113039,
         "WeekMat": 113041,
-        "Pics": [
-            "emdc",
-            "spcm",
-            "nad"
-        ],
         "CustomPromote": "HP",
         "Curve": 105,
         "ShowStats": {
             "HP": 15675,
             "ATK": 265,
             "DEF": 628,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "3.5",
         "Fetter": 79,
         "_CV": {
@@ -1902,30 +1609,20 @@
         "Element": "Grass",
         "Birthday": "2/11",
         "Icon": "UI_AvatarIcon_Alhatham",
-        "Poise": "Melee",
         "CommonMatt": 112067,
-        "CommonMat": 53101,
         "TalentMat": 2,
         "TalentMatt": 104334,
-        "BossMat": 61301,
-        "WeeklyMat": 90701,
         "SpecialityMat": 101222,
         "AscMat": 113044,
         "WeekMat": 113042,
-        "Pics": [
-            "emdc",
-            "sw",
-            "nad"
-        ],
         "CustomPromote": "Grass",
         "Curve": 105,
         "ShowStats": {
             "HP": 13348,
             "ATK": 313,
             "DEF": 782,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "3.4",
         "Fetter": 78,
         "_CV": {
@@ -1950,30 +1647,20 @@
         "Element": "Grass",
         "Birthday": "3/6",
         "Icon": "UI_AvatarIcon_Yaoyao",
-        "Poise": "Melee",
         "CommonMatt": 112004,
-        "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104315,
-        "BossMat": 407,
-        "WeeklyMat": 90701,
         "SpecialityMat": 100027,
         "AscMat": 113040,
         "WeekMat": 113043,
-        "Pics": [
-            "lhslm",
-            "dh",
-            "nad"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 12289,
             "ATK": 212,
             "DEF": 751,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "3.4",
         "Fetter": 77,
         "_CV": {
@@ -1998,30 +1685,20 @@
         "Element": "Wind",
         "Birthday": "8/20",
         "Icon": "UI_AvatarIcon_Faruzan",
-        "Poise": "Range",
         "CommonMatt": 112067,
-        "CommonMat": 53101,
         "TalentMat": 1,
         "TalentMatt": 104331,
-        "BossMat": 40501,
-        "WeeklyMat": 90701,
         "SpecialityMat": 101220,
         "AscMat": 113039,
         "WeekMat": 113041,
-        "Pics": [
-            "emdc",
-            "spcm",
-            "nad"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 9570,
             "ATK": 196,
             "DEF": 628,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "3.3",
         "Fetter": 76,
         "_CV": {
@@ -2046,30 +1723,20 @@
         "Element": "Wind",
         "Birthday": "1/3",
         "Icon": "UI_AvatarIcon_Wanderer",
-        "Poise": "Range",
         "CommonMatt": 112046,
-        "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104337,
-        "BossMat": 40303,
-        "WeeklyMat": 90701,
         "SpecialityMat": 101213,
         "AscMat": 113038,
         "WeekMat": 113043,
-        "Pics": [
-            "njtb",
-            "abd",
-            "nad"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 10164,
             "ATK": 328,
             "DEF": 607,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "3.3",
         "Fetter": 75,
         "_CV": {
@@ -2094,30 +1761,20 @@
         "Element": "Ice",
         "Birthday": "12/19",
         "Icon": "UI_AvatarIcon_Layla",
-        "Poise": "Melee",
         "CommonMatt": 112010,
-        "CommonMat": 10306,
         "TalentMat": 2,
         "TalentMatt": 104334,
-        "BossMat": 40303,
-        "WeeklyMat": 90701,
         "SpecialityMat": 101215,
         "AscMat": 113038,
         "WeekMat": 113042,
-        "Pics": [
-            "esc",
-            "abd",
-            "nad"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 11092,
             "ATK": 217,
             "DEF": 655,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "3.2",
         "Fetter": 74,
         "_CV": {
@@ -2142,30 +1799,20 @@
         "Element": "Grass",
         "Birthday": "10/27",
         "Icon": "UI_AvatarIcon_Nahida",
-        "Poise": "Range",
         "CommonMatt": 112061,
-        "CommonMat": 60902,
         "TalentMat": 2,
         "TalentMatt": 104334,
-        "BossMat": 407,
-        "WeeklyMat": 90701,
         "SpecialityMat": 101217,
         "AscMat": 113040,
         "WeekMat": 113041,
-        "Pics": [
-            "fdf",
-            "dh",
-            "nad"
-        ],
         "CustomPromote": "EM",
         "Curve": 105,
         "ShowStats": {
             "HP": 10360,
             "ATK": 299,
             "DEF": 630,
-            "Custom": 115.19999694824219
+            "Custom": 115.2
         },
-        "ShowStats2": {},
         "Version": "3.2",
         "Fetter": 73,
         "_CV": {
@@ -2190,30 +1837,20 @@
         "Element": "Water",
         "Birthday": "5/3",
         "Icon": "UI_AvatarIcon_Candace",
-        "Poise": "Melee",
         "CommonMatt": 112067,
-        "CommonMat": 53101,
         "TalentMat": 1,
         "TalentMatt": 104331,
-        "BossMat": 40501,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101220,
         "AscMat": 113039,
         "WeekMat": 113033,
-        "Pics": [
-            "emdc",
-            "spcm",
-            "mag"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 10875,
             "ATK": 212,
             "DEF": 683,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "3.1",
         "Fetter": 72,
         "_CV": {
@@ -2238,30 +1875,20 @@
         "Element": "Elec",
         "Birthday": "6/23",
         "Icon": "UI_AvatarIcon_Cyno",
-        "Poise": "Melee",
         "CommonMatt": 112010,
-        "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104331,
-        "BossMat": 60203,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101225,
         "AscMat": 113037,
         "WeekMat": 113032,
-        "Pics": [
-            "esc",
-            "er",
-            "mag"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 12491,
             "ATK": 318,
             "DEF": 859,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "3.1",
         "Fetter": 71,
         "_CV": {
@@ -2286,30 +1913,20 @@
         "Element": "Water",
         "Birthday": "12/3",
         "Icon": "UI_AvatarIcon_Nilou",
-        "Poise": "Melee",
         "CommonMatt": 112061,
-        "CommonMat": 60902,
         "TalentMat": 3,
         "TalentMatt": 104337,
-        "BossMat": 40303,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101214,
         "AscMat": 113038,
         "WeekMat": 113033,
-        "Pics": [
-            "fdf",
-            "abd",
-            "mag"
-        ],
         "CustomPromote": "HP",
         "Curve": 105,
         "ShowStats": {
             "HP": 15185,
             "ATK": 230,
             "DEF": 729,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "3.1",
         "Fetter": 70,
         "_CV": {
@@ -2334,30 +1951,20 @@
         "Element": "Grass",
         "Birthday": "12/29",
         "Icon": "UI_AvatarIcon_Tighnari",
-        "Poise": "Range",
         "CommonMatt": 112061,
-        "CommonMat": 60902,
         "TalentMat": 1,
         "TalentMatt": 104331,
-        "BossMat": 61101,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101215,
         "AscMat": 113036,
         "WeekMat": 113034,
-        "Pics": [
-            "fdf",
-            "jpt",
-            "mag"
-        ],
         "CustomPromote": "Grass",
         "Curve": 105,
         "ShowStats": {
             "HP": 10850,
             "ATK": 268,
             "DEF": 630,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "3.0",
         "Fetter": 69,
         "_CV": {
@@ -2382,30 +1989,20 @@
         "Element": "Elec",
         "Birthday": "12/21",
         "Icon": "UI_AvatarIcon_Dori",
-        "Poise": "Melee",
         "CommonMatt": 112067,
-        "CommonMat": 53101,
         "TalentMat": 2,
         "TalentMatt": 104334,
-        "BossMat": 60203,
-        "WeeklyMat": 90401,
         "SpecialityMat": 101217,
         "AscMat": 113037,
         "WeekMat": 113018,
-        "Pics": [
-            "emdc",
-            "er",
-            "azh"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 12397,
             "ATK": 223,
             "DEF": 723,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "3.0",
         "Fetter": 68,
         "_CV": {
@@ -2430,30 +2027,20 @@
         "Element": "Grass",
         "Birthday": "5/8",
         "Icon": "UI_AvatarIcon_Collei",
-        "Poise": "Range",
         "CommonMatt": 112013,
-        "CommonMat": 10110,
         "TalentMat": 3,
         "TalentMatt": 104337,
-        "BossMat": 61101,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101213,
         "AscMat": 113036,
         "WeekMat": 113033,
-        "Pics": [
-            "ehil",
-            "jpt",
-            "mag"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 9787,
             "ATK": 200,
             "DEF": 601,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "3.0",
         "Fetter": 67,
         "_CV": {
@@ -2504,12 +2091,7 @@
             "_EN": "悠木碧 & 古賀葵",
             "_JP": "Sarah Miller-Crews & Corina Boettger",
             "_KR": "Lee Sae-ah & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "mag"
-        ]
+        }
     },
     {
         "_name": "PlayerBoy_Grass",
@@ -2552,12 +2134,7 @@
             "_EN": "堀江瞬 & 古賀葵",
             "_JP": "Zach Aguilar & Corina Boettger",
             "_KR": "Lee Kyeong-tae & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "mag"
-        ]
+        }
     },
     {
         "_name": "Heizo",
@@ -2574,30 +2151,20 @@
         "Element": "Wind",
         "Birthday": "7/24",
         "Icon": "UI_AvatarIcon_Heizo",
-        "Poise": "Melee",
         "CommonMatt": 112037,
-        "CommonMat": 50701,
         "TalentMat": 1,
         "TalentMatt": 104322,
-        "BossMat": 40104,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101201,
         "AscMat": 113035,
         "WeekMat": 113034,
-        "Pics": [
-            "thcr1",
-            "rs",
-            "mag"
-        ],
         "CustomPromote": "Wind",
         "Curve": 104,
         "ShowStats": {
             "HP": 10657,
             "ATK": 225,
             "DEF": 684,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "2.8",
         "Fetter": 59,
         "_CV": {
@@ -2622,30 +2189,20 @@
         "Element": "Elec",
         "Birthday": "7/27",
         "Icon": "UI_AvatarIcon_Shinobu",
-        "Poise": "Melee",
         "CommonMatt": 112055,
-        "CommonMat": 601,
         "TalentMat": 2,
         "TalentMatt": 104325,
-        "BossMat": 40104,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101205,
         "AscMat": 113035,
         "WeekMat": 113033,
-        "Pics": [
-            "hspc",
-            "rs",
-            "mag"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 12289,
             "ATK": 212,
             "DEF": 751,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "2.7",
         "Fetter": 65,
         "_CV": {
@@ -2670,30 +2227,20 @@
         "Element": "Water",
         "Birthday": "4/20",
         "Icon": "UI_AvatarIcon_Yelan",
-        "Poise": "Range",
         "CommonMatt": 112034,
-        "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104312,
-        "BossMat": 40104,
-        "WeeklyMat": 90401,
         "SpecialityMat": 100033,
         "AscMat": 113035,
         "WeekMat": 113019,
-        "Pics": [
-            "fsc2",
-            "rs",
-            "azh"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 14450,
             "ATK": 244,
             "DEF": 548,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "2.7",
         "Fetter": 60,
         "_CV": {
@@ -2718,30 +2265,20 @@
         "Element": "Water",
         "Birthday": "3/26",
         "Icon": "UI_AvatarIcon_Ayato",
-        "Poise": "Melee",
         "CommonMatt": 112046,
-        "CommonMat": 50801,
         "TalentMat": 2,
         "TalentMatt": 104325,
-        "BossMat": 404,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101202,
         "AscMat": 113028,
         "WeekMat": 113032,
-        "Pics": [
-            "njtb",
-            "hh",
-            "mag"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 13715,
             "ATK": 299,
             "DEF": 769,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "2.6",
         "Fetter": 66,
         "_CV": {
@@ -2766,30 +2303,20 @@
         "Element": "Elec",
         "Birthday": "6/27",
         "Icon": "UI_AvatarIcon_Yae",
-        "Poise": "Range",
         "CommonMatt": 112046,
-        "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104328,
-        "BossMat": 60507,
-        "WeeklyMat": 90602,
         "SpecialityMat": 101206,
         "AscMat": 113031,
         "WeekMat": 113034,
-        "Pics": [
-            "njtb",
-            "cd",
-            "mag"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 10372,
             "ATK": 340,
             "DEF": 569,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "2.5",
         "Fetter": 58,
         "_CV": {
@@ -2814,30 +2341,20 @@
         "Element": "Rock",
         "Birthday": "5/21",
         "Icon": "UI_AvatarIcon_Yunjin",
-        "Poise": "Melee",
         "CommonMatt": 112007,
-        "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104315,
-        "BossMat": 20601,
-        "WeeklyMat": 90501,
         "SpecialityMat": 100030,
         "AscMat": 113030,
         "WeekMat": 113027,
-        "Pics": [
-            "hil",
-            "gw",
-            "las2"
-        ],
         "CustomPromote": "ER",
         "Curve": 104,
         "ShowStats": {
             "HP": 10657,
             "ATK": 191,
             "DEF": 734,
-            "Custom": 0.26669999957084656
+            "Custom": 0.2667
         },
-        "ShowStats2": {},
         "Version": "2.4",
         "Fetter": 64,
         "_CV": {
@@ -2862,30 +2379,20 @@
         "Element": "Ice",
         "Birthday": "3/10",
         "Icon": "UI_AvatarIcon_Shenhe",
-        "Poise": "Melee",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104312,
-        "BossMat": 60507,
-        "WeeklyMat": 90501,
         "SpecialityMat": 100031,
         "AscMat": 113031,
         "WeekMat": 113026,
-        "Pics": [
-            "cwp",
-            "cd",
-            "las2"
-        ],
         "CustomPromote": "ATK",
         "Curve": 105,
         "ShowStats": {
             "HP": 12993,
             "ATK": 304,
             "DEF": 830,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "2.4",
         "Fetter": 63,
         "_CV": {
@@ -2910,30 +2417,20 @@
         "Element": "Rock",
         "Birthday": "6/1",
         "Icon": "UI_AvatarIcon_Itto",
-        "Poise": "Melee",
         "CommonMatt": 112004,
-        "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104325,
-        "BossMat": 20601,
-        "WeeklyMat": 90501,
         "SpecialityMat": 101201,
         "AscMat": 113030,
         "WeekMat": 113027,
-        "Pics": [
-            "lhslm",
-            "gw",
-            "las2"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 12858,
             "ATK": 227,
             "DEF": 959,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "2.3",
         "Fetter": 57,
         "_CV": {
@@ -2958,30 +2455,20 @@
         "Element": "Rock",
         "Birthday": "5/18",
         "Icon": "UI_AvatarIcon_Gorou",
-        "Poise": "Range",
         "CommonMatt": 112055,
-        "CommonMat": 601,
         "TalentMat": 3,
         "TalentMatt": 104328,
-        "BossMat": 40211,
-        "WeeklyMat": 90501,
         "SpecialityMat": 101207,
         "AscMat": 113023,
         "WeekMat": 113025,
-        "Pics": [
-            "hspc",
-            "pma",
-            "las2"
-        ],
         "CustomPromote": "Rock",
         "Curve": 104,
         "ShowStats": {
             "HP": 9570,
             "ATK": 183,
             "DEF": 648,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "2.3",
         "Fetter": 55,
         "_CV": {
@@ -3006,30 +2493,20 @@
         "Element": "Fire",
         "Birthday": "1/9",
         "Icon": "UI_AvatarIcon_Tohma",
-        "Poise": "Melee",
         "CommonMatt": 112037,
-        "CommonMat": 50701,
         "TalentMat": 1,
         "TalentMatt": 104322,
-        "BossMat": 406,
-        "WeeklyMat": 90501,
         "SpecialityMat": 101209,
         "AscMat": 113024,
         "WeekMat": 113026,
-        "Pics": [
-            "thcr1",
-            "ph",
-            "las2"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 10331,
             "ATK": 202,
             "DEF": 751,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "2.2",
         "Fetter": 50,
         "_CV": {
@@ -3054,30 +2531,20 @@
         "Element": "Ice",
         "Birthday": "4/4",
         "Icon": "UI_AvatarIcon_Aloy",
-        "Poise": "Range",
         "CommonMatt": 112055,
-        "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104303,
-        "BossMat": 405,
-        "WeeklyMat": 90501,
         "SpecialityMat": 101203,
         "AscMat": 113020,
         "WeekMat": 113025,
-        "Pics": [
-            "hspc",
-            "ch",
-            "las2"
-        ],
         "CustomPromote": "Ice",
         "Curve": 105,
         "ShowStats": {
             "HP": 10899,
             "ATK": 234,
             "DEF": 676,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "2.1",
         "Fetter": 62,
         "_CV": {
@@ -3102,30 +2569,20 @@
         "Element": "Elec",
         "Birthday": "7/14",
         "Icon": "UI_AvatarIcon_Sara",
-        "Poise": "Range",
         "CommonMatt": 112007,
-        "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104325,
-        "BossMat": 701,
-        "WeeklyMat": 90501,
         "SpecialityMat": 101204,
         "AscMat": 113029,
         "WeekMat": 113027,
-        "Pics": [
-            "hil",
-            "tm",
-            "las2"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 9570,
             "ATK": 195,
             "DEF": 628,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "2.1",
         "Fetter": 56,
         "_CV": {
@@ -3150,30 +2607,20 @@
         "Element": "Water",
         "Birthday": "2/22",
         "Icon": "UI_AvatarIcon_Kokomi",
-        "Poise": "Range",
         "CommonMatt": 112055,
-        "CommonMat": 601,
         "TalentMat": 1,
         "TalentMatt": 104322,
-        "BossMat": 404,
-        "WeeklyMat": 90501,
         "SpecialityMat": 101207,
         "AscMat": 113028,
         "WeekMat": 113026,
-        "Pics": [
-            "hspc",
-            "hh",
-            "las2"
-        ],
         "CustomPromote": "Water",
         "Curve": 105,
         "ShowStats": {
             "HP": 13471,
             "ATK": 234,
             "DEF": 657,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "2.1",
         "Fetter": 54,
         "_CV": {
@@ -3198,30 +2645,20 @@
         "Element": "Elec",
         "Birthday": "6/26",
         "Icon": "UI_AvatarIcon_Shougun",
-        "Poise": "Melee",
         "CommonMatt": 112046,
-        "CommonMat": 50801,
         "TalentMat": 3,
         "TalentMatt": 104328,
-        "BossMat": 701,
-        "WeeklyMat": 90501,
         "SpecialityMat": 101208,
         "AscMat": 113029,
         "WeekMat": 113025,
-        "Pics": [
-            "njtb",
-            "tm",
-            "las2"
-        ],
         "CustomPromote": "ER",
         "Curve": 105,
         "ShowStats": {
             "HP": 12907,
             "ATK": 337,
             "DEF": 789,
-            "Custom": 0.3199999928474426
+            "Custom": 0.32
         },
-        "ShowStats2": {},
         "Version": "2.1",
         "Fetter": 52,
         "_CV": {
@@ -3246,21 +2683,12 @@
         "Element": "Wind",
         "Birthday": "10/19",
         "Icon": "UI_AvatarIcon_Sayu",
-        "Poise": "Melee",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 3,
         "TalentMatt": 104328,
-        "BossMat": 50901,
-        "WeeklyMat": 90401,
         "SpecialityMat": 101203,
         "AscMat": 113022,
         "WeekMat": 113019,
-        "Pics": [
-            "cwp",
-            "mk",
-            "azh"
-        ],
         "CustomPromote": "EM",
         "Curve": 104,
         "ShowStats": {
@@ -3269,7 +2697,6 @@
             "DEF": 745,
             "Custom": 96
         },
-        "ShowStats2": {},
         "Version": "2.0",
         "Fetter": 53,
         "_CV": {
@@ -3294,30 +2721,20 @@
         "Element": "Fire",
         "Birthday": "6/21",
         "Icon": "UI_AvatarIcon_Yoimiya",
-        "Poise": "Range",
         "CommonMatt": 112010,
-        "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104322,
-        "BossMat": 406,
-        "WeeklyMat": 90401,
         "SpecialityMat": 101205,
         "AscMat": 113024,
         "WeekMat": 113017,
-        "Pics": [
-            "esc",
-            "ph",
-            "azh"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 10164,
             "ATK": 323,
             "DEF": 615,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "2.0",
         "Fetter": 49,
         "_CV": {
@@ -3342,30 +2759,20 @@
         "Element": "Ice",
         "Birthday": "9/28",
         "Icon": "UI_AvatarIcon_Ayaka",
-        "Poise": "Melee",
         "CommonMatt": 112046,
-        "CommonMat": 50801,
         "TalentMat": 2,
         "TalentMatt": 104325,
-        "BossMat": 40211,
-        "WeeklyMat": 90401,
         "SpecialityMat": 101202,
         "AscMat": 113023,
         "WeekMat": 113018,
-        "Pics": [
-            "njtb",
-            "pma",
-            "azh"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 12858,
             "ATK": 342,
             "DEF": 784,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "2.0",
         "Fetter": 2,
         "_CV": {
@@ -3416,12 +2823,7 @@
             "_EN": "悠木碧 & 古賀葵",
             "_JP": "Sarah Miller-Crews & Corina Boettger",
             "_KR": "Lee Sae-ah & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "azh"
-        ]
+        }
     },
     {
         "_name": "PlayerBoy_Elec",
@@ -3464,12 +2866,7 @@
             "_EN": "堀江瞬 & 古賀葵",
             "_JP": "Zach Aguilar & Corina Boettger",
             "_KR": "Lee Kyeong-tae & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "azh"
-        ]
+        }
     },
     {
         "_name": "Kazuha",
@@ -3486,30 +2883,20 @@
         "Element": "Wind",
         "Birthday": "10/29",
         "Icon": "UI_AvatarIcon_Kazuha",
-        "Poise": "Melee",
         "CommonMatt": 112037,
-        "CommonMat": 50701,
         "TalentMat": 2,
         "TalentMatt": 104315,
-        "BossMat": 50901,
-        "WeeklyMat": 90401,
         "SpecialityMat": 101206,
         "AscMat": 113022,
         "WeekMat": 113019,
-        "Pics": [
-            "thcr1",
-            "mk",
-            "azh"
-        ],
         "CustomPromote": "EM",
         "Curve": 105,
         "ShowStats": {
             "HP": 13348,
             "ATK": 297,
             "DEF": 807,
-            "Custom": 115.19999694824219
+            "Custom": 115.2
         },
-        "ShowStats2": {},
         "Version": "1.6",
         "Fetter": 47,
         "_CV": {
@@ -3534,30 +2921,20 @@
         "Element": "Ice",
         "Birthday": "10/25",
         "Icon": "UI_AvatarIcon_Eula",
-        "Poise": "Melee",
         "CommonMatt": 112007,
-        "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
-        "BossMat": 405,
-        "WeeklyMat": 90401,
         "SpecialityMat": 100057,
         "AscMat": 113020,
         "WeekMat": 113017,
-        "Pics": [
-            "hil",
-            "ch",
-            "azh"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 13226,
             "ATK": 342,
             "DEF": 751,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "1.5",
         "Fetter": 51,
         "_CV": {
@@ -3582,30 +2959,20 @@
         "Element": "Fire",
         "Birthday": "7/28",
         "Icon": "UI_AvatarIcon_Feiyan",
-        "Poise": "Range",
         "CommonMatt": 112037,
-        "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
-        "BossMat": 60501,
-        "WeeklyMat": 90401,
         "SpecialityMat": 100028,
         "AscMat": 113016,
         "WeekMat": 113018,
-        "Pics": [
-            "thcr1",
-            "pg",
-            "azh"
-        ],
         "CustomPromote": "Fire",
         "Curve": 104,
         "ShowStats": {
             "HP": 9352,
             "ATK": 240,
             "DEF": 587,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.5",
         "Fetter": 48,
         "_CV": {
@@ -3630,30 +2997,20 @@
         "Element": "Ice",
         "Birthday": "1/24",
         "Icon": "UI_AvatarIcon_Rosaria",
-        "Poise": "Melee",
         "CommonMatt": 112034,
-        "CommonMat": 30101,
         "TalentMat": 3,
         "TalentMatt": 104309,
-        "BossMat": 60201,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100022,
         "AscMat": 113010,
         "WeekMat": 113015,
-        "Pics": [
-            "fsc2",
-            "cr",
-            "chi1"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 12289,
             "ATK": 240,
             "DEF": 710,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.4",
         "Fetter": 45,
         "_CV": {
@@ -3678,30 +3035,20 @@
         "Element": "Fire",
         "Birthday": "7/15",
         "Icon": "UI_AvatarIcon_Hutao",
-        "Poise": "Melee",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104315,
-        "BossMat": 60501,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100029,
         "AscMat": 113016,
         "WeekMat": 113014,
-        "Pics": [
-            "cwp",
-            "pg",
-            "chi1"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 15552,
             "ATK": 106,
             "DEF": 876,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "1.3",
         "Fetter": 46,
         "_CV": {
@@ -3726,30 +3073,20 @@
         "Element": "Wind",
         "Birthday": "4/17",
         "Icon": "UI_AvatarIcon_Xiao",
-        "Poise": "Melee",
         "CommonMatt": 112004,
-        "CommonMat": 111,
         "TalentMat": 1,
         "TalentMatt": 104312,
-        "BossMat": 60501,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100031,
         "AscMat": 113016,
         "WeekMat": 113015,
-        "Pics": [
-            "lhslm",
-            "pg",
-            "chi1"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 12736,
             "ATK": 349,
             "DEF": 799,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "1.3",
         "Fetter": 26,
         "_CV": {
@@ -3774,30 +3111,20 @@
         "Element": "Rock",
         "Birthday": "9/13",
         "Icon": "UI_AvatarIcon_Albedo",
-        "Poise": "Melee",
         "CommonMatt": 112010,
-        "CommonMat": 10306,
         "TalentMat": 3,
         "TalentMatt": 104309,
-        "BossMat": 403,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100023,
         "AscMat": 113009,
         "WeekMat": 113013,
-        "Pics": [
-            "esc",
-            "gh",
-            "chi1"
-        ],
         "CustomPromote": "Rock",
         "Curve": 105,
         "ShowStats": {
             "HP": 13226,
             "ATK": 251,
             "DEF": 876,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "1.2",
         "Fetter": 38,
         "_CV": {
@@ -3822,30 +3149,20 @@
         "Element": "Ice",
         "Birthday": "12/2",
         "Icon": "UI_AvatarIcon_Ganyu",
-        "Poise": "Range",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104315,
-        "BossMat": 60201,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100031,
         "AscMat": 113010,
         "WeekMat": 113015,
-        "Pics": [
-            "cwp",
-            "cr",
-            "chi1"
-        ],
         "CustomPromote": "CD",
         "Curve": 105,
         "ShowStats": {
             "HP": 9797,
             "ATK": 335,
             "DEF": 630,
-            "Custom": 0.3840000033378601
+            "Custom": 0.384
         },
-        "ShowStats2": {},
         "Version": "1.2",
         "Fetter": 37,
         "_CV": {
@@ -3870,30 +3187,20 @@
         "Element": "Fire",
         "Birthday": "10/16",
         "Icon": "UI_AvatarIcon_Xinyan",
-        "Poise": "Melee",
         "CommonMatt": 112037,
-        "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
-        "BossMat": 60202,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100034,
         "AscMat": 113011,
         "WeekMat": 113013,
-        "Pics": [
-            "thcr1",
-            "pr",
-            "chi1"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 11201,
             "ATK": 249,
             "DEF": 799,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.1",
         "Fetter": 44,
         "_CV": {
@@ -3918,30 +3225,20 @@
         "Element": "Ice",
         "Birthday": "1/18",
         "Icon": "UI_AvatarIcon_Diona",
-        "Poise": "Range",
         "CommonMatt": 112013,
-        "CommonMat": 10110,
         "TalentMat": 1,
         "TalentMatt": 104303,
-        "BossMat": 60201,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100056,
         "AscMat": 113010,
         "WeekMat": 113014,
-        "Pics": [
-            "ehil",
-            "cr",
-            "chi1"
-        ],
         "CustomPromote": "Ice",
         "Curve": 104,
         "ShowStats": {
             "HP": 9570,
             "ATK": 212,
             "DEF": 601,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.1",
         "Fetter": 39,
         "_CV": {
@@ -3966,30 +3263,20 @@
         "Element": "Water",
         "Birthday": "7/20",
         "Icon": "UI_AvatarIcon_Tartaglia",
-        "Poise": "Range",
         "CommonMatt": 112034,
-        "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104303,
-        "BossMat": 501,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100033,
         "AscMat": 113012,
         "WeekMat": 113014,
-        "Pics": [
-            "fsc2",
-            "oc",
-            "chi1"
-        ],
         "CustomPromote": "Water",
         "Curve": 105,
         "ShowStats": {
             "HP": 13103,
             "ATK": 301,
             "DEF": 815,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "1.1",
         "Fetter": 33,
         "_CV": {
@@ -4014,30 +3301,20 @@
         "Element": "Rock",
         "Birthday": "12/31",
         "Icon": "UI_AvatarIcon_Zhongli",
-        "Poise": "Melee",
         "CommonMatt": 112004,
-        "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104318,
-        "BossMat": 403,
-        "WeeklyMat": 90301,
         "SpecialityMat": 100058,
         "AscMat": 113009,
         "WeekMat": 113013,
-        "Pics": [
-            "lhslm",
-            "gh",
-            "chi1"
-        ],
         "CustomPromote": "Rock",
         "Curve": 105,
         "ShowStats": {
             "HP": 14695,
             "ATK": 251,
             "DEF": 738,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "1.1",
         "Fetter": 30,
         "_CV": {
@@ -4062,30 +3339,20 @@
         "Element": "Wind",
         "Birthday": "11/26",
         "Icon": "UI_AvatarIcon_Sucrose",
-        "Poise": "Range",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 1,
         "TalentMatt": 104303,
-        "BossMat": 402,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100024,
         "AscMat": 113001,
         "WeekMat": 113008,
-        "Pics": [
-            "cwp",
-            "ah",
-            "and"
-        ],
         "CustomPromote": "Wind",
         "Curve": 104,
         "ShowStats": {
             "HP": 9244,
             "ATK": 170,
             "DEF": 703,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 43,
         "_CV": {
@@ -4110,30 +3377,20 @@
         "Element": "Water",
         "Birthday": "8/31",
         "Icon": "UI_AvatarIcon_Mona",
-        "Poise": "Range",
         "CommonMatt": 112040,
-        "CommonMat": 60101,
         "TalentMat": 2,
         "TalentMatt": 104306,
-        "BossMat": 501,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100025,
         "AscMat": 113012,
         "WeekMat": 113007,
-        "Pics": [
-            "cwp",
-            "oc",
-            "and"
-        ],
         "CustomPromote": "ER",
         "Curve": 105,
         "ShowStats": {
             "HP": 10409,
             "ATK": 287,
             "DEF": 653,
-            "Custom": 0.3199999928474426
+            "Custom": 0.32
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 41,
         "_CV": {
@@ -4158,30 +3415,20 @@
         "Element": "Ice",
         "Birthday": "9/7",
         "Icon": "UI_AvatarIcon_Chongyun",
-        "Poise": "Melee",
         "CommonMatt": 112007,
-        "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104315,
-        "BossMat": 60201,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100058,
         "AscMat": 113010,
         "WeekMat": 113005,
-        "Pics": [
-            "hil",
-            "cr",
-            "dv"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 10984,
             "ATK": 223,
             "DEF": 648,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 36,
         "_CV": {
@@ -4206,30 +3453,20 @@
         "Element": "Ice",
         "Birthday": "3/3",
         "Icon": "UI_AvatarIcon_Qiqi",
-        "Poise": "Melee",
         "CommonMatt": 112010,
-        "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104312,
-        "BossMat": 60201,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100034,
         "AscMat": 113010,
         "WeekMat": 113006,
-        "Pics": [
-            "esc",
-            "cr",
-            "and"
-        ],
         "CustomPromote": "Heal",
         "Curve": 105,
         "ShowStats": {
             "HP": 12368,
             "ATK": 287,
             "DEF": 922,
-            "Custom": 0.2214999943971634
+            "Custom": 0.2215
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 35,
         "_CV": {
@@ -4254,30 +3491,20 @@
         "Element": "Rock",
         "Birthday": "3/21",
         "Icon": "UI_AvatarIcon_Noel",
-        "Poise": "Melee",
         "CommonMatt": 112007,
-        "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
-        "BossMat": 403,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100022,
         "AscMat": 113009,
         "WeekMat": 113004,
-        "Pics": [
-            "hil",
-            "gh",
-            "dv"
-        ],
         "CustomPromote": "DEF",
         "Curve": 104,
         "ShowStats": {
             "HP": 12071,
             "ATK": 191,
             "DEF": 799,
-            "Custom": 0.30000001192092896
+            "Custom": 0.3
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 34,
         "_CV": {
@@ -4302,30 +3529,20 @@
         "Element": "Fire",
         "Birthday": "2/29",
         "Icon": "UI_AvatarIcon_Bennett",
-        "Poise": "Melee",
         "CommonMatt": 112037,
-        "CommonMat": 50701,
         "TalentMat": 2,
         "TalentMatt": 104306,
-        "BossMat": 60202,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100024,
         "AscMat": 113011,
         "WeekMat": 113003,
-        "Pics": [
-            "thcr1",
-            "pr",
-            "dv"
-        ],
         "CustomPromote": "ER",
         "Curve": 104,
         "ShowStats": {
             "HP": 12397,
             "ATK": 191,
             "DEF": 771,
-            "Custom": 0.26669999957084656
+            "Custom": 0.2667
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 32,
         "_CV": {
@@ -4350,30 +3567,20 @@
         "Element": "Elec",
         "Birthday": "5/27",
         "Icon": "UI_AvatarIcon_Fischl",
-        "Poise": "Range",
         "CommonMatt": 112013,
-        "CommonMat": 10110,
         "TalentMat": 3,
         "TalentMatt": 104309,
-        "BossMat": 401,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100055,
         "AscMat": 113002,
         "WeekMat": 113008,
-        "Pics": [
-            "ehil",
-            "eh",
-            "and"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 9189,
             "ATK": 244,
             "DEF": 594,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 31,
         "_CV": {
@@ -4398,30 +3605,20 @@
         "Element": "Fire",
         "Birthday": "7/27",
         "Icon": "UI_AvatarIcon_Klee",
-        "Poise": "Range",
         "CommonMatt": 112010,
-        "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104303,
-        "BossMat": 60202,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100025,
         "AscMat": 113011,
         "WeekMat": 113007,
-        "Pics": [
-            "esc",
-            "pr",
-            "and"
-        ],
         "CustomPromote": "Fire",
         "Curve": 105,
         "ShowStats": {
             "HP": 10287,
             "ATK": 311,
             "DEF": 615,
-            "Custom": 0.2879999876022339
+            "Custom": 0.288
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 29,
         "_CV": {
@@ -4446,30 +3643,20 @@
         "Element": "Rock",
         "Birthday": "8/26",
         "Icon": "UI_AvatarIcon_Ningguang",
-        "Poise": "Range",
         "CommonMatt": 112034,
-        "CommonMat": 30101,
         "TalentMat": 1,
         "TalentMatt": 104312,
-        "BossMat": 403,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100030,
         "AscMat": 113009,
         "WeekMat": 113008,
-        "Pics": [
-            "fsc2",
-            "gh",
-            "and"
-        ],
         "CustomPromote": "Rock",
         "Curve": 104,
         "ShowStats": {
             "HP": 9787,
             "ATK": 212,
             "DEF": 573,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 27,
         "_CV": {
@@ -4494,30 +3681,20 @@
         "Element": "Water",
         "Birthday": "10/9",
         "Icon": "UI_AvatarIcon_Xingqiu",
-        "Poise": "Melee",
         "CommonMatt": 112007,
-        "CommonMat": 10101,
         "TalentMat": 3,
         "TalentMatt": 104318,
-        "BossMat": 501,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100029,
         "AscMat": 113012,
         "WeekMat": 113006,
-        "Pics": [
-            "hil",
-            "oc",
-            "and"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 10222,
             "ATK": 202,
             "DEF": 758,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 25,
         "_CV": {
@@ -4542,30 +3719,20 @@
         "Element": "Elec",
         "Birthday": "2/14",
         "Icon": "UI_AvatarIcon_Beidou",
-        "Poise": "Melee",
         "CommonMatt": 112037,
-        "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104318,
-        "BossMat": 401,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100028,
         "AscMat": 113002,
         "WeekMat": 113005,
-        "Pics": [
-            "thcr1",
-            "eh",
-            "dv"
-        ],
         "CustomPromote": "Elec",
         "Curve": 104,
         "ShowStats": {
             "HP": 13050,
             "ATK": 225,
             "DEF": 648,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 24,
         "_CV": {
@@ -4590,21 +3757,12 @@
         "Element": "Fire",
         "Birthday": "11/2",
         "Icon": "UI_AvatarIcon_Xiangling",
-        "Poise": "Melee",
         "CommonMatt": 112004,
-        "CommonMat": 111,
         "TalentMat": 2,
         "TalentMatt": 104315,
-        "BossMat": 60202,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100027,
         "AscMat": 113011,
         "WeekMat": 113004,
-        "Pics": [
-            "lhslm",
-            "pr",
-            "dv"
-        ],
         "CustomPromote": "EM",
         "Curve": 104,
         "ShowStats": {
@@ -4613,7 +3771,6 @@
             "DEF": 669,
             "Custom": 96
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 23,
         "_CV": {
@@ -4638,30 +3795,20 @@
         "Element": "Wind",
         "Birthday": "6/16",
         "Icon": "UI_AvatarIcon_Venti",
-        "Poise": "Range",
         "CommonMatt": 112004,
-        "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104309,
-        "BossMat": 402,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100023,
         "AscMat": 113001,
         "WeekMat": 113006,
-        "Pics": [
-            "lhslm",
-            "ah",
-            "and"
-        ],
         "CustomPromote": "ER",
         "Curve": 105,
         "ShowStats": {
             "HP": 10531,
             "ATK": 263,
             "DEF": 669,
-            "Custom": 0.3199999928474426
+            "Custom": 0.32
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 22,
         "_CV": {
@@ -4686,30 +3833,20 @@
         "Element": "Fire",
         "Birthday": "8/10",
         "Icon": "UI_AvatarIcon_Ambor",
-        "Poise": "Range",
         "CommonMatt": 112013,
-        "CommonMat": 10110,
         "TalentMat": 1,
         "TalentMatt": 104303,
-        "BossMat": 60202,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100055,
         "AscMat": 113011,
         "WeekMat": 113005,
-        "Pics": [
-            "ehil",
-            "pr",
-            "dv"
-        ],
         "CustomPromote": "ATK",
         "Curve": 104,
         "ShowStats": {
             "HP": 9461,
             "ATK": 223,
             "DEF": 601,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 21,
         "_CV": {
@@ -4734,30 +3871,20 @@
         "Element": "Elec",
         "Birthday": "9/9",
         "Icon": "UI_AvatarIcon_Razor",
-        "Poise": "Melee",
         "CommonMatt": 112007,
-        "CommonMat": 10110,
         "TalentMat": 2,
         "TalentMatt": 104306,
-        "BossMat": 401,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100021,
         "AscMat": 113002,
         "WeekMat": 113004,
-        "Pics": [
-            "ehil",
-            "eh",
-            "dv"
-        ],
         "CustomPromote": "Phys",
         "Curve": 104,
         "ShowStats": {
             "HP": 11962,
             "ATK": 234,
             "DEF": 751,
-            "Custom": 0.30000001192092896
+            "Custom": 0.3
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 20,
         "_CV": {
@@ -4782,30 +3909,20 @@
         "Element": "Fire",
         "Birthday": "4/30",
         "Icon": "UI_AvatarIcon_Diluc",
-        "Poise": "Melee",
         "CommonMatt": 112034,
-        "CommonMat": 30101,
         "TalentMat": 2,
         "TalentMatt": 104306,
-        "BossMat": 60202,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100055,
         "AscMat": 113011,
         "WeekMat": 113003,
-        "Pics": [
-            "fsc2",
-            "pr",
-            "dv"
-        ],
         "CustomPromote": "CR",
         "Curve": 105,
         "ShowStats": {
             "HP": 12981,
             "ATK": 335,
             "DEF": 784,
-            "Custom": 0.19200000166893005
+            "Custom": 0.192
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 16,
         "_CV": {
@@ -4830,30 +3947,20 @@
         "Element": "Ice",
         "Birthday": "11/30",
         "Icon": "UI_AvatarIcon_Kaeya",
-        "Poise": "Melee",
         "CommonMatt": 112037,
-        "CommonMat": 50701,
         "TalentMat": 3,
         "TalentMatt": 104309,
-        "BossMat": 60201,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100056,
         "AscMat": 113010,
         "WeekMat": 113008,
-        "Pics": [
-            "thcr1",
-            "cr",
-            "and"
-        ],
         "CustomPromote": "ER",
         "Curve": 104,
         "ShowStats": {
             "HP": 11636,
             "ATK": 223,
             "DEF": 792,
-            "Custom": 0.26669999957084656
+            "Custom": 0.2667
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 15,
         "_CV": {
@@ -4878,30 +3985,20 @@
         "Element": "Water",
         "Birthday": "7/5",
         "Icon": "UI_AvatarIcon_Barbara",
-        "Poise": "Range",
         "CommonMatt": 112010,
-        "CommonMat": 10306,
         "TalentMat": 1,
         "TalentMatt": 104303,
-        "BossMat": 501,
-        "WeeklyMat": 90201,
         "SpecialityMat": 100025,
         "AscMat": 113012,
         "WeekMat": 113007,
-        "Pics": [
-            "esc",
-            "oc",
-            "and"
-        ],
         "CustomPromote": "HP",
         "Curve": 104,
         "ShowStats": {
             "HP": 9787,
             "ATK": 159,
             "DEF": 669,
-            "Custom": 0.23999999463558197
+            "Custom": 0.24
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 14,
         "_CV": {
@@ -4926,21 +4023,12 @@
         "Element": "Elec",
         "Birthday": "6/9",
         "Icon": "UI_AvatarIcon_Lisa",
-        "Poise": "Range",
         "CommonMatt": 112004,
-        "CommonMat": 111,
         "TalentMat": 3,
         "TalentMatt": 104309,
-        "BossMat": 401,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100022,
         "AscMat": 113002,
         "WeekMat": 113004,
-        "Pics": [
-            "lhslm",
-            "eh",
-            "dv"
-        ],
         "CustomPromote": "EM",
         "Curve": 104,
         "ShowStats": {
@@ -4949,7 +4037,6 @@
             "DEF": 573,
             "Custom": 96
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 6,
         "_CV": {
@@ -4974,30 +4061,20 @@
         "Element": "Wind",
         "Birthday": "3/14",
         "Icon": "UI_AvatarIcon_Qin",
-        "Poise": "Melee",
         "CommonMatt": 112007,
-        "CommonMat": 10101,
         "TalentMat": 2,
         "TalentMatt": 104306,
-        "BossMat": 402,
-        "WeeklyMat": 90101,
         "SpecialityMat": 100057,
         "AscMat": 113001,
         "WeekMat": 113003,
-        "Pics": [
-            "hil",
-            "ah",
-            "dv"
-        ],
         "CustomPromote": "Heal",
         "Curve": 105,
         "ShowStats": {
             "HP": 14695,
             "ATK": 239,
             "DEF": 769,
-            "Custom": 0.2214999943971634
+            "Custom": 0.2215
         },
-        "ShowStats2": {},
         "Version": "1.0",
         "Fetter": 3,
         "_CV": {
@@ -5048,12 +4125,7 @@
             "_EN": "悠木碧 & 古賀葵",
             "_JP": "Sarah Miller-Crews & Corina Boettger",
             "_KR": "Lee Sae-ah & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "dv"
-        ]
+        }
     },
     {
         "_name": "PlayerBoy_Wind",
@@ -5096,12 +4168,7 @@
             "_EN": "堀江瞬 & 古賀葵",
             "_JP": "Zach Aguilar & Corina Boettger",
             "_KR": "Lee Kyeong-tae & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "dv"
-        ]
+        }
     },
     {
         "_name": "PlayerGirl_Rock",
@@ -5144,12 +4211,7 @@
             "_EN": "悠木碧 & 古賀葵",
             "_JP": "Sarah Miller-Crews & Corina Boettger",
             "_KR": "Lee Sae-ah & Kim Ka-ryoung"
-        },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "and"
-        ]
+        }
     },
     {
         "_name": "PlayerBoy_Rock",
@@ -5192,11 +4254,160 @@
             "_EN": "堀江瞬 & 古賀葵",
             "_JP": "Zach Aguilar & Corina Boettger",
             "_KR": "Lee Kyeong-tae & Kim Ka-ryoung"
+        }
+    },
+    {
+        "_name": "Keqing2",
+        "_id": 420,
+        "Name": "Keqing",
+        "Skills": [
+            {
+                "Name": "Test Normal Attack",
+                "DescList": [
+                    "Test Descriptio Line 1",
+                    "Test Descriptio Line 2",
+                    "Test Descriptio Line 3",
+                    "Test Descriptio Line 4",
+                    "Test Descriptio Line 5",
+                    "Test Descriptio Line 6"
+                ],
+                "Tag": "Normal Attack"
+            },
+            {
+                "Name": "Test Elemental Skill",
+                "DescList": [
+                    "Test Descriptio Line 1",
+                    "Test Descriptio Line 2",
+                    "Test Descriptio Line 3",
+                    "Test Descriptio Line 4",
+                    "Test Descriptio Line 5",
+                    "Test Descriptio Line 6",
+                    "Test Descriptio Line 7",
+                    "Test Descriptio Line 8",
+                    "Test Descriptio Line 9",
+                    "Test Descriptio Line 10"
+                ],
+                "Tag": "Elemental Skill"
+            },
+            {
+                "Name": "Test Elemental Burst",
+                "DescList": [
+                    "Test Descriptio Line 1",
+                    "Test Descriptio Line 2",
+                    "Test Descriptio Line 3",
+                    "Test Descriptio Line 4"
+                ],
+                "Tag": "Elemental Burst"
+            },
+            {
+                "Name": "Test Ascension Talent",
+                "Desc": "Test Description",
+                "Tag": "Ascension Talent"
+            },
+            {
+                "Name": "Test Ascension Talent",
+                "Desc": "Test Description",
+                "Tag": "Ascension Talent"
+            },
+            {
+                "Name": "Test Passive Talent",
+                "Desc": "Test Description",
+                "Tag": "Passive Talent"
+            },
+            {
+                "Name": "Test Name",
+                "Desc": "Test Description",
+                "Tag": "Constellation 1"
+            },
+            {
+                "Name": "Test Name",
+                "Desc": "Test Description",
+                "Tag": "Constellation 2"
+            },
+            {
+                "Name": "Test Name",
+                "Desc": "Test Description",
+                "Tag": "Constellation 3"
+            },
+            {
+                "Name": "Test Name",
+                "Desc": "Test Description",
+                "Tag": "Constellation 4"
+            },
+            {
+                "Name": "Test Name",
+                "Desc": "Test Description",
+                "Tag": "Constellation 5"
+            },
+            {
+                "Name": "Test Name",
+                "Desc": "Test Description",
+                "Tag": "Constellation 6"
+            }
+        ],
+        "Stats": {
+            "HP": 13103,
+            "ATK": 323,
+            "DEF": 799,
+            "Custom": 0.384,
+            "CustomPromote": "CD"
         },
-        "Pics": [
-            "keq1",
-            "keq1",
-            "and"
-        ]
+        "Mats": [
+            [
+                {
+                    "ID": 112038,
+                    "Num": 36
+                },
+                {
+                    "ID": 112039,
+                    "Num": 96
+                },
+                {
+                    "ID": 112040,
+                    "Num": 129
+                }
+            ],
+            [
+                {
+                    "ID": 113002,
+                    "Num": 46
+                }
+            ],
+            [
+                {
+                    "ID": 104310,
+                    "Num": 9
+                },
+                {
+                    "ID": 104311,
+                    "Num": 63
+                },
+                {
+                    "ID": 104312,
+                    "Num": 114
+                }
+            ],
+            [
+                {
+                    "ID": 113007,
+                    "Num": 18
+                }
+            ],
+            [
+                {
+                    "ID": 100058,
+                    "Num": 46
+                }
+            ]
+        ],
+        "Desc": "Website @Feature Test# Page",
+        "Title": "&nbsp;",
+        "Grade": 5,
+        "Element": "Elec",
+        "Weapon": "Sword",
+        "Icon": "../UI/Avatar_1",
+        "Gacha": "../UI/Avatar_1",
+        "Version": "1.0",
+        "Add": true
     }
 ]
