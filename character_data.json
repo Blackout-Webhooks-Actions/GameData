@@ -924,6 +924,12 @@
                     "endDate": "2025-02-11",
                     "version": "5.3",
                     "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2025-04-15",
+                    "endDate": "2025-05-06",
+                    "version": "5.5",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -2604,6 +2610,12 @@
                     "endDate": "2025-02-11",
                     "version": "5.3",
                     "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2025-04-15",
+                    "endDate": "2025-05-06",
+                    "version": "5.5",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4309,6 +4321,12 @@
                     "endDate": "2024-06-04",
                     "version": "4.6",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-04-15",
+                    "endDate": "2025-05-06",
+                    "version": "5.5",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5071,6 +5089,12 @@
                     "endDate": "2025-02-11",
                     "version": "5.3",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-03-26",
+                    "endDate": "2025-04-15",
+                    "version": "5.5",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5169,6 +5193,12 @@
                     "endDate": "2025-02-11",
                     "version": "5.3",
                     "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2025-03-26",
+                    "endDate": "2025-04-15",
+                    "version": "5.5",
+                    "wishType": "event"
                 }
             ],
             "materials": [
