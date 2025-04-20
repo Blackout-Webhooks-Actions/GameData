@@ -32,8 +32,6 @@ item_data = matches["item"].group(0).replace("_items = [\n    [],\n    [\n", "[\
 	"\n    ],\n    [", ",").replace("],\n    [", "")
 monster_data = matches["monster"].group(0).replace("_Monsters = ", "")
 
-print(matches["character"].group(1))
-
 # Parse JSON
 data = {
 	"character": json.loads(matches["character"].group(1)),

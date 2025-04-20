@@ -241,6 +241,10 @@
     "bossName": "Lava Dragon Statues",
     "itemName": "Sparkless Statue Core"
   },
+  "Secret Source Airflow Accumulator": {
+    "bossName": "Secret Source Automaton: Overseer Device",
+    "itemName": "Secret Source Airflow Accumulator"
+  },
 
 
 
@@ -376,6 +380,10 @@
   "Eroded Scale-Feather": {
     "bossName": "Lord of Eroded Primal Flame",
     "itemName": "Eroded Scale-Feather"
+  },
+  "???": {
+    "bossName": "???",
+    "itemName": "???"
   },
 
 

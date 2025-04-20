@@ -213,7 +213,7 @@ traveler_materials = {
 }
 
 # Create a dictionary of reruns from the original file for easy lookup
-reruns_dict = {char["name"]: char["reruns"] for char in original_data}
+reruns_dict = {char["name"]: char["reruns"] for char in original_data["characters"]}
 
 
 # Function to get material section based on item name
@@ -306,14 +306,14 @@ filtered_data = {
 							{
 								"enemyDrop": get_material_section(get_item_name(char["CommonMatt"])),
 								"weeklyBossDrop": get_item_name(char["WeekMat"]),
-								"talentBooks": get_item_name(char["TalentMatt"]).split(" ")[-1] ,
+								"talentBooks": get_item_name(char["TalentMatt"]).split(" ")[-1],
 								# "talentBooks": [next((key.split(" ")[-1] for key, value in category.items() if value == str(char["TalentMatt"])), char["TalentMatt"]) for category in items_categories.values()]
 							}
 						]
 					}
 				]} if char["Name"] != "Traveler" else traveler_materials.get(element_mapping.get(char["Element"], char["Element"]), {}))
 			}
-			for char in final_data if char["Constellation"].lower() != "viator"
+			for char in final_data if "Constellation" in char and char["Constellation"].lower() != "viator"
 		]
 }
 
