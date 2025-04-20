@@ -1,8 +1,6 @@
 import json
 import re
 import requests
-import os
-from pathlib import Path
 
 # URLs of JavaScript files
 urls = {
@@ -13,39 +11,28 @@ urls = {
 }
 
 # Fetch JavaScript content
-
-
-debug_dir = Path(__file__).parent / "debug_js"
-debug_dir.mkdir(exist_ok=True)
-
-responses = {}
-for key, url in urls.items():
-	response = requests.get(url)
-	response.raise_for_status()
-	responses[key] = response
-	js_path = debug_dir / f"{key}.js"
-	with open(js_path, "w", encoding="utf-8") as f:
-		f.write(response.text)
-	print(f"Downloaded {key}.js ({len(response.text)} bytes) -> saved to {js_path}")
+responses = {key: requests.get(url) for key, url in urls.items()}
 for key, response in responses.items():
 	response.raise_for_status()
 
 # Extract JSON data using regex
 patterns = {
-	"character": r'__AvatarInfoConfig\s*=\s*(\[\s*\{.*?\}\s*\])',
-	"item": r'_\S* = \[.*\]..',
+	"character": r'__AvatarInfoConfig\s*=\s*(\[\s*\{[\s\S]*?\}\s*\])(?=\s*var)',
+	"item": r'_items\s*=\s*\[.*\].',
 	"weapon": r'_WeaponConfig\s*=\s*(\[\s*\{.*?\}\s*\])',
-	"monster": r'_Monsters = \{.*\}(?<=]\n    }\n})'
+	"monster": r'_Monsters\s*=\s*\{.*?"Tutorial":\s*\d+\s*\n\s*\}\s*\n\}(?=\s*var)'
 }
 
 matches = {key: re.search(pattern, responses[key].text, re.DOTALL) for key, pattern in patterns.items()}
 if any(match is None for match in matches.values()):
-	raise ValueError("Could not find required JSON data in the JavaScript files.")
+	raise ValueError(f"Could not find required JSON data in the {matches} JavaScript files.")
 
 # Clean and convert data
 item_data = matches["item"].group(0).replace("_items = [\n    [],\n    [\n", "[\n").replace("}\n    ]\n]", "}\n]").replace(
 	"\n    ],\n    [", ",").replace("],\n    [", "")
 monster_data = matches["monster"].group(0).replace("_Monsters = ", "")
+
+print(matches["character"].group(1))
 
 # Parse JSON
 data = {
