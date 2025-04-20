@@ -29,6 +29,8 @@
     },
     "Items": {
         "Character Level-Up Material": {
+            "Secret Source Airflow Accumulator": 113076,
+            "???": 113073,
             "Sparkless Statue Core": 113072,
             "Talisman of the Enigmatic Land": 113071,
             "Eroded Scale-Feather": 113070,
@@ -547,17 +549,29 @@
             "Starshroom": 101212,
             "Strength Tonic": 111032,
             "\"Pure Water\"": 111029,
+            "Autumn Frost": 108825,
+            "Gilded Hall": 108824,
+            "Wave-Kissed Sands": 108823,
+            "Verdant Gift": 108822,
+            "Emotional Support": 108821,
+            "???": 108814,
+            "Delicious Candy Shells": 108819,
+            "Candy Shells": 108818,
+            "Suspicious Candy Shells": 108817,
             "Delicious Harvest's Boon": 108813,
             "Harvest's Boon": 108812,
             "Suspicious Harvest's Boon": 108811,
-            "???": 108806,
+            "Mt. Mushroom (For One)": 108810,
             "Gold-Standard Healthy Meal": 108809,
+            "Delicious Cheesy Mushroom Skewer": 108808,
+            "Cheesy Mushroom Skewer": 108807,
+            "Suspicious Cheesy Mushroom Skewer": 108806,
             "Delicious Magma Eggs": 108805,
             "Magma Eggs": 108804,
             "Suspicious Magma Eggs": 108803,
-            "Delicious Puffed Grainfruit Bar": 108802,
-            "Puffed Grainfruit Bar": 108801,
-            "Suspicious Puffed Grainfruit Bar": 108800,
+            "Delicious Puffed Grainfruit Bars": 108802,
+            "Puffed Grainfruit Bars": 108801,
+            "Suspicious Puffed Grainfruit Bars": 108800,
             "Delicious Fruits Aplenty": 108799,
             "Fruits Aplenty": 108798,
             "Suspicious Fruits Aplenty": 108797,
@@ -1369,10 +1383,13 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
+            "Travel Notes: Balletica": 210243,
+            "???": 210241,
             "Travel Notes: Blooming Glory": 210240,
             "Achievement: Tranquil Peace": 210239,
             "Natlan: Draconic Gaze": 210238,
-            "???": 210236,
+            "Iansan: Unyielding": 210237,
+            "Varesa: Powerhouse": 210236,
             "Travel Notes: Wondrous Reverie": 210235,
             "Celebration: Scorch": 210234,
             "Yumemizuki Mizuki: Nightmare Devourer": 210233,
@@ -1759,6 +1776,7 @@
             "Elegy for the End": "Bow_Widsith",
             "Amos' Bow": "Bow_Amos",
             "Skyward Harp": "Bow_Dvalin",
+            "Sequence of Solitude": "Bow_Stinger",
             "Chain Breaker": "Bow_Isikhulu",
             "Flower-Wreathed Feathers": "Bow_Umpakati",
             "Range Gauge": "Bow_Mechanic",
@@ -1837,6 +1855,7 @@
             "Magic Guide": "Catalyst_Intro"
         },
         "Polearm": {
+            "Symphonist of Scents": "Pole_Trident",
             "Lumidouce Elegy": "Pole_Muguet",
             "Crimson Moon's Semblance": "Pole_BloodMoon",
             "Staff of the Scarlet Sands": "Pole_Deshret",
@@ -2011,7 +2030,6 @@
             "Thunder Manifestation": "UI_MonsterIcon_Raijin"
         },
         "Miscellaneous": {
-            "Sonata of the Snowy Path": "ch",
             "Pure Dendro Hypostasis": "dh",
             "Oceanid": "UI_MonsterIcon_Oceanid",
             "The Great Snowboar King": "gsbk",
@@ -2022,7 +2040,6 @@
             "Medium Sumpter Beast with Package": "anisb",
             "Large Sumpter Beast with Package": "anisb",
             "Pyro Crystalfly": "UI_AnimalIcon_Wisp_Fire_01",
-            "Tepetlisaurus Tribe Chief": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
             "Flowcurrent Bird": "UI_AnimalIcon_Penguin_02",
             "Flowfire Bird": "UI_AnimalIcon_Penguin_01",
             "Nimble Harvester Mek": "UI_MonsterIcon_MachinaIustitia_Assimilator",
@@ -2077,7 +2094,7 @@
             "\"Potapo's Solidarity\"": "UI_MonsterIcon_Wayob_Shamansaurus",
             "Rilai": "UI_MonsterIcon_Tribalwarrior_Launcher_Shamansaurus",
             "Ironbeard": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
-            "Reji": "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead",
+            "Reji": "UI_MonsterIcon_Tribalwarrior_Slingshot_Bisonsaurus",
             "The Peak": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal",
             "\"Tupu's Lushness\"": "UI_MonsterIcon_Wayob_Bisonsaurus",
             "\"Infinitesimal\"": "UI_MonsterIcon_Lava_Solid",
@@ -2237,7 +2254,8 @@
             "Experimental Field Generator": "UI_MonsterIcon_MachinaIustitia_Gravitas",
             "Maguu Kenki": "UI_MonsterIcon_Samurai_Ningyo",
             "Secret Source Automaton: Hunter-Seeker": "UI_MonsterIcon_ToothTrap",
-            "Secret Source Automaton: Configuration Device": "UI_MonsterIcon_DragonClaw"
+            "Secret Source Automaton: Configuration Device": "UI_MonsterIcon_DragonClaw",
+            "Secret Source Automaton: Overseer Device": "UI_MonsterIcon_DragonCollar"
         },
         "Other Human Factions": {
             "Treasure Hoarders: Scout": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
@@ -2591,7 +2609,12 @@
             "The Knave": "UI_MonsterIcon_Nihil",
             "Cinder of Two Worlds' Flames": "UI_MonsterIcon_Nihil",
             "Lord of Eroded Primal Fire": "UI_MonsterIcon_TheAbyssXiuhcoatl",
-            "Gosoythoth": "UI_MonsterIcon_TheAbyssXiuhcoatl"
+            "Gosoythoth": "UI_MonsterIcon_TheAbyssXiuhcoatl",
+            "Game before the Gate": "UI_MonsterIcon_GiantChess",
+            "Chess Game: King Piece": "UI_MonsterIcon_GiantChess_King",
+            "Chess Game: Queen Piece": "UI_MonsterIcon_GiantChess_Queen",
+            "Ascended King": "UI_MonsterIcon_GiantChess_King",
+            "Sublimated Queen": "UI_MonsterIcon_GiantChess_Queen"
         }
     }
 }
