@@ -33,7 +33,7 @@
                         {
                             "enemyDrop": "Samachurl Materials",
                             "weeklyBossDrop": "Dvalin's Sigh",
-                            "travelertalentBooks": [
+                            "travelerTalentBooks": [
                                 {
                                     "teachings": "Freedom",
                                     "guide1": "Resistance",
@@ -79,7 +79,7 @@
                             "enemyDrop2": "Hilichurl Shooter Materials",
                             "weeklyBossDrop": "Dvalin's Sigh",
                             "weeklyBossDrop2": "Tail of Boreas",
-                            "travelertalentBooks": [
+                            "travelerTalentBooks": [
                                 {
                                     "teachings": "Freedom",
                                     "guide1": "Resistance",
@@ -90,7 +90,7 @@
                                     "philosophies3": "Resistance"
                                 }
                             ],
-                            "travelertalentBooks2": [
+                            "travelerTalentBooks2": [
                                 {
                                     "teachings": "Prosperity",
                                     "guide1": "Diligence",
@@ -134,7 +134,7 @@
                         {
                             "enemyDrop": "Nobushi Materials",
                             "weeklyBossDrop": "Dragon Lord's Crown",
-                            "travelertalentBooks": [
+                            "travelerTalentBooks": [
                                 {
                                     "teachings": "Transience",
                                     "guide1": "Elegance",
@@ -178,7 +178,7 @@
                         {
                             "enemyDrop": "Fungus Materials",
                             "weeklyBossDrop": "Mudra of the Malefic General",
-                            "travelertalentBooks": [
+                            "travelerTalentBooks": [
                                 {
                                     "teachings": "Admonition",
                                     "guide1": "Ingenuity",
@@ -222,7 +222,7 @@
                         {
                             "enemyDrop": "Fontemer Aberrant Materials",
                             "weeklyBossDrop": "Worldspan Fern",
-                            "travelertalentBooks": [
+                            "travelerTalentBooks": [
                                 {
                                     "teachings": "Equity",
                                     "guide1": "Justice",
@@ -266,7 +266,7 @@
                         {
                             "enemyDrop": "Sauroform Tribal Warrior Materials",
                             "weeklyBossDrop": "The Cornerstone of Stars and Flames",
-                            "travelertalentBooks": [
+                            "travelerTalentBooks": [
                                 {
                                     "teachings": "Contention",
                                     "guide1": "Kindling",
