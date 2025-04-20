@@ -6011,7 +6011,14 @@
             "birthday": "06-08",
             "title": "Tasteful Excellence",
             "description": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
-            "reruns": [],
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "5.6",
+                    "phase": "upcoming",
+                    "wishType": "event"
+                }
+            ],
             "materials": [
                 {
                     "ascension": [
@@ -6044,7 +6051,14 @@
             "birthday": "03-23",
             "title": "In the Wake of Wandering Winds",
             "description": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
-            "reruns": [],
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "5.6",
+                    "phase": "upcoming",
+                    "wishType": "event"
+                }
+            ],
             "materials": [
                 {
                     "ascension": [
