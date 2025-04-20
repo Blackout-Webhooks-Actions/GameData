@@ -1,0 +1,42 @@
+name: Update Character Data
+
+on:
+  schedule:
+    - cron: '0 13 * * *' # 10:30 PM AEST (12:30 PM UTC)
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (if needed)
+        run: |
+          pip install requests
+
+      - name: Run image mapping update script
+        run: python character_data.py
+
+      - name: Check for changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          else
+            echo "Changes detected."
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update character data"
+          git push
