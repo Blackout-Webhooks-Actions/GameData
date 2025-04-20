@@ -61,7 +61,7 @@ traveler_materials = {
 					{
 						"enemyDrop": "Samachurl Materials",
 						"weeklyBossDrop": "Dvalin's Sigh",
-						"travelertalentBooks": [
+						"travelerTalentBooks": [
 							{
 								"teachings": "Freedom",
 								"guide1": "Resistance",
@@ -87,7 +87,7 @@ traveler_materials = {
 						"enemyDrop2": "Hilichurl Shooter Materials",
 						"weeklyBossDrop": "Dvalin's Sigh",
 						"weeklyBossDrop2": "Tail of Boreas",
-						"travelertalentBooks": [
+						"travelerTalentBooks": [
 							{
 								"teachings": "Freedom",
 								"guide1": "Resistance",
@@ -98,7 +98,7 @@ traveler_materials = {
 								"philosophies3": "Resistance"
 							}
 						],
-						"travelertalentBooks2": [
+						"travelerTalentBooks2": [
 							{
 								"teachings": "Prosperity",
 								"guide1": "Diligence",
@@ -122,7 +122,7 @@ traveler_materials = {
 					{
 						"enemyDrop": "Nobushi Materials",
 						"weeklyBossDrop": "Dragon Lord's Crown",
-						"travelertalentBooks": [
+						"travelerTalentBooks": [
 							{
 								"teachings": "Transience",
 								"guide1": "Elegance",
@@ -146,7 +146,7 @@ traveler_materials = {
 					{
 						"enemyDrop": "Fungus Materials",
 						"weeklyBossDrop": "Mudra of the Malefic General",
-						"travelertalentBooks": [
+						"travelerTalentBooks": [
 							{
 								"teachings": "Admonition",
 								"guide1": "Ingenuity",
@@ -170,7 +170,7 @@ traveler_materials = {
 					{
 						"enemyDrop": "Fontemer Aberrant Materials",
 						"weeklyBossDrop": "Worldspan Fern",
-						"travelertalentBooks": [
+						"travelerTalentBooks": [
 							{
 								"teachings": "Equity",
 								"guide1": "Justice",
@@ -194,7 +194,7 @@ traveler_materials = {
 					{
 						"enemyDrop": "Sauroform Tribal Warrior Materials",
 						"weeklyBossDrop": "The Cornerstone of Stars and Flames",
-						"travelertalentBooks": [
+						"travelerTalentBooks": [
 							{
 								"teachings": "Contention",
 								"guide1": "Kindling",
