@@ -19,7 +19,8 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+          pip install --upgrade pip
+          pip install requests
 
       - name: Run avatar_info.py
         run: python avatar_info.py
