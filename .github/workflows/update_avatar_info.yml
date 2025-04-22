@@ -1,0 +1,34 @@
+name: Update Avatar Info
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Runs every day at 12:00 UTC = 10:00 PM AEST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run avatar_info.py
+        run: python avatar_info.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exported_*.json
+          git commit -m "Update exported JSON data" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
