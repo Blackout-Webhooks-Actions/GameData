@@ -19,6 +19,7 @@ jobs:
 
       - name: Install dependencies (if needed)
         run: |
+          pip install --upgrade pip
           pip install requests
 
       - name: Run image mapping update script
