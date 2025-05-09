@@ -2,7 +2,7 @@ name: Update Avatar Info
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Runs every day at 12:00 UTC = 10:00 PM AEST
+    - cron: '0 12 * * *' # Runs every day at 12:00 UTC = 10:00 PM AEST
   workflow_dispatch:
 
 jobs:
