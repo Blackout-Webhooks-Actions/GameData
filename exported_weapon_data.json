@@ -239,7 +239,7 @@
         "Extra": [],
         "Story": 195432,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "15431",
@@ -1889,7 +1889,7 @@
         "Extra": [],
         "Story": 193514,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "13513",
@@ -3474,6 +3474,28 @@
         "Story": 192301,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "11517",
+        "Name": "Azurelight",
+        "Desc": "",
+        "Type": 1,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Sword_OuterSword",
+        "Stat": 608.0745972,
+        "Custom": "CR",
+        "CustomStat": 0.330768,
+        "AscMatID": 114072,
+        "MatIDs": [
+            112118,
+            112106
+        ],
+        "EquipAffixName": "White Mountain's Bounty",
+        "EquipAffixID": 111517,
+        "Extra": [],
+        "Story": 191517,
+        "StoryCount": 1,
+        "V": "1"
     },
     {
         "_id": "11516",

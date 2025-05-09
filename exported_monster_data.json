@@ -7106,7 +7106,7 @@
         ],
         "MultiPlayerID": 103,
         "Csx": [
-            "ECLegends"
+            "ECLegends&"
         ],
         "Class": "4.0",
         "Category": "Local Legends"
@@ -7126,7 +7126,7 @@
         ],
         "MultiPlayerID": 103,
         "Csx": [
-            "ECLegends"
+            "ECLegends&"
         ],
         "Class": "4.0",
         "Category": "Local Legends"
@@ -7148,7 +7148,7 @@
         ],
         "MultiPlayerID": 103,
         "Csx": [
-            "ECLegends"
+            "ECLegends&"
         ],
         "Class": "4.0",
         "Category": "Local Legends"
@@ -7170,7 +7170,7 @@
         ],
         "MultiPlayerID": 103,
         "Csx": [
-            "ECLegends"
+            "ECLegends&"
         ],
         "Class": "4.0",
         "Category": "Local Legends"
@@ -7190,7 +7190,7 @@
         ],
         "MultiPlayerID": 103,
         "Csx": [
-            "ECLegends"
+            "ECLegends&"
         ],
         "Class": "4.0",
         "Category": "Local Legends"
@@ -7212,7 +7212,7 @@
         ],
         "MultiPlayerID": 103,
         "Csx": [
-            "ECLegends"
+            "ECLegends&"
         ],
         "Class": "4.0",
         "Category": "Local Legends"
@@ -7257,7 +7257,7 @@
         ],
         "MultiPlayerID": 103,
         "Csx": [
-            "ECLegends"
+            "ECLegends&"
         ],
         "Class": "4.2",
         "Category": "Local Legends"
@@ -7280,7 +7280,7 @@
         ],
         "MultiPlayerID": 103,
         "Csx": [
-            "ECLegends"
+            "ECLegends&"
         ],
         "Class": "4.2",
         "Category": "Local Legends"
@@ -13943,8 +13943,8 @@
         ],
         "Desc": "",
         "Color": "Ice",
-        "HP": 28.7878757652,
-        "HPCurve": 2,
+        "HP": 782.109,
+        "HPCurve": 20,
         "ATK": 7.2,
         "ATKCurve": 4,
         "RESBase": {
@@ -15220,7 +15220,7 @@
             "UI_MonsterIcon_Lava_Solid"
         ],
         "Csx": [
-            "ECLegendsInfinitesimal"
+            "ECLegends"
         ],
         "Class": "5.5 Overworld Local Legends",
         "Category": "Local Legends"
@@ -15403,11 +15403,11 @@
     },
     "91220": {
         "_id": 91220,
-        "Name": "Game before the Gate",
+        "Name": "The Game Before the Gate",
         "Title": [
             "Not the One Who Plays at \"Chess Games\""
         ],
-        "Desc": "???",
+        "Desc": "A soldier-entity born into being through the skills of various members of the Hexenzirkel.\nAlthough their technological underpinnings are far from abstruse, and touch not upon the profound wisdom at the universe's core, yet as guards of the gate's final threshold, they are a metaphor in and of themselves.\nThis world may be governed by rules, but for those who manage to cross its verge, such constraints no longer apply.",
         "HP": 25.0,
         "HPCurve": 2,
         "ATK": 10.0,
@@ -15427,6 +15427,10 @@
         ],
         "MultiPlayerID": 103,
         "Tutorial": 91200,
+        "Csx": [
+            "ECEnemiesOfNote1",
+            "ECEnemiesOfNote2"
+        ],
         "Class": "Game before the Gate",
         "Category": "Weekly BOSS"
     },
@@ -15482,6 +15486,9 @@
         ],
         "Tut": 3091,
         "Tutorial": 40905,
+        "Csx": [
+            "ECAutomatons"
+        ],
         "Class": "Secret Source Automaton",
         "Category": "Automatons"
     },
@@ -15491,7 +15498,7 @@
         "Title": [
             "Not the One Who Plays at \"Chess Games\""
         ],
-        "Desc": "???",
+        "Desc": "A soldier-entity born into being through the skills of various members of the Hexenzirkel.\nAlthough their technological underpinnings are far from abstruse, and touch not upon the profound wisdom at the universe's core, yet as guards of the gate's final threshold, they are a metaphor in and of themselves.\nThis world may be governed by rules, but for those who manage to cross its verge, such constraints no longer apply.",
         "HP": 16.0,
         "HPCurve": 2,
         "ATK": 10.0,
@@ -15511,6 +15518,10 @@
         ],
         "MultiPlayerID": 103,
         "Tutorial": 91200,
+        "Csx": [
+            "ECEnemiesOfNote1",
+            "ECEnemiesOfNote2"
+        ],
         "Class": "Game before the Gate",
         "Category": "Weekly BOSS"
     },
@@ -15520,7 +15531,7 @@
         "Title": [
             "Not the One Who Plays at \"Chess Games\""
         ],
-        "Desc": "???",
+        "Desc": "A soldier-entity born into being through the skills of various members of the Hexenzirkel.\nAlthough their technological underpinnings are far from abstruse, and touch not upon the profound wisdom at the universe's core, yet as guards of the gate's final threshold, they are a metaphor in and of themselves.\nThis world may be governed by rules, but for those who manage to cross its verge, such constraints no longer apply.",
         "HP": 6.0,
         "HPCurve": 2,
         "ATK": 10.0,
@@ -15540,6 +15551,10 @@
         ],
         "MultiPlayerID": 103,
         "Tutorial": 91200,
+        "Csx": [
+            "ECEnemiesOfNote1",
+            "ECEnemiesOfNote2"
+        ],
         "Class": "Game before the Gate",
         "Category": "Weekly BOSS"
     },
@@ -15549,7 +15564,7 @@
         "Title": [
             "Not the One Who Plays at \"Chess Games\""
         ],
-        "Desc": "???",
+        "Desc": "A soldier-entity born into being through the skills of various members of the Hexenzirkel.\nAlthough their technological underpinnings are far from abstruse, and touch not upon the profound wisdom at the universe's core, yet as guards of the gate's final threshold, they are a metaphor in and of themselves.\nThis world may be governed by rules, but for those who manage to cross its verge, such constraints no longer apply.",
         "HP": 25.0,
         "HPCurve": 2,
         "ATK": 11.0,
@@ -15569,6 +15584,10 @@
         ],
         "MultiPlayerID": 103,
         "Tutorial": 91200,
+        "Csx": [
+            "ECEnemiesOfNote1",
+            "ECEnemiesOfNote2"
+        ],
         "Class": "Game before the Gate",
         "Category": "Weekly BOSS"
     },
@@ -15578,7 +15597,7 @@
         "Title": [
             "Not the One Who Plays at \"Chess Games\""
         ],
-        "Desc": "???",
+        "Desc": "A soldier-entity born into being through the skills of various members of the Hexenzirkel.\nAlthough their technological underpinnings are far from abstruse, and touch not upon the profound wisdom at the universe's core, yet as guards of the gate's final threshold, they are a metaphor in and of themselves.\nThis world may be governed by rules, but for those who manage to cross its verge, such constraints no longer apply.",
         "HP": 25.0,
         "HPCurve": 2,
         "ATK": 10.0,
@@ -15598,6 +15617,10 @@
         ],
         "MultiPlayerID": 103,
         "Tutorial": 91200,
+        "Csx": [
+            "ECEnemiesOfNote1",
+            "ECEnemiesOfNote2"
+        ],
         "Class": "Game before the Gate",
         "Category": "Weekly BOSS"
     }

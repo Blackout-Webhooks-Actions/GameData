@@ -13,10 +13,11 @@
     {
         "_id": 113075,
         "R": 5,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Ascended Sample: Queen",
+        "Desc": "A rare sample resulting from the alchemical activation of a substance.<br>The \"Queen\" was once known as the \"Minister,\" but as the rules of the game evolved, it grew to become the most powerful piece and a representation of the authority of the family behind the throne — a true symbol of gilded royalty.<br>Perhaps the promotion of an ordinary foot soldier shares some similarities with the transmutation of matter, yet even should they manage to turn to gold, the most a pawn might hope for is to be represented by an upturned rook.",
         "Src": [
-            "Lv.70+ ??? Challenge Reward"
+            "Lv. 70+ The Game Before the Gate Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113075",
         "Type": "Character Level-Up Material"
@@ -24,10 +25,11 @@
     {
         "_id": 113074,
         "R": 5,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Ascended Sample: Rook",
+        "Desc": "A rare sample resulting from the alchemical activation of a substance.<br>The name of this piece derives from the word for the \"Chariot\" in the ancient language of Sumeru. In divination, the Chariot card is depicted with two heavenly steeds — one black and one white — symbolizing the alchemical principle of balancing opposing properties.",
         "Src": [
-            "Lv.70+ ??? Challenge Reward"
+            "Lv. 70+ The Game Before the Gate Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113074",
         "Type": "Character Level-Up Material"
@@ -35,10 +37,11 @@
     {
         "_id": 113073,
         "R": 5,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Ascended Sample: Knight",
+        "Desc": "A rare sample resulting from the alchemical activation of a substance.<br>In the esoteric codices, the bronze knight knows not whether its mission is to conquer or to protect. Since its alchemical elevation, it has merely been seeking to discover its purpose. The age of bronze was an age of heroes.",
         "Src": [
-            "Lv.70+ ??? Challenge Reward"
+            "Lv. 70+ The Game Before the Gate Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113073",
         "Type": "Character Level-Up Material"
@@ -71,7 +74,8 @@
         "Name": "Eroded Scale-Feather",
         "Desc": "A pitch-black scale that fell to the ground after the battle against the Lord of Eroded Primal Fire.<br>The ancient dragons once inscribed white scales in golden script and used them as tokens to symbolize pacts or secret orders. Later, the radiance divided in the Flamelord's eyes was similarly engraved on a split white dragon scale.<br>This scale has been utterly corroded by the power of darkness, the light that was once engraved upon it wholly devoured, leaving naught but twisted, dark remnants in its place.",
         "Src": [
-            "Lv. 70+ Lord of Eroded Primal Fire Challenge Reward"
+            "Lv. 70+ Lord of Eroded Primal Fire Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113070",
         "Type": "Character Level-Up Material"
@@ -82,7 +86,8 @@
         "Name": "Eroded Sunfire",
         "Desc": "Though the battle with the Lord of Eroded Primal Fire has ended, this ring-shaped flame yet burns.<br>In the beginning, in the deepest of nights, as the darkness gradually consumed the starry sky and filled the people with fear, the master of flame emulated the sun by hanging rays of light throughout the sky, thus keeping the unending enemies from beyond the universe at bay.<br>Though its glow has been halfway corroded, the glory of a flame that once illuminated the world of old still shines forth.",
         "Src": [
-            "Lv. 70+ Lord of Eroded Primal Fire Challenge Reward"
+            "Lv. 70+ Lord of Eroded Primal Fire Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113069",
         "Type": "Character Level-Up Material"
@@ -93,7 +98,8 @@
         "Name": "Eroded Horn",
         "Desc": "The Lord of Eroded Primal Fire's blazing horn, cut off in the heat of battle.<br>Legend has it that the first Pyro Dragons clashed with their horns, passing on their wisdom like a flaming torch to ancient dragonkind. This was a blessing bestowed by the primordial master of elements through fire and blood. Though the bloodline of the Dragonheirs is now so thin as to be all but lost, this ancient blessing is still passed on to this day.<br>And though the base of the flaming horn has been corroded, the light that once illuminated the world remains without blemish.",
         "Src": [
-            "Lv. 70+ Lord of Eroded Primal Fire Challenge Reward"
+            "Lv. 70+ Lord of Eroded Primal Fire Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113068",
         "Type": "Character Level-Up Material"
@@ -159,7 +165,8 @@
         "Name": "Denial and Judgment",
         "Desc": "An earring that you picked up in the ruins after completing the duel against The Knave.<br>The red symbol upon it resembles the image in her eyes, a declaration and a rejection alike.<br>The orphaned live lives filled with suffering from childhood — this she sees and keeps in her heart.<br>As fate casts an examining eye on humanity, so too will humans cast judgment upon fate. Someday, honor, injustice, misery, and tears will be denied alongside the old world. Before that moment comes, the last child of the Crimson Moon will record fate's every sin.",
         "Src": [
-            "Lv. 70+ The Knave Challenge Reward"
+            "Lv. 70+ The Knave Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113062",
         "Type": "Character Level-Up Material"
@@ -170,7 +177,8 @@
         "Name": "Silken Feather",
         "Desc": "A crystal that you picked up in the ruins after completing the duel against The Knave.<br>The already-cooled blood and fire still maintain the shape of a feather, that is framed with solidified sleek black threads.<br>Before their thoughts have matured, young children are reliant on the meticulous care of their parents, just as fledglings need the aegis of an adult wing. But young birds too will one day spread their now-abundant plumage and fly away for more distant skies. Such is life, and such is fate.<br>It is to fulfill such wishes that \"Father\" wove dangerous spider-silk into a facsimile of feathers, that she might grant her family some warmth.",
         "Src": [
-            "Lv. 70+ The Knave Challenge Reward"
+            "Lv. 70+ The Knave Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113061",
         "Type": "Character Level-Up Material"
@@ -181,7 +189,8 @@
         "Name": "Fading Candle",
         "Desc": "A candle that you picked up in the ruins after completing the duel against The Knave.<br>An ancient ritual passed down through the Crimson Moon Dynasty dictated that chosen orphans would be made to carry candles and pass through a long passageway alone. The moment when the candle went out would be the beginning of their new lives. When the age of dark sun shining over the realm came, when the candle's flame flickers in the hands of sinners, light may become shadows, making footsteps faint and masking fatal intent.<br>You cannot tell what material this is made of, and it weeps no wax after burning, releasing only black ash that scatters into the wind, drifting towards the distant unknown.",
         "Src": [
-            "Lv. 70+ The Knave Challenge Reward"
+            "Lv. 70+ The Knave Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113060",
         "Type": "Character Level-Up Material"
@@ -225,7 +234,8 @@
         "Name": "Lightless Mass",
         "Desc": "A fragment produced from the intense battle against the All-Devouring Narwhal.<br>Even in the dark night sky, there are always faint glimmers of light, like pearls gleaming from within the sand, splinters of diamond sprinkled over asphalt, lights lancing through the fog on a misty night, and sparks that ignite the brightest blazes.<br>But look carefully. The lights are slowly disappearing and the darkness is invading from every direction. You will become an incandescent inferno, a new star burning brightly and illuminating the universe for but a brief period. Or, you will become the ruler of darkness that stamps out all such trifling sparks.",
         "Src": [
-            "Lv. 70+ All-Devouring Narwhal Challenge Reward"
+            "Lv. 70+ All-Devouring Narwhal Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113056",
         "Type": "Character Level-Up Material"
@@ -236,7 +246,8 @@
         "Name": "Lightless Eye of the Maelstrom",
         "Desc": "A strange \"substance\" obtained from fighting against the All-Devouring Narwhal. Its actual weight far exceeds what would be expected given its size.<br>Everything gathers around heavy objects, just as gold attracts more than iron, or the ground more than in the breeze blowing above. Just as light cannot escape from the vortex of darkness, cause and effect is attached to fate, perhaps irreversibly so.<br>But the heavy \"substance\" in your hand doesn't feel real, as if it was only a shadow of the All-Devouring Narwhal's prey. Perhaps you only fought the echoes from the depths of the universe.",
         "Src": [
-            "Lv. 70+ All-Devouring Narwhal Challenge Reward"
+            "Lv. 70+ All-Devouring Narwhal Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113055",
         "Type": "Character Level-Up Material"
@@ -247,7 +258,8 @@
         "Name": "Lightless Silk String",
         "Desc": "A slender strand that somehow ended up entangled on your weapon while fighting the All-Devouring Narwhal.<br>In ancient Fontaine, some thought that Fortuna, which ruled the world, was woven from countless fibers, like the strings of a harp. Strings that resonate with the majestic music would bring happiness to all, while discord would destroy the fabric of the universe.",
         "Src": [
-            "Lv. 70+ All-Devouring Narwhal Challenge Reward"
+            "Lv. 70+ All-Devouring Narwhal Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113054",
         "Type": "Character Level-Up Material"
@@ -313,7 +325,8 @@
         "Name": "Everamber",
         "Desc": "A piece of amber taken from the oasis within Apep. Inside the amber, a small, long-extinct insect remains frozen in time.<br>To the tree, it was circumstance that led this little life to be wreathed within its amber. But for said life, this was fate.<br>Following the heaven-sent disaster, wood, vines, roots, and all manner of flora withered and turned to dust. A great many life forms disappeared.<br>But in the stillness of amber, a nameless insect endures in this otherworldly oasis, reaching a future that no others of its kind could.",
         "Src": [
-            "Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+            "Lv. 70+ Guardian of Apep's Oasis Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113048",
         "Type": "Character Level-Up Material"
@@ -324,7 +337,8 @@
         "Name": "Primordial Greenbloom",
         "Desc": "A primordial flower procured from the oasis within Apep.<br>With the passing of eons, flowers grew in fragrance and volume, and they gained a collection of titles as numerous as the stars in the night sky.<br>However, this first flower to bloom never bore any name. For the dragons of old, even if a rose lost its name, it would not lose its scent. Naming things is but how lesser, ephemeral beings understand the world. Life is not constrained by words, and will always grow and evolve.",
         "Src": [
-            "Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+            "Lv. 70+ Guardian of Apep's Oasis Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113047",
         "Type": "Character Level-Up Material"
@@ -335,7 +349,8 @@
         "Name": "Worldspan Fern",
         "Desc": "A fern taken from the oasis within Apep's body.<br>At the dawn of time, the world belonged to the dragons. There, the ferns were the first to sprout in the lush verdant world of Apep's court.<br>In the ages after, these ferns would become trees, vines, roots, and leaves, blanketing the world with their touch. But Apep still remembers the first frond as it stretched freely toward the sky, making a sound so delicate as to go unheard.",
         "Src": [
-            "Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+            "Lv. 70+ Guardian of Apep's Oasis Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113046",
         "Type": "Character Level-Up Material"
@@ -368,7 +383,8 @@
         "Name": "Daka's Bell",
         "Desc": "This ball joint, used to connect mechanical limbs together, is shaped almost like a bell. Though it may seem dainty, it can be used to carry an unimaginably large amount of energy.<br>If connected to one's arms, then one will lose all feeling in them.<br>And all strength in one's legs will dissipate if such joints are connected to them.<br>Connect this joint to one's skull...<br>Ah, hatred, pain, madness, pride — none of these will be washed away.<br>Most fortunate.",
         "Src": [
-            "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+            "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113043",
         "Type": "Character Level-Up Material"
@@ -379,7 +395,8 @@
         "Name": "Mirror of Mushin",
         "Desc": "The mirror that was set in Shouki no Kami's chest to separate him from the outside world. The mitsudomoe symbol is emblazoned on it as a deliberate show of status and might.<br>This symbol, however, is no show of obeisance to the master of lightning, but is instead a blade pointed at the existing powers that be in this world. Nor is the mirror a means to shut out the looks of judgment from onlooking people, but is rather a bulwark against this base and sullied world. Within this great temple shall punishment be meted out and ignorance be cleansed.<br>Dreams shall be overturned, desires shall be cut away, and karma shall be reset.",
         "Src": [
-            "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+            "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113042",
         "Type": "Character Level-Up Material"
@@ -390,7 +407,8 @@
         "Name": "Puppet Strings",
         "Desc": "Tubes that were inserted into the mechanical puppet's back. The colors that flow within them are sometimes dull, and at others, vibrant. The contrast is so great as to be fearful.<br>They provided power to the mechanical puppet, and at the same time served as its strings, controlling it and binding it.<br>Once the support of these tubes is lost, the puppet becomes as weak as a newborn infant, barely able to even move.",
         "Src": [
-            "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+            "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113041",
         "Type": "Character Level-Up Material"
@@ -467,7 +485,8 @@
         "Name": "The Meaning of Aeons",
         "Desc": "A small piece of headgear obtained once the dust settled in the Plane of Euthymia.<br>One thought may end all calamity, and there will always be thoughts that may transcend time.<br>Amid all this, one wonders if Makoto's true meaning was successfully communicated or not.",
         "Src": [
-            "Lv. 70+ Guardian of Eternity Challenge Reward"
+            "Lv. 70+ Guardian of Eternity Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113034",
         "Type": "Character Level-Up Material"
@@ -478,7 +497,8 @@
         "Name": "Tears of the Calamitous God",
         "Desc": "A puppet joint obtained from the Plane of Euthymia. The gesture here is in the shape of the baleful Eye of Stormy Judgment.<br>Since they are able to bring down curse and catastrophe alike with a mere gaze, it might seem natural to blame life's misfortunes on calamitous deities. However, if you think about it a little harder, if your will is strong enough, and if your convictions are firm enough...<br>The catastrophes go on for too long. Even a baleful gaze must wash itself with tears.",
         "Src": [
-            "Lv. 70+ Guardian of Eternity Challenge Reward"
+            "Lv. 70+ Guardian of Eternity Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113033",
         "Type": "Character Level-Up Material"
@@ -489,7 +509,8 @@
         "Name": "Mudra of the Malefic General",
         "Desc": "A puppet joint obtained from the Plane of Euthymia. The gesture here symbolizes the concept that \"one sees and one does.\"<br>Even now that \"she\" has become a calamitous deity, she can still utilize such transcendent gestures, her sword flashing forth as swiftly as her eyes may see.<br>And yet, as the countless disasters ground on for far too long, the baleful general's shell had to embrace a new spring.",
         "Src": [
-            "Lv. 70+ Guardian of Eternity Challenge Reward"
+            "Lv. 70+ Guardian of Eternity Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113032",
         "Type": "Character Level-Up Material"
@@ -544,7 +565,8 @@
         "Name": "Ashen Heart",
         "Desc": "A deformed fragment that contains powerful emotions. You obtained this from defeating Signora, who unleashed her original power.<br>Even tears cannot extinguish the flames. Molten-hot agony and rage rush through her veins, oozing from her tear ducts.<br>The First Fatuus found her just before her heart could be destroyed by the eternal blaze. He understood that only deeper hate and obsession could quench the fire that devoured her and make her his ally...",
         "Src": [
-            "Lv. 70+ Signora Challenge Reward"
+            "Lv. 70+ Signora Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113027",
         "Type": "Character Level-Up Material"
@@ -555,7 +577,8 @@
         "Name": "Hellfire Butterfly",
         "Desc": "A warped shard that houses great might. You obtained this from defeating Signora, who unleashed her original power.<br>The seal of ice was broken under duress, and as her former will surged forth from its pale white prison and she remembered her old name once more, the undying butterfly danced amidst burning flesh and blood. And she remembered her past, wandering the land, spreading the flame, burning away all evil — and she recalled the face of the person she could never meet again.",
         "Src": [
-            "Lv. 70+ Signora Challenge Reward"
+            "Lv. 70+ Signora Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113026",
         "Type": "Character Level-Up Material"
@@ -566,7 +589,8 @@
         "Name": "Molten Moment",
         "Desc": "A certain deformed fragment containing great might. You obtained this from defeating La Signora, who unleashed her original power.<br>\"I had a long, long dream.\"<br>\"I dreamed that you and I met again in the pure white world that we created.\"<br>\"But I woke up at last, having long been consumed by the raging flames, while you had long returned to the earth along with that poisoned blood.\"<br>\"But none of it matters anymore. I must continue forging ahead. I must incinerate everything behind me. I must believe in that pure, spotless, everlasting realm that he spoke of — that I saw in the 'delusion' he let me see, at the end of the horizon of Her Majesty's dreams.\"",
         "Src": [
-            "Lv. 70+ Signora Challenge Reward"
+            "Lv. 70+ Signora Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113025",
         "Type": "Character Level-Up Material"
@@ -621,7 +645,8 @@
         "Name": "Gilded Scale",
         "Desc": "Scaled armor that grows naturally over mystical stone, tough and silent, and filled with the strength of the dragon king.<br>Across the years as countless generations returned to the mulch of the earth, gold and obsidian embedded themselves into flesh and blood forged from bedrock before spreading and turning into scales.<br>Searing agony, wordless cries... perhaps they will all vanish when the grudges that spawned them, too, finally come to an end.",
         "Src": [
-            "Lv. 70+ Azhdaha Challenge Reward"
+            "Lv. 70+ Azhdaha Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113019",
         "Type": "Character Level-Up Material"
@@ -632,7 +657,8 @@
         "Name": "Bloodjade Branch",
         "Desc": "Nurtured by the might of the dragon king, these bone branches glitter with strange, unique colors.<br>Hatred coursed through the natural streams and kissed the cold moonlight, and from them were these crystalline branches born and grown...<br>Even though they were severed in battle, these branches steeped in dragon blood rustle as if eternally ill-at-ease.",
         "Src": [
-            "Lv. 70+ Azhdaha Challenge Reward"
+            "Lv. 70+ Azhdaha Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113018",
         "Type": "Character Level-Up Material"
@@ -643,7 +669,8 @@
         "Name": "Dragon Lord's Crown",
         "Desc": "Horns created from hardened jade crystallized over a thousand years are the natural crown of the dragon king.<br>Infused with spirit and carved from bedrock, it was born from the mountain's heart to show the strength of the earth to the land amidst monoliths, and its long golden horns are the mark of its ancient strife with an ancient lord.<br>For a time, this horn was shattered and lost its luster, but now it gleams cold and gold as it sits in your palm.",
         "Src": [
-            "Lv. 70+ Azhdaha Challenge Reward"
+            "Lv. 70+ Azhdaha Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113017",
         "Type": "Character Level-Up Material"
@@ -665,7 +692,8 @@
         "Name": "Shadow of the Warrior",
         "Desc": "A fragment of power that you obtained from defeating Childe, who had unleashed the might of his Delusion.<br>It is the product of a will to fight that has been honed over countless slaughters.<br>If humans do indeed have destinies, then his must surely have been twisted by such deeds. Why else, then, would he always be at the heart of every conflict?",
         "Src": [
-            "Lv. 70+ Childe Challenge Reward"
+            "Lv. 70+ Childe Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113015",
         "Type": "Character Level-Up Material"
@@ -676,7 +704,8 @@
         "Name": "Shard of a Foul Legacy",
         "Desc": "The shard of a weapon that you obtained from defeating Childe, who had unleashed the might of his Delusion.<br>It is stained with a profound color that is not of this world, no doubt due to the land of endless darkness that the young boy saw with his own two eyes.<br>Perhaps it has nothing to do with the power of a Delusion, but as they say, the weapon reflects its user...",
         "Src": [
-            "Lv. 70+ Childe Challenge Reward"
+            "Lv. 70+ Childe Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113014",
         "Type": "Character Level-Up Material"
@@ -687,7 +716,8 @@
         "Name": "Tusk of Monoceros Caeli",
         "Desc": "The horn of a whale that you obtained from defeating Childe, who had unleashed the might of his Delusion.<br>It is said that the shape of one's constellation determines one's character. The image of a whale cruising across the celestial heights represents a solipsism that seeks to crush and devour all in its path.<br>Embracing this aspect of himself, Childe gleefully summoned one such beast before throwing himself into battle against you.",
         "Src": [
-            "Lv. 70+ Childe Challenge Reward"
+            "Lv. 70+ Childe Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113013",
         "Type": "Character Level-Up Material"
@@ -742,7 +772,8 @@
         "Name": "Spirit Locket of Boreas",
         "Desc": "A bit of the Great Wolf King of the North's power drawn from its soul.<br>This land was once a realm of freezing-cold blizzards and ice storms filled with razor-sharp ice shards, all at the command of Boreas. In his final moments, he finally realized the chilling north wind could only extinguish life, not nurture it. Therefore, Boreas let his powers freely flow into the land to protect it and its inhabitants.",
         "Src": [
-            "Lv. 70+ Wolf of the North Challenge Reward"
+            "Lv. 70+ Wolf of the North Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113008",
         "Type": "Character Level-Up Material"
@@ -753,7 +784,8 @@
         "Name": "Ring of Boreas",
         "Desc": "A bit of crystallized ice from the Great Wolf King of the North.<br>This land was once a realm of freezing-cold blizzards and ice storms filled with razor-sharp ice shards, all at the command of Boreas. Though his power may have diminished, he could still freeze the land in an instant.",
         "Src": [
-            "Lv. 70+ Wolf of the North Challenge Reward"
+            "Lv. 70+ Wolf of the North Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113007",
         "Type": "Character Level-Up Material"
@@ -764,7 +796,8 @@
         "Name": "Tail of Boreas",
         "Desc": "A handful of tail scales from the Great Wolf King of the North.<br>Even without his physical body and beyond death, Boreas still possesses extraordinary powers. He took a form comprised of ice and wind to embrace a new challenge, but even such a form could not house all of his power. The ice scales that fell during the battle still retain some of their spiritual energy.",
         "Src": [
-            "Lv. 70+ Wolf of the North Challenge Reward"
+            "Lv. 70+ Wolf of the North Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113006",
         "Type": "Character Level-Up Material"
@@ -775,7 +808,8 @@
         "Name": "Dvalin's Sigh",
         "Desc": "A bit of power taken from the whirlwinds evoked by the Dragon of the East.<br>Beautiful and transparent, both trade winds and tornadoes will work in his name. The winds move as his companion, his voice, and his freedom.<br>His enemies are the thousands who stand against the wind.",
         "Src": [
-            "Lv. 70+ Stormterror Challenge Reward"
+            "Lv. 70+ Stormterror Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113005",
         "Type": "Character Level-Up Material"
@@ -786,7 +820,8 @@
         "Name": "Dvalin's Claw",
         "Desc": "A claw from the Dragon of the East.<br>It once contained the shadow dragon Durin's vile poison, having torn through the latter's flesh in battle. Thanks to your purification and healing, it is no longer toxic.",
         "Src": [
-            "Lv. 70+ Stormterror Challenge Reward"
+            "Lv. 70+ Stormterror Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113004",
         "Type": "Character Level-Up Material"
@@ -797,7 +832,8 @@
         "Name": "Dvalin's Plume",
         "Desc": "A feather from the tail of the Dragon of the East.<br>As a dragon's feather it has experienced more than a thousand years' worth of winds. One senses within it a yearning for freedom so strong that it could whip up a light breeze to rescue it from its current confines. Its former owner's recognition of you is what makes it content to stay in your hands.",
         "Src": [
-            "Lv. 70+ Stormterror Challenge Reward"
+            "Lv. 70+ Stormterror Challenge Reward",
+            "Obtained from the Crafting Bench Conversion Tab"
         ],
         "Icon": "UI_ItemIcon_113003",
         "Type": "Character Level-Up Material"
@@ -830,7 +866,8 @@
         "Name": "Blazing Prismshell",
         "Desc": "A whole piece of radiant shell liberated from a Furnace Shell Mountain Weasel's back after its defeat.<br>It is said that the more Phlogiston a Furnace Shell Mountain Weasel has stored in its back, the higher its status in the pack. The reasoning for this phenomenon may be quite simple: More dominant Furnace Shell Mountain Weasels likely have less need to call on their Phlogiston reserves than their less prominent peers.",
         "Src": [
-            "Dropped by Lv. 60+ Furnace Shell Mountain Weasels"
+            "Dropped by Lv. 60+ Furnace Shell Mountain Weasels",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112121",
         "Type": "Character and Weapon Enhancement Material"
@@ -865,7 +902,8 @@
         "Name": "Illusory Leafcoil",
         "Desc": "A core formed from tightly coiled leaves, the remnant of the monster known as the Tenebrous Mimiflora after being vanquished.<br>It may appear lifeless and dull on the surface, yet a faint, ominous power can still be sensed pulsing within.<br>People often wonder where the memories that such creatures drew from the earth go when they are slain. Perhaps the answer lies within this core...",
         "Src": [
-            "Dropped by Lv. 60+ Tenebrous Mimiflora"
+            "Dropped by Lv. 60+ Tenebrous Mimiflora",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112118",
         "Type": "Character and Weapon Enhancement Material"
@@ -900,7 +938,8 @@
         "Name": "Heart of the Secret Source",
         "Desc": "Comes from a now-defunct Secret Source Automaton.<br>It appears to be an intact core by which the Secret Source Automaton was powered, a strange device that seems to have been produced as a universal component. According to legend, the ingenious thinkers of antiquity drew upon the same wisdom used in the creation of golden patterns to design the blueprints by which these extraordinary machines functioned. Perhaps this core was one of them.",
         "Src": [
-            "Dropped by Lv. 60+ Secret Source Automaton: Hunter-Seeker"
+            "Dropped by Lv. 60+ Secret Source Automaton: Hunter-Seeker",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112115",
         "Type": "Character and Weapon Enhancement Material"
@@ -935,7 +974,8 @@
         "Name": "Ignited Seeing Eye",
         "Desc": "A core retrieved from within the body of a defeated Avatar of Lava.<br>It emits a considerable heat.<br>It is said that once such a core has formed, left to itself, it will develop into a new Avatar of Lava. In ancient times, it was once believed that all forms of life could be traced back to conflagration, and that in the spark of burning matter lay the origins of the soul and sentient wisdom. Perhaps the very existence of Avatars of Lava would bear out such a belief — or perhaps it was the emergence of this theory itself that explains how they came to inhabit the land of Natlan...",
         "Src": [
-            "Dropped by Lv. 60+ Avatars of Lava"
+            "Dropped by Lv. 60+ Avatars of Lava",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112112",
         "Type": "Character and Weapon Enhancement Material"
@@ -970,7 +1010,8 @@
         "Name": "Sigil of a Striding Will",
         "Desc": "An obsidian talisman that houses a Wayob Manifestation.<br>It consists of a jade idol figurine encased in obsidian. They say that in the past, people often used such figurines to attempt to communicate directly with the Wayob of the Night Kingdom. Perhaps this also explains why the Wayob can dwell within it and manifest itself in physical form.",
         "Src": [
-            "Dropped by Lv. 60+ Wayob Manifestations"
+            "Dropped by Lv. 60+ Wayob Manifestations",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112109",
         "Type": "Character and Weapon Enhancement Material"
@@ -1005,7 +1046,8 @@
         "Name": "Saurian-Crowned Warrior's Golden Whistle",
         "Desc": "Among Natlan's tribes, this is the symbol of a mighty, Saurian-Crowned warrior.<br>A golden whistle that is bestowed only upon those who have won great honor for the tribe and shown valor of the highest order. Its symbolic significance now outweighs its practical use, for a Saurian-Crowned warrior is able to handle most crises alone.",
         "Src": [
-            "Dropped by Lv. 60+ Sauroform Tribal Warriors"
+            "Dropped by Lv. 60+ Sauroform Tribal Warriors",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112106",
         "Type": "Character and Weapon Enhancement Material"
@@ -1040,7 +1082,8 @@
         "Name": "Tyrant's Fang",
         "Desc": "A sharp tooth that fell from a mighty Natlan Saurian.<br>Its serrated edge and fearsome shape attest to the ferocity of its owner in battle. Among the many Saurians of Natlan, one with such a tooth must have been a ruthless tyrant indeed.",
         "Src": [
-            "Dropped by Lv. 60+ Natlan Saurians"
+            "Dropped by Lv. 60+ Natlan Saurians",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112103",
         "Type": "Character and Weapon Enhancement Material"
@@ -1075,7 +1118,8 @@
         "Name": "Still-Smoldering Hilt",
         "Desc": "A stone hilt obtained from an ancient statue. Only the recentness of its separation from its owner may explain the as-yet unextinguished flame within.<br>The path to one's ideals is sometimes paved in fire and blood, and this is why this giant sword was forged. Alas, that which waited for them at the end of that bloody road was not a golden future, but a fate that even a god could not defy.",
         "Src": [
-            "Dropped by Lv. 60+ Praetorian Golems"
+            "Dropped by Lv. 60+ Praetorian Golems",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112100",
         "Type": "Character and Weapon Enhancement Material"
@@ -1110,7 +1154,8 @@
         "Name": "Chasmlight Fin",
         "Desc": "An elegant fin taken from a defeated Xuanwen Beast's back.<br>The faint light it reflects contains traces of adeptal energy. In the still of the night, even the most violent beasts briefly sink into a peaceful slumber, reminiscing on times when dreams belonged not only to humans. However, many dream weavers have long since passed, and those dreams from the past are nowhere to be found, like light falling to the bottom of the abyss.",
         "Src": [
-            "Dropped by Lv. 60+ Xuanwen Beasts"
+            "Dropped by Lv. 60+ Xuanwen Beasts",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112097",
         "Type": "Character and Weapon Enhancement Material"
@@ -1145,7 +1190,8 @@
         "Name": "Operative's Constancy",
         "Desc": "An accessory with a Delusion mounted on it. This is the source of the Fatui Operative's power.<br>That said, removing it would not detract from said Operative having physical abilities far beyond that of ordinary humans, forged from long years of training and combat experience. As for them, they are well aware that they have sacrificed their past, present, and future upon the altar of the Fatui's ideal paradise, such that the damage they cause themselves on account of using a Delusion's power matters not at all.<br>They fight to the last when in danger not because they fear death, but because they know that the time and resources to hone them into Operatives were dearly spent.",
         "Src": [
-            "Dropped by Lv. 60+ Fatui Operatives"
+            "Dropped by Lv. 60+ Fatui Operatives",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112094",
         "Type": "Character and Weapon Enhancement Material"
@@ -1180,7 +1226,8 @@
         "Name": "Alien Life Core",
         "Desc": "The core left behind by a Breacher Primus.<br>There is no way to exterminate this life form. One reduced to nothing but its core will resurrect the next day or in decades. Luckily, it is neither aggressive nor intelligent, so Fontainians can just keep their distance.<br>According to the Marechaussee Hunter who accompanied the White Cavalier of Protection, countless Breacher Primus emerged after the horrible battle in Elynas, but none assaulted the two.",
         "Src": [
-            "Dropped by Lv. 60+ Breacher Primuses"
+            "Dropped by Lv. 60+ Breacher Primuses",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112091",
         "Type": "Character and Weapon Enhancement Material"
@@ -1215,7 +1262,8 @@
         "Name": "Newborn Tainted Hydro Phantasm",
         "Desc": "The life contained within the waters is formless, and formless life is born of water and gains water's shape.<br>Ancient Fontainian poets and philosophers believed (or hoped) that countless lives had converged in the waters before the start of time and would converge in the waters again after the end of time. Form, language, and physical contact had been and would be irrelevant, and birth and death, non-existent.<br>The world of water is an extension of all that is alive.<br>This is the world's primordial and ultimate form, a golden era that had been missed and has yet descended.",
         "Src": [
-            "Dropped by Lv. 60+ Tainted Hydro Phantasms"
+            "Dropped by Lv. 60+ Tainted Hydro Phantasms",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112088",
         "Type": "Character and Weapon Enhancement Material"
@@ -1250,7 +1298,8 @@
         "Name": "Artificed Dynamic Gear",
         "Desc": "Clockwork meka gear.<br>Precision processing and advancement of material science are the keys to clockwork meka development in Fontaine. With the help of advanced equipment, any engineer is capable of making a meka that outshines Alain Guillotin's creation.<br>However, the most advanced clockwork meka producer at the present time is the Fortress of Meropide, as workshops can never ever rival factories.",
         "Src": [
-            "Dropped by Lv. 60+ Clockwork Meka"
+            "Dropped by Lv. 60+ Clockwork Meka",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112085",
         "Type": "Character and Weapon Enhancement Material"
@@ -1285,7 +1334,8 @@
         "Name": "Xenochromatic Crystal",
         "Desc": "A large crystal obtained from a defeated Fontemer Aberrant. It contains a mysterious energy.<br>All rivers and seas originate in Fontaine, but the water loses all its unique properties once it flows outside Fontaine's borders. Therefore, some believe that the water itself is not special and that something beneath Fontaine results in its unique seawater.<br>It is said that a certain scholar from the now-destroyed Fontaine Institute of Natural Philosophy had once conducted comprehensive research on this subject.",
         "Src": [
-            "Dropped by Lv. 60+ Fontemer Aberrants"
+            "Dropped by Lv. 60+ Fontemer Aberrants",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112082",
         "Type": "Character and Weapon Enhancement Material"
@@ -1320,7 +1370,8 @@
         "Name": "Wanderer's Blooming Flower",
         "Desc": "A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities.<br>The eternal outlander asks not for reward, but only to see their deeds come to fruition...<br>They say that languages are representations of one's homeland, but hilichurls are a species lacking in memory and words alike. To these wandering creatures, the fragrant scent on a flower is the only feature that bears any semblance to a token of honor.",
         "Src": [
-            "Dropped by Lv. 60+ Hilichurl Rogues"
+            "Dropped by Lv. 60+ Hilichurl Rogues",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112079",
         "Type": "Character and Weapon Enhancement Material"
@@ -1355,7 +1406,8 @@
         "Name": "Marked Shell",
         "Desc": "The marked shell of a Consecrated Beast inscribed with ancient script.<br>On the pallid contours of the shell, the regrets of a time long past have been inlaid. One day, the bones of the beast will scatter like dust in the wind, and then, finally, may the exalted deceased greet their final rest...",
         "Src": [
-            "Dropped by Lv. 60+ Consecrated Beasts"
+            "Dropped by Lv. 60+ Consecrated Beasts",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112076",
         "Type": "Character and Weapon Enhancement Material"
@@ -1390,7 +1442,8 @@
         "Name": "Radiant Prism",
         "Desc": "An exquisite component obtained from defeating a Primal Construct.<br>The lord of the barren desert once had a dream, and once made a great many promises.<br>The legends of the desert say that these machines were originally vehicles for these unknown promises, which now live on only within their mechanical memory banks.",
         "Src": [
-            "Dropped by Lv. 60+ Primal Constructs"
+            "Dropped by Lv. 60+ Primal Constructs",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112073",
         "Type": "Character and Weapon Enhancement Material"
@@ -1425,7 +1478,8 @@
         "Name": "Chaos Bolt",
         "Desc": "Comes from a now-inactive ancient Ruin Drake.<br>Among the lost ancient kingdoms, there was a group of people who were obsessed with the idea of mimesis. Be it the Hypostases' pure ordered elements or the ancient primitive power of the dragons, these people believed that they might all be replicated and modified to the point where they had surpassed their natural counterparts.<br>By this means, a superior and unsullied bodily form could replace the continuously decaying and shattering order.",
         "Src": [
-            "Dropped by Lv. 60+ Ruin Drakes"
+            "Dropped by Lv. 60+ Ruin Drakes",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112070",
         "Type": "Character and Weapon Enhancement Material"
@@ -1460,7 +1514,8 @@
         "Name": "Rich Red Brocade",
         "Desc": "A piece of red brocade woven with golden thread.<br>Those born in the gilded desert under the sun occasionally sing a song, of which the meaning has been forgotten. They would praise the scorching sun that illuminates the earth as equally as ever and bewail the afterglow at the end of the dusk. Some unfamiliar words recur at the end of the song, which are said to be the names of ancient gods. Legend has it that when the King of the Desert was still alive, his people chose to cover their eyes as they dared not look upon him, whose brilliance was beyond that of the sun.",
         "Src": [
-            "Dropped by Lv. 60+ Eremites"
+            "Dropped by Lv. 60+ Eremites",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112067",
         "Type": "Character and Weapon Enhancement Material"
@@ -1496,7 +1551,8 @@
         "Desc": "Body tissue left behind by a Fungus that has been exposed to intense elemental stimulation.<br>It is generally believed that the Fungi evolved into more mobile forms to better disperse their spores.<br>A poet once depicted a shared dream of the Fungi in which their spores covered every inch of the mountains and oceans. The world had never been more tranquil. Then the Fungi turned into fish, birds, beasts, men, and gods, relying on rainfall, land, and their own kind who had returned to the earth.",
         "Src": [
             "Dropped by Lv. 60+ Fungi (activated)",
-            "Dropped by Lv. 60+ Fungi (scorched)"
+            "Dropped by Lv. 60+ Fungi (scorched)",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112064",
         "Type": "Character and Weapon Enhancement Material"
@@ -1535,7 +1591,8 @@
         "Src": [
             "Dropped by Lv. 60+ Fungi",
             "Dropped uncommonly by Lv. 60+ Fungi (activated)",
-            "Dropped uncommonly by Lv. 60+ Fungi (scorched)"
+            "Dropped uncommonly by Lv. 60+ Fungi (scorched)",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112061",
         "Type": "Character and Weapon Enhancement Material"
@@ -1574,7 +1631,8 @@
         "Name": "Concealed Talon",
         "Desc": "A sharp nail left behind by one of the Riftwolves.<br>All the marvels in the world must pale before \"Cretaceus,\" the greatest work of them all.",
         "Src": [
-            "Dropped by Lv. 60+ Riftwolves"
+            "Dropped by Lv. 60+ Riftwolves",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112058",
         "Type": "Character and Weapon Enhancement Material"
@@ -1609,7 +1667,8 @@
         "Name": "Spectral Nucleus",
         "Desc": "A complete energy core that can sometimes be found after defeating Specters.<br>There is a debate among those who just have to divide the world into winners and losers: what floats better — a Specter or an Anemo Slime?",
         "Src": [
-            "Dropped by Lv. 60+ Specters"
+            "Dropped by Lv. 60+ Specters",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112055",
         "Type": "Character and Weapon Enhancement Material"
@@ -1644,7 +1703,8 @@
         "Name": "Polarizing Prism",
         "Desc": "A prism that can bend light.<br>In the darkness, these prisms can spread thin light into a wider area. Perhaps this is due to this quirk that these prisms can grant a measure of peace to those whose hearts are oft shrouded in darkness.",
         "Src": [
-            "Dropped by Lv. 60+ Mirror Maidens"
+            "Dropped by Lv. 60+ Mirror Maidens",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112052",
         "Type": "Character and Weapon Enhancement Material"
@@ -1679,7 +1739,8 @@
         "Name": "Chaos Oculus",
         "Desc": "Comes from a now-inactive ancient Ruin machine.<br>The \"Ruin\" part of the name comes from the areas where they are most active. However, Ruin machines actually have little in common with the detritus in which they are often found.<br>In the ancient past, these ruins were once part of a civilization mighty enough to almost touch the dome of the firmament, while \"ruin\" still waits in the deep places of the earth, awaiting the order to arise and tread all kingdoms underfoot.",
         "Src": [
-            "Dropped by Lv. 60+ Ruin Sentinels"
+            "Dropped by Lv. 60+ Ruin Sentinels",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112049",
         "Type": "Character and Weapon Enhancement Material"
@@ -1714,7 +1775,8 @@
         "Name": "Famed Handguard",
         "Desc": "An intricately-made handguard that was mounted upon a famed weapon.<br>Some believe that swords have souls and lives of their own, and thus deserve their own names. Those who love their blades will be acknowledged by them in turn. But those who see their swords as friends or even lovers should be warned that this relationship is built on death and bloodshed. The passions of those who dance with their blade amid crimson showers must surely be cooled someday by fickle steel.",
         "Src": [
-            "Dropped by Lv. 60+ Nobushi"
+            "Dropped by Lv. 60+ Nobushi",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112046",
         "Type": "Character and Weapon Enhancement Material"
@@ -1751,7 +1813,8 @@
         "Src": [
             "Dropped by Lv. 60+ Geovishap Hatchlings",
             "Dropped by Lv. 60+ Geovishaps",
-            "Dropped by Lv. 60+ Bathysmal Vishaps"
+            "Dropped by Lv. 60+ Bathysmal Vishaps",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112043",
         "Type": "Character and Weapon Enhancement Material"
@@ -1790,7 +1853,8 @@
         "Name": "Energy Nectar",
         "Desc": "A thick and sticky honey that is full of energy.<br>The Whopperflower hunts by tricking its prey, a process it uses to possibly evolve into a more powerful and pure form.",
         "Src": [
-            "Dropped by Lv. 60+ whopperflowers"
+            "Dropped by Lv. 60+ whopperflowers",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112040",
         "Type": "Character and Weapon Enhancement Material"
@@ -1825,7 +1889,8 @@
         "Name": "Golden Raven Insignia",
         "Desc": "A raven insignia that symbolizes the pride and the guiding principle of the Treasure Hoarders. Whether it's hidden amidst the vastness of the land or in the depths of the seas, as long as there are treasures to be hunted down, the spirit of Treasure Hoarders, who will stop at nothing to acquire them, will never die.",
         "Src": [
-            "Dropped by Lv. 60+ Treasure Hoarders"
+            "Dropped by Lv. 60+ Treasure Hoarders",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112037",
         "Type": "Character and Weapon Enhancement Material"
@@ -1862,7 +1927,8 @@
         "Src": [
             "Dropped by Lv. 60+ Fatui Skirmishers",
             "Dropped uncommonly by Lv. 60+ Fatui Agents",
-            "Dropped uncommonly by Lv. 60+ Fatui Cicin Mages"
+            "Dropped uncommonly by Lv. 60+ Fatui Cicin Mages",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112034",
         "Type": "Character and Weapon Enhancement Material"
@@ -1901,7 +1967,8 @@
         "Name": "Inspector's Sacrificial Knife",
         "Desc": "In the hands of its lord, this fierce weapon has handled many \"debts.\" No one has eyes in the back of their heads, and this weapon and its related techniques are designed around that weakness.",
         "Src": [
-            "Dropped by Lv. 60+ Fatui Agents"
+            "Dropped by Lv. 60+ Fatui Agents",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112031",
         "Type": "Character and Weapon Enhancement Material"
@@ -1936,7 +2003,8 @@
         "Name": "Mist Grass Wick",
         "Desc": "A rare bundle of Mist Grass that gives off a faint glow. Those who carry it invite both the Cicins and misfortune.",
         "Src": [
-            "Dropped by Lv. 60+ Fatui Cicin Mages"
+            "Dropped by Lv. 60+ Fatui Cicin Mages",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112028",
         "Type": "Character and Weapon Enhancement Material"
@@ -1972,7 +2040,8 @@
         "Desc": "Comes from ancient defunct relic structures. The core that once drove a mechanical beast. Should you come to understand its workings and reproduce it, you could perhaps change the world.",
         "Src": [
             "Dropped by Lv. 60+ Ruin Guards",
-            "Dropped by Lv. 60+ Ruin Hunters"
+            "Dropped by Lv. 60+ Ruin Hunters",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112025",
         "Type": "Character and Weapon Enhancement Material"
@@ -2009,7 +2078,8 @@
         "Name": "Ley Line Sprout",
         "Desc": "It is said that there was a great tree whose roots once spread out to every corner of the world, and this branch is said to be part of it. It is almost if it was never broken off and taken far away, for its vitality is such that it still sprouts new leaves even now.",
         "Src": [
-            "Dropped by Lv. 60+ Abyss Mages"
+            "Dropped by Lv. 60+ Abyss Mages",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112022",
         "Type": "Character and Weapon Enhancement Material"
@@ -2044,7 +2114,8 @@
         "Name": "Deathly Statuette",
         "Desc": "A one-eyed carving that emanates an ominous energy, with no indication of what it's made of.<br>As you gaze upon this idol, you can almost hear a strange, comforting whisper...<br>\"See, my child. All that lies under the throne of heaven shall be destroyed by upheaval. The eternal peace of the pitch-dark void shall embrace us all.\"",
         "Src": [
-            "Dropped by Lv. 60+ Black Serpents"
+            "Dropped by Lv. 60+ Black Serpents",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112019",
         "Type": "Character and Weapon Enhancement Material"
@@ -2080,7 +2151,8 @@
         "Desc": "A metallic horn with an ominous shine decorated with black crystals of an unknown source. It has hardly been used at all. It is likely a ceremonial item of the hilichurls'.",
         "Src": [
             "Dropped by Lv. 60+ mitachurls",
-            "Dropped by Lv. 60+ lawachurls"
+            "Dropped by Lv. 60+ lawachurls",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112016",
         "Type": "Character and Weapon Enhancement Material"
@@ -2117,7 +2189,8 @@
         "Name": "Weathered Arrowhead",
         "Desc": "An old arrowhead coated in blood. The arrowhead has long since lost its sharpness and thus its use as a weapon.<br>However, it represents the pride of a hunter and acts as both an amulet and a medal.",
         "Src": [
-            "Dropped by Lv. 60+ Hilichurl Shooters"
+            "Dropped by Lv. 60+ Hilichurl Shooters",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112013",
         "Type": "Character and Weapon Enhancement Material"
@@ -2152,7 +2225,8 @@
         "Name": "Forbidden Curse Scroll",
         "Desc": "A scroll inscribed with ancient images. It is said that few can decipher its meaning, and the few scholars that have all went mad.",
         "Src": [
-            "Dropped by Lv. 60+ samachurls"
+            "Dropped by Lv. 60+ samachurls",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112010",
         "Type": "Character and Weapon Enhancement Material"
@@ -2191,7 +2265,8 @@
             "Dropped uncommonly by Lv. 60+ Hilichurl Shooters",
             "Dropped uncommonly by Lv. 60+ samachurls",
             "Dropped uncommonly by Lv. 60+ mitachurls",
-            "Dropped uncommonly by Lv. 60+ lawachurls"
+            "Dropped uncommonly by Lv. 60+ lawachurls",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112007",
         "Type": "Character and Weapon Enhancement Material"
@@ -2234,7 +2309,8 @@
         "Name": "Slime Concentrate",
         "Desc": "Concentrated slime essence. When left alone, it will begin to move on its own.",
         "Src": [
-            "Dropped by Lv. 60+ slimes"
+            "Dropped by Lv. 60+ slimes",
+            "Stardust Exchange: Craft after exchanging"
         ],
         "Icon": "UI_ItemIcon_112004",
         "Type": "Character and Weapon Enhancement Material"
@@ -2848,8 +2924,8 @@
         "Desc": "Character Ascension material.",
         "Src": [
             "Check the Enemies Tab in the Adventurer Handbook",
-            "Purchase from the Souvenir Shop",
-            "Obtained from the Crafting Bench Conversion Tab"
+            "Obtained from the Crafting Bench Conversion Tab",
+            "Purchase from the Souvenir Shop"
         ],
         "Icon": "UI_ItemIcon_104171",
         "Type": "Character Ascension Material"
@@ -2897,8 +2973,8 @@
         "Desc": "Character Ascension material.",
         "Src": [
             "Check the Enemies Tab in the Adventurer Handbook",
-            "Purchase from the Souvenir Shop",
-            "Obtained from the Crafting Bench Conversion Tab"
+            "Obtained from the Crafting Bench Conversion Tab",
+            "Purchase from the Souvenir Shop"
         ],
         "Icon": "UI_ItemIcon_104161",
         "Type": "Character Ascension Material"
@@ -2946,8 +3022,8 @@
         "Desc": "Character Ascension material.",
         "Src": [
             "Check the Enemies Tab in the Adventurer Handbook",
-            "Purchase from the Souvenir Shop",
-            "Obtained from the Crafting Bench Conversion Tab"
+            "Obtained from the Crafting Bench Conversion Tab",
+            "Purchase from the Souvenir Shop"
         ],
         "Icon": "UI_ItemIcon_104151",
         "Type": "Character Ascension Material"
@@ -2995,8 +3071,8 @@
         "Desc": "Character Ascension material.",
         "Src": [
             "Check the Enemies Tab in the Adventurer Handbook",
-            "Purchase from the Souvenir Shop",
-            "Obtained from the Crafting Bench Conversion Tab"
+            "Obtained from the Crafting Bench Conversion Tab",
+            "Purchase from the Souvenir Shop"
         ],
         "Icon": "UI_ItemIcon_104141",
         "Type": "Character Ascension Material"
@@ -3092,8 +3168,8 @@
         "Desc": "Character Ascension material.",
         "Src": [
             "Check the Enemies Tab in the Adventurer Handbook",
-            "Purchase from the Souvenir Shop",
-            "Obtained from the Crafting Bench Conversion Tab"
+            "Obtained from the Crafting Bench Conversion Tab",
+            "Purchase from the Souvenir Shop"
         ],
         "Icon": "UI_ItemIcon_104121",
         "Type": "Character Ascension Material"
@@ -3141,8 +3217,8 @@
         "Desc": "Character Ascension material.",
         "Src": [
             "Check the Enemies Tab in the Adventurer Handbook",
-            "Purchase from the Souvenir Shop",
-            "Obtained from the Crafting Bench Conversion Tab"
+            "Obtained from the Crafting Bench Conversion Tab",
+            "Purchase from the Souvenir Shop"
         ],
         "Icon": "UI_ItemIcon_104111",
         "Type": "Character Ascension Material"
@@ -3911,7 +3987,8 @@
         "Desc": "The exterior of the flower resembles a strange, stony plant. Only in bloom does it reveal a resplendent, crystal-like core.<br>It is said that not all Skysplit Gemblooms successfully bloom during their flowering period. Sometimes, the very outer shell meant to protect the plant's inner core may be too rigid, causing the plant to miss its chance to ever blossom. The Collective of Plenty's tribespeople often use the Gembloom as a metaphor, suggesting that one must be patient in their pursuit of strength and avoid pushing themselves too hard, too fast.",
         "Src": [
             "Go to collect",
-            "Recommendation: Found in Atocpan"
+            "Recommendation: Found in Atocpan",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101254",
         "Type": "Local Specialty (Natlan)"
@@ -3936,7 +4013,8 @@
         "Src": [
             "Go to collect",
             "Recommendation: Found on Tezcatepetonco Range",
-            "Recommendation: Found near the \"Masters of the Night-Wind\""
+            "Recommendation: Found near the \"Masters of the Night-Wind\"",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101252",
         "Type": "Local Specialty (Natlan)"
@@ -3959,7 +4037,8 @@
         "Desc": "A succulent shaped like the paw of a great animal.<br>It is said that there was a time when the plants that grew here could shapeshift at will, almost as if they were some kind of enigmatic dragons. Some would appear poisonous or dangerous in other ways to avoid being eaten by herbivores. If this is indeed true, it is not hard to understand why the Saurian Claw Succulent — true to its name — came to take on the form it still has today.",
         "Src": [
             "Go to collect",
-            "Recommendation: Found in the Sulfurous Veins"
+            "Recommendation: Found in the Sulfurous Veins",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101250",
         "Type": "Local Specialty (Natlan)"
@@ -3972,7 +4051,8 @@
         "Src": [
             "Go to collect",
             "Recommendation: Found on Coatepec Mountain",
-            "Recommendation: Found below the \"Scions of the Canopy\""
+            "Recommendation: Found below the \"Scions of the Canopy\"",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101249",
         "Type": "Local Specialty (Natlan)"
@@ -3985,7 +4065,8 @@
         "Src": [
             "Go to collect",
             "Recommendation: Found on Huitztli Hill",
-            "Recommendation: Found near the Stadium of the Sacred Flame"
+            "Recommendation: Found near the Stadium of the Sacred Flame",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101248",
         "Type": "Local Specialty (Natlan)"
@@ -3998,7 +4079,8 @@
         "Src": [
             "Go to collect",
             "Recommendation: Found in Toyac Springs",
-            "Recommendation: Found near the \"People of the Springs\""
+            "Recommendation: Found near the \"People of the Springs\"",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101247",
         "Type": "Local Specialty (Natlan)"
@@ -4127,7 +4209,8 @@
         "Desc": "A delicate and tender pink flower. Despite the name, Rainbow Roses are essentially more akin to Lilies.<br>It is said to represent passion and romantic encounters.<br>According to ancient records, rainbow-colored roses were once a common sight. Their bright colors could almost rival the blazing flames of the seven heavens. This flower has gone extinct, and as the era came to a tumultuous end, a plant that used to grow symbiotically with it stole the name \"Rainbow Rose.\"",
         "Src": [
             "Go to collect",
-            "Recommendation: Found in Beryl Region"
+            "Recommendation: Found in Beryl Region",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101236",
         "Type": "Local Specialty (Fontaine)"
@@ -4139,7 +4222,8 @@
         "Desc": "A serene and tranquil violet flower. It has a light, soft, and lasting scent and is often used for making rare perfumes.<br>Lumidouce Bell is said to represent parting and the wish for reunion.<br>In Coppelius's play Golden Hyperborea, the flower is referred to as \"Weeping Crystal.\" The play depicts a homesick flower wandering in the freezing lands of the north. Its beauty is made eternal by the icy winds. Critics of Coppelius's time thought that he was obsessed with eternal beauty and eternal love — this obsession was written into every line of his last works.",
         "Src": [
             "Go to collect",
-            "Found in the north of the Court of Fontaine"
+            "Found in the north of the Court of Fontaine",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101235",
         "Type": "Local Specialty (Fontaine)"
@@ -4456,7 +4540,8 @@
         "Desc": "A plant species that only grows in certain regions and islands of the ocean. Though it looks like a fungus of some sort, it actually comes from a substance secreted by certain soft-bodied organisms.<br>In the folktales told in a certain land, these mouthless, noseless creatures are the transformed souls of children who died young. As a form of punishment, they must spend endless years absorbing the elements within the sand and sea using their fragile bodies, piling them up and forming \"Sea Ganoderma.\" And once the Ganoderma are fully formed, they shall be harvested.",
         "Src": [
             "Go to collect",
-            "Found in Inazuman seawater"
+            "Found in Inazuman seawater",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101206",
         "Type": "Local Specialty (Inazuma)"
@@ -4468,7 +4553,8 @@
         "Desc": "Even on windless days, this plant will tremble lightly amid the cries of thunder. The parts of it that resemble petals are in fact extensions of the leaves meant to protect the fragile flower.<br>The Naku Weed grows strongly in areas saturated with Electro energy. Due to its great affinity for lightning, it is often used by residents to predict storms. Stories tell that these plants are what the bake-danuki Ioroi stole from the Shogun's very own garden using its powers, before planting them throughout the islands. Even long after its punishment and disappearance, people still speak of Ioroi's many deeds.",
         "Src": [
             "Go to collect",
-            "Recommendation: Found in Tatarasuna"
+            "Recommendation: Found in Tatarasuna",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101205",
         "Type": "Local Specialty (Inazuma)"
@@ -4771,6 +4857,50 @@
         "Type": "Forging Ore"
     },
     {
+        "_id": 210247,
+        "R": 4,
+        "Name": "Travel Notes: Speculation",
+        "Desc": "Namecard style.<br>Should chess pieces ever grow minds of their own, can they too force their player into awkward zugzwang?",
+        "Src": [
+            "BP Reward"
+        ],
+        "Icon": "UI_NameCardIcon_Bp42",
+        "Pic": "UI_NameCardPic_Bp42_P"
+    },
+    {
+        "_id": 210246,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "???"
+        ],
+        "Icon": "UI_NameCardIcon_RedandWhite3",
+        "Pic": "UI_NameCardPic_RedandWhite3_P"
+    },
+    {
+        "_id": 210245,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "Reward for reaching Friendship 10 with Dahlia"
+        ],
+        "Icon": "UI_NameCardIcon_Dahlia",
+        "Pic": "UI_NameCardPic_Dahlia_P"
+    },
+    {
+        "_id": 210244,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "Reward for reaching Friendship 10 with Skirk"
+        ],
+        "Icon": "UI_NameCardIcon_SkirkNew",
+        "Pic": "UI_NameCardPic_SkirkNew_P"
+    },
+    {
         "_id": 210243,
         "R": 4,
         "Name": "Travel Notes: Balletica",
@@ -4784,8 +4914,8 @@
     {
         "_id": 210242,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Ifa: Bro",
+        "Desc": "Namecard style.<br>\"'Is there any point in getting close to Ifa?' Of course there is, bro, absolutely.\" \"Of course there is, bro, of course there is.\"",
         "Src": [
             "Reward for reaching Friendship 10 with Ifa"
         ],
@@ -4795,8 +4925,8 @@
     {
         "_id": 210241,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Escoffier: Charm",
+        "Desc": "Namecard style.<br>For Escoffier, a certain relationship exists between rhythm and flavor. Why, then, does she not fuel her compositions with delicious food? The answer is quite simple — consistent flavors are reliable and comforting, but no one wants to hear the same song over and over.",
         "Src": [
             "Reward for reaching Friendship 10 with Escoffier"
         ],
@@ -7414,10 +7544,154 @@
         "Buff": 2
     },
     {
+        "_id": 108839,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
+        "Icon": "UI_ItemIcon_108815",
+        "Recipe": 3013,
+        "Avatar": 115,
+        "AI": "UI_AvatarIcon_Dahlia",
+        "Buff": 5
+    },
+    {
+        "_id": 108838,
+        "R": 1,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Restores 16% of Max HP and an additional 1,350 HP to the selected character.",
+        "Icon": "UI_ItemIcon_108814",
+        "Recipe": 1501,
+        "Avatar": 114,
+        "AI": "UI_AvatarIcon_SkirkNew",
+        "Buff": 0
+    },
+    {
+        "_id": 108837,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108813",
+        "Recipe": 3905,
+        "Buff": 3
+    },
+    {
+        "_id": 108836,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108813",
+        "Recipe": 3905,
+        "Buff": 3
+    },
+    {
+        "_id": 108835,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108813",
+        "Recipe": 3905,
+        "Buff": 3
+    },
+    {
+        "_id": 108834,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108812",
+        "Recipe": 3904,
+        "Buff": 6
+    },
+    {
+        "_id": 108833,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108812",
+        "Recipe": 3904,
+        "Buff": 6
+    },
+    {
+        "_id": 108832,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108812",
+        "Recipe": 3904,
+        "Buff": 6
+    },
+    {
+        "_id": 108831,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108811",
+        "Recipe": 4903,
+        "Buff": 2
+    },
+    {
+        "_id": 108830,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108811",
+        "Recipe": 4903,
+        "Buff": 2
+    },
+    {
+        "_id": 108829,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108811",
+        "Recipe": 4903,
+        "Buff": 2
+    },
+    {
+        "_id": 108828,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Revives a character and restores 1,500 HP.",
+        "Icon": "UI_ItemIcon_108810",
+        "Recipe": 3903,
+        "Buff": 4
+    },
+    {
+        "_id": 108827,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Revives a character and restores 1,200 HP.",
+        "Icon": "UI_ItemIcon_108810",
+        "Recipe": 3903,
+        "Buff": 4
+    },
+    {
+        "_id": 108826,
+        "R": 3,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Revives a character and restores 900 HP.",
+        "Icon": "UI_ItemIcon_108810",
+        "Recipe": 3903,
+        "Buff": 4
+    },
+    {
         "_id": 108825,
         "R": 4,
         "Name": "Autumn Frost",
-        "Desc": "Escoffier's inspired creation. Layers of swirling chestnut cream paint the outline of Mont Automnequi, while a dusting of powdered sugar nestles on top, like frost clinging to the mountain slopes. The powerful aroma of chestnuts blends perfectly with the light and airy cream, leaving you licking your lips for more. You might say that Escoffier has summitted the pinnacle of the culinary arts with this one.",
+        "Desc": "Escoffier's inspired creation. Layers of swirling chestnut cream paint the outline of Mont Automnequi, while a dusting of powdered sugar nestles on top, like frost clinging to the mountain slopes. The powerful aroma of chestnuts blends perfectly with the light and airy cream, leaving you licking your lips for more. You might say that Escoffier has summited the pinnacle of the culinary arts with this one.",
         "Eff": "Restores 42% of Max HP and an additional 2850 HP to the selected character.",
         "Icon": "UI_ItemIcon_108809",
         "Recipe": 0,
@@ -7468,8 +7742,8 @@
     {
         "_id": 108820,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Gateau Debord: Magnifique",
+        "Desc": "Escoffier's specialty. Its lavish appearance is even more dazzling than any gateau you've seen before. It has an aura that captivates at first glance and a taste that is impossible not to love, like a soft, warm blanket that envelops every tastebud and suffuses your body with joy... Without a doubt, Escoffier's culinary talents have quietly reached new heights.",
         "Eff": "Increases all party members' ATK by 384 and CRIT Rate by 14% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108804",
         "Recipe": 4404,
@@ -7510,8 +7784,8 @@
     {
         "_id": 108816,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Delicious Petit Gateau Debord: Revised Version",
+        "Desc": "A petite version of the famous Gateau Debord. The velvety sauce is like elusive silk, slipping between your fingers and alighting on your tongue, while the gentle melodies of afternoon tea circle in the air, enchanting your heart... Perhaps this little treat will appear before you again in your dreams tonight...",
         "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108802",
         "Recipe": 4404,
@@ -7520,8 +7794,8 @@
     {
         "_id": 108815,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Petit Gateau Debord: Revised Version",
+        "Desc": "A petite version of the famous Gateau Debord. Even when compared to its namesake, of which only sixteen slices are sold each day, the extraordinary adventures you've experienced together are yet more precious and worthy of remembrance still. Perhaps when Escoffier scribbled down this recipe, she was thinking along these same lines...",
         "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108802",
         "Recipe": 4404,
@@ -7530,8 +7804,8 @@
     {
         "_id": 108814,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Suspicious Petit Gateau Debord: Revised Version",
+        "Desc": "A petite version of the famous Gateau Debord. The small cake is like a piece of driftwood lost in a vast ocean, while the thick chocolate sauce is like a surging wave, enveloping not just the cake — and much of the plate — but also any tiny lingering foothold that hunger might have held in your stomach.",
         "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108802",
         "Recipe": 4404,
@@ -16091,7 +16365,7 @@
     {
         "_id": 100619,
         "R": 0,
-        "Name": "Vitalized Dragontooth",
+        "Name": "Empowered Dragontooth",
         "Desc": "A Dragontooth that has absorbed vitality and now exudes a warmth that makes one uneasy. Once upon a time, a dragon fell to ruin in a silver valley, painting the bone-white snow an ominous crimson. This crimson symbolizes the might of this dragon.<br>This Dragontooth wrapped in that crimson may yet be forged into a deadly weapon...",
         "Src": [],
         "Icon": "UI_ItemIcon_100619",
@@ -16531,7 +16805,8 @@
         "Src": [
             "Go to collect",
             "Found near lakes",
-            "Recommendation: Found in Springvale"
+            "Recommendation: Found in Springvale",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100056",
         "Type": "Local Specialty (Mondstadt)"
@@ -16544,7 +16819,8 @@
         "Src": [
             "Go to collect",
             "Recommendation: Found in Wolvendom",
-            "Recommendation: Found in the Whispering Woods"
+            "Recommendation: Found in the Whispering Woods",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100055",
         "Type": "Local Specialty (Mondstadt)"
@@ -16603,7 +16879,8 @@
         "Desc": "A small flower with strong vitality. It is said that its downward-blooming flower keeps its fragrance from dissipating.",
         "Src": [
             "Go to collect",
-            "Found near cliffs in Liyue"
+            "Found near cliffs in Liyue",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100034",
         "Type": "Local Specialty (Liyue)"
@@ -16640,7 +16917,8 @@
         "Src": [
             "Go to collect",
             "Recommendation: Found in Jueyun Karst",
-            "Recommendation: Found in Guyun Stone Forest"
+            "Recommendation: Found in Guyun Stone Forest",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100031",
         "Type": "Local Specialty (Liyue)"
@@ -16653,7 +16931,8 @@
         "Src": [
             "Go to collect",
             "Recommendation: Found in Yujing Terrace, Liyue Harbor",
-            "Recommendation: Found in Qingce Village"
+            "Recommendation: Found in Qingce Village",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100030",
         "Type": "Local Specialty (Liyue)"
@@ -16666,7 +16945,8 @@
         "Src": [
             "Go to collect",
             "Found near Yujing Terrace, Liyue Harbor",
-            "Found near Wangshu Inn"
+            "Found near Wangshu Inn",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100029",
         "Type": "Local Specialty (Liyue)"
@@ -16691,7 +16971,8 @@
         "Desc": "A spicy plant native to Liyue. Merely smelling it makes one hot and thirsty. Despite \"Jueyun\" being a part of its name, it does not usually grow in Jueyun Karst.<br>The name seems to originate from its spiciness, which makes people want to run to the highest peaks of Jueyun and cool their mouths with chilly air.",
         "Src": [
             "Go to collect",
-            "Recommendation: Found in Qingce Village"
+            "Recommendation: Found in Qingce Village",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100027",
         "Type": "Local Specialty (Liyue)"
@@ -16727,7 +17008,8 @@
         "Src": [
             "Go to collect",
             "Found near the Statue of The Seven at Windrise",
-            "Recommendation: Found in Stormterror's Lair"
+            "Recommendation: Found in Stormterror's Lair",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100024",
         "Type": "Local Specialty (Mondstadt)"
@@ -16739,7 +17021,8 @@
         "Desc": "A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul.",
         "Src": [
             "Go to collect",
-            "Recommendation: Found on Starsnatch Cliff"
+            "Recommendation: Found on Starsnatch Cliff",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100023",
         "Type": "Local Specialty (Mondstadt)"
@@ -16751,7 +17034,8 @@
         "Desc": "A plump and translucent berry that has a fragrant smell and a sweet, refreshing taste. In the past, the storm watchers' only solace was the sweetness of this fruit and hope for the city's peace.",
         "Src": [
             "Go to collect",
-            "Recommendation: Found on Stormbearer Mountains"
+            "Recommendation: Found on Stormbearer Mountains",
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_100022",
         "Type": "Local Specialty (Mondstadt)"
@@ -16901,6 +17185,26 @@
         ],
         "Icon": "UI_ItemIcon_100001",
         "Type": "Food"
+    },
+    {
+        "_id": 215013,
+        "R": 4,
+        "Name": "Echo: Lonesome Transcendence",
+        "Desc": "Shenhe's Envisaged Echo.",
+        "Src": [
+            "Envisaged Echoes challenge reward"
+        ],
+        "Icon": "UI_TraceEffectIcon_Shenhe"
+    },
+    {
+        "_id": 215012,
+        "R": 4,
+        "Name": "Echo: Plane of Euthymia",
+        "Desc": "Raiden Shogun's Envisaged Echo.",
+        "Src": [
+            "Envisaged Echoes challenge reward"
+        ],
+        "Icon": "UI_TraceEffectIcon_Shougun"
     },
     {
         "_id": 215011,
@@ -17179,6 +17483,28 @@
         "Desc": "Complete \"Sacred Sakura Cleansing Ritual\" to unlock",
         "Src": [],
         "Pic": "UI_AvatarIcon_72105_Circle"
+    },
+    {
+        "_id": 220116,
+        "R": 4,
+        "Name": "(test)???",
+        "Desc": "(test) A Guitar",
+        "Src": [
+            "(test) Obtained from ???"
+        ],
+        "Icon": "UI_ItemIcon_220116",
+        "Type": "Gadget"
+    },
+    {
+        "_id": 220115,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "???"
+        ],
+        "Icon": "UI_ItemIcon_220115",
+        "Type": "Gadget"
     },
     {
         "_id": 220113,

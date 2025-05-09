@@ -37,22 +37,93 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Escoffier",
-            "Ifa"
+            "Dahlia",
+            "SkirkNew"
         ],
         "NW": [
-            15432,
-            13514
+            11517
         ],
         "NR": [],
         "VS": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            "1"
         ],
-        "Note": "5.6v5"
+        "Note": "5.7v1"
+    },
+    {
+        "_name": "Dahlia",
+        "_id": 115,
+        "Name": "Dahlia",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "Cantus Choralis",
+        "Nation": "Mondstadt",
+        "Belong": "???",
+        "Grade": 4,
+        "Type": "Boy",
+        "Weapon": "Sword",
+        "Element": "Water",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_Dahlia",
+        "CommonMatt": 112013,
+        "TalentMat": 3,
+        "TalentMatt": 104309,
+        "SpecialityMat": 100056,
+        "AscMat": 113076,
+        "WeekMat": 113070,
+        "CustomPromote": "HP",
+        "Curve": 104,
+        "ShowStats": {
+            "HP": 12506,
+            "ATK": 189,
+            "DEF": 560,
+            "Custom": 0.24
+        },
+        "Version": "5.7v1",
+        "Fetter": 115,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
+    },
+    {
+        "_name": "SkirkNew",
+        "_id": 114,
+        "Name": "Skirk",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "Crystallina",
+        "Nation": "???",
+        "Belong": "???",
+        "Grade": 5,
+        "Type": "Girl",
+        "Weapon": "Sword",
+        "Element": "Ice",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_SkirkNew",
+        "CommonMatt": 112085,
+        "TalentMat": 1,
+        "TalentMatt": 104349,
+        "SpecialityMat": 101254,
+        "AscMat": 113067,
+        "WeekMat": 113073,
+        "CustomPromote": "CD",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 12417,
+            "ATK": 359,
+            "DEF": 806,
+            "Custom": 0.384
+        },
+        "Version": "5.7v1",
+        "Fetter": 114,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
     },
     {
         "_name": "Ifa",
@@ -83,13 +154,13 @@
             "DEF": 605,
             "Custom": 96
         },
-        "Version": "5.6v5",
+        "Version": "5.6",
         "Fetter": 113,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "吕书君",
+            "_EN": "寺島惇太&小松昌平",
+            "_JP": "Jonny Loquasto & Dominic Catrambone",
+            "_KR": "Park Ki-wook"
         }
     },
     {
@@ -121,13 +192,13 @@
             "DEF": 732,
             "Custom": 0.192
         },
-        "Version": "5.6v5",
+        "Version": "5.6",
         "Fetter": 112,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "蔡海婷",
+            "_EN": "佐藤聡美",
+            "_JP": "Emily Cass",
+            "_KR": "Son Jeong-min"
         }
     },
     {
@@ -554,7 +625,7 @@
         "_CV": {
             "_CH": "弭洋",
             "_EN": "ファイルーズあい",
-            "_JP": "Beth Curry",
+            "_JP": "Elizabeth Dean",
             "_KR": "Kim I-an"
         }
     },
@@ -4255,159 +4326,5 @@
             "_JP": "Zach Aguilar & Corina Boettger",
             "_KR": "Lee Kyeong-tae & Kim Ka-ryoung"
         }
-    },
-    {
-        "_name": "Keqing2",
-        "_id": 420,
-        "Name": "Keqing",
-        "Skills": [
-            {
-                "Name": "Test Normal Attack",
-                "DescList": [
-                    "Test Descriptio Line 1",
-                    "Test Descriptio Line 2",
-                    "Test Descriptio Line 3",
-                    "Test Descriptio Line 4",
-                    "Test Descriptio Line 5",
-                    "Test Descriptio Line 6"
-                ],
-                "Tag": "Normal Attack"
-            },
-            {
-                "Name": "Test Elemental Skill",
-                "DescList": [
-                    "Test Descriptio Line 1",
-                    "Test Descriptio Line 2",
-                    "Test Descriptio Line 3",
-                    "Test Descriptio Line 4",
-                    "Test Descriptio Line 5",
-                    "Test Descriptio Line 6",
-                    "Test Descriptio Line 7",
-                    "Test Descriptio Line 8",
-                    "Test Descriptio Line 9",
-                    "Test Descriptio Line 10"
-                ],
-                "Tag": "Elemental Skill"
-            },
-            {
-                "Name": "Test Elemental Burst",
-                "DescList": [
-                    "Test Descriptio Line 1",
-                    "Test Descriptio Line 2",
-                    "Test Descriptio Line 3",
-                    "Test Descriptio Line 4"
-                ],
-                "Tag": "Elemental Burst"
-            },
-            {
-                "Name": "Test Ascension Talent",
-                "Desc": "Test Description",
-                "Tag": "Ascension Talent"
-            },
-            {
-                "Name": "Test Ascension Talent",
-                "Desc": "Test Description",
-                "Tag": "Ascension Talent"
-            },
-            {
-                "Name": "Test Passive Talent",
-                "Desc": "Test Description",
-                "Tag": "Passive Talent"
-            },
-            {
-                "Name": "Test Name",
-                "Desc": "Test Description",
-                "Tag": "Constellation 1"
-            },
-            {
-                "Name": "Test Name",
-                "Desc": "Test Description",
-                "Tag": "Constellation 2"
-            },
-            {
-                "Name": "Test Name",
-                "Desc": "Test Description",
-                "Tag": "Constellation 3"
-            },
-            {
-                "Name": "Test Name",
-                "Desc": "Test Description",
-                "Tag": "Constellation 4"
-            },
-            {
-                "Name": "Test Name",
-                "Desc": "Test Description",
-                "Tag": "Constellation 5"
-            },
-            {
-                "Name": "Test Name",
-                "Desc": "Test Description",
-                "Tag": "Constellation 6"
-            }
-        ],
-        "Stats": {
-            "HP": 13103,
-            "ATK": 323,
-            "DEF": 799,
-            "Custom": 0.384,
-            "CustomPromote": "CD"
-        },
-        "Mats": [
-            [
-                {
-                    "ID": 112038,
-                    "Num": 36
-                },
-                {
-                    "ID": 112039,
-                    "Num": 96
-                },
-                {
-                    "ID": 112040,
-                    "Num": 129
-                }
-            ],
-            [
-                {
-                    "ID": 113002,
-                    "Num": 46
-                }
-            ],
-            [
-                {
-                    "ID": 104310,
-                    "Num": 9
-                },
-                {
-                    "ID": 104311,
-                    "Num": 63
-                },
-                {
-                    "ID": 104312,
-                    "Num": 114
-                }
-            ],
-            [
-                {
-                    "ID": 113007,
-                    "Num": 18
-                }
-            ],
-            [
-                {
-                    "ID": 100058,
-                    "Num": 46
-                }
-            ]
-        ],
-        "Desc": "Website @Feature Test# Page",
-        "Title": "&nbsp;",
-        "Grade": 5,
-        "Element": "Elec",
-        "Weapon": "Sword",
-        "Icon": "../UI/Avatar_1",
-        "Gacha": "../UI/Avatar_1",
-        "Version": "1.0",
-        "Add": true
     }
 ]
