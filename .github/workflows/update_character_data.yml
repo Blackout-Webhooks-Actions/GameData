@@ -22,7 +22,7 @@ jobs:
           pip install --upgrade pip
           pip install requests
 
-      - name: Run image mapping update script
+      - name: Run character data update script
         run: python character_data.py
 
       - name: Commit and push changes
