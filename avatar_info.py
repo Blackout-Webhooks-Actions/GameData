@@ -20,7 +20,7 @@ patterns = {
 	"character": r'__AvatarInfoConfig\s*=\s*(\[\s*\{[\s\S]*?\}\s*\])(?=\s*var)',
 	"item": r'_items\s*=\s*\[.*\].',
 	"weapon": r'_WeaponConfig\s*=\s*(\[\s*\{.*?\}\s*\])',
-	"monster": r'_Monsters\s*=\s*\{.*?"Tutorial":\s*\d+\s*\n\s*\}\s*\n\}(?=\s*var)'
+	"monster": r'_Monsters\s*=\s*\{[\s\S]*?\}\s*(?=var\s)'
 }
 
 matches = {key: re.search(pattern, responses[key].text, re.DOTALL) for key, pattern in patterns.items()}
