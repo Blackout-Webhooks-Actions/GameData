@@ -381,9 +381,17 @@
     "bossName": "Gosoythoth",
     "itemName": "Eroded Scale-Feather"
   },
-  "???": {
-    "bossName": "Game before the Gate",
-    "itemName": "???"
+  "Ascended Sample: Queen": {
+    "bossName": "The Game Before the Gate",
+    "itemName": "Ascended Sample: Queen"
+  },
+  "Ascended Sample: Rook": {
+    "bossName": "The Game Before the Gate",
+    "itemName": "Ascended Sample: Rook"
+  },
+  "Ascended Sample: Knight": {
+    "bossName": "The Game Before the Gate",
+    "itemName": "Ascended Sample: Knight"
   },
 
 
