@@ -25,9 +25,6 @@ jobs:
       - name: Run image mapping update script
         run: python mapping_data_update.py
 
-      - name: Run image mapping update script
-        run: python character_data.py
-
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
