@@ -6102,8 +6102,74 @@
                     "talents": [
                         {
                             "enemyDrop": "Natlan Saurian Materials",
-                            "weeklyBossDrop": null,
+                            "weeklyBossDrop": "Ascended Sample: Rook",
                             "talentBooks": "Conflict"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "name": "Skirk",
+            "constellation": "Crystallina",
+            "version": "5.7",
+            "star": 5,
+            "nation": "???",
+            "element": "Cryo",
+            "weapon": "Sword",
+            "birthday": "01-01",
+            "title": "???",
+            "description": "???",
+            "reruns": [],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Clockwork Meka Materials",
+                            "elementalGem": "Shivada Jade",
+                            "normalBossDrop": "Ensnaring Gaze",
+                            "localSpecialty": "Skysplit Gembloom"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Clockwork Meka Materials",
+                            "weeklyBossDrop": "Ascended Sample: Knight",
+                            "talentBooks": "Contention"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "name": "Dahlia",
+            "constellation": "Cantus Choralis",
+            "version": "5.7",
+            "star": 4,
+            "nation": "Mondstadt",
+            "element": "Hydro",
+            "weapon": "Sword",
+            "birthday": "01-01",
+            "title": "???",
+            "description": "???",
+            "reruns": [],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Hilichurl Shooter Materials",
+                            "elementalGem": "Varunada Lazurite",
+                            "normalBossDrop": "Secret Source Airflow Accumulator",
+                            "localSpecialty": "Calla Lily"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Hilichurl Shooter Materials",
+                            "weeklyBossDrop": "Eroded Scale-Feather",
+                            "talentBooks": "Ballad"
                         }
                     ]
                 }

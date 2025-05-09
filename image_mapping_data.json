@@ -1,5 +1,6 @@
 {
     "Characters": {
+        "Skirk": "SkirkNew",
         "Yumemizuki Mizuki": "Mizuki",
         "Lan Yan": "Lanyan",
         "Ororon": "Olorun",
@@ -30,7 +31,9 @@
     "Items": {
         "Character Level-Up Material": {
             "Secret Source Airflow Accumulator": 113076,
-            "???": 113073,
+            "Ascended Sample: Queen": 113075,
+            "Ascended Sample: Rook": 113074,
+            "Ascended Sample: Knight": 113073,
             "Sparkless Statue Core": 113072,
             "Talisman of the Enigmatic Land": 113071,
             "Eroded Scale-Feather": 113070,
@@ -530,7 +533,7 @@
             "Northlander Claymore Billet": 101103,
             "Northlander Bow Billet": 101102,
             "Northlander Sword Billet": 101101,
-            "Vitalized Dragontooth": 100619,
+            "Empowered Dragontooth": 100619,
             "Strange Tooth": 100618,
             "Loach Pearl": 100090,
             "Crystal Core": 100085,
@@ -549,15 +552,19 @@
             "Starshroom": 101212,
             "Strength Tonic": 111032,
             "\"Pure Water\"": 111029,
+            "???": 108826,
             "Autumn Frost": 108825,
             "Gilded Hall": 108824,
             "Wave-Kissed Sands": 108823,
             "Verdant Gift": 108822,
             "Emotional Support": 108821,
-            "???": 108814,
+            "Gateau Debord: Magnifique": 108820,
             "Delicious Candy Shells": 108819,
             "Candy Shells": 108818,
             "Suspicious Candy Shells": 108817,
+            "Delicious Petit Gateau Debord: Revised Version": 108816,
+            "Petit Gateau Debord: Revised Version": 108815,
+            "Suspicious Petit Gateau Debord: Revised Version": 108814,
             "Delicious Harvest's Boon": 108813,
             "Harvest's Boon": 108812,
             "Suspicious Harvest's Boon": 108811,
@@ -1383,8 +1390,11 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
+            "Travel Notes: Speculation": 210247,
+            "???": 210244,
             "Travel Notes: Balletica": 210243,
-            "???": 210241,
+            "Ifa: Bro": 210242,
+            "Escoffier: Charm": 210241,
             "Travel Notes: Blooming Glory": 210240,
             "Achievement: Tranquil Peace": 210239,
             "Natlan: Draconic Gaze": 210238,
@@ -1653,6 +1663,8 @@
             "Golden House Maiden": 100487
         },
         "Envisaged Echoes": {
+            "Echo: Lonesome Transcendence": 215013,
+            "Echo: Plane of Euthymia": 215012,
             "Echo: Flame-Mane": 215011,
             "Echo: Windborne Bard": 215010,
             "Echo: Scarlet Leaves Pursue Wild Waves": 215009,
@@ -1666,6 +1678,8 @@
             "Echo: Dandelion Knight": 215001
         },
         "Gadget": {
+            "(test)???": 220116,
+            "???": 220041,
             "Inscribed Mirror": 220085,
             "Ukulele": 220112,
             "Djem Djem Drum": 220111,
@@ -1686,7 +1700,6 @@
             "Treasure-Seeking Seelie": 220013,
             "Image Sampling Kamera": 220094,
             "\"Special Analysis Zoom Lens\"": 220093,
-            "???": 220041,
             "Portable Aerodynamic Gelatinous Bubble Generator": 220091,
             "Bresson's Special Kamera": 220090,
             "Wind-Powered Wind Generator": 220089,
@@ -1932,6 +1945,7 @@
             "Ferrous Shadow": "Claymore_Glaive"
         },
         "Sword": {
+            "Azurelight": "Sword_OuterSword",
             "Peak Patrol Song": "Sword_XochitlsTube",
             "Absolution": "Sword_Estoc",
             "Uraku Misugiri": "Sword_Needle",
@@ -2610,7 +2624,7 @@
             "Cinder of Two Worlds' Flames": "UI_MonsterIcon_Nihil",
             "Lord of Eroded Primal Fire": "UI_MonsterIcon_TheAbyssXiuhcoatl",
             "Gosoythoth": "UI_MonsterIcon_TheAbyssXiuhcoatl",
-            "Game before the Gate": "UI_MonsterIcon_GiantChess",
+            "The Game Before the Gate": "UI_MonsterIcon_GiantChess",
             "Chess Game: King Piece": "UI_MonsterIcon_GiantChess_King",
             "Chess Game: Queen Piece": "UI_MonsterIcon_GiantChess_Queen",
             "Ascended King": "UI_MonsterIcon_GiantChess_King",
