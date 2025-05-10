@@ -15457,23 +15457,14 @@
             "Wind": 0.10000000149011612,
             "Rock": 0.10000000149011612
         },
-        "NoRESBase": true,
         "RESState": [
-            {
-                "State": "World",
-                "All": 0
-            },
-            {
-                "State": "Abyss",
-                "All": 3.7
-            },
             {
                 "State": "Improved",
                 "All": 2
             },
             {
                 "State": "Low_Energy",
-                "All": -0.4,
+                "All": -0.1,
                 "Ice": -0.4
             },
             {
