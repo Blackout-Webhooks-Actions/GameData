@@ -3482,9 +3482,9 @@
         "Type": 1,
         "Rank": 5,
         "Icons": "UI_EquipIcon_Sword_OuterSword",
-        "Stat": 608.0745972,
+        "Stat": 674.3345459999999,
         "Custom": "CR",
-        "CustomStat": 0.330768,
+        "CustomStat": 0.220512,
         "AscMatID": 114072,
         "MatIDs": [
             112118,
@@ -3495,7 +3495,7 @@
         "Extra": [],
         "Story": 191517,
         "StoryCount": 1,
-        "V": "1"
+        "V": "2"
     },
     {
         "_id": "11516",

@@ -37,17 +37,18 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Dahlia",
-            "SkirkNew"
+            "SkirkNew",
+            "Dahlia"
         ],
         "NW": [
             11517
         ],
         "NR": [],
         "VS": [
-            "1"
+            "1",
+            "2"
         ],
-        "Note": "5.7v1"
+        "Note": "5.7v2"
     },
     {
         "_name": "Dahlia",
@@ -78,7 +79,7 @@
             "DEF": 560,
             "Custom": 0.24
         },
-        "Version": "5.7v1",
+        "Version": "5.7v2",
         "Fetter": 115,
         "_CV": {
             "_CH": "???",
@@ -116,7 +117,7 @@
             "DEF": 806,
             "Custom": 0.384
         },
-        "Version": "5.7v1",
+        "Version": "5.7v2",
         "Fetter": 114,
         "_CV": {
             "_CH": "???",
