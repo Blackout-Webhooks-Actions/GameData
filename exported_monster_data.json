@@ -11437,7 +11437,7 @@
             "Hydro Tulpa",
             "Awakened Egregore"
         ],
-        "Desc": "A humanoid monster formed from the agglomeration of water.\nCountless wills dissolved in the water, which, like the universe, was full of souls that wished to be born. Are the newborn Hydro Tulpas from the former or the latter? They're not as different as we'd like to think, anyway. The sun can't distinguish them, and neither can time, the surging tides, or even the darkness that permeates everything.",
+        "Desc": "",
         "HP": 318.10358,
         "HPCurve": 20,
         "ATK": 8.0,
@@ -11469,7 +11469,7 @@
             "Lava Dragon Statue",
             "Stone-Hearted Final Form of Flowing Flame"
         ],
-        "Desc": "A monster that can continuously generate heat to sustain its activities.\nLegends say these monsters with lava at their cores are the products of a distinct line of research to the Source Mechanisms that followed them — research into whether the primal flame could be used to create a new race based on humans. This research undoubtedly failed, for once the reaver arrived with their throne from beyond the skies, all that the primal flame could birth were hollow shells whose nominal lifeforce granted them no more consciousness than a stone.",
+        "Desc": "",
         "HP": 273.95828,
         "HPCurve": 20,
         "ATK": 8.0,
@@ -11482,7 +11482,7 @@
             },
             {
                 "State": "Molten",
-                "Fire": 1.65,
+                "Fire": 1.55,
                 "All": 0.35
             },
             {
@@ -11507,7 +11507,7 @@
             "Secret Source Automaton: Overseer Device",
             "Ancient Ruins Master Terminal"
         ],
-        "Desc": "A domination mechanism from the ancient ruins.\nIn ancient times, to oversee the operation of their mega-cities, a mighty race vested part of their power into a form of phlogiston-engineered intelligence. Driven by their mission, and by means of various other mechanisms, the machines upon which it was bestowed once controlled the functioning of myriad cities across the land. Now, long after their ancient civilization's fall through wars with an emerging race, these once-wise contraptions retain only the most basic of commands.",
+        "Desc": "",
         "HP": 335.6541,
         "HPCurve": 20,
         "ATK": 8.0,
