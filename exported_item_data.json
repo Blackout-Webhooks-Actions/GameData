@@ -4860,7 +4860,7 @@
         "_id": 210247,
         "R": 4,
         "Name": "Travel Notes: Speculation",
-        "Desc": "Namecard style.<br>Should chess pieces ever grow minds of their own, can they too force their player into awkward zugzwang?",
+        "Desc": "Namecard style.<br>Should chess pieces ever grow minds of their own, could they too force their players into awkward zugzwang?",
         "Src": [
             "BP Reward"
         ],
@@ -17490,7 +17490,7 @@
         "Name": "???",
         "Desc": "???",
         "Src": [
-            "(test) Obtained from ???"
+            "???"
         ],
         "Icon": "UI_ItemIcon_220116",
         "Type": "Gadget"

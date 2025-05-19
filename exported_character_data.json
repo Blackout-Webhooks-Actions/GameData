@@ -46,9 +46,10 @@
         "NR": [],
         "VS": [
             "1",
-            "2"
+            "2",
+            "3"
         ],
-        "Note": "5.7v2"
+        "Note": "5.7v3"
     },
     {
         "_name": "Dahlia",
@@ -63,7 +64,7 @@
         "Type": "Boy",
         "Weapon": "Sword",
         "Element": "Water",
-        "Birthday": "1/1",
+        "Birthday": "5/25",
         "Icon": "UI_AvatarIcon_Dahlia",
         "CommonMatt": 112013,
         "TalentMat": 3,
@@ -79,7 +80,7 @@
             "DEF": 560,
             "Custom": 0.24
         },
-        "Version": "5.7v2",
+        "Version": "5.7v3",
         "Fetter": 115,
         "_CV": {
             "_CH": "???",
@@ -101,7 +102,7 @@
         "Type": "Girl",
         "Weapon": "Sword",
         "Element": "Ice",
-        "Birthday": "1/1",
+        "Birthday": "11/23",
         "Icon": "UI_AvatarIcon_SkirkNew",
         "CommonMatt": 112085,
         "TalentMat": 1,
@@ -117,7 +118,7 @@
             "DEF": 806,
             "Custom": 0.384
         },
-        "Version": "5.7v2",
+        "Version": "5.7v3",
         "Fetter": 114,
         "_CV": {
             "_CH": "???",
