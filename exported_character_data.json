@@ -47,19 +47,20 @@
         "VS": [
             "1",
             "2",
-            "3"
+            "3",
+            "4"
         ],
-        "Note": "5.7v3"
+        "Note": "5.7v4"
     },
     {
         "_name": "Dahlia",
         "_id": 115,
         "Name": "Dahlia",
-        "Desc": "???",
-        "Title": "???",
+        "Desc": "Deacon of the Church of Favonius and the Anemo Archon's representative in the church.",
+        "Title": "Ode and Oblation",
         "Constellation": "Cantus Choralis",
         "Nation": "Mondstadt",
-        "Belong": "???",
+        "Belong": "Church of Favonius",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Sword",
@@ -80,7 +81,7 @@
             "DEF": 560,
             "Custom": 0.24
         },
-        "Version": "5.7v3",
+        "Version": "5.7v4",
         "Fetter": 115,
         "_CV": {
             "_CH": "???",
@@ -93,16 +94,16 @@
         "_name": "SkirkNew",
         "_id": 114,
         "Name": "Skirk",
-        "Desc": "???",
-        "Title": "???",
+        "Desc": "A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.",
+        "Title": "Void Star",
         "Constellation": "Crystallina",
         "Nation": "???",
-        "Belong": "???",
+        "Belong": "Cosmic Cataclysm",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Sword",
         "Element": "Ice",
-        "Birthday": "11/23",
+        "Birthday": "11/5",
         "Icon": "UI_AvatarIcon_SkirkNew",
         "CommonMatt": 112085,
         "TalentMat": 1,
@@ -118,7 +119,7 @@
             "DEF": 806,
             "Custom": 0.384
         },
-        "Version": "5.7v3",
+        "Version": "5.7v4",
         "Fetter": 114,
         "_CV": {
             "_CH": "???",
