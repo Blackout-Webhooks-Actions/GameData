@@ -3478,7 +3478,7 @@
     {
         "_id": "11517",
         "Name": "Azurelight",
-        "Desc": "",
+        "Desc": "This blade was once pure and pristine as a white dawn star, but it has since been tinted a deep, dark blue.",
         "Type": 1,
         "Rank": 5,
         "Icons": "UI_EquipIcon_Sword_OuterSword",
@@ -3495,7 +3495,7 @@
         "Extra": [],
         "Story": 191517,
         "StoryCount": 1,
-        "V": "4"
+        "V": "5"
     },
     {
         "_id": "11516",

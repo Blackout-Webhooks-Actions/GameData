@@ -37,8 +37,8 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "SkirkNew",
-            "Dahlia"
+            "Dahlia",
+            "SkirkNew"
         ],
         "NW": [
             11517
@@ -48,9 +48,10 @@
             "1",
             "2",
             "3",
-            "4"
+            "4",
+            "5"
         ],
-        "Note": "5.7v4"
+        "Note": "5.7v5"
     },
     {
         "_name": "Dahlia",
@@ -81,7 +82,7 @@
             "DEF": 560,
             "Custom": 0.24
         },
-        "Version": "5.7v4",
+        "Version": "5.7v5",
         "Fetter": 115,
         "_CV": {
             "_CH": "???",
@@ -98,7 +99,7 @@
         "Title": "Void Star",
         "Constellation": "Crystallina",
         "Nation": "???",
-        "Belong": "Cosmic Cataclysm",
+        "Belong": "Cosmic Calamity",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -119,7 +120,7 @@
             "DEF": 806,
             "Custom": 0.384
         },
-        "Version": "5.7v4",
+        "Version": "5.7v5",
         "Fetter": 114,
         "_CV": {
             "_CH": "???",
