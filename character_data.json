@@ -2738,6 +2738,12 @@
                     "endDate": "2024-09-17",
                     "version": "5.0",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -2796,6 +2802,12 @@
                     "endDate": "2024-01-09",
                     "version": "4.3",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -2860,6 +2872,12 @@
                     "endDate": "2024-01-30",
                     "version": "4.3",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -3000,6 +3018,12 @@
                     "endDate": "2024-10-08",
                     "version": "5.0",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -3058,6 +3082,12 @@
                     "endDate": "2023-08-15",
                     "version": "3.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -3121,6 +3151,12 @@
                     "startDate": "2024-09-17",
                     "endDate": "2024-10-08",
                     "version": "5.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
                     "wishType": "event"
                 }
             ],
@@ -3236,6 +3272,12 @@
                     "startDate": "2024-09-17",
                     "endDate": "2024-10-08",
                     "version": "5.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
                     "wishType": "event"
                 }
             ],
@@ -3359,6 +3401,12 @@
                     "endDate": "2024-04-02",
                     "version": "4.5",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -3411,6 +3459,12 @@
                     "endDate": "2025-02-11",
                     "version": "5.3",
                     "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2025-06-18",
+                    "endDate": "2025-07-08",
+                    "version": "5.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -3545,6 +3599,12 @@
                     "endDate": "2024-03-12",
                     "version": "4.4",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -3597,6 +3657,12 @@
                     "endDate": "2023-12-19",
                     "version": "4.2",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -4211,6 +4277,12 @@
                     "endDate": "2024-06-04",
                     "version": "4.6",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-05-07",
+                    "version": "5.6",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4391,6 +4463,13 @@
                     "endDate": "2025-02-11",
                     "version": "5.3",
                     "wishType": "chronicled"
+                },
+                {
+                    "banner": "upcoming",
+                    "version": "5.7",
+                    "phase": "upcoming",
+                    "wishType": "event",
+                    "info": "leak"
                 }
             ],
             "materials": [
@@ -4742,6 +4821,12 @@
                     "startDate": "2024-04-24",
                     "endDate": "2024-05-14",
                     "version": "4.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
                     "wishType": "event"
                 }
             ],
@@ -5141,6 +5226,12 @@
                     "endDate": "2024-08-06",
                     "version": "4.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-05-07",
+                    "version": "5.6",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5291,6 +5382,12 @@
                     "endDate": "2024-10-29",
                     "version": "5.1",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -5515,6 +5612,12 @@
                     "endDate": "2024-08-27",
                     "version": "4.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-07-08",
+                    "endDate": "2025-07-29",
+                    "version": "5.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5600,6 +5703,12 @@
                     "startDate": "2024-09-17",
                     "endDate": "2024-10-08",
                     "version": "5.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-06-17",
+                    "version": "5.6",
                     "wishType": "event"
                 }
             ],
@@ -5767,6 +5876,12 @@
                     "endDate": "2024-12-10",
                     "version": "5.2",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-05-07",
+                    "version": "5.6",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5806,6 +5921,12 @@
                     "startDate": "2025-01-01",
                     "endDate": "2025-01-21",
                     "version": "5.3",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-07-08",
+                    "endDate": "2025-07-29",
+                    "version": "5.7",
                     "wishType": "event"
                 }
             ],
@@ -6043,9 +6164,9 @@
             "description": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-05-07",
                     "version": "5.6",
-                    "phase": "upcoming",
                     "wishType": "event"
                 }
             ],
@@ -6083,9 +6204,9 @@
             "description": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-05-27",
+                    "endDate": "2025-05-07",
                     "version": "5.6",
-                    "phase": "upcoming",
                     "wishType": "event"
                 }
             ],
@@ -6121,7 +6242,14 @@
             "birthday": "11-05",
             "title": "Void Star",
             "description": "A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.",
-            "reruns": [],
+            "reruns": [
+                {
+                    "startDate": "2025-06-18",
+                    "endDate": "2025-07-08",
+                    "version": "5.7",
+                    "wishType": "event"
+                }
+            ],
             "materials": [
                 {
                     "ascension": [
@@ -6154,7 +6282,14 @@
             "birthday": "05-25",
             "title": "Ode and Oblation",
             "description": "Deacon of the Church of Favonius and the Anemo Archon's representative in the church.",
-            "reruns": [],
+            "reruns": [
+                {
+                    "startDate": "2025-06-18",
+                    "endDate": "2025-07-08",
+                    "version": "5.7",
+                    "wishType": "event"
+                }
+            ],
             "materials": [
                 {
                     "ascension": [

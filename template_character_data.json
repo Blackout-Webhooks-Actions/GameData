@@ -78,7 +78,8 @@
           "banner": "upcoming",
           "version": "5.2",
           "phase": "upcoming",
-          "wishType": "event"
+          "wishType": "event",
+          "info": "leak"
         }
       ]
     },
@@ -92,7 +93,8 @@
           "banner": "upcoming",
           "version": "5.2",
           "phase": "upcoming",
-          "wishType": "event"
+          "wishType": "event",
+          "info": "official"
         }
       ]
     },
