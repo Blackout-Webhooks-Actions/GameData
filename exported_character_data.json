@@ -33,12 +33,12 @@
         "_CV": {
             "_CH": "谢莹",
             "_EN": "喜多村英梨",
-            "_JP": "Kayli Mills",
+            "_JP": "Kayli Mills & Anonymous",
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Dahlia",
-            "SkirkNew"
+            "SkirkNew",
+            "Dahlia"
         ],
         "NW": [
             11517
@@ -49,9 +49,10 @@
             "2",
             "3",
             "4",
-            "5"
+            "5",
+            "L"
         ],
-        "Note": "5.7v5"
+        "Note": "5.7"
     },
     {
         "_name": "Dahlia",
@@ -82,13 +83,13 @@
             "DEF": 560,
             "Custom": 0.24
         },
-        "Version": "5.7v5",
+        "Version": "5.7",
         "Fetter": 115,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "风袖",
+            "_EN": "山本和臣",
+            "_JP": "Aileen Mythen",
+            "_KR": "Seok Seung-hoon"
         }
     },
     {
@@ -120,13 +121,13 @@
             "DEF": 806,
             "Custom": 0.384
         },
-        "Version": "5.7v5",
+        "Version": "5.7",
         "Fetter": 114,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "谢莹",
+            "_EN": "能登麻美子",
+            "_JP": "Cat Protano",
+            "_KR": "Seo Da-hye"
         }
     },
     {
@@ -705,7 +706,7 @@
         "_CV": {
             "_CH": "斑马 & 弭洋",
             "_EN": "杉山紀彰 & 竹内順子",
-            "_JP": "Jacob Takanashi & John Patneaude & Abby Espiritu",
+            "_JP": "Jacob Takanashi & Abby Espiritu",
             "_KR": "Kang Seong-woo & Park Li-na"
         }
     },
