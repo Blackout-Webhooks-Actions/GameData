@@ -552,6 +552,18 @@
             "Starshroom": 101212,
             "Strength Tonic": 111032,
             "\"Pure Water\"": 111029,
+            "Delicious Shrimp Bisque": 108851,
+            "Shrimp Bisque": 108850,
+            "Suspicious Shrimp Bisque": 108849,
+            "Delicious Gentle Sea Breeze": 108848,
+            "Gentle Sea Breeze": 108847,
+            "Suspicious Gentle Sea Breeze": 108846,
+            "Delicious Nanas Cake": 108845,
+            "Nanas Cake": 108844,
+            "Suspicious Nanas Cake": 108843,
+            "Delicious Mini Asha Pockets": 108842,
+            "Mini Asha Pockets": 108841,
+            "Suspicious Mini Asha Pockets": 108840,
             "\"Chatter of Joyful Nights\"": 108839,
             "\"Abyssal Bounty\"": 108838,
             "Delicious Bubblemilk Pie": 108837,
@@ -1403,6 +1415,10 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
+            "???": 210248,
+            "Travel Notes: Easy Breezy": 210251,
+            "Natlan: Chasing the Wind": 210250,
+            "Natlan: Wheel of Flame": 210249,
             "Travel Notes: Speculation": 210247,
             "Celebration: Lavish Gala": 210246,
             "Dahlia: Sacred Duty": 210245,
@@ -1696,14 +1712,16 @@
             "Vigorous Yapping": 200010
         },
         "Gadget": {
+            "Paimon's Kamera": 220108,
+            "Leaping Spirit Piano": 220117,
             "\"Lingering Euphonia\"": 220116,
             "Neo Terminal: Floating Leaf Model": 220115,
+            "Forensic Imaging Device": 220114,
             "Inscribed Mirror": 220085,
             "Ukulele": 220112,
             "Djem Djem Drum": 220111,
             "Repertoire of Myriad Melodies": 220110,
             "Artifact Transmuter": 220109,
-            "Paimon's Kamera": 220108,
             "Graffiti Kamera": 220107,
             "Kaboom Box": 220106,
             "Firstborn Firesprite": 220105,
@@ -1887,6 +1905,7 @@
             "Magic Guide": "Catalyst_Intro"
         },
         "Polearm": {
+            "Fractured Halo": "Pole_Perdix",
             "Symphonist of Scents": "Pole_Trident",
             "Lumidouce Elegy": "Pole_Muguet",
             "Crimson Moon's Semblance": "Pole_BloodMoon",
@@ -1933,6 +1952,7 @@
             "Song of Broken Pines": "Claymore_Widsith",
             "Wolf's Gravestone": "Claymore_Wolfmound",
             "Skyward Pride": "Claymore_Dvalin",
+            "Flame-Forged Insight": "Claymore_Polilith",
             "Earth Shaker": "Claymore_Isikhulu",
             "Fruitful Hook": "Claymore_Umpakati",
             "Portable Power Saw": "Claymore_Mechanic",
@@ -2108,7 +2128,8 @@
             "\"Tupu's Lushness\"": "UI_MonsterIcon_Wayob_Bisonsaurus",
             "\"Infinitesimal\"": "UI_MonsterIcon_Lava_Solid",
             "\"Ironclaw\"": "UI_AnimalIcon_Penguin_01",
-            "\"Battlegoat\"": "UI_AnimalIcon_Capra_01"
+            "\"Battlegoat\"": "UI_AnimalIcon_Capra_01",
+            "Embodiment of Tenochtzitoc": "UI_MonsterIcon_Tenoyollotzin"
         },
         "Event": {
             "Hydro Tulpa: Flashflood": "UI_MonsterIcon_Narcissusborn_Normal_01",
@@ -2440,10 +2461,16 @@
             "Ascended King": "UI_MonsterIcon_GiantChess_King",
             "Sublimated Queen": "UI_MonsterIcon_GiantChess_Queen"
         },
-        "Tumult Subduer": {
+        "Miscellaneous": {
+            "Cocijo": "UI_AnimalIcon_Tortoise_Electric"
+        },
+        "Stygian Onslaught": {
             "Hydro Tulpa: Turbulent Vortex": "UI_MonsterIcon_Narcissusborn_Normal_01",
             "Lava Dragon Statue: Blazing Flame": "UI_MonsterIcon_LavaTitan",
-            "Secret Source Automaton: Overseer Device - Obliterator Panoply": "UI_MonsterIcon_DragonCollar"
+            "Secret Source Automaton: Overseer Device - Obliterator Panoply": "UI_MonsterIcon_DragonCollar",
+            "Tenebrous Papilla: Shadow Void Transfiguration": "UI_MonsterIcon_TheAbyss_Dendrite",
+            "Battle-Hardened Tent Tortoise: Thunderous Aegis": "UI_MonsterIcon_Tortoise_Electric",
+            "Tenochtzitoc's Illusion: Hundred Deceptions": "UI_MonsterIcon_Tenoyollotzin"
         }
     }
 }
