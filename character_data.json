@@ -6309,6 +6309,39 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 116,
+            "name": "Ineffa",
+            "constellation": "",
+            "version": "5.8",
+            "star": 5,
+            "nation": "???",
+            "element": "Electro",
+            "weapon": "Polearm",
+            "birthday": "04-02",
+            "title": "",
+            "description": "",
+            "reruns": [],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Sauroform Tribal Warrior Materials",
+                            "elementalGem": "Vajrada Amethyst",
+                            "normalBossDrop": "Secret Source Airflow Accumulator",
+                            "localSpecialty": "Glowing Hornshroom"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Sauroform Tribal Warrior Materials",
+                            "weeklyBossDrop": "Eroded Sunfire",
+                            "talentBooks": "Conflict"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
