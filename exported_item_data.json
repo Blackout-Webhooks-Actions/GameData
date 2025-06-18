@@ -4857,6 +4857,61 @@
         "Type": "Forging Ore"
     },
     {
+        "_id": 210252,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "???"
+        ],
+        "Icon": "UI_NameCardIcon_Event58",
+        "Pic": "UI_NameCardPic_Event58_P"
+    },
+    {
+        "_id": 210251,
+        "R": 4,
+        "Name": "Travel Notes: Easy Breezy",
+        "Desc": "Namecard style.<br> Time drifts by, and you linger, with no thoughts of your destination, and a poem on your breath.",
+        "Src": [
+            "BP Reward"
+        ],
+        "Icon": "UI_NameCardIcon_Bp43",
+        "Pic": "UI_NameCardPic_Bp43_P"
+    },
+    {
+        "_id": 210250,
+        "R": 4,
+        "Name": "Natlan: Chasing the Wind",
+        "Desc": "Namecard style.<br>Even if the winds blow no longer in these shattered lands, where will remain those who chase the winds through the ashes.",
+        "Src": [
+            "Reward for completing all achievements under \"A Summer of Ash and Prickly Pears\""
+        ],
+        "Icon": "UI_NameCardIcon_Natlan4",
+        "Pic": "UI_NameCardPic_Natlan4_P"
+    },
+    {
+        "_id": 210249,
+        "R": 4,
+        "Name": "Natlan: Wheel of Flame",
+        "Desc": "Namecard style.<br>The stone wheel of the totem turns. Not just with the passage of time, but with the blazing of all souls.",
+        "Src": [
+            "Reach Tablet of Tona Level 48"
+        ],
+        "Icon": "UI_NameCardIcon_NatlanOffering",
+        "Pic": "UI_NameCardPic_NatlanOffering_P"
+    },
+    {
+        "_id": 210248,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "Reward for reaching Friendship 10 with Ineffa"
+        ],
+        "Icon": "UI_NameCardIcon_Ineffa",
+        "Pic": "UI_NameCardPic_Ineffa_P"
+    },
+    {
         "_id": 210247,
         "R": 4,
         "Name": "Travel Notes: Speculation",
@@ -7542,6 +7597,126 @@
         "Icon": "UI_ItemIcon_111029",
         "Recipe": 14101,
         "Buff": 2
+    },
+    {
+        "_id": 108851,
+        "R": 3,
+        "Name": "Delicious Shrimp Bisque",
+        "Desc": "A thick, orange-red soup. Its flavor is warm and rich, the perfect spiciness of the soup blending with sweet shrimp meat and vegetables. It's as though elemental energy is surging through your body, lifting your spirits in an instant.",
+        "Eff": "Increases all party members' Healing Bonus by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108819",
+        "Recipe": 3514,
+        "Buff": 3
+    },
+    {
+        "_id": 108850,
+        "R": 3,
+        "Name": "Shrimp Bisque",
+        "Desc": "A thick, orange-red soup. After stir-frying the spices, add the ingredients and simmer with broth until cooked. Up close, you'll catch a savory aroma laced with fiery, fragrant heat. The vibrant color of the broth whets the appetite at a glance, and it tastes even better.",
+        "Eff": "Increases all party members' Healing Bonus by 17% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108819",
+        "Recipe": 3514,
+        "Buff": 3
+    },
+    {
+        "_id": 108849,
+        "R": 3,
+        "Name": "Suspicious Shrimp Bisque",
+        "Desc": "A thick, orange-red soup. A single mouthful makes your face burn hot in an instant, giving even the redness of the cooked shrimp a run for its money. After coughing and gagging for a few minutes, you finally manage to breathe again, but by then, you no longer feel like giving the dish another try...",
+        "Eff": "Increases all party members' Healing Bonus by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108819",
+        "Recipe": 3514,
+        "Buff": 3
+    },
+    {
+        "_id": 108848,
+        "R": 3,
+        "Name": "Delicious Gentle Sea Breeze",
+        "Desc": "A refreshing drink. The light and gentle bubbles dance on the tip of your tongue. The sweetness of the fruit juice and the salty flavor of the soda blend together in perfect harmony, as though you're stepping through waves in time with the breeze. Cheers and laughter from the resort fill the air...",
+        "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108818",
+        "Recipe": 3513,
+        "Buff": 1
+    },
+    {
+        "_id": 108847,
+        "R": 3,
+        "Name": "Gentle Sea Breeze",
+        "Desc": "A refreshing drink. Its vivid blue-to-white gradient is evocative of cresting waves caressed by the sea breeze. Having a sip of this while on a holiday is sure to fill your heart with ease.",
+        "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108818",
+        "Recipe": 3513,
+        "Buff": 1
+    },
+    {
+        "_id": 108846,
+        "R": 3,
+        "Name": "Suspicious Gentle Sea Breeze",
+        "Desc": "A refreshing drink. A tidal wave of saltiness almost sweeps you off your feet, with not a single hint of sweet in the whole glass. Is this just a cup of blue-colored brine?",
+        "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108818",
+        "Recipe": 3513,
+        "Buff": 1
+    },
+    {
+        "_id": 108845,
+        "R": 3,
+        "Name": "Delicious Nanas Cake",
+        "Desc": "A cake with a fascinating shape. Its golden sheen reminds you of the sunset in Pricklepear. Made in the jovial likeness of a Nanasian, you can't help but feel a sense of delight from just looking at it. Bathed in the sweet aroma of eggs and cream, you wish you could preserve those joyful moments spent with everyone in Pricklepear forever.",
+        "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108817",
+        "Recipe": 3512,
+        "Buff": 2
+    },
+    {
+        "_id": 108844,
+        "R": 3,
+        "Name": "Nanas Cake",
+        "Desc": "A cake with a fascinating shape. Mix the paste well, then place into a mold and heat until fully cooked. The edges are particularly susceptible to burning. If you're looking for a perfect golden color on your Nanas Cake, the most important thing is to control the heat.",
+        "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108817",
+        "Recipe": 3512,
+        "Buff": 2
+    },
+    {
+        "_id": 108843,
+        "R": 3,
+        "Name": "Suspicious Nanas Cake",
+        "Desc": "A cake with a fascinating shape. It was a little deformed when you took it out of the pot, and its texture is a bit too soft. You can't help but think back on the cooking process... and how the cake tastes like it's just been dredged up from the sea.",
+        "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+        "Icon": "UI_ItemIcon_108817",
+        "Recipe": 3512,
+        "Buff": 2
+    },
+    {
+        "_id": 108842,
+        "R": 4,
+        "Name": "Delicious Mini Asha Pockets",
+        "Desc": "An adorable pastry shaped like an Asha. The fluffy, crispy outer layer glimmers gold like Mora. The sweet scent of onions blankets every slice of tender meat like the prelude to a holiday — like the cheerful spring in your step when you walk into your resort.",
+        "Eff": "A little surprise from the Easybreeze Holiday Resort.",
+        "Icon": "UI_ItemIcon_108816",
+        "Recipe": 4507,
+        "Buff": 8
+    },
+    {
+        "_id": 108841,
+        "R": 4,
+        "Name": "Mini Asha Pockets",
+        "Desc": "An adorable pastry shaped like an Asha. Wrap the meat filling in dough, shape the pastry, then deep-fry until golden. Don't forget to paint on tiny sunglasses with sauce for a playful touch. It's not hard to guess why this snack is so popular. Asha are super, super cute, after all.",
+        "Eff": "A little surprise from the Easybreeze Holiday Resort.",
+        "Icon": "UI_ItemIcon_108816",
+        "Recipe": 4507,
+        "Buff": 8
+    },
+    {
+        "_id": 108840,
+        "R": 4,
+        "Name": "Suspicious Mini Asha Pockets",
+        "Desc": "An adorable pastry shaped like an Asha. A stronger fire was used for fear of undercooking the meet, but the result seems to be closer to a \"Mini Ashy Pocket\" rather than an Asha. It seems like eating it might just ruin your vacation, so maybe it's best to forget you ever made it...",
+        "Eff": "A little surprise from the Easybreeze Holiday Resort.",
+        "Icon": "UI_ItemIcon_108816",
+        "Recipe": 4507,
+        "Buff": 8
     },
     {
         "_id": 108839,
@@ -17325,6 +17500,14 @@
         "Pic": "UI_AvatarIcon_Activity_01_Circle"
     },
     {
+        "_id": 100220,
+        "R": 1,
+        "Name": "",
+        "Desc": "Complete \"The Last Survivor of Tenochtzitoc\" to unlock",
+        "Src": [],
+        "Pic": "UI_AvatarIcon_75230_Circle"
+    },
+    {
         "_id": 100210,
         "R": 1,
         "Name": "Till We Meet Again",
@@ -17493,6 +17676,26 @@
         "Pic": "UI_AvatarIcon_72105_Circle"
     },
     {
+        "_id": 220118,
+        "R": 4,
+        "Name": "Paimon's Kamera",
+        "Desc": "A convenient gadget that can record and store pictures of scenery. This one belongs to Paimon. Aside from food and spending time with you, Paimon has many other hobbies, and photography is one of them. According to her, the pictures you've taken are enough for an exhibition. Perhaps one day, you can hold a photography exhibition for Paimon!",
+        "Src": [],
+        "Icon": "UI_ItemIcon_220108",
+        "Type": "Gadget"
+    },
+    {
+        "_id": 220117,
+        "R": 4,
+        "Name": "Leaping Spirit Piano",
+        "Desc": "Use to play a traditional Natlanese instrument.<br>A uniquely curved mechanical piano, its black and white keys resemble a traditional model, but the sound it produces is unconventional indeed. In some lively occasions, musicians often play it such that its rhythm becomes the fuel for a fiery atmosphere.",
+        "Src": [
+            "Purchased From Djembe Studios"
+        ],
+        "Icon": "UI_ItemIcon_220117",
+        "Type": "Gadget"
+    },
+    {
         "_id": 220116,
         "R": 4,
         "Name": "\"Lingering Euphonia\"",
@@ -17512,6 +17715,15 @@
             "Obtained from a collaboration event"
         ],
         "Icon": "UI_ItemIcon_220115",
+        "Type": "Gadget"
+    },
+    {
+        "_id": 220114,
+        "R": 4,
+        "Name": "Forensic Imaging Device",
+        "Desc": "A special Kamera that can be used to compare past and present data to investigate anomalies in an area and gather important clues.<br>At the same time, thanks to its various optical channels, this device can allow you to pick up on traces that may be difficult to observe with the naked eye. If you make good use of this function, you'll be able to gather information with ease.",
+        "Src": [],
+        "Icon": "UI_ItemIcon_220114",
         "Type": "Gadget"
     },
     {

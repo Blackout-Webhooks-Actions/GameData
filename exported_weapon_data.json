@@ -1870,6 +1870,28 @@
         "V": "L"
     },
     {
+        "_id": "13515",
+        "Name": "Fractured Halo",
+        "Desc": "",
+        "Type": 4,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Pole_Perdix",
+        "Stat": 608.0745972,
+        "Custom": "CD",
+        "CustomStat": 0.661536,
+        "AscMatID": 114064,
+        "MatIDs": [
+            112121,
+            112103
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 113515,
+        "Extra": [],
+        "Story": 193515,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
         "_id": "13514",
         "Name": "Symphonist of Scents",
         "Desc": "An elegantly built polearm, said to have been a conductor's baton wielded by a great musician to bridge tune and taste.",
@@ -2836,6 +2858,28 @@
         "Story": 192501,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "12432",
+        "Name": "Flame-Forged Insight",
+        "Desc": "",
+        "Type": 2,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Claymore_Polilith",
+        "Stat": 509.605949,
+        "Custom": "EM",
+        "CustomStat": 165.38400000000001,
+        "AscMatID": 114068,
+        "MatIDs": [
+            112121,
+            112082
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 112432,
+        "Extra": [],
+        "Story": 192432,
+        "StoryCount": 0,
+        "V": "1"
     },
     {
         "_id": "12431",

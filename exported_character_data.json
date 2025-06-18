@@ -37,22 +37,55 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "SkirkNew",
-            "Dahlia"
+            "Ineffa"
         ],
         "NW": [
-            11517
+            12432,
+            13515
         ],
         "NR": [],
         "VS": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "L"
+            "1"
         ],
-        "Note": "5.7"
+        "Note": "5.8v1"
+    },
+    {
+        "_name": "Ineffa",
+        "_id": 116,
+        "Name": "Ineffa",
+        "Desc": "",
+        "Title": "",
+        "Constellation": "",
+        "Nation": "???",
+        "Belong": "",
+        "Grade": 5,
+        "Type": "Girl",
+        "Weapon": "Pole",
+        "Element": "Elec",
+        "Birthday": "4/2",
+        "Icon": "UI_AvatarIcon_Ineffa",
+        "CommonMatt": 112106,
+        "TalentMat": 3,
+        "TalentMatt": 104355,
+        "SpecialityMat": 101252,
+        "AscMat": 113076,
+        "WeekMat": 113069,
+        "CustomPromote": "CR",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 12613,
+            "ATK": 330,
+            "DEF": 828,
+            "Custom": 0.192
+        },
+        "Version": "5.8v1",
+        "Fetter": 116,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
     },
     {
         "_name": "Dahlia",

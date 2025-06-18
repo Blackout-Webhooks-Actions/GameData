@@ -9388,6 +9388,30 @@
         "Class": "5.0 Night's Trials",
         "Category": "Local Legends"
     },
+    "80213": {
+        "_id": 80213,
+        "Name": "Cocijo",
+        "Title": [
+            "Spirit Sent From Clouds Above"
+        ],
+        "Desc": "A reptile with a thick carapace.\nA gentle-tempered, slow-moving species. Because of its longevity, it is deemed by some people as a symbol of auspiciousness and wisdom. Due to its excessively gentle temper and slow motion, it is also used as a metaphor to insult people. Whatever the case, the Tent Tortoise is content to peacefully walk the lands. Human languages bear no meaningful connotations whatsoever to such a creature.",
+        "Color": "Elec",
+        "HP": 22.0,
+        "HPCurve": 2,
+        "ATK": 11.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.5,
+            "Elec": 0.7
+        },
+        "Icon": [
+            "UI_AnimalIcon_Tortoise_Electric"
+        ],
+        "Tutorial": 28021301,
+        "Csx": [
+            "ECLegends"
+        ]
+    },
     "28021301": {
         "_id": 28021301,
         "Name": "Cocijo",
@@ -9447,7 +9471,7 @@
             "Dragon-Defier"
         ],
         "Desc": "These herbivores, which often dwell close to the water, are famous for their steely, stoic \"won't even twitch if lightning strikes right next to their toes\" disposition. Tourists consider them to be the paragon of animal friends.\nCapybaras like to zone out while having a soak in the water, or sun themselves on the shore, and it's quite common for them to barely move for most of the day, as though not a single thing in the world could possibly perturb their calm demeanor and make them anxious. Despite their fluffy appearance, their hairs are actually quite hard and tough. If you pet them in the same direction as their coat of hair, it feels relatively smooth, but should you pet them in the opposite direction, you may end up with a scratched hand. Perhaps that is the reason even famished predators do not regard these completely harmless and quite defenseless little friends as prey...",
-        "HP": 47.5,
+        "HP": 43,
         "HPCurve": 2,
         "ATK": 12,
         "ATKCurve": 4,
@@ -11459,8 +11483,8 @@
         "Tut": 3068,
         "Color": "Water",
         "Tutorial": 20051205,
-        "Class": "Tumult Subduer",
-        "Category": "Tumult Subduer"
+        "Class": "5.7",
+        "Category": "Stygian Onslaught"
     },
     "26270305": {
         "_id": 26270305,
@@ -11497,8 +11521,8 @@
         "Tut": 3089,
         "Color": "Fire",
         "Tutorial": 26270305,
-        "Class": "Tumult Subduer",
-        "Category": "Tumult Subduer"
+        "Class": "5.7",
+        "Category": "Stygian Onslaught"
     },
     "24090504": {
         "_id": 24090504,
@@ -11535,7 +11559,115 @@
         "Tut": 3091,
         "Color": "Water",
         "Tutorial": 24090504,
-        "Class": "Tumult Subduer",
-        "Category": "Tumult Subduer"
+        "Class": "5.7",
+        "Category": "Stygian Onslaught"
+    },
+    "55601": {
+        "_id": 55601,
+        "Name": "Embodiment of Tenochtzitoc",
+        "Title": [
+            "Embodiment of Tenochtzitoc",
+            "Gentle Yet Unyielding Resolve"
+        ],
+        "Desc": "",
+        "Color": "Elec",
+        "HP": 42.0,
+        "HPCurve": 2,
+        "ATK": 10.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Tenoyollotzin"
+        ],
+        "Class": "5.8",
+        "Category": "Local Legends"
+    },
+    "55602": {
+        "_id": 55602,
+        "Name": "Embodiment of Tenochtzitoc",
+        "Title": [
+            "Embodiment of Tenochtzitoc",
+            "Gentle Yet Unyielding Resolve"
+        ],
+        "Desc": "",
+        "Color": "Elec",
+        "HP": 9.6,
+        "HPCurve": 2,
+        "ATK": 5.5,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Tenoyollotzin"
+        ],
+        "Class": "Spiral Abyss Versions",
+        "Category": "Local Legends"
+    },
+    "22121604": {
+        "_id": 22121604,
+        "Name": "Tenebrous Papilla: Shadow Void Transfiguration",
+        "Title": [
+            "Tenebrous Papilla",
+            "Void Fantasy Plant"
+        ],
+        "Desc": "",
+        "HP": 242.83144,
+        "HPCurve": 20,
+        "ATK": 5.5,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_TheAbyss_Dendrite"
+        ],
+        "MultiPlayerID": 108,
+        "Tutorial": 22121604,
+        "Class": "5.8",
+        "Category": "Stygian Onslaught"
+    },
+    "28021305": {
+        "_id": 28021305,
+        "Name": "Battle-Hardened Tent Tortoise: Thunderous Aegis",
+        "Title": [
+            "Battle-Hardened Tent Tortoise",
+            "Spirit of Cloud and Thunder"
+        ],
+        "Desc": "",
+        "HP": 199.27214,
+        "HPCurve": 20,
+        "ATK": 5.5,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.5,
+            "Elec": 0.7
+        },
+        "Icon": [
+            "UI_MonsterIcon_Tortoise_Electric"
+        ],
+        "MultiPlayerID": 108,
+        "Color": "Elec",
+        "Tutorial": 28021305,
+        "Class": "5.8",
+        "Category": "Stygian Onslaught"
+    },
+    "25560206": {
+        "_id": 25560206,
+        "Name": "Tenochtzitoc's Illusion: Hundred Deceptions",
+        "Title": [
+            "Embodiment of Tenochtzitoc",
+            "Gentle Yet Unyielding Resolve"
+        ],
+        "Desc": "",
+        "HP": 259.72668,
+        "HPCurve": 20,
+        "ATK": 5.5,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Tenoyollotzin"
+        ],
+        "MultiPlayerID": 108,
+        "Color": "Elec",
+        "Tutorial": 25560206,
+        "Class": "5.8",
+        "Category": "Stygian Onslaught"
     }
 }
