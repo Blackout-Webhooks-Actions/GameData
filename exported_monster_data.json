@@ -11576,9 +11576,18 @@
         "ATK": 10.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Hat",
+                "All": 1.25,
+                "Elec": -1.25,
+                "Water": -1.25
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Tenoyollotzin"
         ],
+        "Tutorial": 55602,
         "Class": "5.8",
         "Category": "Local Legends"
     },
@@ -11596,9 +11605,18 @@
         "ATK": 5.5,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Hat",
+                "All": 1.25,
+                "Elec": -1.25,
+                "Water": -1.25
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Tenoyollotzin"
         ],
+        "Tutorial": 55602,
         "Class": "Spiral Abyss Versions",
         "Category": "Local Legends"
     },
@@ -11661,12 +11679,20 @@
         "ATK": 5.5,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Hat",
+                "All": 1.25,
+                "Elec": -1.25,
+                "Water": -1.25
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Tenoyollotzin"
         ],
         "MultiPlayerID": 108,
         "Color": "Elec",
-        "Tutorial": 25560206,
+        "Tutorial": 55602,
         "Class": "5.8",
         "Category": "Stygian Onslaught"
     }
