@@ -11582,6 +11582,10 @@
                 "All": 1.25,
                 "Elec": -1.25,
                 "Water": -1.25
+            },
+            {
+                "State": "Weak",
+                "All": -1
             }
         ],
         "Icon": [
@@ -11611,6 +11615,10 @@
                 "All": 1.25,
                 "Elec": -1.25,
                 "Water": -1.25
+            },
+            {
+                "State": "Weak",
+                "All": -1
             }
         ],
         "Icon": [
@@ -11633,6 +11641,12 @@
         "ATK": 5.5,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Weak",
+                "All": -0.25
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Dendrite"
         ],
@@ -11685,6 +11699,10 @@
                 "All": 1.25,
                 "Elec": -1.25,
                 "Water": -1.25
+            },
+            {
+                "State": "Weak",
+                "All": -1
             }
         ],
         "Icon": [
