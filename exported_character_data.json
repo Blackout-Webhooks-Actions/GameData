@@ -45,19 +45,20 @@
         ],
         "NR": [],
         "VS": [
-            "1"
+            "1",
+            "2"
         ],
-        "Note": "5.8v1"
+        "Note": "5.8v2"
     },
     {
         "_name": "Ineffa",
         "_id": 116,
         "Name": "Ineffa",
-        "Desc": "",
-        "Title": "",
-        "Constellation": "",
+        "Desc": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
+        "Title": "???",
+        "Constellation": "Vanilla Planifolia",
         "Nation": "???",
-        "Belong": "",
+        "Belong": "Clink-Clank Krumkake Craftshop",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Pole",
@@ -78,7 +79,7 @@
             "DEF": 828,
             "Custom": 0.192
         },
-        "Version": "5.8v1",
+        "Version": "5.8v2",
         "Fetter": 116,
         "_CV": {
             "_CH": "???",

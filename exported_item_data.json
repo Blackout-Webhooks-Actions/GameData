@@ -7662,7 +7662,7 @@
         "_id": 108845,
         "R": 3,
         "Name": "Delicious Nanas Cake",
-        "Desc": "A cake with a fascinating shape. Its golden sheen reminds you of the sunset in Pricklepear. Made in the jovial likeness of a Nanasian, you can't help but feel a sense of delight from just looking at it. Bathed in the sweet aroma of eggs and cream, you wish you could preserve those joyful moments spent with everyone in Pricklepear forever.",
+        "Desc": "A cake with a fascinating shape. Its golden sheen reminds you of the sunset in Villa Guiztli. Made in the jovial likeness of a Nanasian, you can't help but feel a sense of delight from just looking at it. Bathed in the sweet aroma of eggs and cream, you wish you could preserve those joyful moments spent with everyone in Villa Guiztli forever.",
         "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108817",
         "Recipe": 3512,
@@ -17502,7 +17502,7 @@
     {
         "_id": 100220,
         "R": 1,
-        "Name": "",
+        "Name": "The Scholar Who Crossed the Mare Jivari",
         "Desc": "Complete \"The Last Survivor of Tenochtzitoc\" to unlock",
         "Src": [],
         "Pic": "UI_AvatarIcon_75230_Circle"

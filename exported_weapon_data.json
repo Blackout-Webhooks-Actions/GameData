@@ -1884,12 +1884,12 @@
             112121,
             112103
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Purifying Crown",
         "EquipAffixID": 113515,
         "Extra": [],
         "Story": 193515,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "2"
     },
     {
         "_id": "13514",
@@ -2874,12 +2874,12 @@
             112121,
             112082
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Mind in Bloom",
         "EquipAffixID": 112432,
         "Extra": [],
         "Story": 192432,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "2"
     },
     {
         "_id": "12431",
