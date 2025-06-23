@@ -6313,15 +6313,15 @@
         {
             "id": 116,
             "name": "Ineffa",
-            "constellation": "",
+            "constellation": "Vanilla Planifolia",
             "version": "5.8",
             "star": 5,
             "nation": "???",
             "element": "Electro",
             "weapon": "Polearm",
             "birthday": "04-02",
-            "title": "",
-            "description": "",
+            "title": "???",
+            "description": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
             "reruns": [],
             "materials": [
                 {
