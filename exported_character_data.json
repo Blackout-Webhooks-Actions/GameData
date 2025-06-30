@@ -46,16 +46,17 @@
         "NR": [],
         "VS": [
             "1",
-            "2"
+            "2",
+            "3"
         ],
-        "Note": "5.8v2"
+        "Note": "5.8v3"
     },
     {
         "_name": "Ineffa",
         "_id": 116,
         "Name": "Ineffa",
         "Desc": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
-        "Title": "???",
+        "Title": "Boom Boom Thunderwave",
         "Constellation": "Vanilla Planifolia",
         "Nation": "???",
         "Belong": "Clink-Clank Krumkake Craftshop",
@@ -79,7 +80,7 @@
             "DEF": 828,
             "Custom": 0.192
         },
-        "Version": "5.8v2",
+        "Version": "5.8v3",
         "Fetter": 116,
         "_CV": {
             "_CH": "???",

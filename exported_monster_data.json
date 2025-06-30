@@ -11604,7 +11604,7 @@
         ],
         "Desc": "",
         "Color": "Elec",
-        "HP": 9.6,
+        "HP": 10.0,
         "HPCurve": 2,
         "ATK": 5.5,
         "ATKCurve": 4,
@@ -11635,7 +11635,7 @@
             "Tenebrous Papilla",
             "Void Fantasy Plant"
         ],
-        "Desc": "",
+        "Desc": "Abyssal monsters that grow like parasitic plants.\nAgents of continuous corrosion, these distorters are capable of extracting memories from deeper layers of the earth, and through the power of the Abyss, reconstructing memories of greater potency. The hatred once spread from their roots coalesced amidst the inchoate chaos of the Ley Lines to form blades of untold savagery that would inflict deep suffering on those foolhardy enough to challenge them...",
         "HP": 242.83144,
         "HPCurve": 20,
         "ATK": 5.5,
@@ -11661,7 +11661,7 @@
         "Title": [
             "Spirit of Cloud and Thunder"
         ],
-        "Desc": "",
+        "Desc": "Gentle and slow by nature, this reptile is seen by some as a symbol of wisdom and good fortune. Yet when backed into a corner, this remarkable creature is capable of unleashing fierce assaults upon its foes, using its thick shell as a battering ram to crush any and all opposition.\nAmidst the inchoate chaos of the Ley Lines, its form has been twisted, eagerly charging into battle in a fury, like a lightning storm of attack and defense...",
         "HP": 199.27214,
         "HPCurve": 20,
         "ATK": 5.5,
@@ -11681,14 +11681,14 @@
     },
     "25560206": {
         "_id": 25560206,
-        "Name": "Tenochtzitoc's Illusion: Hundred Deceptions",
+        "Name": "Battle-Hardened Pipilpan Idol: Hundred Deceptions",
         "Title": [
             "Actor: Papa",
             "Gentle Yet Unyielding Resolve"
         ],
-        "Desc": "",
-        "HP": 259.72668,
-        "HPCurve": 20,
+        "Desc": "A Pipilpan Idol who channels the essence of Tenoch. Adept at dazzling hat tricks and strategems of battle, it can attack from a wide range of angles, leaving reckless challengers paying the price for hasty missteps...\nAmidst the inchoate chaos of the Ley Lines, the performer's obsession takes form as flurries of rejection and annihilation. Any slight mistake may result in the challenger being ground into dust, just as Tenoch's opponents once were...",
+        "HP": 9.9529,
+        "HPCurve": 2,
         "ATK": 5.5,
         "ATKCurve": 4,
         "RESBase": {},
