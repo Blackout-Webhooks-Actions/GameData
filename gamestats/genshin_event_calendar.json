@@ -392,203 +392,25 @@
             ]
         },
         {
-            "id": 79,
-            "name": "Battle of Imagined Arrays",
-            "description": "To answer the strange questions that the children have raised about different monsters, lifeforms, and various warriors, the researchers of the Akademiya have decided to create a game that simulates an adventure of sorts...",
-            "type": "ActTypeOther",
+            "id": 82,
+            "name": "Overflowing Abundance",
+            "description": "",
+            "type": "ActTypeDouble",
             "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2025-07-07T03:59:59",
-            "end_timestamp": 1751831999,
+            "end_time": "2025-07-14T03:59:59",
+            "end_timestamp": 1752436799,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2025-06-20T10:00:00",
-            "start_timestamp": 1750384800,
+            "start_time": "2025-07-07T04:00:00",
+            "start_timestamp": 1751832000,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 104319,
-                    "name": "Crown of Insight",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bf059be872ce72f035e3df38da065e89.png",
-                    "num": 1,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/900"
-                },
-                {
-                    "id": 201,
-                    "name": "Primogem",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 970,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
-                },
-                {
-                    "id": 10000097,
-                    "name": "Sethos",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e6dfdba74b9a43c56a850bc09fc8c207.png",
-                    "num": 1,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5598"
-                },
-                {
-                    "id": 104003,
-                    "name": "Hero's Wit",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
-                },
-                {
-                    "id": 104337,
-                    "name": "Philosophies of Praxis",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f955fbbc307b0223d2fb49ab104cc45f.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2691"
-                },
-                {
-                    "id": 104334,
-                    "name": "Philosophies of Ingenuity",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/715eea89033e66cc25f6974972b9d2fd.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2688"
-                },
-                {
-                    "id": 104331,
-                    "name": "Philosophies of Admonition",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9b8e1556f4fadccb4f563fb9e081cce4.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2685"
-                },
-                {
-                    "id": 202,
-                    "name": "Mora",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                },
-                {
-                    "id": 105002,
-                    "name": "Sanctifying Unction",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
-                },
-                {
-                    "id": 104336,
-                    "name": "Guide to Praxis",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6cd3275b325388840b8239b03a38b5d9.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2690"
-                },
-                {
-                    "id": 104333,
-                    "name": "Guide to Ingenuity",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e3fa5b7168ad455158aa812db13b91d9.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2687"
-                },
-                {
-                    "id": 104330,
-                    "name": "Guide to Admonition",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/07404aab6b0afa78286a38ea1f70f89b.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2684"
-                },
-                {
-                    "id": 104172,
-                    "name": "Prithiva Topaz Fragment",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0949ad6d7c3e8f3bd577b30f5f2aa283.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/446"
-                },
-                {
-                    "id": 104162,
-                    "name": "Shivada Jade Fragment",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8b6ce7f096e294231cef28326cb6683.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/410"
-                },
-                {
-                    "id": 104152,
-                    "name": "Vayuda Turquoise Fragment",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c3c8fe02bd7778a9e9e2befc1835c51c.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1495"
-                },
-                {
-                    "id": 104142,
-                    "name": "Vajrada Amethyst Fragment",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aed02c6795884973a597c86d2507f5b2.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/904"
-                },
-                {
-                    "id": 104132,
-                    "name": "Nagadus Emerald Fragment",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/464d55a8e7a90bd94e6cdce783805959.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2678"
-                },
-                {
-                    "id": 104122,
-                    "name": "Varunada Lazurite Fragment",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fc3a89a644e48b89bc5464dff55039af.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1036"
-                },
-                {
-                    "id": 104112,
-                    "name": "Agnidus Agate Fragment",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b53db4ba6c9a4840e7b844f46703fd21.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1099"
-                },
-                {
-                    "id": 104013,
-                    "name": "Mystic Enhancement Ore",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
-                }
-            ]
+            "rewards": null,
+            "double_reward_detail": {
+                "remaining": 3,
+                "total": 3
+            }
         },
         {
             "id": 78,
@@ -681,27 +503,6 @@
             "strategy": null,
             "theater_detail": null,
             "rewards": null
-        },
-        {
-            "id": 82,
-            "name": "Overflowing Abundance",
-            "description": "",
-            "type": "ActTypeDouble",
-            "abyss_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null,
-            "double_reward_detail": {
-                "remaining": 3,
-                "total": 3
-            }
         }
     ],
     "weapon_banners": [
