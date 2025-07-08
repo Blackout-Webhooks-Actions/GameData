@@ -830,6 +830,12 @@
                     "endDate": "2025-03-04",
                     "version": "5.4",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-07-08",
+                    "endDate": "2025-07-29",
+                    "version": "5.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4477,11 +4483,10 @@
                     "wishType": "chronicled"
                 },
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-07-08",
+                    "endDate": "2025-07-29",
                     "version": "5.7",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "leak"
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6099,6 +6104,12 @@
                     "startDate": "2025-03-26",
                     "endDate": "2025-04-15",
                     "version": "5.5",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-07-08",
+                    "endDate": "2025-07-29",
+                    "version": "5.7",
                     "wishType": "event"
                 }
             ],
