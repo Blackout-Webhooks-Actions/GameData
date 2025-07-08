@@ -4871,7 +4871,7 @@
         "_id": 210251,
         "R": 4,
         "Name": "Travel Notes: Easy Breezy",
-        "Desc": "Namecard style.<br> Time drifts by, and you linger, with no thoughts of your destination, and a poem on your breath.",
+        "Desc": "Namecard style.<br>Time floats easy, light and free. You sway so breezy, just let it be. No rush to go, no need to know — just pick a poem and go with the flow.",
         "Src": [
             "BP Reward"
         ],
@@ -4882,7 +4882,7 @@
         "_id": 210250,
         "R": 4,
         "Name": "Natlan: Chasing the Wind",
-        "Desc": "Namecard style.<br>Even if the winds blow no longer in these shattered lands, where will remain those who chase the winds through the ashes.",
+        "Desc": "Namecard style.<br>Even when the winds no longer sweep these broken plains, those who chase the breeze through the ashes will still remain.",
         "Src": [
             "Reward for completing all achievements under \"A Summer of Ash and Prickly Pears\""
         ],
@@ -7702,7 +7702,7 @@
         "_id": 108841,
         "R": 4,
         "Name": "Mini Asha Pockets",
-        "Desc": "An adorable pastry shaped like an Asha. Wrap the meat filling in dough, shape the pastry, then deep-fry until golden. Don't forget to paint on tiny sunglasses with sauce for a playful touch. It's not hard to guess why this snack is so popular. Asha are super, super cute, after all.",
+        "Desc": "An adorable pastry shaped like an Asha. Wrap the meat filling in dough, shape the pastry, then deep-fry until golden. Don't forget to paint on tiny sunglasses with sauce for a playful touch. It's not hard to guess why this snack is so popular — Asha are super, super cute, after all.",
         "Eff": "A little surprise from the Easybreeze Holiday Resort.",
         "Icon": "UI_ItemIcon_108816",
         "Recipe": 4507,
@@ -7712,7 +7712,7 @@
         "_id": 108840,
         "R": 4,
         "Name": "Suspicious Mini Asha Pockets",
-        "Desc": "An adorable pastry shaped like an Asha. A stronger fire was used for fear of undercooking the meet, but the result seems to be closer to a \"Mini Ashy Pocket\" rather than an Asha. It seems like eating it might just ruin your vacation, so maybe it's best to forget you ever made it...",
+        "Desc": "An adorable pastry shaped like an Asha. A stronger fire was used for fear of undercooking the meat, but the result seems to be closer to a \"Mini Ashy Pocket\" rather than an Asha. It seems like eating it might just ruin your vacation, so maybe it's best to forget you ever made it...",
         "Eff": "A little surprise from the Easybreeze Holiday Resort.",
         "Icon": "UI_ItemIcon_108816",
         "Recipe": 4507,
@@ -17679,7 +17679,7 @@
         "_id": 220118,
         "R": 4,
         "Name": "Paimon's Kamera",
-        "Desc": "A convenient gadget that can record and store pictures of scenery. This one belongs to Paimon. Aside from food and spending time with you, Paimon has many other hobbies, and photography is one of them. According to her, the pictures you've taken are enough for an exhibition. Perhaps one day, you can hold a photography exhibition for Paimon!",
+        "Desc": "A convenient gadget that can record and store pictures of scenery. This one belongs to Paimon. Aside from food and spending time with you, Paimon has many other hobbies, and photography is one of them. According to her, the pictures she has taken are enough for an exhibition. Perhaps one day, you can hold a photography exhibition for Paimon!",
         "Src": [],
         "Icon": "UI_ItemIcon_220108",
         "Type": "Gadget"
