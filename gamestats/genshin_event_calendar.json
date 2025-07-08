@@ -230,86 +230,86 @@
     ],
     "character_banners": [
         {
-            "id": 71,
+            "id": 74,
             "name": "Character Event Wish",
             "type": 1,
-            "end_time": "2025-07-08T17:59:00",
-            "end_timestamp": 1751968740,
+            "end_time": "2025-07-29T14:59:59",
+            "end_timestamp": 1753772399,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2025-06-18T07:00:00",
-            "start_timestamp": 1750201200,
+            "start_time": "2025-07-08T18:00:00",
+            "start_timestamp": 1751968800,
             "version": "5.7",
             "characters": [
                 {
-                    "id": 10000114,
-                    "name": "Skirk",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/b3007bcbb99dd9b47af558ecc1bb65ff.png",
+                    "id": 10000106,
+                    "name": "Mavuika",
+                    "element": "Pyro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c54cf9fe971d6226b78ad795ced9bee8.png",
                     "rarity": 5
                 },
                 {
-                    "id": 10000115,
-                    "name": "Dahlia",
-                    "element": "Hydro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/9e5b1c5805948358c656e702e5eecae2.png",
+                    "id": 10000110,
+                    "name": "Iansan",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67e3357c/f44e8b4c7a61a4abb2aa2ccfe9b810cd.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000072,
-                    "name": "Candace",
-                    "element": "Hydro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9ef120c399afbf7f136034b68d721d44.png",
+                    "id": 10000077,
+                    "name": "Yaoyao",
+                    "element": "Dendro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7ec9b285faccd804b54fa026dde96e8.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000039,
-                    "name": "Diona",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4fc01b013d363a4805296ba081342870.png",
+                    "id": 10000023,
+                    "name": "Xiangling",
+                    "element": "Pyro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png",
                     "rarity": 4
                 }
             ],
             "weapons": null
         },
         {
-            "id": 72,
+            "id": 75,
             "name": "Character Event Wish 2",
             "type": 1,
-            "end_time": "2025-07-08T17:59:00",
-            "end_timestamp": 1751968740,
+            "end_time": "2025-07-29T14:59:59",
+            "end_timestamp": 1753772399,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2025-06-18T07:00:00",
-            "start_timestamp": 1750201200,
+            "start_time": "2025-07-08T18:00:00",
+            "start_timestamp": 1751968800,
             "version": "5.7",
             "characters": [
                 {
-                    "id": 10000063,
-                    "name": "Shenhe",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f5dc584b2a9b02b8266084d96ad3cf.png",
+                    "id": 10000099,
+                    "name": "Emilie",
+                    "element": "Dendro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/91922ba4b8882f158eb0d26c30ab74d5.png",
                     "rarity": 5
                 },
                 {
-                    "id": 10000115,
-                    "name": "Dahlia",
-                    "element": "Hydro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/9e5b1c5805948358c656e702e5eecae2.png",
+                    "id": 10000110,
+                    "name": "Iansan",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67e3357c/f44e8b4c7a61a4abb2aa2ccfe9b810cd.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000072,
-                    "name": "Candace",
-                    "element": "Hydro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9ef120c399afbf7f136034b68d721d44.png",
+                    "id": 10000077,
+                    "name": "Yaoyao",
+                    "element": "Dendro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7ec9b285faccd804b54fa026dde96e8.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000039,
-                    "name": "Diona",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4fc01b013d363a4805296ba081342870.png",
+                    "id": 10000023,
+                    "name": "Xiangling",
+                    "element": "Pyro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png",
                     "rarity": 4
                 }
             ],
@@ -507,66 +507,66 @@
     ],
     "weapon_banners": [
         {
-            "id": 73,
+            "id": 76,
             "name": "Weapon Event Wish",
             "type": 2,
-            "end_time": "2025-07-08T17:59:00",
-            "end_timestamp": 1751968740,
+            "end_time": "2025-07-29T14:59:59",
+            "end_timestamp": 1753772399,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2025-06-18T07:00:00",
-            "start_timestamp": 1750201200,
+            "start_time": "2025-07-08T18:00:00",
+            "start_timestamp": 1751968800,
             "version": "5.7",
             "characters": null,
             "weapons": [
                 {
-                    "id": 11517,
-                    "name": "Azurelight",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/2b47d934eb09f3926908c37462569291.png",
+                    "id": 12514,
+                    "name": "A Thousand Blazing Suns",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6e57c13f34e89eae3339461e4f1afe3f.png",
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7785"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7365"
                 },
                 {
-                    "id": 13507,
-                    "name": "Calamity Queller",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/60e9db1560db9a7aa3b8a930cf30ce12.png",
+                    "id": 13513,
+                    "name": "Lumidouce Elegy",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/815db248eebc121db24905994b274150.png",
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1970"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5847"
                 },
                 {
-                    "id": 11418,
-                    "name": "Xiphos' Moonlight",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6e73725d6886d81d5a9b6525a2bdb31f.png",
+                    "id": 11402,
+                    "name": "The Flute",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e72bdcaaeb4b0a1ea13cfb76c88aa4cb.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2909"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2007"
                 },
                 {
-                    "id": 12415,
-                    "name": "Makhaira Aquamarine",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cc4498636d1de587406d20b7c5f84c60.png",
+                    "id": 12405,
+                    "name": "Rainslasher",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2848"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2042"
                 },
                 {
-                    "id": 14416,
-                    "name": "Wandering Evenstar",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e8d25e1a09cbca9b5069ad93c00d7b68.png",
+                    "id": 13401,
+                    "name": "Dragon's Bane",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2910"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1940"
                 },
                 {
-                    "id": 13407,
-                    "name": "Favonius Lance",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7db45b7a84bb80468aaf0f5f430e9bdc.png",
+                    "id": 14403,
+                    "name": "Sacrificial Fragments",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/807ae55311a3a8382194a656e214e7b1.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2021"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2006"
                 },
                 {
-                    "id": 15403,
-                    "name": "Sacrificial Bow",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4a03625fdbc739dca379573871a4c2ca.png",
+                    "id": 15405,
+                    "name": "Rust",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6b682afb95373317a4a965b8974b5d08.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2005"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1967"
                 }
             ]
         }
