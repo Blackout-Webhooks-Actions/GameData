@@ -6345,7 +6345,15 @@
             "birthday": "04-02",
             "title": "Boom Boom Thunderwave",
             "description": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
-            "reruns": [],
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "5.8",
+                    "phase": "upcoming",
+                    "wishType": "event",
+                    "info": "official"
+                }
+            ],
             "materials": [
                 {
                     "ascension": [
