@@ -290,7 +290,13 @@ filtered_data = {
 				**({"birthday": format_birthday(char["Birthday"])} if char["Name"] != "Traveler" else {}),
 				"title": char["Title"],
 				"description": char["Desc"],
-				"reruns": reruns_dict.get(char["Name"], []),  # Add reruns data if available
+				"reruns": reruns_dict.get(char["Name"], []) or ([{
+					"banner": "upcoming",
+					"version": char["Version"],
+					"phase": "upcoming",
+					"wishType": "event",
+					"info": "official"
+				}] if char.get("Nation") not in ["Traveller", "OtherRealm"] and "Version" in char and char["Version"] and char["Version"] != "" else []),
 				**({"materials": [
 					{
 						"ascension": [
