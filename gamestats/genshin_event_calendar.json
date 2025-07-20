@@ -474,34 +474,6 @@
             ]
         },
         {
-            "id": 78,
-            "name": "Heated Battle Mode: Sprinting Stratagems",
-            "description": "In The Cat's Tail, there will be a specifically scheduled event that uses special Heated Battle Mode rules.\nThe rules this time are as follows:\n1. You and your opponent will use Character Cards selected on the spot and randomly generated Action Cards to battle!\n2. Directly receive 4 Omni Dice and 4 different random Elemental Dice during the Roll Phase.\n3. Once per Round, an Action Card you play will cost 2 fewer Elemental Dice.\n4. Switching Character Cards is always a Fast Action.",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2025-07-21T03:59:59",
-            "end_timestamp": 1753041599,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2025-07-05T10:00:00",
-            "start_timestamp": 1751680800,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 107021,
-                    "name": "Lucky Coin",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
-                    "num": 3000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
-                }
-            ]
-        },
-        {
             "id": 77,
             "name": "The Forge Realm's Temper: Endless Swarm",
             "description": "",
