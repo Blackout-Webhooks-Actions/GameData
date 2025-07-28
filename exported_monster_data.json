@@ -11159,6 +11159,12 @@
         "ATK": 12.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "GA",
+                "All": 1.2
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Lava_Solid"
         ],
@@ -11566,7 +11572,7 @@
         "_id": 55601,
         "Name": "The Last Survivor of Tenochtzitoc",
         "Title": [
-            "Actor: Papa",
+            "Actor: Papar",
             "Gentle Yet Unyielding Resolve"
         ],
         "Desc": "",
@@ -11599,7 +11605,7 @@
         "_id": 55602,
         "Name": "The Last Survivor of Tenochtzitoc",
         "Title": [
-            "Actor: Papa",
+            "Actor: Papar",
             "Gentle Yet Unyielding Resolve"
         ],
         "Desc": "",
@@ -11683,10 +11689,10 @@
         "_id": 25560206,
         "Name": "Battle-Hardened Pipilpan Idol: Hundred Deceptions",
         "Title": [
-            "Actor: Papa",
+            "Actor: Papar",
             "Gentle Yet Unyielding Resolve"
         ],
-        "Desc": "A Pipilpan Idol who channels the essence of Tenoch. Adept at dazzling hat tricks and strategems of battle, it can attack from a wide range of angles, leaving reckless challengers paying the price for hasty missteps...\nAmidst the inchoate chaos of the Ley Lines, the performer's obsession takes form as flurries of rejection and annihilation. Any slight mistake may result in the challenger being ground into dust, just as Tenoch's opponents once were...",
+        "Desc": "A Pipilpan Idol who channels the essence of Tenoch. Adept at dazzling hat tricks and stratagems of battle, it can attack from a wide range of angles, leaving reckless challengers paying the price for hasty missteps...\nAmidst the inchoate chaos of the Ley Lines, the performer's obsession takes form as flurries of rejection and annihilation. Any slight mistake may result in the challenger being ground into dust, just as Tenoch's opponents once were...",
         "HP": 9.9529,
         "HPCurve": 2,
         "ATK": 5.5,

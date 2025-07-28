@@ -49,9 +49,10 @@
             "2",
             "3",
             "4",
-            "5"
+            "5",
+            "L"
         ],
-        "Note": "5.8v5"
+        "Note": "5.8"
     },
     {
         "_name": "Ineffa",
@@ -82,13 +83,13 @@
             "DEF": 828,
             "Custom": 0.192
         },
-        "Version": "5.8v5",
+        "Version": "5.8",
         "Fetter": 116,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "美加",
+            "_EN": "中島愛",
+            "_JP": "Angelina Danielle Cama",
+            "_KR": "Sung Ye-won"
         }
     },
     {
@@ -3471,7 +3472,7 @@
         "_CV": {
             "_CH": "小敢",
             "_EN": "藤田茜",
-            "_JP": "Valeria Rodriguez",
+            "_JP": "Valeria Rodriguez & Anonymous",
             "_KR": "Kim Ha-young"
         }
     },

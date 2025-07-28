@@ -4859,10 +4859,10 @@
     {
         "_id": 210252,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Celebration: Tuna On Rice",
+        "Desc": "Namecard style.<br>The rotation is meant to display all the delicious food before you. The deliciousness, on the other hand, is meant to fill your heart with happiness.",
         "Src": [
-            "???"
+            "Reward from the \"Genshin Impact × Sushiro\" collaboration"
         ],
         "Icon": "UI_NameCardIcon_Event58",
         "Pic": "UI_NameCardPic_Event58_P"
@@ -4903,8 +4903,8 @@
     {
         "_id": 210248,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Ineffa: Command",
+        "Desc": "Namecard style.<br>The household robot awaits your command, but Birgitta will keep her aim on you, silently urging you to choose your next words carefully. She does come equipped with a laser module, after all.",
         "Src": [
             "Reward for reaching Friendship 10 with Ineffa"
         ],
@@ -17688,7 +17688,7 @@
         "_id": 220117,
         "R": 4,
         "Name": "Leaping Spirit Piano",
-        "Desc": "Use to play a Natlanese-style instrument.<br>A uniquely curved mechanical piano, its black and white keys resemble a traditional model, but the sound it produces is unconventional indeed. On some lively occasions, musicians play it such that its rhythm becomes the fuel for a fiery atmosphere.",
+        "Desc": "Use to play a Natlanese-style instrument.<br>A uniquely curved mechanical piano, its black and white keys resemble a traditional model, but the sound it produces is unconventional indeed. On certain lively occasions, musicians play it such that its rhythm becomes the fuel for a fiery atmosphere.",
         "Src": [
             "Purchased From Djembe Studios"
         ],
