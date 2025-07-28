@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests
+          pip install cloudscraper
 
       - name: Run avatar_info.py
         run: python avatar_info.py

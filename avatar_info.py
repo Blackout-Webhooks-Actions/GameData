@@ -1,6 +1,6 @@
 import json
 import re
-import requests
+import cloudscraper
 
 # URLs of JavaScript files
 urls = {
@@ -11,7 +11,8 @@ urls = {
 }
 
 # Fetch JavaScript content
-responses = {key: requests.get(url) for key, url in urls.items()}
+scraper = cloudscraper.create_scraper()  # This creates a session that can bypass CF
+responses = {key: scraper.get(url) for key, url in urls.items()}
 for key, response in responses.items():
 	response.raise_for_status()
 
@@ -53,12 +54,12 @@ with open('exported_monster_data.json', 'r', encoding='utf-8') as file:
 
 # Load the second JSON (API data)
 url = "https://api.hakush.in/gi/data/monster.json"
-response = requests.get(url)
+response = scraper.get(url)
 api_data = response.json()
 
 # Load the classes data from the API
 url = "https://homdgcat.wiki/gi/EN/computer.js"
-response = requests.get(url)
+response = scraper.get(url)
 classes_data = response.text
 
 # Create a dictionary to map monster names from the API data to their icon names
