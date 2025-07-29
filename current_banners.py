@@ -10,6 +10,9 @@ url = "https://raw.githubusercontent.com/Blackout-Webhooks-Actions/GameData/refs
 response = requests.get(url)
 event_calendar = response.json()
 
+# Track whether we processed any banners
+processed_any = False
+
 # Helper: Normalize character name comparison
 def find_character_entry(name):
 	for entry in character_data["characters"]:
@@ -37,6 +40,11 @@ def format_date(iso):
 
 # Generalized banner processor
 def process_banners(banners, wish_type):
+	global processed_any
+	if not banners:
+		print("Currently No Banners")
+		return
+
 	for banner in banners:
 		start = format_date(banner["start_time"])
 		end = format_date(banner["end_time"])
@@ -58,6 +66,7 @@ def process_banners(banners, wish_type):
 						"version": version,
 						"wishType": wish_type
 					})
+					processed_any = True
 			else:
 				print(f"⚠️ Character {char['name']} (ID: {char['id']}) not found in character_data.json")
 
@@ -75,4 +84,5 @@ if chronicled_banners:
 with open("character_data.json", "w", encoding="utf-8") as f:
 	json.dump(character_data, f, indent=4, ensure_ascii=False)
 
-print("✅ character_data.json has been updated.")
+if processed_any:
+	print("✅ character_data.json has been updated.")
