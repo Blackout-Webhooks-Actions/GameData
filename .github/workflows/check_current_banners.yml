@@ -1,9 +1,6 @@
 name: Run Check Current Banners
 
 on:
-  push:
-    paths:
-      - gamestats/genshin_event_calendar.json
   workflow_dispatch:
 
 jobs:
