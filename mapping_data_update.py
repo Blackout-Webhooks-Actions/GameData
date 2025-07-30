@@ -225,8 +225,10 @@ item_rarity_lookup = {item["Name"]: item.get("R", 0) for item in item_data}
 
 # Finalize enhancement triplets
 for group, names in enhancement_groups.items():
-	if len(names) == 3:
-		sorted_items = sorted(names, key=lambda n: (item_rarity_lookup.get(n, 0), n.lower()))
+	if len(names) >= 3:
+		# If more than 3, take the last 3 only
+		relevant_names = names[-3:] if len(names) > 3 else names
+		sorted_items = sorted(relevant_names, key=lambda n: (item_rarity_lookup.get(n, 0), n.lower()))
 		closest_enemy = get_closest_enemy_name(group)
 		material_mapping[group] = {
 			"enemyName": closest_enemy,

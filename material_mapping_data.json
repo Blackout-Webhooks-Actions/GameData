@@ -600,6 +600,12 @@
         "itemName2": "Trimmed Red Silk",
         "itemName3": "Faded Red Satin"
     },
+    "Fungi Materials": {
+        "enemyName": "Fungi",
+        "itemName1": "Crystalline Cyst Dust",
+        "itemName2": "Luminescent Pollen",
+        "itemName3": "Fungal Spores"
+    },
     "Riftwolves Materials": {
         "enemyName": "Rockfond Rifthound Whelp",
         "itemName1": "Concealed Talon",

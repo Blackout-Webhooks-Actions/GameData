@@ -83,7 +83,7 @@ traveler_materials = {
 				"talents": [
 					{
 						"enemyDrop": "Samachurls Materials",
-						"enemyDrop2": "Hilichurls Shooter Materials",
+						"enemyDrop2": "Hilichurl Shooters Materials",
 						"weeklyBossDrop": "Dvalin's Sigh",
 						"weeklyBossDrop2": "Tail of Boreas",
 						"travelerTalentBooks": [
@@ -143,7 +143,7 @@ traveler_materials = {
 				"ascension": [traveler_ascension_materials],
 				"talents": [
 					{
-						"enemyDrop": "Fungus Materials",
+						"enemyDrop": "Fungi Materials",
 						"weeklyBossDrop": "Mudra of the Malefic General",
 						"travelerTalentBooks": [
 							{
@@ -167,7 +167,7 @@ traveler_materials = {
 				"ascension": [traveler_ascension_materials],
 				"talents": [
 					{
-						"enemyDrop": "Fontemer Aberrant Materials",
+						"enemyDrop": "Fontemer Aberrants Materials",
 						"weeklyBossDrop": "Worldspan Fern",
 						"travelerTalentBooks": [
 							{
@@ -191,7 +191,7 @@ traveler_materials = {
 				"ascension": [traveler_ascension_materials],
 				"talents": [
 					{
-						"enemyDrop": "Sauroform Tribal Warrior Materials",
+						"enemyDrop": "Sauroform Tribal Warriors Materials",
 						"weeklyBossDrop": "The Cornerstone of Stars and Flames",
 						"travelerTalentBooks": [
 							{

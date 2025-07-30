@@ -76,7 +76,7 @@
                     "talents": [
                         {
                             "enemyDrop": "Samachurls Materials",
-                            "enemyDrop2": "Hilichurls Shooter Materials",
+                            "enemyDrop2": "Hilichurl Shooters Materials",
                             "weeklyBossDrop": "Dvalin's Sigh",
                             "weeklyBossDrop2": "Tail of Boreas",
                             "travelerTalentBooks": [
@@ -176,7 +176,7 @@
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Fungus Materials",
+                            "enemyDrop": "Fungi Materials",
                             "weeklyBossDrop": "Mudra of the Malefic General",
                             "travelerTalentBooks": [
                                 {
@@ -220,7 +220,7 @@
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Fontemer Aberrant Materials",
+                            "enemyDrop": "Fontemer Aberrants Materials",
                             "weeklyBossDrop": "Worldspan Fern",
                             "travelerTalentBooks": [
                                 {
@@ -264,7 +264,7 @@
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Sauroform Tribal Warrior Materials",
+                            "enemyDrop": "Sauroform Tribal Warriors Materials",
                             "weeklyBossDrop": "The Cornerstone of Stars and Flames",
                             "travelerTalentBooks": [
                                 {
@@ -4023,7 +4023,7 @@
                 {
                     "ascension": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "elementalGem": "Nagadus Emerald",
                             "normalBossDrop": "Majestic Hooked Beak",
                             "localSpecialty": "Nilotpala Lotus"
@@ -4031,7 +4031,7 @@
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "weeklyBossDrop": "The Meaning of Aeons",
                             "talentBooks": "Admonition"
                         }
@@ -4075,7 +4075,7 @@
                 {
                     "ascension": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "elementalGem": "Varunada Lazurite",
                             "normalBossDrop": "Perpetual Caliber",
                             "localSpecialty": "Padisarah"
@@ -4083,7 +4083,7 @@
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "weeklyBossDrop": "Tears of the Calamitous God",
                             "talentBooks": "Praxis"
                         }
@@ -4249,7 +4249,7 @@
                 {
                     "ascension": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "elementalGem": "Nagadus Emerald",
                             "normalBossDrop": "Quelled Creeper",
                             "localSpecialty": "Kalpalata Lotus"
@@ -4257,7 +4257,7 @@
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "weeklyBossDrop": "Puppet Strings",
                             "talentBooks": "Ingenuity"
                         }
@@ -4689,7 +4689,7 @@
                 {
                     "ascension": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "elementalGem": "Nagadus Emerald",
                             "normalBossDrop": "Quelled Creeper",
                             "localSpecialty": "Mourning Flower"
@@ -4697,7 +4697,7 @@
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "weeklyBossDrop": "Primordial Greenbloom",
                             "talentBooks": "Ingenuity"
                         }
@@ -4747,7 +4747,7 @@
                 {
                     "ascension": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "elementalGem": "Nagadus Emerald",
                             "normalBossDrop": "Evergloom Ring",
                             "localSpecialty": "Violetgrass"
@@ -4755,7 +4755,7 @@
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Crystalline Cyst Dust",
+                            "enemyDrop": "Fungi Materials",
                             "weeklyBossDrop": "Worldspan Fern",
                             "talentBooks": "Gold"
                         }
