@@ -197,7 +197,8 @@ manual_closest_enemy_overrides = {
 	"Fontemer Aberrants Materials": "Sternshield Crab",
 	"Sauroform Tribal Warriors Materials": "Yumkasaurus Warrior: Flowing Skyfire",
 	"Natlan Saurians Materials": "Iktomisaurus",
-	"Wasteland Wild Hunt Materials": "Wilderness Hunter"
+	"Wasteland Wild Hunt Materials": "Wilderness Hunter",
+	"Fungi Materials": "Floating Dendro Fungus"
 }
 
 # Fuzzy match function to find closest enemy name from image data
