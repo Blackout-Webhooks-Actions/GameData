@@ -173,7 +173,7 @@
         "itemName": "Talisman of the Enigmatic Land"
     },
     "Ensnaring Gaze": {
-        "bossName": "Tenebrous Papilla",
+        "bossName": "Tenebrous Papilla: Type I",
         "itemName": "Ensnaring Gaze"
     },
     "Gold-Inscribed Secret Source Core": {
@@ -189,7 +189,7 @@
         "itemName": "Mark of the Binding Blessing"
     },
     "Fragment of a Golden Melody": {
-        "bossName": "Legatus Golem",
+        "bossName": "\"Statue of Marble and Brass\"",
         "itemName": "Fragment of a Golden Melody"
     },
     "Cloudseam Scale": {
@@ -213,15 +213,15 @@
         "itemName": "Emperor's Resolution"
     },
     "Artificed Spare Clockwork Component — Coppelius": {
-        "bossName": "\"Icewind Suite\"",
+        "bossName": "Icewind Suite: Nemesis of Coppelius",
         "itemName": "Artificed Spare Clockwork Component — Coppelius"
     },
     "Artificed Spare Clockwork Component — Coppelia": {
-        "bossName": "\"Icewind Suite\"",
+        "bossName": "Icewind Suite: Dirge of Coppelia",
         "itemName": "Artificed Spare Clockwork Component — Coppelia"
     },
     "Evergloom Ring": {
-        "bossName": "Iniquitous Baptist",
+        "bossName": "Iniquitous Baptist - Invoker of Flame, Frost, and Fulmination",
         "itemName": "Evergloom Ring"
     },
     "Pseudo-Stamens": {

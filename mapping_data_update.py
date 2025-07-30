@@ -33,7 +33,7 @@ def strip_level(enemy_name):
 
 def singularize(name):
 	# Avoid altering names ending in any of these suffixes
-	blacklist_suffixes = ("Regisvines", "Drakes", "horses", "Statues")
+	blacklist_suffixes = ("Regisvines", "Drakes", "Matricis", "horses", "Statues")
 
 	if name.endswith("es") and not name.endswith(blacklist_suffixes):
 		return name[:-2] + "is"
@@ -51,6 +51,9 @@ manual_boss_overrides = {
 	"Primo Geovishap": "Hydro Primo Geovishap",
 	"Bathysmal Vishap Herd": "Coral Defenders",
 	"Semi-Intransient Matrices": "Algorithm of Semi-Intransient Matrix of Overseer Network",
+	"Iniquitous Baptist": "Iniquitous Baptist - Invoker of Flame, Frost, and Fulmination",
+	"Legatus Golem": "\"Statue of Marble and Brass\"",
+	"Tenebrous Papilla": "Tenebrous Papilla: Type I",
 }
 
 boss_items = []
@@ -106,6 +109,20 @@ for rarity in [4, 5]:
 
 		name = item["Name"]
 		src = item.get("Src", [])
+
+		# Special case: Artificed Spare Clockwork Component
+		if "Artificed Spare Clockwork Component" in name:
+			boss_name = name.replace("Artificed Spare Clockwork Component — ", "")
+			name_map = {
+				"Coppelius": "Nemesis of Coppelius",
+				"Coppelia": "Dirge of Coppelia"
+			}
+			boss_name = name_map.get(boss_name, boss_name)
+			material_mapping[name] = {
+				"bossName": f"Icewind Suite: {boss_name}",
+				"itemName": name
+			}
+			continue
 
 		for s in src:
 			if "Dropped by" in s or "Reward" in s:
