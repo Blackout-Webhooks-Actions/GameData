@@ -30,6 +30,8 @@
     },
     "Items": {
         "Character Level-Up Material": {
+            "Lightbearing Wings": 113078,
+            "Precision Kuuvahki Stamping D-uck-ie": 113077,
             "Secret Source Airflow Accumulator": 113076,
             "Ascended Sample: Queen": 113075,
             "Ascended Sample: Rook": 113074,
@@ -107,6 +109,21 @@
             "Hurricane Seed": 113001
         },
         "Character and Weapon Enhancement Material": {
+            "Mist Helmet": 112136,
+            "Mist Plate": 112135,
+            "Solidified Mist": 112134,
+            "Radiant Exoskeleton": 112133,
+            "rare light Remains": 112132,
+            "Lightless Bone": 112131,
+            "Frostnight's Glory": 112130,
+            "Frostnight's Glow": 112129,
+            "Frostnight's Glimmer": 112128,
+            "Frosted Certificate": 112127,
+            "Exquisite Certificate": 112126,
+            "Worn Certificate": 112125,
+            "Precision Axle": 112124,
+            "Reinforced Drive Shaft": 112123,
+            "Broken Drive Shaft": 112122,
             "Blazing Prismshell": 112121,
             "Warm Back-Shell": 112120,
             "Cold-Cracked Shellshard": 112119,
@@ -230,6 +247,15 @@
             "Primordial Essence": 112001
         },
         "Character Talent Material": {
+            "Philosophies of Vagrancy": 104364,
+            "Guide to Vagrancy": 104363,
+            "Teachings of Vagrancy": 104362,
+            "Philosophies of Elysium": 104361,
+            "Guide to Elysium": 104360,
+            "Teachings of Elysium": 104359,
+            "Philosophies of Moonlight": 104358,
+            "Guide to Moonlight": 104357,
+            "Teachings of Moonlight": 104356,
             "Philosophies of Conflict": 104355,
             "Guide to Conflict": 104354,
             "Teachings of Conflict": 104353,
@@ -321,6 +347,18 @@
             "Brilliant Diamond Sliver": 104101
         },
         "Weapon Ascension Material": {
+            "煌熠 of Far North Scion": 114084,
+            "祷献 of Far North Scion": 114083,
+            "迷顽 of Far North Scion": 114082,
+            "Lost Glory of Far North Scion": 114081,
+            "Blaze of Long Night Flint": 114080,
+            "Flare of Long Night Flint": 114079,
+            "Afterglow of Long Night Flint": 114078,
+            "Ember of Long Night Flint": 114077,
+            "Whimsical Instrument's Trusty Wish": 114076,
+            "Inheritance of the Tricky Instrument": 114075,
+            "Mysterious Instrument Replica": 114074,
+            "Mysterious Instrument Fragment": 114073,
             "Night-Wind's Mystic Revelation": 114072,
             "Night-Wind's Mystic Augury": 114071,
             "Night-Wind's Mystic Premonition": 114070,
@@ -395,6 +433,8 @@
             "Tile of Decarabian's Tower": 114001
         },
         "Cooking Ingredient": {
+            "Midsommar Berry": 101265,
+            "Lakkaberry": 101264,
             "Red Berryshroom": 101256,
             "Spinel Fruit": 101245,
             "Grainfruit": 101243,
@@ -407,6 +447,8 @@
             "Harra Fruit": 101216,
             "Lavender Melon": 101211,
             "Seagrass": 101210,
+            "Rye Flour": 110016,
+            "Smetana": 110015,
             "Spice": 110014,
             "Dried Fish": 110013,
             "Smoked Fish": 110012,
@@ -421,6 +463,7 @@
             "Cream": 110002,
             "Flour": 110001,
             "Crafted Items": 110000,
+            "Rye": 100100,
             "Fermented Juice": 100099,
             "Coffee Beans": 100098,
             "Mysterious Meat": 100097,
@@ -461,6 +504,9 @@
             "Mushroom": 100011
         },
         "Local Specialty": {
+            "Moonfall Silver": 101263,
+            "Frostcup Flower": 101261,
+            "Portable Bearing": 101257,
             "Dracolite": 101255,
             "Skysplit Gembloom": 101254,
             "Withering Purpurbloom": 101253,
@@ -514,6 +560,8 @@
             "Wolfhook": 100021
         },
         "Material": {
+            "Nocturnal Blossom": 101262,
+            "Icy Pebble": 101259,
             "Embercore Flower": 101251,
             "Cacahuatl": 101246,
             "Pluie Lotus": 101229,
@@ -552,6 +600,44 @@
             "Starshroom": 101212,
             "Strength Tonic": 111032,
             "\"Pure Water\"": 111029,
+            "Crunchy 嘎吱嘎吱甜甜杯": 108898,
+            "Long Night Alight": 108895,
+            "Whisper in the Woods": 108892,
+            "Thunderclap Slash!": 108889,
+            "Delicious Lakkaberry-Stuffed Chicken": 108887,
+            "Lakkaberry-Stuffed Chicken": 108886,
+            "Suspicious Lakkaberry-Stuffed Chicken": 108885,
+            "Delicious Crispy Roast": 108884,
+            "Crispy Roast": 108883,
+            "Suspicious Crispy Roast": 108882,
+            "Delicious Nod-Krai Hot Dogs": 108881,
+            "Nod-Krai Hot Dogs": 108880,
+            "Suspicious Nod-Krai Hot Dogs": 108879,
+            "Delicious Roulette Special": 108878,
+            "Roulette Special": 108877,
+            "Suspicious Roulette Special": 108876,
+            "Delicious Berries and Fried Meat": 108875,
+            "Berries and Fried Meat": 108874,
+            "Suspicious Berries and Fried Meat": 108873,
+            "Delicious Fruit Tandem Turnovers": 108872,
+            "Fruit Tandem Turnovers": 108871,
+            "Suspicious Fruit Tandem Turnovers": 108870,
+            "Delicious Midsommar Torte": 108869,
+            "Midsommar Torte": 108868,
+            "Suspicious Midsommar Torte": 108867,
+            "Delicious Borderland Crispbread": 108866,
+            "Borderland Crispbread": 108865,
+            "Suspicious Borderland Crispbread": 108864,
+            "Delicious Smoked Fish Steak": 108863,
+            "Smoked Fish Steak": 108862,
+            "Suspicious Smoked Fish Steak": 108861,
+            "Delicious Today's Haul": 108860,
+            "Today's Haul": 108859,
+            "Suspicious Today's Haul": 108858,
+            "Delicious Lakkaberry Krumkakes": 108857,
+            "Lakkaberry Krumkakes": 108856,
+            "Suspicious Lakkaberry Krumkakes": 108855,
+            "???": 108852,
             "Delicious Shrimp Bisque": 108851,
             "Shrimp Bisque": 108850,
             "Suspicious Shrimp Bisque": 108849,
@@ -1406,6 +1492,7 @@
             "Apple": 100001
         },
         "Forging Ore": {
+            "Drop of Rainbow": 101010,
             "Condessence Crystal": 101009,
             "Amethyst Lump": 101008,
             "Starsilver": 101006,
@@ -1415,6 +1502,11 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
+            "???": 210253,
+            "Battle Pass: Glacial Moon": 210259,
+            "Achievement: Time Apart": 210258,
+            "Nod-Krai: Sacred Realm": 210257,
+            "Nod-Krai: Moonlight": 210256,
             "Celebration: Tuna On Rice": 210252,
             "Travel Notes: Easy Breezy": 210251,
             "Natlan: Chasing the Wind": 210250,
@@ -1664,9 +1756,21 @@
             "Travel Notes: Catch the Wind": 210002,
             "Genshin Impact: A New World": 210001
         },
+        "Miscellaneous": {
+            "？？？": 121374,
+            "???": 108905,
+            "Sugar Sculpture: Frostfin Whale": 108904,
+            "Sugar Sculpture: Puffin": 108903,
+            "Sugar Sculpture: Dualblaze Ibis": 108902,
+            "Sugar Sculpture: Chic Badger": 108901,
+            "Sugar Sculpture: Rimehorn Deer": 108900,
+            "Vigorous Yapping": 200010
+        },
         "Profile Pictures": {
             "Sunsettia": 100002,
             "Apple": 100001,
+            "Netochka": 100240,
+            "The Other Side of the Frostmoon": 100230,
             "The Scholar Who Crossed the Mare Jivari": 100220,
             "Till We Meet Again": 100210,
             "Silent Reverie Across Time": 100200,
@@ -1696,6 +1800,8 @@
             "Golden House Maiden": 100487
         },
         "Envisaged Echoes": {
+            "Echo: Physic of Purity": 215015,
+            "Echo: Valley Orchid": 215014,
             "Echo: Lonesome Transcendence": 215013,
             "Echo: Plane of Euthymia": 215012,
             "Echo: Flame-Mane": 215011,
@@ -1710,10 +1816,11 @@
             "Echo: Icy Resurrection": 215002,
             "Echo: Dandelion Knight": 215001
         },
-        "Miscellaneous": {
-            "Vigorous Yapping": 200010
-        },
         "Gadget": {
+            "Lunar Arcana Case": 220125,
+            "Travel Accounts": 220124,
+            "Selene Treasure Compass": 220123,
+            "???": 220041,
             "Paimon's Kamera": 220108,
             "Leaping Spirit Piano": 220117,
             "\"Lingering Euphonia\"": 220116,
@@ -1738,7 +1845,6 @@
             "Treasure-Seeking Seelie": 220013,
             "Image Sampling Kamera": 220094,
             "\"Special Analysis Zoom Lens\"": 220093,
-            "???": 220041,
             "Portable Aerodynamic Gelatinous Bubble Generator": 220091,
             "Bresson's Special Kamera": 220090,
             "Wind-Powered Wind Generator": 220089,
@@ -1828,6 +1934,7 @@
             "Elegy for the End": "Bow_Widsith",
             "Amos' Bow": "Bow_Amos",
             "Skyward Harp": "Bow_Dvalin",
+            "6.0 Forge Bow": "Bow_Ilmarinen",
             "Sequence of Solitude": "Bow_Stinger",
             "Chain Breaker": "Bow_Isikhulu",
             "Flower-Wreathed Feathers": "Bow_Umpakati",
@@ -1862,6 +1969,7 @@
             "Raven Bow": "Bow_Crowfeather"
         },
         "Catalyst": {
+            "6.0 Catalyst": "Catalyst_MenulisRing",
             "Vivid Notions": "Catalyst_VaresaTransformer",
             "Sunny Morning Sleep-In": "Catalyst_SakuraFan",
             "Starcaller's Watch": "Catalyst_Figurines",
@@ -1877,6 +1985,8 @@
             "Memory of Dust": "Catalyst_Kunwu",
             "Lost Prayer to the Sacred Winds": "Catalyst_Fourwinds",
             "Skyward Atlas": "Catalyst_Dvalin",
+            "6.0 Forge Catalyst": "Catalyst_Ilmarinen",
+            "6.0 Event Catalyst": "Catalyst_SeeliesLute",
             "Ring of Yaxche": "Catalyst_Isikhulu",
             "Waveriding Whirl": "Catalyst_Umpakati",
             "Ash-Graven Drinking Horn": "Catalyst_ConchSprayer",
@@ -1907,6 +2017,7 @@
             "Magic Guide": "Catalyst_Intro"
         },
         "Polearm": {
+            "6.0 Polearm": "Pole_TummaLyhty",
             "Fractured Halo": "Pole_Perdix",
             "Symphonist of Scents": "Pole_Trident",
             "Lumidouce Elegy": "Pole_Muguet",
@@ -1918,6 +2029,7 @@
             "Vortex Vanquisher": "Pole_Kunwu",
             "Skyward Spine": "Pole_Dvalin",
             "Staff of Homa": "Pole_Homa",
+            "6.0 Forge Polearm": "Pole_Ilmarinen",
             "Tamayuratei no Ohanashi": "Pole_Aoandon",
             "Footprint of the Rainbow": "Pole_Isikhulu",
             "Mountain-Bracing Bolt": "Pole_Umpakati",
@@ -1954,6 +2066,7 @@
             "Song of Broken Pines": "Claymore_Widsith",
             "Wolf's Gravestone": "Claymore_Wolfmound",
             "Skyward Pride": "Claymore_Dvalin",
+            "6.0 Forge Claymore": "Claymore_Ilmarinen",
             "Flame-Forged Insight": "Claymore_Polilith",
             "Earth Shaker": "Claymore_Isikhulu",
             "Fruitful Hook": "Claymore_Umpakati",
@@ -2000,6 +2113,8 @@
             "Freedom-Sworn": "Sword_Widsith",
             "Skyward Blade": "Sword_Dvalin",
             "Aquila Favonia": "Sword_Falcon",
+            "City Sword": "Sword_Miekka",
+            "6.0 Forge Sword": "Sword_Ilmarinen",
             "Calamity of Eshu": "Sword_SacrificialNgombe",
             "Flute of Ezpitzal": "Sword_Isikhulu",
             "Sturdy Bone": "Sword_Umpakati",
@@ -2082,9 +2197,13 @@
             "Electro Specter": "UI_MonsterIcon_Sylph_Electric_01",
             "Pyro Specter": "UI_MonsterIcon_Sylph_Fire_01",
             "Dendro Specter": "UI_MonsterIcon_Sylph_Grass_01",
-            "Thunder Manifestation": "UI_MonsterIcon_Raijin"
+            "Thunder Manifestation": "UI_MonsterIcon_Raijin",
+            "Gleaming Charge: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Electric",
+            "Tangled Vines: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Grass",
+            "Blazing Brilliance: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Fire",
+            "Icy Crystal: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Ice"
         },
-        "Local Legends": {
+        "Local Legend": {
             "Ninianne of the Lake": "UI_MonsterIcon_Necalevia_Normal",
             "Vivianne of the Lake": "UI_MonsterIcon_Necalevia_Big",
             "Yseut": "UI_MonsterIcon_Fatuus_Escadron_Ice",
@@ -2131,7 +2250,8 @@
             "\"Infinitesimal\"": "UI_MonsterIcon_Lava_Solid",
             "\"Ironclaw\"": "UI_AnimalIcon_Penguin_01",
             "\"Battlegoat\"": "UI_AnimalIcon_Capra_01",
-            "The Last Survivor of Tenochtzitoc": "UI_MonsterIcon_Tenoyollotzin"
+            "The Last Survivor of Tenochtzitoc": "UI_MonsterIcon_Tenoyollotzin",
+            "Oprichniki Fireblade Shock Trooper": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         },
         "Event": {
             "Hydro Tulpa: Flashflood": "UI_MonsterIcon_Narcissusborn_Normal_01",
@@ -2224,7 +2344,9 @@
             "Tenebrous Mimesis - Qucusaurus Warrior: Blazing Sky": "UI_MonsterIcon_TheAbyss_Rhizome",
             "Tenebrous Mimesis - Iktomisaurus Warrior: Icy Tidebearer": "UI_MonsterIcon_TheAbyss_Rhizome",
             "Tenebrous Mimesis: Geovishap Hatchling": "UI_MonsterIcon_TheAbyss_Rhizome",
-            "Tenebrous Mimesis: Tatankasaurus": "UI_MonsterIcon_TheAbyss_Rhizome"
+            "Tenebrous Mimesis: Tatankasaurus": "UI_MonsterIcon_TheAbyss_Rhizome",
+            "Wilderness Exile": "UI_MonsterIcon_WildHunt",
+            "Wilderness Hunter": "UI_MonsterIcon_WildHunt_Elite"
         },
         "Fatui": {
             "Fatui Skirmisher - Cryogunner Legionnaire": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
@@ -2238,7 +2360,24 @@
             "Fatui Cryo Cicin Mage": "UI_MonsterIcon_Fatuus_Mage_Ice_01",
             "Mirror Maiden": "UI_MonsterIcon_Fatuus_Maiden_Water",
             "Frost Operative": "UI_MonsterIcon_Fatuus_Escadron_Ice",
-            "Wind Operative": "UI_MonsterIcon_Fatuus_Escadron_Wind"
+            "Wind Operative": "UI_MonsterIcon_Fatuus_Escadron_Wind",
+            "Oprichniki Line Trooper": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
+            "Oprichniki Support Trooper": "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan",
+            "Oprichniki Grenadier": "UI_MonsterIcon_NodKrai_Oprichnik_Female",
+            "Oprichniki Vanguard": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
+            "Oprichniki Medic": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
+            "Oprichniki Bombardier": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
+            "Oprichniki Fireblade Shock Trooper": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus",
+            "Oprichniki Hailstorm Cannoneer": "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield",
+            "Oprichniki Thunderblitz Druzhina": "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun",
+            "Close Combat Storm Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreA_MoveB_AttackA_Fire",
+            "Close Combat Scout Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreA_MoveA_AttackC_Water",
+            "Force Recon Storm Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreB_MoveB_AttackB_Grass",
+            "Force Recon Scout Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreB_MoveA_AttackB_Ice",
+            "Force Recon Ground Effect Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreB_MoveE_AttackB_Wind",
+            "Cutting Edge All-Purpose Storm Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveD_AttackA_AttackC_AttackB_Electric",
+            "Cutting Edge All-Purpose Scout Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveC_AttackD_AttackC_AttackB_Water",
+            "Cutting Edge Fire Support Ground Effect Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire"
         },
         "Automatons": {
             "Ruin Guard": "UI_MonsterIcon_Defender_Noner_01",
@@ -2287,7 +2426,8 @@
             "Maguu Kenki": "UI_MonsterIcon_Samurai_Ningyo",
             "Secret Source Automaton: Hunter-Seeker": "UI_MonsterIcon_ToothTrap",
             "Secret Source Automaton: Configuration Device": "UI_MonsterIcon_DragonClaw",
-            "Secret Source Automaton: Overseer Device": "UI_MonsterIcon_DragonCollar"
+            "Secret Source Automaton: Overseer Device": "UI_MonsterIcon_DragonCollar",
+            "Knuckle Duckle": "UI_MonsterIcon_Gastrobot_01"
         },
         "Other Human Factions": {
             "Treasure Hoarders: Scout": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
@@ -2428,7 +2568,11 @@
             "Tatankasaurus": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal",
             "Thundering Wayob Manifestation": "UI_MonsterIcon_Wayob_Bisonsaurus",
             "Lava Dragon Statue": "UI_MonsterIcon_LavaTitan",
-            "Furnace Shell Mountain Weasel": "UI_MonsterIcon_VolcanoWeasel"
+            "Furnace Shell Mountain Weasel": "UI_MonsterIcon_VolcanoWeasel",
+            "Radiant Antelope": "UI_MonsterIcon_Magbeast_Argali",
+            "Radiant Bladehorn": "UI_MonsterIcon_Magbeast_Rhino",
+            "Radiant Lunapod": "UI_MonsterIcon_Magbeast_Squid",
+            "Radiant Moonfly": "UI_MonsterIcon_Magbeast_Pergesa"
         },
         "Enemies of Note": {
             "Stormterror": "UI_MonsterIcon_Dvalin",
@@ -2472,7 +2616,10 @@
             "Secret Source Automaton: Overseer Device - Obliterator Panoply": "UI_MonsterIcon_DragonCollar",
             "Tenebrous Papilla: Shadow Void Transfiguration": "UI_MonsterIcon_TheAbyss_Dendrite",
             "Battle-Hardened Tent Tortoise: Thunderous Aegis": "UI_MonsterIcon_Tortoise_Electric",
-            "Battle-Hardened Pipilpan Idol: Hundred Deceptions": "UI_MonsterIcon_Tenoyollotzin"
+            "Battle-Hardened Pipilpan Idol: Hundred Deceptions": "UI_MonsterIcon_Tenoyollotzin",
+            "Aeonblight Drake: Annihilation Configuration": "abd",
+            "Battle-Scarred Rock Crab: One Million Blasts": "UI_MonsterIcon_HermitCrab_Mature_Elite",
+            "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         }
     }
 }
