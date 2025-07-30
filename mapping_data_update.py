@@ -253,9 +253,9 @@ for group, names in enhancement_groups.items():
 		closest_enemy = get_closest_enemy_name(group)
 		material_mapping[group] = {
 			"enemyName": closest_enemy,
-			"itemName1": sorted_items[2],
+			"itemName1": sorted_items[0],
 			"itemName2": sorted_items[1],
-			"itemName3": sorted_items[0]
+			"itemName3": sorted_items[2]
 		}
 
 # Save the output JSON
