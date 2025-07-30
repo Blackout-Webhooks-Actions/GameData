@@ -220,6 +220,28 @@
         "V": "L"
     },
     {
+        "_id": "15433",
+        "Name": "6.0 Forge Bow",
+        "Desc": "",
+        "Type": 5,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Bow_Ilmarinen",
+        "Stat": 454.36315250000007,
+        "Custom": "ER",
+        "CustomStat": 0.6125318020000001,
+        "AscMatID": 114080,
+        "MatIDs": [
+            112136,
+            112013
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 115433,
+        "Extra": [],
+        "Story": 195433,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
         "_id": "15432",
         "Name": "Sequence of Solitude",
         "Desc": "A mechanical longbow purpose-built for long shots and silent kills. Its twang is swallowed up amidst the night, the note lengthy and cold.",
@@ -924,6 +946,28 @@
         "V": "L"
     },
     {
+        "_id": "14520",
+        "Name": "6.0 Catalyst",
+        "Desc": "",
+        "Type": 3,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Catalyst_MenulisRing",
+        "Stat": 541.829758,
+        "Custom": "EM",
+        "CustomStat": 264.61440000000005,
+        "AscMatID": 114076,
+        "MatIDs": [
+            112130,
+            112124
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 114520,
+        "Extra": [],
+        "Story": 194520,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
         "_id": "14519",
         "Name": "Vivid Notions",
         "Desc": "A trophy made from gemstones from the Collective of Plenty and crystals from the Flower-Feather Clan. It is said to have once belonged to a legendary wrestler.",
@@ -1252,6 +1296,50 @@
         "Story": 194501,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "14433",
+        "Name": "6.0 Forge Catalyst",
+        "Desc": "",
+        "Type": 3,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Catalyst_Ilmarinen",
+        "Stat": 454.36315250000007,
+        "Custom": "EM",
+        "CustomStat": 220.512,
+        "AscMatID": 114076,
+        "MatIDs": [
+            112130,
+            112127
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 114433,
+        "Extra": [],
+        "Story": 194433,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
+        "_id": "14432",
+        "Name": "6.0 Event Catalyst",
+        "Desc": "",
+        "Type": 3,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Catalyst_SeeliesLute",
+        "Stat": 509.605949,
+        "Custom": "EM",
+        "CustomStat": 165.38400000000001,
+        "AscMatID": 114084,
+        "MatIDs": [
+            112133,
+            112127
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 114432,
+        "Extra": [],
+        "Story": 194432,
+        "StoryCount": 0,
+        "V": "1"
     },
     {
         "_id": "14431",
@@ -1870,6 +1958,28 @@
         "V": "L"
     },
     {
+        "_id": "13516",
+        "Name": "6.0 Polearm",
+        "Desc": "",
+        "Type": 4,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Pole_TummaLyhty",
+        "Stat": 674.3345459999999,
+        "Custom": "CR",
+        "CustomStat": 0.220512,
+        "AscMatID": 114080,
+        "MatIDs": [
+            112136,
+            112127
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 113516,
+        "Extra": [],
+        "Story": 193516,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
         "_id": "13515",
         "Name": "Fractured Halo",
         "Desc": "A spinning mechanical blade produced by the Clink-Clank Krumkake Craftshop that seems to hide secrets from a bygone era...",
@@ -2110,6 +2220,28 @@
         "Story": 193501,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "13433",
+        "Name": "6.0 Forge Polearm",
+        "Desc": "",
+        "Type": 4,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Pole_Ilmarinen",
+        "Stat": 509.605949,
+        "Custom": "ATK",
+        "CustomStat": 0.41346,
+        "AscMatID": 114080,
+        "MatIDs": [
+            112136,
+            112124
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 113433,
+        "Extra": [],
+        "Story": 193433,
+        "StoryCount": 0,
+        "V": "1"
     },
     {
         "_id": "13432",
@@ -2858,6 +2990,28 @@
         "Story": 192501,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "12433",
+        "Name": "6.0 Forge Claymore",
+        "Desc": "",
+        "Type": 2,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Claymore_Ilmarinen",
+        "Stat": 454.36315250000007,
+        "Custom": "ER",
+        "CustomStat": 0.6125318020000001,
+        "AscMatID": 114084,
+        "MatIDs": [
+            112133,
+            112124
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 112433,
+        "Extra": [],
+        "Story": 192433,
+        "StoryCount": 0,
+        "V": "1"
     },
     {
         "_id": "12432",
@@ -3826,6 +3980,50 @@
         "Story": 191501,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "11434",
+        "Name": "City Sword",
+        "Desc": "",
+        "Type": 1,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Sword_Miekka",
+        "Stat": 564.7837244,
+        "Custom": "ATK",
+        "CustomStat": 0.27564,
+        "AscMatID": 114084,
+        "MatIDs": [
+            112133,
+            112124
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 111434,
+        "Extra": [],
+        "Story": 191434,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
+        "_id": "11433",
+        "Name": "6.0 Forge Sword",
+        "Desc": "",
+        "Type": 1,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Sword_Ilmarinen",
+        "Stat": 454.36315250000007,
+        "Custom": "ER",
+        "CustomStat": 0.6125318020000001,
+        "AscMatID": 114076,
+        "MatIDs": [
+            112130,
+            112127
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 111433,
+        "Extra": [],
+        "Story": 191433,
+        "StoryCount": 0,
+        "V": "1"
     },
     {
         "_id": "11432",

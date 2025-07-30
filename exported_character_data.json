@@ -37,261 +37,140 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Ineffa"
+            "Aino",
+            "Lauma",
+            "Flins"
         ],
         "NW": [
-            12432,
-            13515
+            14432,
+            14433,
+            11433,
+            11434,
+            15433,
+            13516,
+            12433,
+            14520,
+            13433
         ],
         "NR": [],
         "VS": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "L"
+            "1"
         ],
-        "Note": "5.8"
+        "Note": "6.0v1"
     },
     {
-        "_name": "Artifacts",
-        "_id": 1000,
-        "Name": "Artifacts",
-        "Skills": [
-            {
-                "Name": "Set 1",
-                "DescList": [
-                    "<b>2P</b> EM @+80#.",
-                    "<b>4P</b> When a party member triggers a Lunar reaction, if the equipping character is on the field, the equipping character gains Moonshine A for @4s#: When the Lunar Phase of the team is Crescent/Gibbous, the equipping character's Crit Rate @+15%/30%#.",
-                    "For every different type of Moonshine the party members have, all party members' Lunar reaction DMG increases by @10%#. This effect still triggers if the equipping character is off-field."
-                ],
-                "Tag": ""
-            },
-            {
-                "Name": "Set 2",
-                "DescList": [
-                    "<b>2P</b> Energy Recharge @+20%#.",
-                    "<b>4P</b> When dealing Elemental DMG, gains Moonshine B for 8s: When the Lunar Phase of the team is Crescent/Gibbous, all party members' EM @+60/120#.",
-                    "For every different type of Moonshine the party members have, all party members' Lunar reaction DMG increases by @10%#. This effect still triggers if the equipping character is off-field."
-                ],
-                "Tag": ""
-            }
-        ],
-        "Stats": {
-            "HP": 12417,
-            "ATK": 330,
-            "DEF": 828,
-            "Custom": 0.192,
-            "CustomPromote": "CR"
+        "_name": "Aino",
+        "_id": 121,
+        "Name": "Aino",
+        "Desc": "",
+        "Title": "",
+        "Constellation": "",
+        "Nation": "???",
+        "Belong": "",
+        "Grade": 4,
+        "Type": "Loli",
+        "Weapon": "Claymore",
+        "Element": "Water",
+        "Birthday": "9/21",
+        "Icon": "UI_AvatarIcon_Aino",
+        "CommonMatt": 112124,
+        "TalentMat": 2,
+        "TalentMatt": 104361,
+        "SpecialityMat": 101257,
+        "AscMat": 113077,
+        "WeekMat": 113061,
+        "CustomPromote": "EM",
+        "Curve": 104,
+        "ShowStats": {
+            "HP": 11201,
+            "ATK": 242,
+            "DEF": 607,
+            "Custom": 96
         },
-        "Mats": [],
-        "Desc": "6.0v0",
-        "Title": "6.0v0",
-        "Grade": 5,
-        "Element": "",
-        "Weapon": "",
-        "Icon": "../UI/Avatar_1",
-        "Gacha": "../UI/Avatar_1",
-        "Version": "6.0v0",
-        "Add": true
+        "Version": "6.0v1",
+        "Fetter": 121,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
     },
     {
         "_name": "Flins",
-        "_id": 1001,
+        "_id": 120,
         "Name": "Flins",
-        "Skills": [
-            {
-                "Name": "Bloodstained Ruins",
-                "DescList": [
-                    "@674# | Crit Rate +@22.1%#",
-                    "After using Elemental Burst, the equipping character's Lunar-Charged DMG is increased by @36%# for @3.5s#.",
-                    "when the equipping character triggers Lunar-Charged, Crit DMG increases by @28%# for @6s# and regenerates @12# Energy. Energy regeneration can be triggered once every @14s#."
-                ],
-                "Tag": "Polearm R1"
-            }
-        ],
-        "Stats": {
-            "HP": 0,
-            "ATK": 0,
-            "DEF": 0,
-            "Custom": 0,
-            "CustomPromote": "CR"
-        },
-        "Mats": [
-            []
-        ],
-        "Desc": "6.0v0",
-        "Title": "6.0v0",
+        "Desc": "",
+        "Title": "",
+        "Constellation": "",
+        "Nation": "???",
+        "Belong": "",
         "Grade": 5,
-        "Element": "Elec",
+        "Type": "Male",
         "Weapon": "Pole",
-        "Icon": "../UI/Avatar_1",
-        "Gacha": "../UI/Avatar_1",
-        "Version": "6.0v0",
-        "Add": true
+        "Element": "Elec",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_Flins",
+        "CommonMatt": 112124,
+        "TalentMat": 3,
+        "TalentMatt": 104364,
+        "SpecialityMat": 101261,
+        "AscMat": 113077,
+        "WeekMat": 113075,
+        "CustomPromote": "CD",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 12491,
+            "ATK": 352,
+            "DEF": 809,
+            "Custom": 0.384
+        },
+        "Version": "6.0v1",
+        "Fetter": 120,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
     },
     {
         "_name": "Lauma",
-        "_id": 1002,
+        "_id": 119,
         "Name": "Lauma",
-        "Skills": [
-            {
-                "Name": "Lauma Weapon ",
-                "DescList": [
-                    "@542# | EM +@265#",
-                    "When dealing @Dendro# or @Hydro# DMG via Elemental Skill, the equipping character gains Effect A: EM @+60# for @4.5s#",
-                    "When nearby perty members trigger @Lunar-Bloom#, the equipping character gains Effect B: EM @+60# for @10s#",
-                    "When Effects A and B coexist, all nearby party members' Bloom DMG @+120%#, Hyperbloom and Burgeon DMG @+80%#, Lunar-Bloom DMG @+40%#. This effect cannot stack.",
-                    "This effect still triggers if the equipping character is off-field."
-                ],
-                "Tag": "Catalyst R1"
-            },
-            0,
-            {
-                "Name": "",
-                "DescList": [
-                    "",
-                    ""
-                ]
-            },
-            {
-                "Name": "",
-                "DescList": [
-                    "",
-                    ""
-                ]
-            },
-            {
-                "Name": "",
-                "DescList": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            0,
-            {
-                "Name": "Charged Attack",
-                "DescList": [
-                    "Enters a swiftly moving state for up to @10s#, while consinuously consuming stamina. Increases @interruption RES# in this state. Can consume extra stamina to perform up to @2 consecutive leaps#.",
-                    "After exiting the swiftly moving state, it will start a CD, during which Charged Attack is changed to dealing @AoE Dendro DMG#."
-                ]
-            },
-            {
-                "Name": "Elemental Skill",
-                "DescList": [
-                    "",
-                    "@Press#",
-                    "Deals @AoE Dendro DMG#.",
-                    "",
-                    "Can be used when Lauma has at least 1 Dewdrop. Lauma consumes all Dewdrops and deals @AoE Dendro DMG# and an @AoE Dendro DMG# that is considered @Lunar-Bloom# DMG. Every Dewdrop consumed grants Lauma 1 stack of Moon-Chant, up to 3 stacks.",
-                    "When Lauma's Elemental Skill or Sacred Forest hits an enemy, reduces the targets @Dendro RES# and @Hydro RES# for @10s#."
-                ]
-            },
-            {
-                "Name": "Elemental Burst",
-                "DescList": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "Tag": "Elemental Burst"
-            },
-            0,
-            {
-                "Name": "Talent 1",
-                "DescList": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "Tag": "Ascension Talent"
-            },
-            {
-                "Name": "",
-                "DescList": [
-                    "",
-                    "",
-                    ""
-                ],
-                "Tag": "Ascension Talent"
-            },
-            {
-                "Name": "",
-                "DescList": [
-                    "",
-                    ""
-                ],
-                "Tag": "Passive Talent"
-            },
-            0,
-            {
-                "Name": "Constellation 1",
-                "DescList": [
-                    "",
-                    "",
-                    ""
-                ],
-                "Tag": ""
-            },
-            {
-                "Name": "Constellation 2",
-                "DescList": [
-                    "",
-                    "",
-                    ""
-                ],
-                "Tag": ""
-            },
-            {
-                "Name": "Constellation 4",
-                "DescList": [
-                    ""
-                ],
-                "Tag": ""
-            },
-            {
-                "Name": "Constellation 6",
-                "DescList": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ],
-                "Tag": ""
-            }
-        ],
-        "Stats": {
-            "HP": 0,
-            "ATK": 0,
-            "DEF": 0,
-            "Custom": 0,
-            "CustomPromote": "CR"
-        },
-        "Mats": [
-            []
-        ],
-        "Desc": "6.0v0",
-        "Title": "6.0v0",
+        "Desc": "",
+        "Title": "",
+        "Constellation": "",
+        "Nation": "???",
+        "Belong": "",
         "Grade": 5,
-        "Element": "Grass",
+        "Type": "Lady",
         "Weapon": "Catalyst",
-        "Icon": "../UI/Avatar_1",
-        "Gacha": "../UI/Avatar_1",
-        "Version": "6.0v0",
-        "Add": true
+        "Element": "Grass",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_Lauma",
+        "CommonMatt": 112127,
+        "TalentMat": 1,
+        "TalentMatt": 104358,
+        "SpecialityMat": 101263,
+        "AscMat": 113078,
+        "WeekMat": 113070,
+        "CustomPromote": "EM",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 10654,
+            "ATK": 255,
+            "DEF": 669,
+            "Custom": 115.2
+        },
+        "Version": "6.0v1",
+        "Fetter": 119,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
     },
     {
         "_name": "Ineffa",
