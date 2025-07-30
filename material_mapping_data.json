@@ -1,542 +1,711 @@
-﻿{
-  "Slime Materials": {
-    "enemyName": "Large Hydro Slime",
-    "itemName1": "Slime Condensate",
-    "itemName2": "Slime Secretions",
-    "itemName3": "Slime Concentrate"
-  },
-  "Hilichurl Materials": {
-    "enemyName": "Hilichurl",
-    "itemName1": "Damaged Mask",
-    "itemName2": "Stained Mask",
-    "itemName3": "Ominous Mask"
-  },
-  "Samachurl Materials": {
-    "enemyName": "Electro Samachurl",
-    "itemName1": "Divining Scroll",
-    "itemName2": "Sealed Scroll",
-    "itemName3": "Forbidden Curse Scroll"
-  },
-  "Hilichurl Shooter Materials": {
-    "enemyName": "Electro Hilichurl Shooter",
-    "itemName1": "Firm Arrowhead",
-    "itemName2": "Sharp Arrowhead",
-    "itemName3": "Weathered Arrowhead"
-  },
-  "Fatui Skirmisher Materials": {
-    "enemyName": "Fatui Skirmisher - Cryogunner Legionnaire",
-    "itemName1": "Recruit's Insignia",
-    "itemName2": "Sergeant's Insignia",
-    "itemName3": "Lieutenant's Insignia"
-  },
-  "Treasure Hoarder Materials": {
-    "enemyName": "Treasure Hoarders: Crusher",
-    "itemName1": "Treasure Hoarder Insignia",
-    "itemName2": "Silver Raven Insignia",
-    "itemName3": "Golden Raven Insignia"
-  },
-  "Whopperflower Materials": {
-    "enemyName": "Cryo Whopperflower",
-    "itemName1": "Whopperflower Nectar",
-    "itemName2": "Shimmering Nectar",
-    "itemName3": "Energy Nectar"
-  },
-  "Nobushi Materials": {
-    "enemyName": "Nobushi: Jintouban",
-    "itemName1": "Old Handguard",
-    "itemName2": "Kageuchi Handguard",
-    "itemName3": "Famed Handguard"
-  },
-  "Specter Materials": {
-    "enemyName": "Pyro Specter",
-    "itemName1": "Spectral Husk",
-    "itemName2": "Spectral Heart",
-    "itemName3": "Spectral Nucleus"
-  },
-  "Fungus Materials": {
-    "enemyName": "Floating Dendro Fungus",
-    "itemName1": "Fungal Spores",
-    "itemName2": "Luminescent Pollen",
-    "itemName3": "Crystalline Cyst Dust"
-  },
-  "The Eremites Materials": {
-    "enemyName": "Eremite Axe Vanguard",
-    "itemName1": "Faded Red Satin",
-    "itemName2": "Trimmed Red Silk",
-    "itemName3": "Rich Red Brocade"
-  },
-  "Fontemer Aberrant Materials": {
-    "enemyName": "Sternshield Crab",
-    "itemName1": "Transoceanic Pearl",
-    "itemName2": "Transoceanic Chunk",
-    "itemName3": "Xenochromatic Crystal"
-  },
-  "Clockwork Meka Materials": {
-    "enemyName": "Assault Specialist Mek - Ousia",
-    "itemName1": "Meshing Gear",
-    "itemName2": "Mechanical Spur Gear",
-    "itemName3": "Artificed Dynamic Gear"
-  },
-  "Natlan Saurian Materials": {
-    "enemyName": "Tepetlisaur Whelp",
-    "itemName1": "Juvenile Fang",
-    "itemName2": "Seasoned Fang",
-    "itemName3": "Tyrant's Fang"
-  },
-  "Sauroform Tribal Warrior Materials": {
-    "enemyName": "Swiftstep Seeker",
-    "itemName1": "Sentry's Wooden Whistle",
-    "itemName2": "Warrior's Metal Whistle",
-    "itemName3": "Saurian-Crowned Warrior's Golden Whistle"
-  },
-
-
-
-
-  "Hurricane Seed": {
-    "bossName": "Anemo Hypostasis",
-    "itemName": "Hurricane Seed"
-  },
-  "Lightning Prism": {
-    "bossName": "Electro Hypostasis",
-    "itemName": "Lightning Prism"
-  },
-  "Basalt Pillar": {
-    "bossName": "Geo Hypostasis",
-    "itemName": "Basalt Pillar"
-  },
-  "Hoarfrost Core": {
-    "bossName": "Cryo Regisvine",
-    "itemName": "Hoarfrost Core"
-  },
-  "Everflame Seed": {
-    "bossName": "Pyro Regisvine",
-    "itemName": "Everflame Seed"
-  },
-  "Cleansing Heart": {
-    "bossName": "Oceanid",
-    "itemName": "Cleansing Heart"
-  },
-  "Juvenile Jade": {
-    "bossName": "Pyro Primo Geovishap",
-    "itemName": "Juvenile Jade"
-  },
-  "Crystalline Bloom": {
-    "bossName": "Cryo Hypostasis",
-    "itemName": "Crystalline Bloom"
-  },
-  "Marionette Core": {
-    "bossName": "Maguu Kenki",
-    "itemName": "Marionette Core"
-  },
-  "Perpetual Heart": {
-    "bossName": "Perpetual Mechanical Array",
-    "itemName": "Perpetual Heart"
-  },
-  "Smoldering Pearl": {
-    "bossName": "Pyro Hypostasis",
-    "itemName": "Smoldering Pearl"
-  },
-  "Dew of Repudiation": {
-    "bossName": "Hydro Hypostasis",
-    "itemName": "Dew of Repudiation"
-  },
-  "Storm Beads": {
-    "bossName": "Thunder Manifestation",
-    "itemName": "Storm Beads"
-  },
-  "Riftborn Regalia": {
-    "bossName": "Golden Wolflord",
-    "itemName": "Riftborn Regalia"
-  },
-  "Dragonheir's False Fin": {
-    "bossName": "Coral Defenders",
-    "itemName": "Dragonheir's False Fin"
-  },
-  "Runic Fang": {
-    "bossName": "Ruin Serpent",
-    "itemName": "Runic Fang"
-  },
-  "Majestic Hooked Beak": {
-    "bossName": "Jadeplume Terrorshroom",
-    "itemName": "Majestic Hooked Beak"
-  },
-  "Thunderclap Fruitcore": {
-    "bossName": "Electro Regisvine",
-    "itemName": "Thunderclap Fruitcore"
-  },
-  "Perpetual Caliber": {
-    "bossName": "Aeonblight Drake",
-    "itemName": "Perpetual Caliber"
-  },
-  "Light Guiding Tetrahedron": {
-    "bossName": "Algorithm of Semi-Intransient Matrix of Overseer Network",
-    "itemName": "Light Guiding Tetrahedron"
-  },
-  "Quelled Creeper": {
-    "bossName": "Dendro Hypostasis",
-    "itemName": "Quelled Creeper"
-  },
-  "Pseudo-Stamens": {
-    "bossName": "Setekh Wenut",
-    "itemName": "Pseudo-Stamens"
-  },
-  "Evergloom Ring": {
-    "bossName": "Iniquitous Baptist - Invoker of Flame, Frost, and Fulmination",
-    "itemName": "Evergloom Ring"
-  },
-  "Artificed Spare Clockwork Component — Coppelia": {
-    "bossName": "Icewind Suite: Dirge of Coppelia",
-    "itemName": "Artificed Spare Clockwork Component — Coppelia"
-  },
-  "Artificed Spare Clockwork Component — Coppelius": {
-    "bossName": "Icewind Suite: Nemesis of Coppelius",
-    "itemName": "Artificed Spare Clockwork Component — Coppelius"
-  },
-  "Emperor's Resolution": {
-    "bossName": "Emperor of Fire and Iron",
-    "itemName": "Emperor's Resolution"
-  },
-  "\"Tourbillon Device\"": {
-    "bossName": "Experimental Field Generator",
-    "itemName": "\"Tourbillon Device\""
-  },
-  "Fontemer Unihorn": {
-    "bossName": "Millennial Pearl Seahorse",
-    "itemName": "Fontemer Unihorn"
-  },
-  "Water That Failed To Transcend": {
-    "bossName": "Hydro Tulpa",
-    "itemName": "Water That Failed To Transcend"
-  },
-  "Cloudseam Scale": {
-    "bossName": "Solitary Suanni",
-    "itemName": "Cloudseam Scale"
-  },
-  "Fragment of a Golden Melody": {
-    "bossName": "\"Statue of Marble and Brass\"",
-    "itemName": "Fragment of a Golden Melody"
-  },
-  "Mark of the Binding Blessing": {
-    "bossName": "Goldflame Qucusaur Tyrant",
-    "itemName": "Mark of the Binding Blessing"
-  },
-  "Overripe Flamegranate": {
-    "bossName": "Gluttonous Yumkasaur Mountain King",
-    "itemName": "Overripe Flamegranate"
-  },
-  "Gold-Inscribed Secret Source Core": {
-    "bossName": "Secret Source Automaton: Configuration Device",
-    "itemName": "Gold-Inscribed Secret Source Core"
-  },
-  "Ensnaring Gaze": {
-    "bossName": "Tenebrous Papilla: Type I",
-    "itemName": "Ensnaring Gaze"
-  },
-  "Talisman of the Enigmatic Land": {
-    "bossName": "Wayward Hermetic Spiritspeaker",
-    "itemName": "Talisman of the Enigmatic Land"
-  },
-  "Sparkless Statue Core": {
-    "bossName": "Lava Dragon Statue",
-    "itemName": "Sparkless Statue Core"
-  },
-  "Secret Source Airflow Accumulator": {
-    "bossName": "Secret Source Automaton: Overseer Device",
-    "itemName": "Secret Source Airflow Accumulator"
-  },
-
-
-
-
-  "Dvalin's Plume": {
-    "bossName": "Stormterror",
-    "itemName": "Dvalin's Plume"
-  },
-  "Dvalin's Claw": {
-    "bossName": "Stormterror",
-    "itemName": "Dvalin's Claw"
-  },
-  "Dvalin's Sigh": {
-    "bossName": "Stormterror",
-    "itemName": "Dvalin's Sigh"
-  },
-  "Tail of Boreas": {
-    "bossName": "Lupus Boreas, Dominator of Wolves",
-    "itemName": "Tail of Boreas"
-  },
-  "Ring of Boreas": {
-    "bossName": "Lupus Boreas, Dominator of Wolves",
-    "itemName": "Ring of Boreas"
-  },
-  "Spirit Locket of Boreas": {
-    "bossName": "Lupus Boreas, Dominator of Wolves",
-    "itemName": "Spirit Locket of Boreas"
-  },
-  "Tusk of Monoceros Caeli": {
-    "bossName": "Childe P1",
-    "itemName": "Tusk of Monoceros Caeli"
-  },
-  "Shard of a Foul Legacy": {
-    "bossName": "Childe P1",
-    "itemName": "Shard of a Foul Legacy"
-  },
-  "Shadow of the Warrior": {
-    "bossName": "Childe P1",
-    "itemName": "Shadow of the Warrior"
-  },
-  "Dragon Lord's Crown": {
-    "bossName": "Azhdaha",
-    "itemName": "Dragon Lord's Crown"
-  },
-  "Bloodjade Branch": {
-    "bossName": "Azhdaha",
-    "itemName": "Bloodjade Branch"
-  },
-  "Gilded Scale": {
-    "bossName": "Azhdaha",
-    "itemName": "Gilded Scale"
-  },
-  "Molten Moment": {
-    "bossName": "Crimson Witch of Embers",
-    "itemName": "Molten Moment"
-  },
-  "Hellfire Butterfly": {
-    "bossName": "Crimson Witch of Embers",
-    "itemName": "Hellfire Butterfly"
-  },
-  "Ashen Heart": {
-    "bossName": "Crimson Witch of Embers",
-    "itemName": "Ashen Heart"
-  },
-  "Mudra of the Malefic General": {
-    "bossName": "Magatsu Mitake Narukami no Mikoto",
-    "itemName": "Mudra of the Malefic General"
-  },
-  "Tears of the Calamitous God": {
-    "bossName": "Magatsu Mitake Narukami no Mikoto",
-    "itemName": "Tears of the Calamitous God"
-  },
-  "The Meaning of Aeons": {
-    "bossName": "Magatsu Mitake Narukami no Mikoto",
-    "itemName": "The Meaning of Aeons"
-  },
-  "Puppet Strings": {
-    "bossName": "Shouki no Kami P1",
-    "itemName": "Puppet Strings"
-  },
-  "Mirror of Mushin": {
-    "bossName": "Shouki no Kami P1",
-    "itemName": "Mirror of Mushin"
-  },
-  "Daka's Bell": {
-    "bossName": "Shouki no Kami P1",
-    "itemName": "Daka's Bell"
-  },
-  "Worldspan Fern": {
-    "bossName": "Warden of Oasis Prime",
-    "itemName": "Worldspan Fern"
-  },
-  "Primordial Greenbloom": {
-    "bossName": "Warden of Oasis Prime",
-    "itemName": "Primordial Greenbloom"
-  },
-  "Everamber": {
-    "bossName": "Warden of Oasis Prime",
-    "itemName": "Everamber"
-  },
-  "Lightless Silk String": {
-    "bossName": "All-Devouring Narwhal",
-    "itemName": "Lightless Silk String"
-  },
-  "Lightless Eye of the Maelstrom": {
-    "bossName": "All-Devouring Narwhal",
-    "itemName": "Lightless Eye of the Maelstrom"
-  },
-  "Lightless Mass": {
-    "bossName": "All-Devouring Narwhal",
-    "itemName": "Lightless Mass"
-  },
-  "Fading Candle": {
-    "bossName": "The Knave",
-    "itemName": "Fading Candle"
-  },
-  "Silken Feather": {
-    "bossName": "The Knave",
-    "itemName": "Silken Feather"
-  },
-  "Denial and Judgment": {
-    "bossName": "The Knave",
-    "itemName": "Denial and Judgment"
-  },
-  "Eroded Horn": {
-    "bossName": "Gosoythoth",
-    "itemName": "Eroded Horn"
-  },
-  "Eroded Sunfire": {
-    "bossName": "Gosoythoth",
-    "itemName": "Eroded Sunfire"
-  },
-  "Eroded Scale-Feather": {
-    "bossName": "Gosoythoth",
-    "itemName": "Eroded Scale-Feather"
-  },
-  "Ascended Sample: Queen": {
-    "bossName": "The Game Before the Gate",
-    "itemName": "Ascended Sample: Queen"
-  },
-  "Ascended Sample: Rook": {
-    "bossName": "The Game Before the Gate",
-    "itemName": "Ascended Sample: Rook"
-  },
-  "Ascended Sample: Knight": {
-    "bossName": "The Game Before the Gate",
-    "itemName": "Ascended Sample: Knight"
-  },
-
-
-
-
-  "Brilliant Diamond": {
-    "star2": "Brilliant Diamond Sliver",
-    "star3": "Brilliant Diamond Fragment",
-    "star4": "Brilliant Diamond Chunk",
-    "star5": "Brilliant Diamond Gemstone"
-  },
-  "Agnidus Agate": {
-    "star2": "Agnidus Agate Sliver",
-    "star3": "Agnidus Agate Fragment",
-    "star4": "Agnidus Agate Chunk",
-    "star5": "Agnidus Agate Gemstone"
-  },
-  "Varunada Lazurite": {
-    "star2": "Varunada Lazurite Sliver",
-    "star3": "Varunada Lazurite Fragment",
-    "star4": "Varunada Lazurite Chunk",
-    "star5": "Varunada Lazurite Gemstone"
-  },
-  "Nagadus Emerald": {
-    "star2": "Nagadus Emerald Sliver",
-    "star3": "Nagadus Emerald Fragment",
-    "star4": "Nagadus Emerald Chunk",
-    "star5": "Nagadus Emerald Gemstone"
-  },
-  "Vajrada Amethyst": {
-    "star2": "Vajrada Amethyst Sliver",
-    "star3": "Vajrada Amethyst Fragment",
-    "star4": "Vajrada Amethyst Chunk",
-    "star5": "Vajrada Amethyst Gemstone"
-  },
-  "Vayuda Turquoise": {
-    "star2": "Vayuda Turquoise Sliver",
-    "star3": "Vayuda Turquoise Fragment",
-    "star4": "Vayuda Turquoise Chunk",
-    "star5": "Vayuda Turquoise Gemstone"
-  },
-  "Shivada Jade": {
-    "star2": "Shivada Jade Sliver",
-    "star3": "Shivada Jade Fragment",
-    "star4": "Shivada Jade Chunk",
-    "star5": "Shivada Jade Gemstone"
-  },
-  "Prithiva Topaz": {
-    "star2": "Prithiva Topaz Sliver",
-    "star3": "Prithiva Topaz Fragment",
-    "star4": "Prithiva Topaz Chunk",
-    "star5": "Prithiva Topaz Gemstone"
-  },
-
-
-
-
-  "Freedom": {
-    "teachings": "Teachings of Freedom",
-    "guide": "Guide to Freedom",
-    "philosophies": "Philosophies of Freedom"
-  },
-  "Resistance": {
-    "teachings": "Teachings of Resistance",
-    "guide": "Guide to Resistance",
-    "philosophies": "Philosophies of Resistance"
-  },
-  "Ballad": {
-    "teachings": "Teachings of Ballad",
-    "guide": "Guide to Ballad",
-    "philosophies": "Philosophies of Ballad"
-  },
-  "Prosperity": {
-    "teachings": "Teachings of Prosperity",
-    "guide": "Guide to Prosperity",
-    "philosophies": "Philosophies of Prosperity"
-  },
-  "Diligence": {
-    "teachings": "Teachings of Diligence",
-    "guide": "Guide to Diligence",
-    "philosophies": "Philosophies of Diligence"
-  },
-  "Gold": {
-    "teachings": "Teachings of Gold",
-    "guide": "Guide to Gold",
-    "philosophies": "Philosophies of Gold"
-  },
-  "Transience": {
-    "teachings": "Teachings of Transience",
-    "guide": "Guide to Transience",
-    "philosophies": "Philosophies of Transience"
-  },
-  "Elegance": {
-    "teachings": "Teachings of Elegance",
-    "guide": "Guide to Elegance",
-    "philosophies": "Philosophies of Elegance"
-  },
-  "Light": {
-    "teachings": "Teachings of Light",
-    "guide": "Guide to Light",
-    "philosophies": "Philosophies of Light"
-  },
-  "Admonition": {
-    "teachings": "Teachings of Admonition",
-    "guide": "Guide to Admonition",
-    "philosophies": "Philosophies of Admonition"
-  },
-  "Ingenuity": {
-    "teachings": "Teachings of Ingenuity",
-    "guide": "Guide to Ingenuity",
-    "philosophies": "Philosophies of Ingenuity"
-  },
-  "Praxis": {
-    "teachings": "Teachings of Praxis",
-    "guide": "Guide to Praxis",
-    "philosophies": "Philosophies of Praxis"
-  },
-  "Equity": {
-    "teachings": "Teachings of Equity",
-    "guide": "Guide to Equity",
-    "philosophies": "Philosophies of Equity"
-  },
-  "Justice": {
-    "teachings": "Teachings of Justice",
-    "guide": "Guide to Justice",
-    "philosophies": "Philosophies of Justice"
-  },
-  "Order": {
-    "teachings": "Teachings of Order",
-    "guide": "Guide to Order",
-    "philosophies": "Philosophies of Order"
-  },
-  "Contention": {
-    "teachings": "Teachings of Contention",
-    "guide": "Guide to Contention",
-    "philosophies": "Philosophies of Contention"
-  },
-  "Kindling": {
-    "teachings": "Teachings of Kindling",
-    "guide": "Guide to Kindling",
-    "philosophies": "Philosophies of Kindling"
-  },
-  "Conflict": {
-    "teachings": "Teachings of Conflict",
-    "guide": "Guide to Conflict",
-    "philosophies": "Philosophies of Conflict"
-  }
+{
+    "Vagrancy": {
+        "philosophies": "Philosophies of Vagrancy",
+        "guide": "Guide to Vagrancy",
+        "teachings": "Teachings of Vagrancy"
+    },
+    "Elysium": {
+        "philosophies": "Philosophies of Elysium",
+        "guide": "Guide to Elysium",
+        "teachings": "Teachings of Elysium"
+    },
+    "Moonlight": {
+        "philosophies": "Philosophies of Moonlight",
+        "guide": "Guide to Moonlight",
+        "teachings": "Teachings of Moonlight"
+    },
+    "Conflict": {
+        "philosophies": "Philosophies of Conflict",
+        "guide": "Guide to Conflict",
+        "teachings": "Teachings of Conflict"
+    },
+    "Kindling": {
+        "philosophies": "Philosophies of Kindling",
+        "guide": "Guide to Kindling",
+        "teachings": "Teachings of Kindling"
+    },
+    "Contention": {
+        "philosophies": "Philosophies of Contention",
+        "guide": "Guide to Contention",
+        "teachings": "Teachings of Contention"
+    },
+    "Order": {
+        "philosophies": "Philosophies of Order",
+        "guide": "Guide to Order",
+        "teachings": "Teachings of Order"
+    },
+    "Justice": {
+        "philosophies": "Philosophies of Justice",
+        "guide": "Guide to Justice",
+        "teachings": "Teachings of Justice"
+    },
+    "Equity": {
+        "philosophies": "Philosophies of Equity",
+        "guide": "Guide to Equity",
+        "teachings": "Teachings of Equity"
+    },
+    "Praxis": {
+        "philosophies": "Philosophies of Praxis",
+        "guide": "Guide to Praxis",
+        "teachings": "Teachings of Praxis"
+    },
+    "Ingenuity": {
+        "philosophies": "Philosophies of Ingenuity",
+        "guide": "Guide to Ingenuity",
+        "teachings": "Teachings of Ingenuity"
+    },
+    "Admonition": {
+        "philosophies": "Philosophies of Admonition",
+        "guide": "Guide to Admonition",
+        "teachings": "Teachings of Admonition"
+    },
+    "Light": {
+        "philosophies": "Philosophies of Light",
+        "guide": "Guide to Light",
+        "teachings": "Teachings of Light"
+    },
+    "Elegance": {
+        "philosophies": "Philosophies of Elegance",
+        "guide": "Guide to Elegance",
+        "teachings": "Teachings of Elegance"
+    },
+    "Transience": {
+        "philosophies": "Philosophies of Transience",
+        "guide": "Guide to Transience",
+        "teachings": "Teachings of Transience"
+    },
+    "Gold": {
+        "philosophies": "Philosophies of Gold",
+        "guide": "Guide to Gold",
+        "teachings": "Teachings of Gold"
+    },
+    "Diligence": {
+        "philosophies": "Philosophies of Diligence",
+        "guide": "Guide to Diligence",
+        "teachings": "Teachings of Diligence"
+    },
+    "Prosperity": {
+        "philosophies": "Philosophies of Prosperity",
+        "guide": "Guide to Prosperity",
+        "teachings": "Teachings of Prosperity"
+    },
+    "Ballad": {
+        "philosophies": "Philosophies of Ballad",
+        "guide": "Guide to Ballad",
+        "teachings": "Teachings of Ballad"
+    },
+    "Resistance": {
+        "philosophies": "Philosophies of Resistance",
+        "guide": "Guide to Resistance",
+        "teachings": "Teachings of Resistance"
+    },
+    "Freedom": {
+        "philosophies": "Philosophies of Freedom",
+        "guide": "Guide to Freedom",
+        "teachings": "Teachings of Freedom"
+    },
+    "Prithiva Topaz": {
+        "star5": "Prithiva Topaz Gemstone",
+        "star4": "Prithiva Topaz Chunk",
+        "star3": "Prithiva Topaz Fragment",
+        "star2": "Prithiva Topaz Sliver"
+    },
+    "Shivada Jade": {
+        "star5": "Shivada Jade Gemstone",
+        "star4": "Shivada Jade Chunk",
+        "star3": "Shivada Jade Fragment",
+        "star2": "Shivada Jade Sliver"
+    },
+    "Vayuda Turquoise": {
+        "star5": "Vayuda Turquoise Gemstone",
+        "star4": "Vayuda Turquoise Chunk",
+        "star3": "Vayuda Turquoise Fragment",
+        "star2": "Vayuda Turquoise Sliver"
+    },
+    "Vajrada Amethyst": {
+        "star5": "Vajrada Amethyst Gemstone",
+        "star4": "Vajrada Amethyst Chunk",
+        "star3": "Vajrada Amethyst Fragment",
+        "star2": "Vajrada Amethyst Sliver"
+    },
+    "Nagadus Emerald": {
+        "star5": "Nagadus Emerald Gemstone",
+        "star4": "Nagadus Emerald Chunk",
+        "star3": "Nagadus Emerald Fragment",
+        "star2": "Nagadus Emerald Sliver"
+    },
+    "Varunada Lazurite": {
+        "star5": "Varunada Lazurite Gemstone",
+        "star4": "Varunada Lazurite Chunk",
+        "star3": "Varunada Lazurite Fragment",
+        "star2": "Varunada Lazurite Sliver"
+    },
+    "Agnidus Agate": {
+        "star5": "Agnidus Agate Gemstone",
+        "star4": "Agnidus Agate Chunk",
+        "star3": "Agnidus Agate Fragment",
+        "star2": "Agnidus Agate Sliver"
+    },
+    "Brilliant Diamond": {
+        "star5": "Brilliant Diamond Gemstone",
+        "star4": "Brilliant Diamond Chunk",
+        "star3": "Brilliant Diamond Fragment",
+        "star2": "Brilliant Diamond Sliver"
+    },
+    "Lightbearing Wings": {
+        "bossName": "Radiant Moonfly",
+        "itemName": "Lightbearing Wings"
+    },
+    "Precision Kuuvahki Stamping D-uck-ie": {
+        "bossName": "Knuckle Duckle",
+        "itemName": "Precision Kuuvahki Stamping D-uck-ie"
+    },
+    "Secret Source Airflow Accumulator": {
+        "bossName": "Secret Source Automaton: Overseer Device",
+        "itemName": "Secret Source Airflow Accumulator"
+    },
+    "Sparkless Statue Core": {
+        "bossName": "Lava Dragon Statuis",
+        "itemName": "Sparkless Statue Core"
+    },
+    "Talisman of the Enigmatic Land": {
+        "bossName": "Wayward Hermetic Spiritspeaker",
+        "itemName": "Talisman of the Enigmatic Land"
+    },
+    "Ensnaring Gaze": {
+        "bossName": "Tenebrous Papilla",
+        "itemName": "Ensnaring Gaze"
+    },
+    "Gold-Inscribed Secret Source Core": {
+        "bossName": "Secret Source Automaton: Configuration Device",
+        "itemName": "Gold-Inscribed Secret Source Core"
+    },
+    "Overripe Flamegranate": {
+        "bossName": "Gluttonous Yumkasaur Mountain King",
+        "itemName": "Overripe Flamegranate"
+    },
+    "Mark of the Binding Blessing": {
+        "bossName": "Goldflame Qucusaur Tyrant",
+        "itemName": "Mark of the Binding Blessing"
+    },
+    "Fragment of a Golden Melody": {
+        "bossName": "Legatus Golem",
+        "itemName": "Fragment of a Golden Melody"
+    },
+    "Cloudseam Scale": {
+        "bossName": "Solitary Suanni",
+        "itemName": "Cloudseam Scale"
+    },
+    "Water That Failed To Transcend": {
+        "bossName": "Hydro Tulpa",
+        "itemName": "Water That Failed To Transcend"
+    },
+    "Fontemer Unihorn": {
+        "bossName": "Millennial Pearl Seahorsis",
+        "itemName": "Fontemer Unihorn"
+    },
+    "\"Tourbillon Device\"": {
+        "bossName": "Experimental Field Generator",
+        "itemName": "\"Tourbillon Device\""
+    },
+    "Emperor's Resolution": {
+        "bossName": "Emperor of Fire and Iron",
+        "itemName": "Emperor's Resolution"
+    },
+    "Artificed Spare Clockwork Component — Coppelius": {
+        "bossName": "\"Icewind Suite\"",
+        "itemName": "Artificed Spare Clockwork Component — Coppelius"
+    },
+    "Artificed Spare Clockwork Component — Coppelia": {
+        "bossName": "\"Icewind Suite\"",
+        "itemName": "Artificed Spare Clockwork Component — Coppelia"
+    },
+    "Evergloom Ring": {
+        "bossName": "Iniquitous Baptist",
+        "itemName": "Evergloom Ring"
+    },
+    "Pseudo-Stamens": {
+        "bossName": "Setekh Wenut",
+        "itemName": "Pseudo-Stamens"
+    },
+    "Quelled Creeper": {
+        "bossName": "Dendro Hypostasis",
+        "itemName": "Quelled Creeper"
+    },
+    "Light Guiding Tetrahedron": {
+        "bossName": "Semi-Intransient Matricis",
+        "itemName": "Light Guiding Tetrahedron"
+    },
+    "Perpetual Caliber": {
+        "bossName": "Aeonblight Drakis",
+        "itemName": "Perpetual Caliber"
+    },
+    "Thunderclap Fruitcore": {
+        "bossName": "Electro Regisvinis",
+        "itemName": "Thunderclap Fruitcore"
+    },
+    "Majestic Hooked Beak": {
+        "bossName": "Jadeplume Terrorshroom",
+        "itemName": "Majestic Hooked Beak"
+    },
+    "Runic Fang": {
+        "bossName": "Ruin Serpent",
+        "itemName": "Runic Fang"
+    },
+    "Dragonheir's False Fin": {
+        "bossName": "Bathysmal Vishap Herd",
+        "itemName": "Dragonheir's False Fin"
+    },
+    "Riftborn Regalia": {
+        "bossName": "Golden Wolflord",
+        "itemName": "Riftborn Regalia"
+    },
+    "Storm Beads": {
+        "bossName": "Thunder Manifestation",
+        "itemName": "Storm Beads"
+    },
+    "Dew of Repudiation": {
+        "bossName": "Hydro Hypostasis",
+        "itemName": "Dew of Repudiation"
+    },
+    "Smoldering Pearl": {
+        "bossName": "Pyro Hypostasis",
+        "itemName": "Smoldering Pearl"
+    },
+    "Perpetual Heart": {
+        "bossName": "Perpetual Mechanical Array",
+        "itemName": "Perpetual Heart"
+    },
+    "Marionette Core": {
+        "bossName": "Maguu Kenki",
+        "itemName": "Marionette Core"
+    },
+    "Crystalline Bloom": {
+        "bossName": "Cryo Hypostasis",
+        "itemName": "Crystalline Bloom"
+    },
+    "Juvenile Jade": {
+        "bossName": "Primo Geovishap",
+        "itemName": "Juvenile Jade"
+    },
+    "Cleansing Heart": {
+        "bossName": "Oceanid",
+        "itemName": "Cleansing Heart"
+    },
+    "Everflame Seed": {
+        "bossName": "Pyro Regisvinis",
+        "itemName": "Everflame Seed"
+    },
+    "Hoarfrost Core": {
+        "bossName": "Cryo Regisvinis",
+        "itemName": "Hoarfrost Core"
+    },
+    "Basalt Pillar": {
+        "bossName": "Geo Hypostasis",
+        "itemName": "Basalt Pillar"
+    },
+    "Lightning Prism": {
+        "bossName": "Electro Hypostasis",
+        "itemName": "Lightning Prism"
+    },
+    "Hurricane Seed": {
+        "bossName": "Anemo Hypostasis",
+        "itemName": "Hurricane Seed"
+    },
+    "Ascended Sample: Queen": {
+        "bossName": "The Game Before the Gate",
+        "itemName": "Ascended Sample: Queen"
+    },
+    "Ascended Sample: Rook": {
+        "bossName": "The Game Before the Gate",
+        "itemName": "Ascended Sample: Rook"
+    },
+    "Ascended Sample: Knight": {
+        "bossName": "The Game Before the Gate",
+        "itemName": "Ascended Sample: Knight"
+    },
+    "Eroded Scale-Feather": {
+        "bossName": "Lord of Eroded Primal Fire",
+        "itemName": "Eroded Scale-Feather"
+    },
+    "Eroded Sunfire": {
+        "bossName": "Lord of Eroded Primal Fire",
+        "itemName": "Eroded Sunfire"
+    },
+    "Eroded Horn": {
+        "bossName": "Lord of Eroded Primal Fire",
+        "itemName": "Eroded Horn"
+    },
+    "Denial and Judgment": {
+        "bossName": "The Knave",
+        "itemName": "Denial and Judgment"
+    },
+    "Silken Feather": {
+        "bossName": "The Knave",
+        "itemName": "Silken Feather"
+    },
+    "Fading Candle": {
+        "bossName": "The Knave",
+        "itemName": "Fading Candle"
+    },
+    "Lightless Mass": {
+        "bossName": "All-Devouring Narwhal",
+        "itemName": "Lightless Mass"
+    },
+    "Lightless Eye of the Maelstrom": {
+        "bossName": "All-Devouring Narwhal",
+        "itemName": "Lightless Eye of the Maelstrom"
+    },
+    "Lightless Silk String": {
+        "bossName": "All-Devouring Narwhal",
+        "itemName": "Lightless Silk String"
+    },
+    "Everamber": {
+        "bossName": "Warden of Oasis Prime",
+        "itemName": "Everamber"
+    },
+    "Primordial Greenbloom": {
+        "bossName": "Warden of Oasis Prime",
+        "itemName": "Primordial Greenbloom"
+    },
+    "Worldspan Fern": {
+        "bossName": "Warden of Oasis Prime",
+        "itemName": "Worldspan Fern"
+    },
+    "Daka's Bell": {
+        "bossName": "Shouki no Kami P1",
+        "itemName": "Daka's Bell"
+    },
+    "Mirror of Mushin": {
+        "bossName": "Shouki no Kami P1",
+        "itemName": "Mirror of Mushin"
+    },
+    "Puppet Strings": {
+        "bossName": "Shouki no Kami P1",
+        "itemName": "Puppet Strings"
+    },
+    "The Meaning of Aeons": {
+        "bossName": "Magatsu Mitake Narukami no Mikoto",
+        "itemName": "The Meaning of Aeons"
+    },
+    "Tears of the Calamitous God": {
+        "bossName": "Magatsu Mitake Narukami no Mikoto",
+        "itemName": "Tears of the Calamitous God"
+    },
+    "Mudra of the Malefic General": {
+        "bossName": "Magatsu Mitake Narukami no Mikoto",
+        "itemName": "Mudra of the Malefic General"
+    },
+    "Ashen Heart": {
+        "bossName": "Crimson Witch of Embers",
+        "itemName": "Ashen Heart"
+    },
+    "Hellfire Butterfly": {
+        "bossName": "Crimson Witch of Embers",
+        "itemName": "Hellfire Butterfly"
+    },
+    "Molten Moment": {
+        "bossName": "Crimson Witch of Embers",
+        "itemName": "Molten Moment"
+    },
+    "Gilded Scale": {
+        "bossName": "Azhdaha",
+        "itemName": "Gilded Scale"
+    },
+    "Bloodjade Branch": {
+        "bossName": "Azhdaha",
+        "itemName": "Bloodjade Branch"
+    },
+    "Dragon Lord's Crown": {
+        "bossName": "Azhdaha",
+        "itemName": "Dragon Lord's Crown"
+    },
+    "Shadow of the Warrior": {
+        "bossName": "Childe P1",
+        "itemName": "Shadow of the Warrior"
+    },
+    "Shard of a Foul Legacy": {
+        "bossName": "Childe P1",
+        "itemName": "Shard of a Foul Legacy"
+    },
+    "Tusk of Monoceros Caeli": {
+        "bossName": "Childe P1",
+        "itemName": "Tusk of Monoceros Caeli"
+    },
+    "Spirit Locket of Boreas": {
+        "bossName": "Lupus Boreas, Dominator of Wolves",
+        "itemName": "Spirit Locket of Boreas"
+    },
+    "Ring of Boreas": {
+        "bossName": "Lupus Boreas, Dominator of Wolves",
+        "itemName": "Ring of Boreas"
+    },
+    "Tail of Boreas": {
+        "bossName": "Lupus Boreas, Dominator of Wolves",
+        "itemName": "Tail of Boreas"
+    },
+    "Dvalin's Sigh": {
+        "bossName": "Stormterror",
+        "itemName": "Dvalin's Sigh"
+    },
+    "Dvalin's Claw": {
+        "bossName": "Stormterror",
+        "itemName": "Dvalin's Claw"
+    },
+    "Dvalin's Plume": {
+        "bossName": "Stormterror",
+        "itemName": "Dvalin's Plume"
+    },
+    "Wasteland Wild Hunt Materials": {
+        "enemyName": "Wilderness Hunter",
+        "itemName1": "Solidified Mist",
+        "itemName2": "Mist Plate",
+        "itemName3": "Mist Helmet"
+    },
+    "Radiant Mutants Materials": {
+        "enemyName": "Radiant Moonfly",
+        "itemName1": "Lightless Bone",
+        "itemName2": "rare light Remains",
+        "itemName3": "Radiant Exoskeleton"
+    },
+    "Frostnight Scions Materials": {
+        "enemyName": "Icy Crystal: Frostnight Scion",
+        "itemName1": "Frostnight's Glimmer",
+        "itemName2": "Frostnight's Glow",
+        "itemName3": "Frostnight's Glory"
+    },
+    "Fatui Oprichniki Materials": {
+        "enemyName": "Oprichniki Fireblade Shock Trooper",
+        "itemName1": "Worn Certificate",
+        "itemName2": "Exquisite Certificate",
+        "itemName3": "Frosted Certificate"
+    },
+    "Landcruiser Materials": {
+        "enemyName": "Cutting Edge Fire Support Ground Effect Landcruiser",
+        "itemName1": "Broken Drive Shaft",
+        "itemName2": "Reinforced Drive Shaft",
+        "itemName3": "Precision Axle"
+    },
+    "Furnace Shell Mountain Weasels Materials": {
+        "enemyName": "Furnace Shell Mountain Weasel",
+        "itemName1": "Cold-Cracked Shellshard",
+        "itemName2": "Warm Back-Shell",
+        "itemName3": "Blazing Prismshell"
+    },
+    "Tenebrous Mimiflora Materials": {
+        "enemyName": "Tenebrous Mimiflora",
+        "itemName1": "Refractive Bud",
+        "itemName2": "Bewildering Broadleaf",
+        "itemName3": "Illusory Leafcoil"
+    },
+    "Secret Source Automaton: Hunter-Seeker Materials": {
+        "enemyName": "Tenebrous Mimesis - Secret Source Automaton: Hunter-Seeker",
+        "itemName1": "Axis of the Secret Source",
+        "itemName2": "Sheath of the Secret Source",
+        "itemName3": "Heart of the Secret Source"
+    },
+    "Avatars Of Lava Materials": {
+        "enemyName": "Fluid Avatar of Lava",
+        "itemName1": "Ignited Stone",
+        "itemName2": "Ignited Seed of Life",
+        "itemName3": "Ignited Seeing Eye"
+    },
+    "Wayob Manifestations Materials": {
+        "enemyName": "Thundering Wayob Manifestation",
+        "itemName1": "Shard of a Shattered Will",
+        "itemName2": "Locus of a Clear Will",
+        "itemName3": "Sigil of a Striding Will"
+    },
+    "Sauroform Tribal Warriors Materials": {
+        "enemyName": "Yumkasaurus Warrior: Flowing Skyfire",
+        "itemName1": "Sentry's Wooden Whistle",
+        "itemName2": "Warrior's Metal Whistle",
+        "itemName3": "Saurian-Crowned Warrior's Golden Whistle"
+    },
+    "Natlan Saurians Materials": {
+        "enemyName": "Iktomisaurus",
+        "itemName1": "Juvenile Fang",
+        "itemName2": "Seasoned Fang",
+        "itemName3": "Tyrant's Fang"
+    },
+    "Praetorian Golems Materials": {
+        "enemyName": "Praetorian Golem",
+        "itemName1": "Ruined Hilt",
+        "itemName2": "Splintered Hilt",
+        "itemName3": "Still-Smoldering Hilt"
+    },
+    "Xuanwen Beasts Materials": {
+        "enemyName": "Xuanwen Beast",
+        "itemName1": "Feathery Fin",
+        "itemName2": "Lunar Fin",
+        "itemName3": "Chasmlight Fin"
+    },
+    "Fatui Operatives Materials": {
+        "enemyName": "Frost Operative",
+        "itemName1": "Old Operative's Pocket Watch",
+        "itemName2": "Operative's Standard Pocket Watch",
+        "itemName3": "Operative's Constancy"
+    },
+    "Breacher Primuses Materials": {
+        "enemyName": "Overgrown Breacher Primus",
+        "itemName1": "Rift Core",
+        "itemName2": "Foreign Synapse",
+        "itemName3": "Alien Life Core"
+    },
+    "Tainted Hydro Phantasms Materials": {
+        "enemyName": "Tainted Water-Spouting Phantasm",
+        "itemName1": "Drop of Tainted Water",
+        "itemName2": "Scoop of Tainted Water",
+        "itemName3": "Newborn Tainted Hydro Phantasm"
+    },
+    "Clockwork Meka Materials": {
+        "enemyName": "Annihilation Specialist Mek - Ousia",
+        "itemName1": "Meshing Gear",
+        "itemName2": "Mechanical Spur Gear",
+        "itemName3": "Artificed Dynamic Gear"
+    },
+    "Fontemer Aberrants Materials": {
+        "enemyName": "Sternshield Crab",
+        "itemName1": "Transoceanic Pearl",
+        "itemName2": "Transoceanic Chunk",
+        "itemName3": "Xenochromatic Crystal"
+    },
+    "Hilichurl Rogues Materials": {
+        "enemyName": "Hydro Hilichurl Rogue",
+        "itemName1": "A Flower Yet to Bloom",
+        "itemName2": "Treasured Flower",
+        "itemName3": "Wanderer's Blooming Flower"
+    },
+    "Consecrated Beasts Materials": {
+        "enemyName": "Consecrated Fanged Beast",
+        "itemName1": "Desiccated Shell",
+        "itemName2": "Sturdy Shell",
+        "itemName3": "Marked Shell"
+    },
+    "Primal Constructs Materials": {
+        "enemyName": "Primal Construct: Reshaper",
+        "itemName1": "Damaged Prism",
+        "itemName2": "Turbid Prism",
+        "itemName3": "Radiant Prism"
+    },
+    "Ruin Drakes Materials": {
+        "enemyName": "Ruin Drake: Skywatch",
+        "itemName1": "Chaos Storage",
+        "itemName2": "Chaos Module",
+        "itemName3": "Chaos Bolt"
+    },
+    "Eremites Materials": {
+        "enemyName": "Eremite Sunfrost",
+        "itemName1": "Faded Red Satin",
+        "itemName2": "Trimmed Red Silk",
+        "itemName3": "Rich Red Brocade"
+    },
+    "Riftwolves Materials": {
+        "enemyName": "Rockfond Rifthound Whelp",
+        "itemName1": "Concealed Claw",
+        "itemName2": "Concealed Unguis",
+        "itemName3": "Concealed Talon"
+    },
+    "Specters Materials": {
+        "enemyName": "Geo Specter",
+        "itemName1": "Spectral Husk",
+        "itemName2": "Spectral Heart",
+        "itemName3": "Spectral Nucleus"
+    },
+    "Mirror Maidens Materials": {
+        "enemyName": "Mirror Maiden",
+        "itemName1": "Dismal Prism",
+        "itemName2": "Crystal Prism",
+        "itemName3": "Polarizing Prism"
+    },
+    "Ruin Sentinels Materials": {
+        "enemyName": "Ruin Serpent",
+        "itemName1": "Chaos Gear",
+        "itemName2": "Chaos Axis",
+        "itemName3": "Chaos Oculus"
+    },
+    "Nobushi Materials": {
+        "enemyName": "Nobushi: Hitsukeban",
+        "itemName1": "Old Handguard",
+        "itemName2": "Kageuchi Handguard",
+        "itemName3": "Famed Handguard"
+    },
+    "Whopperflowers Materials": {
+        "enemyName": "Pyro Whopperflower",
+        "itemName1": "Whopperflower Nectar",
+        "itemName2": "Shimmering Nectar",
+        "itemName3": "Energy Nectar"
+    },
+    "Treasure Hoarders Materials": {
+        "enemyName": "Treasure Hoarders: Pyro Potioneer",
+        "itemName1": "Treasure Hoarder Insignia",
+        "itemName2": "Silver Raven Insignia",
+        "itemName3": "Golden Raven Insignia"
+    },
+    "Fatui Skirmishers Materials": {
+        "enemyName": "Flowing Blade Skirmisher",
+        "itemName1": "Recruit's Insignia",
+        "itemName2": "Sergeant's Insignia",
+        "itemName3": "Lieutenant's Insignia"
+    },
+    "Fatui Agents Materials": {
+        "enemyName": "Fatui Pyro Agent",
+        "itemName1": "Hunter's Sacrificial Knife",
+        "itemName2": "Agent's Sacrificial Knife",
+        "itemName3": "Inspector's Sacrificial Knife"
+    },
+    "Fatui Cicin Mages Materials": {
+        "enemyName": "Fatui Cryo Cicin Mage",
+        "itemName1": "Mist Grass Pollen",
+        "itemName2": "Mist Grass",
+        "itemName3": "Mist Grass Wick"
+    },
+    "Abyss Mages Materials": {
+        "enemyName": "Pyro Abyss Mage",
+        "itemName1": "Dead Ley Line Branch",
+        "itemName2": "Dead Ley Line Leaves",
+        "itemName3": "Ley Line Sprout"
+    },
+    "Hilichurl Shooters Materials": {
+        "enemyName": "Hilichurl Shooter",
+        "itemName1": "Firm Arrowhead",
+        "itemName2": "Sharp Arrowhead",
+        "itemName3": "Weathered Arrowhead"
+    },
+    "Samachurls Materials": {
+        "enemyName": "Geo Samachurl",
+        "itemName1": "Divining Scroll",
+        "itemName2": "Sealed Scroll",
+        "itemName3": "Forbidden Curse Scroll"
+    },
+    "Hilichurls Materials": {
+        "enemyName": "Hilichurl",
+        "itemName1": "Damaged Mask",
+        "itemName2": "Stained Mask",
+        "itemName3": "Ominous Mask"
+    },
+    "Slimes Materials": {
+        "enemyName": "Geo Slime",
+        "itemName1": "Slime Condensate",
+        "itemName2": "Slime Secretions",
+        "itemName3": "Slime Concentrate"
+    },
+    "Vishap Materials": {
+        "enemyName": "Hydro Geovishap",
+        "itemName1": "Fragile Bone Shard",
+        "itemName2": "Sturdy Bone Shard",
+        "itemName3": "Fossilized Bone Shard"
+    },
+    "Ruin Guards Materials": {
+        "enemyName": "Ruin Guard",
+        "itemName1": "Chaos Device",
+        "itemName2": "Chaos Circuit",
+        "itemName3": "Chaos Core"
+    },
+    "Mitachurls Materials": {
+        "enemyName": "Wooden Shieldwall Mitachurl",
+        "itemName1": "Heavy Horn",
+        "itemName2": "Black Bronze Horn",
+        "itemName3": "Black Crystal Horn"
+    }
 }
