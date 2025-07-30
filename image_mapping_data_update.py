@@ -143,6 +143,14 @@ for monster in monster_data.items():
 			Monsters["Miscellaneous"] = {}
 		Monsters["Miscellaneous"][name] = icon
 
+# Manually add Oceanid to Elemental Lifeforms
+if "Elemental Lifeforms" in Monsters:
+	Monsters["Elemental Lifeforms"]["Oceanid"] = "UI_MonsterIcon_Oceanid"
+else:
+	Monsters["Elemental Lifeforms"] = {
+		"Oceanid": "UI_MonsterIcon_Oceanid"
+	}
+
 # Add the Monsters dictionary inside the image_mapping_data object
 image_mapping_data['Monsters'] = Monsters
 

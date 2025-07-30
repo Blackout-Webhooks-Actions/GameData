@@ -165,7 +165,7 @@
         "itemName": "Secret Source Airflow Accumulator"
     },
     "Sparkless Statue Core": {
-        "bossName": "Lava Dragon Statuis",
+        "bossName": "Lava Dragon Statue",
         "itemName": "Sparkless Statue Core"
     },
     "Talisman of the Enigmatic Land": {
@@ -201,7 +201,7 @@
         "itemName": "Water That Failed To Transcend"
     },
     "Fontemer Unihorn": {
-        "bossName": "Millennial Pearl Seahorsis",
+        "bossName": "Millennial Pearl Seahorse",
         "itemName": "Fontemer Unihorn"
     },
     "\"Tourbillon Device\"": {
@@ -237,11 +237,11 @@
         "itemName": "Light Guiding Tetrahedron"
     },
     "Perpetual Caliber": {
-        "bossName": "Aeonblight Drakis",
+        "bossName": "Aeonblight Drake",
         "itemName": "Perpetual Caliber"
     },
     "Thunderclap Fruitcore": {
-        "bossName": "Electro Regisvinis",
+        "bossName": "Electro Regisvine",
         "itemName": "Thunderclap Fruitcore"
     },
     "Majestic Hooked Beak": {
@@ -253,7 +253,7 @@
         "itemName": "Runic Fang"
     },
     "Dragonheir's False Fin": {
-        "bossName": "Bathysmal Vishap Herd",
+        "bossName": "Coral Defenders",
         "itemName": "Dragonheir's False Fin"
     },
     "Riftborn Regalia": {
@@ -285,7 +285,7 @@
         "itemName": "Crystalline Bloom"
     },
     "Juvenile Jade": {
-        "bossName": "Primo Geovishap",
+        "bossName": "Hydro Primo Geovishap",
         "itemName": "Juvenile Jade"
     },
     "Cleansing Heart": {
@@ -293,11 +293,11 @@
         "itemName": "Cleansing Heart"
     },
     "Everflame Seed": {
-        "bossName": "Pyro Regisvinis",
+        "bossName": "Pyro Regisvine",
         "itemName": "Everflame Seed"
     },
     "Hoarfrost Core": {
-        "bossName": "Cryo Regisvinis",
+        "bossName": "Cryo Regisvine",
         "itemName": "Hoarfrost Core"
     },
     "Basalt Pillar": {

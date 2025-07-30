@@ -29,15 +29,15 @@ gem_stars = {
 
 # Go through all items
 def strip_level(enemy_name):
-	enemy_name = enemy_name.replace("Lv. 30+ ", "")
-	enemy_name = enemy_name.replace("Lv.30+ ", "")
-	enemy_name = enemy_name.replace("70+ ", "")
-	return enemy_name
+	return re.sub(r"(Lv\.? ?30\+|70\+)\s*", "", enemy_name)
 
 def singularize(name):
-	if name.endswith("es"):
-		return name.replace("es", "is")
-	if name.endswith("s") and not name.endswith("ss") and not name.endswith("is"):
+	# Avoid altering names ending in any of these suffixes
+	blacklist_suffixes = ("Regisvines", "Drakes", "horses", "Statues")
+
+	if name.endswith("es") and not name.endswith(blacklist_suffixes):
+		return name[:-2] + "is"
+	if name.endswith("s") and not name.endswith(("ss", "is")):
 		return name[:-1]
 	return name
 
@@ -47,7 +47,10 @@ manual_boss_overrides = {
 	"Childe": "Childe P1",
 	"Signora": "Crimson Witch of Embers",
 	"Guardian of Eternity": "Magatsu Mitake Narukami no Mikoto",
-	"Guardian of Apep's Oasis": "Warden of Oasis Prime"
+	"Guardian of Apep's Oasis": "Warden of Oasis Prime",
+	"Primo Geovishap": "Hydro Primo Geovishap",
+	"Bathysmal Vishap Herd": "Coral Defenders",
+	"Semi-Intransient Matrices": "Algorithm of Semi-Intransient Matrix of Overseer Network",
 }
 
 boss_items = []

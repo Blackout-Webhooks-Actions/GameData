@@ -2201,7 +2201,8 @@
             "Gleaming Charge: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Electric",
             "Tangled Vines: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Grass",
             "Blazing Brilliance: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Fire",
-            "Icy Crystal: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Ice"
+            "Icy Crystal: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Ice",
+            "Oceanid": "UI_MonsterIcon_Oceanid"
         },
         "Local Legend": {
             "Ninianne of the Lake": "UI_MonsterIcon_Necalevia_Normal",
