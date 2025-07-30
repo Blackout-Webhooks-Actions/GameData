@@ -228,22 +228,339 @@
             }
         }
     ],
-    "character_banners": null,
+    "character_banners": [
+        {
+            "id": 78,
+            "name": "Character Event Wish",
+            "type": 1,
+            "end_time": "2025-08-19T17:59:00",
+            "end_timestamp": 1755597540,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-07-30T07:00:00",
+            "start_timestamp": 1753830000,
+            "version": "5.8",
+            "characters": [
+                {
+                    "id": 10000116,
+                    "name": "Ineffa",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/f1723762f28902659f73902bbbda1fd6.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000097,
+                    "name": "Sethos",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/62ddf4187c2aea2dda21813b9d90f27f.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000025,
+                    "name": "Xingqiu",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7a37a944f52edbd6894bc39da801fb67.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000031,
+                    "name": "Fischl",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/207a0e35e0637a2bcb0a28fdfa61f7a4.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        },
+        {
+            "id": 79,
+            "name": "Character Event Wish 2",
+            "type": 1,
+            "end_time": "2025-08-19T17:59:00",
+            "end_timestamp": 1755597540,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-07-30T07:00:00",
+            "start_timestamp": 1753830000,
+            "version": "5.8",
+            "characters": [
+                {
+                    "id": 10000107,
+                    "name": "Citlali",
+                    "element": "Cryo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/abe2da348abe64c67d9c2763d2d8c4e7.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000097,
+                    "name": "Sethos",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/62ddf4187c2aea2dda21813b9d90f27f.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000025,
+                    "name": "Xingqiu",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7a37a944f52edbd6894bc39da801fb67.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000031,
+                    "name": "Fischl",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/207a0e35e0637a2bcb0a28fdfa61f7a4.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        }
+    ],
     "chronicled_banners": null,
     "events": [
         {
-            "id": 77,
-            "name": "The Forge Realm's Temper: Endless Swarm",
+            "id": 99,
+            "name": "Sunspray Summer Resort",
+            "description": "The sea breeze wipes away glistening sweat. Summer is the perfect season for adventure and a journey that unfolds accompanied by the scorching sun.\nTenochtzitoc, a name unfamiliar until now, is destined to become a stroke of warm color in your memory.",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2025-08-18T03:59:59",
+            "end_timestamp": 1755460799,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2025-07-30T07:00:00",
+            "start_timestamp": 1753830000,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 1140,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104319,
+                    "name": "Crown of Insight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bf059be872ce72f035e3df38da065e89.png",
+                    "num": 1,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/900"
+                },
+                {
+                    "id": 0,
+                    "name": "Outfit",
+                    "homepage_show": null,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/12/27/d4ece0037c07fb8c5cb3d12a6706a664_329038158635823779.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 12432,
+                    "name": "Flame-Forged Insight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/5662318eb81ba5f01cbaa8ef2b9b2214.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8300"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 200126,
+                    "name": "Drifter's Crystal Marrow",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/61342e598e9e00e763ff1dcd0eb75d05.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8360"
+                },
+                {
+                    "id": 105003,
+                    "name": "Sanctifying Essence",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/072e0e7314f48321b34d056a6a1d8ef6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1262"
+                },
+                {
+                    "id": 104355,
+                    "name": "Philosophies of Conflict",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2b6a25706537c4d0ce08ef97bdcec851.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6638"
+                },
+                {
+                    "id": 104352,
+                    "name": "Philosophies of Kindling",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c868bbcc972c249b2618303a118748f0.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6635"
+                },
+                {
+                    "id": 104349,
+                    "name": "Philosophies of Contention",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/639e76079428eed2caf8b495b248bb42.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6632"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                },
+                {
+                    "id": 114070,
+                    "name": "Night-Wind's Mystic Premonition",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0e1a7c97dc96ed0c83c13e796c4f18ae.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6665"
+                },
+                {
+                    "id": 114066,
+                    "name": "Delirious Desolation of the Sacred Lord",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0bed4d311e895d47b5e89fa4749ae539.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6661"
+                },
+                {
+                    "id": 114062,
+                    "name": "Blazing Sacrificial Heart's Hesitance",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aa7ca12e69eb79d5c6c2e3b5ed4117b4.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6657"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 104354,
+                    "name": "Guide to Conflict",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c35153f90364d02c80bd87323fea592.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6637"
+                },
+                {
+                    "id": 104351,
+                    "name": "Guide to Kindling",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/489bb2ef7a705feb69ea9e374d4ce404.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6634"
+                },
+                {
+                    "id": 104348,
+                    "name": "Guide to Contention",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b098bbd379a05fefda6e59dcacf4e8e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6631"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 0,
+                    "name": "Furnishing",
+                    "homepage_show": null,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
+                    "num": 4,
+                    "rarity": 1,
+                    "wiki_url": null
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "An Easy-Breezy Natlan in an Easy-Breezy Summer!",
+            "description": "After the long battle, the Speaker's Chamber decided to build a grand resort for the summer, to comfort those who had been scorched by the years of fire and war.\nThe resort's location was ultimately chosen by vote: A stunning, sparsely inhabited island off the westernmost edge of Natlan: Tenochtzitoc. This choice was not just made for the scenery, but also because the war had begun there. It was only right for it to come full circle and meet its end in Tenochtzitoc as well.",
+            "type": "ActTypeExplore",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2025-10-21T14:59:59",
+            "end_timestamp": 1761029999,
+            "is_finished": null,
+            "start_time": "2025-07-30T07:00:00",
+            "start_timestamp": 1753830000,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 400,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                }
+            ],
+            "exploration_detail": {
+                "explored_percentage": null,
+                "is_finished": null
+            }
+        },
+        {
+            "id": 97,
+            "name": "The Forge Realm's Temper: Game of Wits",
             "description": "",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2025-07-30T07:00:00",
-            "end_timestamp": 1753830000,
+            "end_time": "2025-09-10T07:00:00",
+            "end_timestamp": 1757458800,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2025-06-18T07:00:00",
-            "start_timestamp": 1750201200,
+            "start_time": "2025-07-30T07:00:00",
+            "start_timestamp": 1753830000,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -258,7 +575,147 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
                 }
             ]
+        },
+        {
+            "id": 101,
+            "name": "Mementos of Teyvat: Prelude of the Frozen Veil",
+            "description": "When you journey too far, you might forget even the most breathtaking moments you've seen and the warmest companions you've met. To keep that day from coming, you must anchor those memories — and keep them alive in the pages of a picture book.",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 103,
+            "name": "Tracing Vanishing Trails",
+            "description": "Summer is here, and on your way to Yilong Wharf for tea, you and Paimon run into Yelan. It's not long before you find yourselves embroiled in a special case...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 104,
+            "name": "Ley Line Overflow",
+            "description": "",
+            "type": "ActTypeDouble",
+            "abyss_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null,
+            "double_reward_detail": {
+                "remaining": 3,
+                "total": 3
+            }
+        },
+        {
+            "id": 98,
+            "name": "Heated Battle Mode: Automatic Artistry",
+            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
         }
     ],
-    "weapon_banners": null
+    "weapon_banners": [
+        {
+            "id": 80,
+            "name": "Weapon Event Wish",
+            "type": 2,
+            "end_time": "2025-08-19T17:59:00",
+            "end_timestamp": 1755597540,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-07-30T07:00:00",
+            "start_timestamp": 1753830000,
+            "version": "5.8",
+            "characters": null,
+            "weapons": [
+                {
+                    "id": 13515,
+                    "name": "Fractured Halo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/9d23036ecf61183797246cf410765956.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8299"
+                },
+                {
+                    "id": 14517,
+                    "name": "Starcaller's Watch",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dbf7751578357bde53f9b563aee72250.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7366"
+                },
+                {
+                    "id": 11430,
+                    "name": "Sturdy Bone",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/70c0c7e3eaaad4321d5c5675e1436588.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7028"
+                },
+                {
+                    "id": 12403,
+                    "name": "Sacrificial Greatsword",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b79312ddc86e05133b8a8d984f9931e1.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2004"
+                },
+                {
+                    "id": 13430,
+                    "name": "Mountain-Bracing Bolt",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27f9739cc6d08a99e6d902f1f9895903.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7031"
+                },
+                {
+                    "id": 14401,
+                    "name": "Favonius Codex",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bb4ff947d3649e393b6ca2e117b072d6.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2020"
+                },
+                {
+                    "id": 15401,
+                    "name": "Favonius Warbow",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f0b8edcc330cd9de1dcf97eccb20cbaf.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2019"
+                }
+            ]
+        }
+    ]
 }
