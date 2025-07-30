@@ -458,254 +458,254 @@
     },
     "Wasteland Wild Hunt Materials": {
         "enemyName": "Wilderness Hunter",
-        "itemName1": "Solidified Mist",
+        "itemName1": "Mist Helmet",
         "itemName2": "Mist Plate",
-        "itemName3": "Mist Helmet"
+        "itemName3": "Solidified Mist"
     },
     "Radiant Mutants Materials": {
         "enemyName": "Radiant Moonfly",
-        "itemName1": "Lightless Bone",
+        "itemName1": "Radiant Exoskeleton",
         "itemName2": "rare light Remains",
-        "itemName3": "Radiant Exoskeleton"
+        "itemName3": "Lightless Bone"
     },
     "Frostnight Scions Materials": {
         "enemyName": "Icy Crystal: Frostnight Scion",
-        "itemName1": "Frostnight's Glimmer",
+        "itemName1": "Frostnight's Glory",
         "itemName2": "Frostnight's Glow",
-        "itemName3": "Frostnight's Glory"
+        "itemName3": "Frostnight's Glimmer"
     },
     "Fatui Oprichniki Materials": {
         "enemyName": "Oprichniki Fireblade Shock Trooper",
-        "itemName1": "Worn Certificate",
+        "itemName1": "Frosted Certificate",
         "itemName2": "Exquisite Certificate",
-        "itemName3": "Frosted Certificate"
+        "itemName3": "Worn Certificate"
     },
     "Landcruiser Materials": {
         "enemyName": "Cutting Edge Fire Support Ground Effect Landcruiser",
-        "itemName1": "Broken Drive Shaft",
+        "itemName1": "Precision Axle",
         "itemName2": "Reinforced Drive Shaft",
-        "itemName3": "Precision Axle"
+        "itemName3": "Broken Drive Shaft"
     },
     "Furnace Shell Mountain Weasels Materials": {
         "enemyName": "Furnace Shell Mountain Weasel",
-        "itemName1": "Cold-Cracked Shellshard",
+        "itemName1": "Blazing Prismshell",
         "itemName2": "Warm Back-Shell",
-        "itemName3": "Blazing Prismshell"
+        "itemName3": "Cold-Cracked Shellshard"
     },
     "Tenebrous Mimiflora Materials": {
         "enemyName": "Tenebrous Mimiflora",
-        "itemName1": "Refractive Bud",
+        "itemName1": "Illusory Leafcoil",
         "itemName2": "Bewildering Broadleaf",
-        "itemName3": "Illusory Leafcoil"
+        "itemName3": "Refractive Bud"
     },
     "Secret Source Automaton: Hunter-Seeker Materials": {
         "enemyName": "Tenebrous Mimesis - Secret Source Automaton: Hunter-Seeker",
-        "itemName1": "Axis of the Secret Source",
+        "itemName1": "Heart of the Secret Source",
         "itemName2": "Sheath of the Secret Source",
-        "itemName3": "Heart of the Secret Source"
+        "itemName3": "Axis of the Secret Source"
     },
     "Avatars Of Lava Materials": {
         "enemyName": "Fluid Avatar of Lava",
-        "itemName1": "Ignited Stone",
+        "itemName1": "Ignited Seeing Eye",
         "itemName2": "Ignited Seed of Life",
-        "itemName3": "Ignited Seeing Eye"
+        "itemName3": "Ignited Stone"
     },
     "Wayob Manifestations Materials": {
         "enemyName": "Thundering Wayob Manifestation",
-        "itemName1": "Shard of a Shattered Will",
+        "itemName1": "Sigil of a Striding Will",
         "itemName2": "Locus of a Clear Will",
-        "itemName3": "Sigil of a Striding Will"
+        "itemName3": "Shard of a Shattered Will"
     },
     "Sauroform Tribal Warriors Materials": {
         "enemyName": "Yumkasaurus Warrior: Flowing Skyfire",
-        "itemName1": "Sentry's Wooden Whistle",
+        "itemName1": "Saurian-Crowned Warrior's Golden Whistle",
         "itemName2": "Warrior's Metal Whistle",
-        "itemName3": "Saurian-Crowned Warrior's Golden Whistle"
+        "itemName3": "Sentry's Wooden Whistle"
     },
     "Natlan Saurians Materials": {
         "enemyName": "Iktomisaurus",
-        "itemName1": "Juvenile Fang",
+        "itemName1": "Tyrant's Fang",
         "itemName2": "Seasoned Fang",
-        "itemName3": "Tyrant's Fang"
+        "itemName3": "Juvenile Fang"
     },
     "Praetorian Golems Materials": {
         "enemyName": "Praetorian Golem",
-        "itemName1": "Ruined Hilt",
+        "itemName1": "Still-Smoldering Hilt",
         "itemName2": "Splintered Hilt",
-        "itemName3": "Still-Smoldering Hilt"
+        "itemName3": "Ruined Hilt"
     },
     "Xuanwen Beasts Materials": {
         "enemyName": "Xuanwen Beast",
-        "itemName1": "Feathery Fin",
+        "itemName1": "Chasmlight Fin",
         "itemName2": "Lunar Fin",
-        "itemName3": "Chasmlight Fin"
+        "itemName3": "Feathery Fin"
     },
     "Fatui Operatives Materials": {
         "enemyName": "Frost Operative",
-        "itemName1": "Old Operative's Pocket Watch",
+        "itemName1": "Operative's Constancy",
         "itemName2": "Operative's Standard Pocket Watch",
-        "itemName3": "Operative's Constancy"
+        "itemName3": "Old Operative's Pocket Watch"
     },
     "Breacher Primuses Materials": {
         "enemyName": "Overgrown Breacher Primus",
-        "itemName1": "Rift Core",
+        "itemName1": "Alien Life Core",
         "itemName2": "Foreign Synapse",
-        "itemName3": "Alien Life Core"
+        "itemName3": "Rift Core"
     },
     "Tainted Hydro Phantasms Materials": {
         "enemyName": "Tainted Water-Spouting Phantasm",
-        "itemName1": "Drop of Tainted Water",
+        "itemName1": "Newborn Tainted Hydro Phantasm",
         "itemName2": "Scoop of Tainted Water",
-        "itemName3": "Newborn Tainted Hydro Phantasm"
+        "itemName3": "Drop of Tainted Water"
     },
     "Clockwork Meka Materials": {
         "enemyName": "Annihilation Specialist Mek - Ousia",
-        "itemName1": "Meshing Gear",
+        "itemName1": "Artificed Dynamic Gear",
         "itemName2": "Mechanical Spur Gear",
-        "itemName3": "Artificed Dynamic Gear"
+        "itemName3": "Meshing Gear"
     },
     "Fontemer Aberrants Materials": {
         "enemyName": "Sternshield Crab",
-        "itemName1": "Transoceanic Pearl",
+        "itemName1": "Xenochromatic Crystal",
         "itemName2": "Transoceanic Chunk",
-        "itemName3": "Xenochromatic Crystal"
+        "itemName3": "Transoceanic Pearl"
     },
     "Hilichurl Rogues Materials": {
         "enemyName": "Hydro Hilichurl Rogue",
-        "itemName1": "A Flower Yet to Bloom",
+        "itemName1": "Wanderer's Blooming Flower",
         "itemName2": "Treasured Flower",
-        "itemName3": "Wanderer's Blooming Flower"
+        "itemName3": "A Flower Yet to Bloom"
     },
     "Consecrated Beasts Materials": {
         "enemyName": "Consecrated Fanged Beast",
-        "itemName1": "Desiccated Shell",
+        "itemName1": "Marked Shell",
         "itemName2": "Sturdy Shell",
-        "itemName3": "Marked Shell"
+        "itemName3": "Desiccated Shell"
     },
     "Primal Constructs Materials": {
         "enemyName": "Primal Construct: Reshaper",
-        "itemName1": "Damaged Prism",
+        "itemName1": "Radiant Prism",
         "itemName2": "Turbid Prism",
-        "itemName3": "Radiant Prism"
+        "itemName3": "Damaged Prism"
     },
     "Ruin Drakes Materials": {
         "enemyName": "Ruin Drake: Skywatch",
-        "itemName1": "Chaos Storage",
+        "itemName1": "Chaos Bolt",
         "itemName2": "Chaos Module",
-        "itemName3": "Chaos Bolt"
+        "itemName3": "Chaos Storage"
     },
     "Eremites Materials": {
         "enemyName": "Eremite Sunfrost",
-        "itemName1": "Faded Red Satin",
+        "itemName1": "Rich Red Brocade",
         "itemName2": "Trimmed Red Silk",
-        "itemName3": "Rich Red Brocade"
+        "itemName3": "Faded Red Satin"
     },
     "Riftwolves Materials": {
         "enemyName": "Rockfond Rifthound Whelp",
-        "itemName1": "Concealed Claw",
+        "itemName1": "Concealed Talon",
         "itemName2": "Concealed Unguis",
-        "itemName3": "Concealed Talon"
+        "itemName3": "Concealed Claw"
     },
     "Specters Materials": {
         "enemyName": "Geo Specter",
-        "itemName1": "Spectral Husk",
+        "itemName1": "Spectral Nucleus",
         "itemName2": "Spectral Heart",
-        "itemName3": "Spectral Nucleus"
+        "itemName3": "Spectral Husk"
     },
     "Mirror Maidens Materials": {
         "enemyName": "Mirror Maiden",
-        "itemName1": "Dismal Prism",
+        "itemName1": "Polarizing Prism",
         "itemName2": "Crystal Prism",
-        "itemName3": "Polarizing Prism"
+        "itemName3": "Dismal Prism"
     },
     "Ruin Sentinels Materials": {
         "enemyName": "Ruin Serpent",
-        "itemName1": "Chaos Gear",
+        "itemName1": "Chaos Oculus",
         "itemName2": "Chaos Axis",
-        "itemName3": "Chaos Oculus"
+        "itemName3": "Chaos Gear"
     },
     "Nobushi Materials": {
         "enemyName": "Nobushi: Hitsukeban",
-        "itemName1": "Old Handguard",
+        "itemName1": "Famed Handguard",
         "itemName2": "Kageuchi Handguard",
-        "itemName3": "Famed Handguard"
+        "itemName3": "Old Handguard"
     },
     "Whopperflowers Materials": {
         "enemyName": "Pyro Whopperflower",
-        "itemName1": "Whopperflower Nectar",
+        "itemName1": "Energy Nectar",
         "itemName2": "Shimmering Nectar",
-        "itemName3": "Energy Nectar"
+        "itemName3": "Whopperflower Nectar"
     },
     "Treasure Hoarders Materials": {
         "enemyName": "Treasure Hoarders: Pyro Potioneer",
-        "itemName1": "Treasure Hoarder Insignia",
+        "itemName1": "Golden Raven Insignia",
         "itemName2": "Silver Raven Insignia",
-        "itemName3": "Golden Raven Insignia"
+        "itemName3": "Treasure Hoarder Insignia"
     },
     "Fatui Skirmishers Materials": {
         "enemyName": "Flowing Blade Skirmisher",
-        "itemName1": "Recruit's Insignia",
+        "itemName1": "Lieutenant's Insignia",
         "itemName2": "Sergeant's Insignia",
-        "itemName3": "Lieutenant's Insignia"
+        "itemName3": "Recruit's Insignia"
     },
     "Fatui Agents Materials": {
         "enemyName": "Fatui Pyro Agent",
-        "itemName1": "Hunter's Sacrificial Knife",
+        "itemName1": "Inspector's Sacrificial Knife",
         "itemName2": "Agent's Sacrificial Knife",
-        "itemName3": "Inspector's Sacrificial Knife"
+        "itemName3": "Hunter's Sacrificial Knife"
     },
     "Fatui Cicin Mages Materials": {
         "enemyName": "Fatui Cryo Cicin Mage",
-        "itemName1": "Mist Grass Pollen",
+        "itemName1": "Mist Grass Wick",
         "itemName2": "Mist Grass",
-        "itemName3": "Mist Grass Wick"
+        "itemName3": "Mist Grass Pollen"
     },
     "Abyss Mages Materials": {
         "enemyName": "Pyro Abyss Mage",
-        "itemName1": "Dead Ley Line Branch",
+        "itemName1": "Ley Line Sprout",
         "itemName2": "Dead Ley Line Leaves",
-        "itemName3": "Ley Line Sprout"
+        "itemName3": "Dead Ley Line Branch"
     },
     "Hilichurl Shooters Materials": {
         "enemyName": "Hilichurl Shooter",
-        "itemName1": "Firm Arrowhead",
+        "itemName1": "Weathered Arrowhead",
         "itemName2": "Sharp Arrowhead",
-        "itemName3": "Weathered Arrowhead"
+        "itemName3": "Firm Arrowhead"
     },
     "Samachurls Materials": {
         "enemyName": "Geo Samachurl",
-        "itemName1": "Divining Scroll",
+        "itemName1": "Forbidden Curse Scroll",
         "itemName2": "Sealed Scroll",
-        "itemName3": "Forbidden Curse Scroll"
+        "itemName3": "Divining Scroll"
     },
     "Hilichurls Materials": {
         "enemyName": "Hilichurl",
-        "itemName1": "Damaged Mask",
+        "itemName1": "Ominous Mask",
         "itemName2": "Stained Mask",
-        "itemName3": "Ominous Mask"
+        "itemName3": "Damaged Mask"
     },
     "Slimes Materials": {
         "enemyName": "Geo Slime",
-        "itemName1": "Slime Condensate",
+        "itemName1": "Slime Concentrate",
         "itemName2": "Slime Secretions",
-        "itemName3": "Slime Concentrate"
+        "itemName3": "Slime Condensate"
     },
     "Vishap Materials": {
         "enemyName": "Hydro Geovishap",
-        "itemName1": "Fragile Bone Shard",
+        "itemName1": "Fossilized Bone Shard",
         "itemName2": "Sturdy Bone Shard",
-        "itemName3": "Fossilized Bone Shard"
+        "itemName3": "Fragile Bone Shard"
     },
     "Ruin Guards Materials": {
         "enemyName": "Ruin Guard",
-        "itemName1": "Chaos Device",
+        "itemName1": "Chaos Core",
         "itemName2": "Chaos Circuit",
-        "itemName3": "Chaos Core"
+        "itemName3": "Chaos Device"
     },
     "Mitachurls Materials": {
         "enemyName": "Wooden Shieldwall Mitachurl",
-        "itemName1": "Heavy Horn",
+        "itemName1": "Black Crystal Horn",
         "itemName2": "Black Bronze Horn",
-        "itemName3": "Black Crystal Horn"
+        "itemName3": "Heavy Horn"
     }
 }

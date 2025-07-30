@@ -45,7 +45,7 @@ gem_mapping = {
 }
 
 traveler_ascension_materials = {
-	"enemyDrop": "Hilichurl Materials",
+	"enemyDrop": "Hilichurls Materials",
 	"elementalGem": "Brilliant Diamond",
 	"localSpecialty": "Windwheel Aster"
 }
@@ -58,7 +58,7 @@ traveler_materials = {
 				"ascension": [traveler_ascension_materials],
 				"talents": [
 					{
-						"enemyDrop": "Samachurl Materials",
+						"enemyDrop": "Samachurls Materials",
 						"weeklyBossDrop": "Dvalin's Sigh",
 						"travelerTalentBooks": [
 							{
@@ -82,8 +82,8 @@ traveler_materials = {
 				"ascension": [traveler_ascension_materials],
 				"talents": [
 					{
-						"enemyDrop": "Samachurl Materials",
-						"enemyDrop2": "Hilichurl Shooter Materials",
+						"enemyDrop": "Samachurls Materials",
+						"enemyDrop2": "Hilichurls Shooter Materials",
 						"weeklyBossDrop": "Dvalin's Sigh",
 						"weeklyBossDrop2": "Tail of Boreas",
 						"travelerTalentBooks": [
@@ -218,8 +218,9 @@ reruns_dict = {char["name"]: char["reruns"] for char in original_data["character
 # Function to get material section based on item name
 def get_material_section(item_name):
 	for section, data in material_mapping.items():
-		if item_name in [data["itemName1"], data["itemName2"], data["itemName3"]]:
-			return section
+		if all(key in data for key in ["itemName1", "itemName2", "itemName3"]):
+			if item_name in [data["itemName1"], data["itemName2"], data["itemName3"]]:
+				return section
 	return item_name  # Return the original name if no match is found
 
 
