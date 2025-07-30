@@ -1042,6 +1042,12 @@
                     "endDate": "2025-02-11",
                     "version": "5.3",
                     "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2025-07-30",
+                    "endDate": "2025-08-19",
+                    "version": "5.8",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -1293,6 +1299,12 @@
                     "startDate": "2024-12-10",
                     "endDate": "2024-12-31",
                     "version": "5.2",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-07-30",
+                    "endDate": "2025-08-19",
+                    "version": "5.8",
                     "wishType": "event"
                 }
             ],
@@ -5543,6 +5555,12 @@
                     "endDate": "2024-11-19",
                     "version": "5.1",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-07-30",
+                    "endDate": "2025-08-19",
+                    "version": "5.8",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5985,6 +6003,12 @@
                     "endDate": "2025-01-21",
                     "version": "5.3",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-07-30",
+                    "endDate": "2025-08-19",
+                    "version": "5.8",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6347,11 +6371,10 @@
             "description": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-07-30",
+                    "endDate": "2025-08-19",
                     "version": "5.8",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
