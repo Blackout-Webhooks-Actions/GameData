@@ -221,7 +221,7 @@
     },
     {
         "_id": "15433",
-        "Name": "6.0 Forge Bow",
+        "Name": "Snare Hook",
         "Desc": "",
         "Type": 5,
         "Rank": 4,
@@ -238,8 +238,8 @@
         "EquipAffixID": 115433,
         "Extra": [],
         "Story": 195433,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "15"
     },
     {
         "_id": "15432",
@@ -947,7 +947,7 @@
     },
     {
         "_id": "14520",
-        "Name": "6.0 Catalyst",
+        "Name": "Nightweaver's Looking Glass",
         "Desc": "",
         "Type": 3,
         "Rank": 5,
@@ -964,8 +964,8 @@
         "EquipAffixID": 114520,
         "Extra": [],
         "Story": 194520,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "15"
     },
     {
         "_id": "14519",
@@ -1299,7 +1299,7 @@
     },
     {
         "_id": "14433",
-        "Name": "6.0 Forge Catalyst",
+        "Name": "Blackmarrow Lantern",
         "Desc": "",
         "Type": 3,
         "Rank": 4,
@@ -1316,12 +1316,12 @@
         "EquipAffixID": 114433,
         "Extra": [],
         "Story": 194433,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "15"
     },
     {
         "_id": "14432",
-        "Name": "6.0 Event Catalyst",
+        "Name": "Lightweaver's Lyre",
         "Desc": "",
         "Type": 3,
         "Rank": 4,
@@ -1338,8 +1338,8 @@
         "EquipAffixID": 114432,
         "Extra": [],
         "Story": 194432,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "15"
     },
     {
         "_id": "14431",
@@ -1959,7 +1959,7 @@
     },
     {
         "_id": "13516",
-        "Name": "6.0 Polearm",
+        "Name": "Bloodsoaked Ruins",
         "Desc": "",
         "Type": 4,
         "Rank": 5,
@@ -1976,8 +1976,8 @@
         "EquipAffixID": 113516,
         "Extra": [],
         "Story": 193516,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "15"
     },
     {
         "_id": "13515",
@@ -2223,7 +2223,7 @@
     },
     {
         "_id": "13433",
-        "Name": "6.0 Forge Polearm",
+        "Name": "Prospector's Shovel",
         "Desc": "",
         "Type": 4,
         "Rank": 4,
@@ -2240,8 +2240,8 @@
         "EquipAffixID": 113433,
         "Extra": [],
         "Story": 193433,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "15"
     },
     {
         "_id": "13432",
@@ -2993,7 +2993,7 @@
     },
     {
         "_id": "12433",
-        "Name": "6.0 Forge Claymore",
+        "Name": "Master Key",
         "Desc": "",
         "Type": 2,
         "Rank": 4,
@@ -3010,8 +3010,8 @@
         "EquipAffixID": 112433,
         "Extra": [],
         "Story": 192433,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "15"
     },
     {
         "_id": "12432",
@@ -3983,7 +3983,7 @@
     },
     {
         "_id": "11434",
-        "Name": "City Sword",
+        "Name": "Moonweaver's Dawn",
         "Desc": "",
         "Type": 1,
         "Rank": 4,
@@ -4001,11 +4001,11 @@
         "Extra": [],
         "Story": 191434,
         "StoryCount": 0,
-        "V": "1"
+        "V": "15"
     },
     {
         "_id": "11433",
-        "Name": "6.0 Forge Sword",
+        "Name": "Serenity's Call",
         "Desc": "",
         "Type": 1,
         "Rank": 4,
@@ -4022,8 +4022,8 @@
         "EquipAffixID": 111433,
         "Extra": [],
         "Story": 191433,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "15"
     },
     {
         "_id": "11432",

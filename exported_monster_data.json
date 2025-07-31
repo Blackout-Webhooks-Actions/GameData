@@ -11739,6 +11739,9 @@
             "UI_MonsterIcon_Moonbeast_Electric"
         ],
         "Tut": 3092,
+        "RES": {
+            "Elec": 0.5
+        },
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11762,6 +11765,9 @@
             "UI_MonsterIcon_Moonbeast_Grass"
         ],
         "Tut": 3092,
+        "RES": {
+            "Grass": 0.5
+        },
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11785,6 +11791,9 @@
             "UI_MonsterIcon_Moonbeast_Fire"
         ],
         "Tut": 3092,
+        "RES": {
+            "Fire": 0.5
+        },
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11808,6 +11817,9 @@
             "UI_MonsterIcon_Moonbeast_Ice"
         ],
         "Tut": 3092,
+        "RES": {
+            "Ice": 0.5
+        },
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11828,6 +11840,7 @@
             "UI_MonsterIcon_WildHunt"
         ],
         "Tut": 3093,
+        "Tutorial": 21310,
         "Class": "",
         "Category": "The Abyss"
     },
@@ -11848,12 +11861,13 @@
             "UI_MonsterIcon_WildHunt_Elite"
         ],
         "Tut": 3093,
+        "Tutorial": 21310,
         "Class": "",
         "Category": "The Abyss"
     },
     "213200": {
         "_id": 213200,
-        "Name": "",
+        "Name": "The Night Watcher",
         "Title": [
             "Shadow of the Wild Hunt",
             ""
@@ -11865,14 +11879,14 @@
         "ATKCurve": 4,
         "RESBase": {},
         "Icon": [
-            "UI_ItemIcon_131047"
+            "UI_MonsterIcon_WildHunt_Male_Sigurd"
         ],
         "Class": "6.0",
         "Category": "Local Legend"
     },
     "21320": {
         "_id": 21320,
-        "Name": "",
+        "Name": "The Night Watcher",
         "Title": [
             "Shadow of the Wild Hunt",
             ""
@@ -11884,7 +11898,7 @@
         "ATKCurve": 4,
         "RESBase": {},
         "Icon": [
-            "UI_ItemIcon_131047"
+            "UI_MonsterIcon_WildHunt_Male_Sigurd"
         ],
         "Class": "Spiral Abyss Versions",
         "Category": "Local Legend"
@@ -11906,6 +11920,7 @@
             "UI_MonsterIcon_Gastrobot_01"
         ],
         "Tut": 3097,
+        "Tutorial": 41001,
         "Class": "Knuckle Duckle",
         "Category": "Automatons"
     },
@@ -11927,6 +11942,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -11948,6 +11966,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan"
         ],
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -11969,6 +11990,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Female"
         ],
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -11990,6 +12014,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12011,6 +12038,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12032,6 +12062,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12055,6 +12088,9 @@
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
         "Tut": 3094,
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12084,6 +12120,17 @@
         "Icon": [
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
+        "Tutorial": 23079108,
+        "RES": {
+            "Fire": 0.3,
+            "Grass": 0.3,
+            "Water": 0.3,
+            "Elec": 0.3,
+            "Wind": 0.3,
+            "Ice": 0.3,
+            "Rock": 0.3,
+            "Phys": -0.2
+        },
         "Class": "Spiral Abyss Versions",
         "Category": "Local Legend"
     },
@@ -12106,6 +12153,9 @@
         "Icon": [
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "6.0",
         "Category": "Local Legend"
     },
@@ -12129,6 +12179,9 @@
             "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield"
         ],
         "Tut": 3094,
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12152,6 +12205,9 @@
             "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun"
         ],
         "Tut": 3094,
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12339,7 +12395,7 @@
     },
     "61626": {
         "_id": 61626,
-        "Name": "",
+        "Name": "Hermit Crab",
         "Title": [
             "",
             ""
@@ -12351,8 +12407,9 @@
         "ATKCurve": 4,
         "RESBase": {},
         "Icon": [
-            "UI_ItemIcon_131047"
+            "UI_MonsterIcon_HermitCrab_Mature_Elite"
         ],
+        "Tutorial": 26162605,
         "Class": "Spiral Abyss Versions",
         "Category": "Local Legend"
     },
@@ -12376,6 +12433,10 @@
             "UI_MonsterIcon_Magbeast_Argali"
         ],
         "Tut": 3096,
+        "Tutorial": 63011,
+        "RES": {
+            "Elec": 0.5
+        },
         "Class": "Radiant Mutant",
         "Category": "Mystical Beasts"
     },
@@ -12399,6 +12460,10 @@
             "UI_MonsterIcon_Magbeast_Rhino"
         ],
         "Tut": 3096,
+        "Tutorial": 63011,
+        "RES": {
+            "Wind": 0.5
+        },
         "Class": "Radiant Mutant",
         "Category": "Mystical Beasts"
     },
@@ -12422,6 +12487,10 @@
             "UI_MonsterIcon_Magbeast_Squid"
         ],
         "Tut": 3096,
+        "Tutorial": 63011,
+        "RES": {
+            "Water": 0.5
+        },
         "Class": "Radiant Mutant",
         "Category": "Mystical Beasts"
     },
@@ -12446,6 +12515,11 @@
             "UI_MonsterIcon_Magbeast_Pergesa"
         ],
         "Tut": 3098,
+        "Tutorial": 63011,
+        "RES": {
+            "Fire": 0.7,
+            "Grass": 0.7
+        },
         "Class": "Radiant Mutant",
         "Category": "Mystical Beasts"
     },
@@ -12470,6 +12544,9 @@
         "MultiPlayerID": 108,
         "Tut": 3022,
         "Tutorial": 24030305,
+        "RES": {
+            "Phys": 0.7
+        },
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     },
@@ -12514,6 +12591,9 @@
         ],
         "Tut": 3094,
         "Tutorial": 23079108,
+        "RES": {
+            "Phys": -0.2
+        },
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     }
