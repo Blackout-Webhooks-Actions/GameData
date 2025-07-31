@@ -1934,7 +1934,7 @@
             "Elegy for the End": "Bow_Widsith",
             "Amos' Bow": "Bow_Amos",
             "Skyward Harp": "Bow_Dvalin",
-            "6.0 Forge Bow": "Bow_Ilmarinen",
+            "Snare Hook": "Bow_Ilmarinen",
             "Sequence of Solitude": "Bow_Stinger",
             "Chain Breaker": "Bow_Isikhulu",
             "Flower-Wreathed Feathers": "Bow_Umpakati",
@@ -1969,7 +1969,7 @@
             "Raven Bow": "Bow_Crowfeather"
         },
         "Catalyst": {
-            "6.0 Catalyst": "Catalyst_MenulisRing",
+            "Nightweaver's Looking Glass": "Catalyst_MenulisRing",
             "Vivid Notions": "Catalyst_VaresaTransformer",
             "Sunny Morning Sleep-In": "Catalyst_SakuraFan",
             "Starcaller's Watch": "Catalyst_Figurines",
@@ -1985,8 +1985,8 @@
             "Memory of Dust": "Catalyst_Kunwu",
             "Lost Prayer to the Sacred Winds": "Catalyst_Fourwinds",
             "Skyward Atlas": "Catalyst_Dvalin",
-            "6.0 Forge Catalyst": "Catalyst_Ilmarinen",
-            "6.0 Event Catalyst": "Catalyst_SeeliesLute",
+            "Blackmarrow Lantern": "Catalyst_Ilmarinen",
+            "Lightweaver's Lyre": "Catalyst_SeeliesLute",
             "Ring of Yaxche": "Catalyst_Isikhulu",
             "Waveriding Whirl": "Catalyst_Umpakati",
             "Ash-Graven Drinking Horn": "Catalyst_ConchSprayer",
@@ -2017,7 +2017,7 @@
             "Magic Guide": "Catalyst_Intro"
         },
         "Polearm": {
-            "6.0 Polearm": "Pole_TummaLyhty",
+            "Bloodsoaked Ruins": "Pole_TummaLyhty",
             "Fractured Halo": "Pole_Perdix",
             "Symphonist of Scents": "Pole_Trident",
             "Lumidouce Elegy": "Pole_Muguet",
@@ -2029,7 +2029,7 @@
             "Vortex Vanquisher": "Pole_Kunwu",
             "Skyward Spine": "Pole_Dvalin",
             "Staff of Homa": "Pole_Homa",
-            "6.0 Forge Polearm": "Pole_Ilmarinen",
+            "Prospector's Shovel": "Pole_Ilmarinen",
             "Tamayuratei no Ohanashi": "Pole_Aoandon",
             "Footprint of the Rainbow": "Pole_Isikhulu",
             "Mountain-Bracing Bolt": "Pole_Umpakati",
@@ -2066,7 +2066,7 @@
             "Song of Broken Pines": "Claymore_Widsith",
             "Wolf's Gravestone": "Claymore_Wolfmound",
             "Skyward Pride": "Claymore_Dvalin",
-            "6.0 Forge Claymore": "Claymore_Ilmarinen",
+            "Master Key": "Claymore_Ilmarinen",
             "Flame-Forged Insight": "Claymore_Polilith",
             "Earth Shaker": "Claymore_Isikhulu",
             "Fruitful Hook": "Claymore_Umpakati",
@@ -2113,8 +2113,8 @@
             "Freedom-Sworn": "Sword_Widsith",
             "Skyward Blade": "Sword_Dvalin",
             "Aquila Favonia": "Sword_Falcon",
-            "City Sword": "Sword_Miekka",
-            "6.0 Forge Sword": "Sword_Ilmarinen",
+            "Moonweaver's Dawn": "Sword_Miekka",
+            "Serenity's Call": "Sword_Ilmarinen",
             "Calamity of Eshu": "Sword_SacrificialNgombe",
             "Flute of Ezpitzal": "Sword_Isikhulu",
             "Sturdy Bone": "Sword_Umpakati",
@@ -2252,7 +2252,9 @@
             "\"Ironclaw\"": "UI_AnimalIcon_Penguin_01",
             "\"Battlegoat\"": "UI_AnimalIcon_Capra_01",
             "The Last Survivor of Tenochtzitoc": "UI_MonsterIcon_Tenoyollotzin",
-            "Oprichniki Fireblade Shock Trooper": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
+            "The Night Watcher": "UI_MonsterIcon_WildHunt_Male_Sigurd",
+            "Oprichniki Fireblade Shock Trooper": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus",
+            "Hermit Crab": "UI_MonsterIcon_HermitCrab_Mature_Elite"
         },
         "Event": {
             "Hydro Tulpa: Flashflood": "UI_MonsterIcon_Narcissusborn_Normal_01",
