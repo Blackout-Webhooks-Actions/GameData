@@ -936,7 +936,7 @@
     {
         "_id": 112132,
         "R": 3,
-        "Name": "rare light Remains",
+        "Name": "Duskshard Remains",
         "Desc": "A faintly glowing bone taken from the exterior of a glowing beast.<br>It is the remaining outer bone where the ancient power of the moon still lingers. In it you can see a dark color that does not fade away after it has been separated from the body for long because it has soaked up the moonlight.",
         "Src": [
             "Dropped by Lv. 40+ Radiant Mutants",
@@ -962,7 +962,7 @@
         "_id": 112130,
         "R": 4,
         "Name": "Frostnight's Glory",
-        "Desc": "A bone plate taken from the horned crown of a defeated Frostnight Scion.<br>A warmth as glossy as moonlight wraps around it, which would not fade even in the dead of winter night. In a sense, like the Frostmoon Scions, this is the last thing these noble creatures stand by. The master they once served has been reduced to dust, yet their dreams still glow with golden splendor.",
+        "Desc": "A bone plate taken from the horned crown of a defeated Frostnight Scion.<br>A warmth as glossy as moonlight envelopes it, radiating strongly even in the dead of winter nights. In a sense, just like the Frostmoon Scions, this is the last thing these noble creatures stand by. The master they once served has been reduced to dust, yet their dreams still glow with golden splendor.",
         "Src": [
             "Dropped by Lv. 60+ Frostnight Scions",
             "Stardust Exchange: Craft after exchanging",
@@ -975,7 +975,7 @@
         "_id": 112129,
         "R": 3,
         "Name": "Frostnight's Glow",
-        "Desc": "A chunk taken from the horn crown of a defeated Frostnight Scion.<br>In the oldest orally transmitted praise song of the Frostmoon Scions, the glow of these noble creatures was described as the \"unsullied mercy of the divine emissary\" by the philosophers of the far north. Though this mercy could not prevent the fall of the golden city or save her descendants from wandering in the wilderness, the same glow is still coursing through the horn crown, waiting for a dream that may never return.",
+        "Desc": "A chunk taken from the horned crown of a defeated Frostnight Scion.<br>In the oldest sagas of the Frostmoon Scions, the glow of these noble creatures was described as the \"unsullied mercy of the divine emissary\" by the philosophers of the far north. Though this mercy could not prevent the fall of the Golden City or save her descendants from exile, the same glow still courses through their horned crowns, waiting for a dream that may never return.",
         "Src": [
             "Dropped by Lv. 40+ Frostnight Scions",
             "Stardust Exchange",
@@ -988,7 +988,7 @@
         "_id": 112128,
         "R": 2,
         "Name": "Frostnight's Glimmer",
-        "Desc": "A fragment taken from the horn crown of a defeated Frostnight Scion.<br>Legend has it that in the distant past, these noble creatures were also servants to the golden city, their eyes reflecting the holiest and brightest light of heaven. That light has long been extinguished, but these scions that lost their master still roam under the frosty moon and watch over an oath that none remember.",
+        "Desc": "A fragment taken from the horned crown of a defeated Frostnight Scion.<br>Legend has it that in the distant past, these noble creatures were servants to the Golden City, their eyes reflecting the holiest and brightest light of heaven. That light has long since been extinguished, but these scions that lost their master still roam beneath the frosty moon, keeping an oath that no one now remembers.",
         "Src": [
             "Dropped by Frostnight Scions",
             "Stardust Exchange"
@@ -999,8 +999,8 @@
     {
         "_id": 112127,
         "R": 3,
-        "Name": "Frosted Certificate",
-        "Desc": "A certificate issued to members of the Fatui Task Force.<br>A certificate set with a frost-colored gem is a symbol of glory. Its owner must have proved their loyalty and caliber in previous operations.",
+        "Name": "Frost-Etched Warrant",
+        "Desc": "A warrant issued to members of the Fatui Task Force.<br>Adorned by a frost-colored crystal — a symbol of glory. One wonders what deeds its bearer must have performed to prove their loyalty and worth.",
         "Src": [
             "Dropped by Lv. 60+ Fatui Oprichniki",
             "Stardust Exchange: Craft after exchanging",
@@ -1012,8 +1012,8 @@
     {
         "_id": 112126,
         "R": 2,
-        "Name": "Exquisite Certificate",
-        "Desc": "A certificate issued to members of the Fatui Task Force.<br>Its exquisite styling perhaps hides the price paid by its owner to be promoted this far.",
+        "Name": "Immaculate Warrant",
+        "Desc": "A warrant issued to members of the Fatui Task Force.<br>One wonders if the exquisite styling might hide a price paid for its owner's promotion.",
         "Src": [
             "Dropped by Lv. 40+ Fatui Oprichniki",
             "Stardust Exchange",
@@ -1025,8 +1025,8 @@
     {
         "_id": 112125,
         "R": 1,
-        "Name": "Worn Certificate",
-        "Desc": "A certificate issued to members of the Fatui Task Force.<br>It is unknown what its owner was determined to achieve when they joined this force.",
+        "Name": "Tattered Warrant",
+        "Desc": "A warrant issued to members of the Fatui Task Force.<br>One wonders what resolve drove its bearer to sign up.",
         "Src": [
             "Dropped by Fatui Oprichniki",
             "Stardust Exchange"
@@ -1037,8 +1037,8 @@
     {
         "_id": 112124,
         "R": 3,
-        "Name": "Precision Axle",
-        "Desc": "The axle of a patrol boat refined by the Design Bureau.<br>On the blueprints drawn by the engineers of the north, this unassuming thing was once the perfect embodiment of glory and technological advancement, its small metal body encapsulating the wisdom of countless generations. And so it lies in the cold dirt, waiting to be recycled again.",
+        "Name": "Precision Drive Shaft",
+        "Desc": "The drive shaft of a Landcruiser refined by the Design Bureau.<br>On the blueprints drawn by the engineers of the north, this unassuming part was once the flawless embodiment of glory and technological advancement, its small metal body encapsulating the wisdom of countless generations. Now it lies in the cold dirt, waiting to be recycled once more.",
         "Src": [
             "Dropped by Lv. 60+ Landcruiser",
             "Stardust Exchange: Craft after exchanging",
@@ -1051,7 +1051,7 @@
         "_id": 112123,
         "R": 2,
         "Name": "Reinforced Drive Shaft",
-        "Desc": "The reinforced axle of a patrol boat.<br>It took countless reports of destruction to bring about this insignificant improvement. In a sense, the administrative system of the Imperial Ordnance Office was dozens of times more complex than the machinery it built; after all, even the most advanced patrol boats do not take months or even years to build.",
+        "Desc": "The reinforced drive shaft of a Landcruiser.<br>It took countless reports of destruction to bring about this insignificant improvement. In a sense, the administrative system of the Imperial Ordnance Office is several times more complex than the machinery it builds. After all, even the most advanced Landcruisers don't take months or even years to build.",
         "Src": [
             "Dropped by Lv. 40+ Landcruiser",
             "Stardust Exchange",
@@ -1064,7 +1064,7 @@
         "_id": 112122,
         "R": 1,
         "Name": "Broken Drive Shaft",
-        "Desc": "The axle of a patrol boat destroyed in battle.<br>Even the most precise of craftsmanship cannot withstand intense wear, just as the most grandiose of ideals cannot bring back those who died in vain for another's cause. Moreover, mass-produced components can hardly be called precise, and mass-produced ideals can hardly be called ideals.",
+        "Desc": "The drive shaft of a Landcruiser destroyed in battle.<br>Even the most precise craftsmanship cannot withstand excessive wear, just as the most lofty ideals cannot bring back those who've died in vain for someone else's cause. Moreover, mass-produced components can hardly be called precise, and mass-produced ideals can hardly be considered true ideals.",
         "Src": [
             "Dropped by Landcruiser",
             "Stardust Exchange"
@@ -2644,7 +2644,7 @@
         "_id": 104364,
         "R": 4,
         "Name": "Philosophies of Vagrancy",
-        "Desc": "Talent Level-Up material.<br>\"Vagrancy\" is the living of the land under the moon.<br>Through thunder and storms, across mountains and snowfields, even if the vagrants are bruised and battered, they will not stop — they will not stop until they find a place to call home.",
+        "Desc": "Talent Level-Up material.<br>\"Vagrancy\" is the living of the land beneath the moon.<br>Through thunder and storms, across mountains and snowfields, though scarred and weary, the wanderer does not stop — nor will they till they find a place to call home.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -2655,7 +2655,7 @@
         "_id": 104363,
         "R": 3,
         "Name": "Guide to Vagrancy",
-        "Desc": "Talent Level-Up material.<br>\"Vagrancy\" is the living of the land under the moon.<br>There is no difference between life and vagrancy, for all only sojourn on this earth. What is memorable is not the moment of arriving at the end, but the footprints that lead to it.",
+        "Desc": "Talent Level-Up material.<br>\"Vagrancy\" is the living of the land beneath the moon.<br>To live is to wander, for none of us can settle in this world. What is remembered is not the moment of arrival, but the footprints that we leave along the way.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -2666,7 +2666,7 @@
         "_id": 104362,
         "R": 2,
         "Name": "Teachings of Vagrancy",
-        "Desc": "Talent Level-Up material.<br>\"Vagrancy\" is the living of the land under the moon.<br>Enjoy a respite, then depart before the night falls. Dawn is not the end, but the beginning of another journey.",
+        "Desc": "Talent Level-Up material.<br>\"Vagrancy\" is the living of the land beneath the moon.<br>Enjoy a moment's respite, then depart before the sky turns black. Dawn is not the end, but the beginning of another journey.",
         "Src": [
             "Exchanged in the Gift Shop"
         ],
@@ -2677,7 +2677,7 @@
         "_id": 104361,
         "R": 4,
         "Name": "Philosophies of Elysium",
-        "Desc": "Talent Level-Up material.<br>\"Elysium\" is a wild fantasy of the land under the moon.<br>The definition of Elysium varies from person to person. For those who never settle, there is no better place to call Elysium than Nod-Krai. But for the rest, the opposite is true.",
+        "Desc": "Talent Level-Up material.<br>\"Elysium\" is the dream of the land beneath the moon.<br>Seldom do we share the same dreams of paradise. For those who wish not to settle for the present, there is no greater paradise than Nod-Krai. Yet for all the rest, the truth is quite the opposite.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -2688,7 +2688,7 @@
         "_id": 104360,
         "R": 3,
         "Name": "Guide to Elysium",
-        "Desc": "Talent Level-Up material.<br>\"Elysium\" is a wild fantasy of the land under the moon.<br>To create an Elysium with no boundaries and no differences on a land rife with bitterness and weeping. What sounds like a childish fantasy is also the cornerstone for creating a better future.",
+        "Desc": "Talent Level-Up material.<br>\"Elysium\" is the dream of the land beneath the moon.<br>To create a paradise without borders or distinctions upon a land overflowing with bitterness and sorrow — though it might be but a childish delusion, it may yet be a foundation for the future.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -2699,7 +2699,7 @@
         "_id": 104359,
         "R": 2,
         "Name": "Teachings of Elysium",
-        "Desc": "Talent Level-Up material.<br>\"Elysium\" is a wild fantasy of the land under the moon.<br>Some are desperate to get in, some are desperate to get out. Maybe the Elysium is a place where you can never truly be.",
+        "Desc": "Talent Level-Up material.<br>\"Elysium\" is the dream of the land beneath the moon.<br>There are those who are desperate to get in, and those who are desperate to get out. Perhaps Elysium is not a place one can ever truly reach.",
         "Src": [
             "Exchanged in the Gift Shop"
         ],
@@ -2710,7 +2710,7 @@
         "_id": 104358,
         "R": 4,
         "Name": "Philosophies of Moonlight",
-        "Desc": "Talent Level-Up material.<br>\"Moonlight\" is the blessing of the land under the moon.<br>The ritual of praying to the rising new moon for revelation and blessing has been passed down from the days of the first people. Tonight's moonlight seems no different from every night that came before, but where is the new moon that people once looked up to?",
+        "Desc": "Talent Level-Up material.<br>\"Moonlight\" is the blessing of the land beneath the moon.<br>Praying to the new moon for guidance and fortune is a rite passed down from the days of the first people. Tonight's moonlight seems no different from any other night, yet where is the new moon that people once looked to?",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -2721,7 +2721,7 @@
         "_id": 104357,
         "R": 3,
         "Name": "Guide to Moonlight",
-        "Desc": "Talent Level-Up material.<br>\"Moonlight\" is the blessing of the land under the moon.<br>Above the dark expanse of the wilderness, the moonlight could barely penetrate the clouds. Yet in the long night, it is always its faint rays that guide people forward.",
+        "Desc": "Talent Level-Up material.<br>\"Moonlight\" is the blessing of the land beneath the moon.<br>The cloud-veiled moonlight glows but faintly over the boundless dark wilds. Yet its fragile glimmer is a guide through the endless night.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -2732,7 +2732,7 @@
         "_id": 104356,
         "R": 2,
         "Name": "Teachings of Moonlight",
-        "Desc": "Talent Level-Up material.<br>\"Moonlight\" is the blessing of the land under the moon.<br>Things come in all sizes, and people come in all talents. But under the moonlight, all are equal.",
+        "Desc": "Talent Level-Up material.<br>\"Moonlight\" is the blessing of the land beneath the moon.<br>Things come in all sizes, and people come in all states of wisdom. Yet under the moonlight, all are equal.",
         "Src": [
             "Exchanged in the Gift Shop"
         ],
@@ -3754,7 +3754,7 @@
     {
         "_id": 114084,
         "R": 5,
-        "Name": "煌熠 of Far North Scion",
+        "Name": "Aureate Radiance of the Far-North Scions",
         "Desc": "Weapon Ascension Material.<br>With the unblessed birth of the prophesied son, the millennia-long martyrdom ushered in a bleak twilight.<br>The meticulous conspiracy was shattered by a foolish betrayal. The youth who was supposed to be king took away the maid who was supposed to serve him and stole the secret treasure that was supposed to be his, but only to reject all the crowns that destiny had saved for him.<br>Years after, the king who was destined to rule Elysium went down in history as an unforgivable thief, and by the time the true new moon shone upon the land, the far north's final wish of golden grandeur had already been buried by a priestess, who had never believed in any god, in the empty grave of her king.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3765,7 +3765,7 @@
     {
         "_id": 114083,
         "R": 4,
-        "Name": "祷献 of Far North Scion",
+        "Name": "Oblation of the Far-North Scions",
         "Desc": "Weapon Ascension Material.<br>The moonlight silver blade was the mercy of the lord.<br>In the name of mercy, all beings could offer hope for tomorrow. Even the incomplete defective had the moonlight's pristine blessing flowing under their skin. Even the smallest blessing, when accumulated, could bring the scions submerged in it closer to the Elysium that would eventually come.<br>All sins and evil thoughts would be cleansed by the pristine moonlight, so all tears and sufferings are necessary sacrifices — at least that is what the people who worshipped the moon have believed.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3776,7 +3776,7 @@
     {
         "_id": 114082,
         "R": 3,
-        "Name": "迷顽 of Far North Scion",
+        "Name": "Unyielding Delusion of the Far-North Scions",
         "Desc": "Weapon Ascension Material.<br>The grand city of gold and marble was no more. Following the moonlight's pale guidance, its remnants wandered to a desolate foreign land.<br>The glory and prowess of the past had dried up like morning dew, yet the first delusion still flows under the skin of the proud, unlike the graves that have been lost to time.<br>Like farmers pruning their crops, the archpriests who served the moonlight, for generation after generation, selected the pure bloodlines closest to their progenitor's, no matter what the cost was...",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3787,7 +3787,7 @@
     {
         "_id": 114081,
         "R": 2,
-        "Name": "Lost Glory of Far North Scion",
+        "Name": "Sundered Glory of the Far-North Scions",
         "Desc": "Weapon Ascension Material.<br>It is told that in the years before the nation of gold and marble sank, the moon-worshipping ancestors were guided by the star of dawn to build a tower reaching to the heavens.<br>Later on, the most transgressive of wild fantasies, one to unify life and the world into one, one that even the monarch who ruled all nations on earth failed to achieve, toppled along with the city in the wrath of the high heavens.<br>The homeless survivors fled to the south by the waning light of the frosty moon, chanting in tears about a glory that was theirs thousands of years ago.",
         "Src": [
             "Exchanged in the Gift Shop"
@@ -3842,7 +3842,7 @@
     {
         "_id": 114076,
         "R": 5,
-        "Name": "Whimsical Instrument's Trusty Wish",
+        "Name": "Arcane Device Wish",
         "Desc": "Weapon Ascension Material.<br>\"O the poor, the starving, the freezing, the humiliated, the oppressed! My displaced brothers and sisters!\"<br>\"If you, too, have tasted indignities at the cruel hands of fate! If you, too, have wept in the night at the plight of your neighbors!\"<br>\"If you, too, have longed for a shelter from fear! If you, too, have dreamed of a world where no one weeps!<br>\"Then join us, with your brothers and sisters, in breaking the chains of slavery!\"<br>\"Let the dead bury the dead, but you will rise up, and with the treasures of the haughty, you will build an Elysium without boundaries!\"",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3853,7 +3853,7 @@
     {
         "_id": 114075,
         "R": 4,
-        "Name": "Inheritance of the Tricky Instrument",
+        "Name": "Arcane Device Inheritance",
         "Desc": "Weapon Ascension Material.<br>Word on the street is that the legendary thief Reed Miller has been put to death several times, yet he always managed to break out of the execution ground at the last minute with the help of his friends and gadgets.<br>In some versions of those stories, several of his followers willingly died in his place for their revered King of Elysium. However, these versions are much less popular because drunken stories are always romantic and blissful. Since there has never been a shackle that can restrain the legendary thief, there naturally will never be an ending that can restrain him.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3864,7 +3864,7 @@
     {
         "_id": 114074,
         "R": 3,
-        "Name": "Mysterious Instrument Replica",
+        "Name": "Arcane Device Replica",
         "Desc": "Weapon Ascension Material.<br>Just as the legendary thief's tools have been imitated by countless others, so has his name.<br>In a sense, it was not the people who thirsted for something who stole Reed Miller's name, but rather Reed Miller who stole the identity that was originally theirs alone. There was little difference between those two to begin with.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3875,7 +3875,7 @@
     {
         "_id": 114073,
         "R": 2,
-        "Name": "Mysterious Instrument Fragment",
+        "Name": "Arcane Device Fragment",
         "Desc": "Weapon Ascension Material.<br>An intricate device once called \"the Seven Gadgets of the Legendary Thief\". It is rumored to be invented by the legendary thief Reed Miller whose name is known far and wide.<br>Just as the original Treasure Hoarder was an assembly of all kinds of people, by combining multiple gadgets that were meant for different purposes, one could break through artificial boundaries, whether they were chains or borders.<br>The number of tools contained therein is not limited to seven categories, only that people are accustomed to using seven to describe anything that is numerous. Perhaps it is for the same reason that the world is believed to have only seven orders.",
         "Src": [
             "Exchanged in the Gift Shop"
@@ -4685,7 +4685,7 @@
         "_id": 101265,
         "R": 0,
         "Name": "Midsommar Berry",
-        "Desc": "A fruit that grows in the warm areas of Nod-Krai. It is loved by animals in winter and hungry children.<br>In the legacy of the Frostmoon Scions, Midsommar Berries are regarded as a symbol of life and abundance, for they only flourish during the warmth of spring and summer.<br>There is also a tale that tells the endless power struggle between the Winter Holly King and Summer Oak King. They are twin monarchs that kill each other alternately as the year cycles through seasons, returning from the underworld to rule their season again and again until the end of time. Most Snezhnayan scholars dismiss it as a metaphor for the alternation of seasons in a primitive religion, or at least that is how they have convinced themselves.",
+        "Desc": "A fruit that grows in the warmer parts of Nod-Krai. It is beloved by animals emerging from winter and hungry children alike.<br>In the legacy of the Frostmoon Scions, Midsommar Berries are regarded as a symbol of life and abundance, for they only flourish during the warmth of spring and summer.<br>There is a tale that tells of the endless struggle between the King of Winter Holly and the King of Summer Oak — twin monarchs that slay each other as the seasons change, returning from the underworld to rule in turn until the end of time. Most Snezhnayan scholars dismiss this as a primitive religious metaphor for the alternating seasons — or at least that's what they tell themselves.",
         "Src": [
             "Found in the wild"
         ],
@@ -4696,7 +4696,7 @@
         "_id": 101264,
         "R": 0,
         "Name": "Lakkaberry",
-        "Desc": "A fruit as white as pearl and tastes refreshingly sweet.<br>In the legends of the Frostmoon Scions, these fruits, like Kuuhenki, are a blessing from the Kuutar, a sacred symbol blessed by the new moon. Therefore, sharing and eating delicious Lakkaberries is also a form of worshipping the Kuutar.<br>That said, even if they are not associated with the divine, their plumpness and sweetness alone are enough to awaken one's appetite.",
+        "Desc": "A fruit as white as pearl that tastes refreshingly sweet.<br>In the legends of the Frostmoon Scions, these fruits, like Kuuhenki, are a gift from Kuutar, a sacred symbol blessed by the new moon. Therefore, sharing and eating delicious Lakkaberries is also a form of worshipping Kuutar.<br>Even when not associated with the divine, their plumpness and sweetness alone are enough to awaken one's appetite.",
         "Src": [
             "Found in the wild"
         ],
@@ -4707,7 +4707,7 @@
         "_id": 101263,
         "R": 0,
         "Name": "Moonfall Silver",
-        "Desc": "A silver crystal as pure and pristine as moonlight. It possesses almost perfect elemental affinity.<br>In the legacy of the Frostmoon Scions, these crystals were born five hundred years ago alongside the Kuutar, and were believed by the Moonchanter at the time to be a gift from the moon, hence the name \"Moonfall Silver\". However, in the older documents written by Snezhnayan chroniclers, the descendants of the golden realm have begun using the secret silver woven by Frostmoon thousands of years ago. The connection between the two statements has long been lost, and the only thing certain is that these crystals are still excellent elemental conductors in the eyes of Nod-Krai's craftspeople.",
+        "Desc": "A silver crystal as pure and pristine as moonlight. It possesses almost perfect elemental affinity.<br>In the legacy of the Frostmoon Scions, these crystals were born five hundred years ago alongside the Kuutar, and were believed by the Moonchanter at the time to be a gift from the moon, hence the name \"Moonfall Silver\". However, in older documents written by Snezhnayan chroniclers, the descendants of the golden realm were already using secret silver woven by the Frostmoon thousands of years in the past. The threads that connect these two tales are unclear — the only certain thing is that these crystals make excellent elemental conductors in the eyes of Nod-Krai's craftspeople.",
         "Src": [
             "Go to collect",
             "Found on Hiisi Island"
@@ -4719,7 +4719,7 @@
         "_id": 101262,
         "R": 0,
         "Name": "Nocturnal Blossom",
-        "Desc": "A flower in two entwined colors with a strong affinity to kuuvahki. Its light fragrance and conspicuous color have made it an excellent natural dye.<br>Its contrasting colors are thought to symbolize the two different kuuvahki, so the followers of the Frostmoon Scions sometimes regard it as the Kuutar's blessing.<br>It is said that this strangely shaped flower first appeared decades after the dark calamity ended five hundred years ago, which is the claim widely adopted by the poetry of the Frostmoon Scions, though it has never been rigorously verified.",
+        "Desc": "A flower in two entwined colors with a strong affinity for kuuvahki. Its light fragrance and conspicuous color have made it an excellent natural dye.<br>Its contrasting colors are thought to symbolize the two different types of kuuvahki, so the followers of the Frostmoon Scions sometimes regard it as Kuutar's blessing.<br>It is said that this strangely shaped flower first appeared decades after the dark calamity ended five hundred years ago, a claim widely reflected in the verses of the Frostmoon Scions, though it has never been rigorously verified.",
         "Src": [
             "Found in the wild"
         ],
@@ -4729,8 +4729,8 @@
     {
         "_id": 101261,
         "R": 0,
-        "Name": "Frostcup Flower",
-        "Desc": "A flower that resembles a candlestick, commonly found near water. It emits a cold, plain aroma that has a calming effect.<br>The contrasting colors of its stamen and stem are thought to symbolize the two different kuuvahki, yet this flower is among the rarest plants that are immune to kuuvahki, so the followers of the Frostmoon Scions sometimes regard it as a symbol of faithlessness and apostasy.<br>It is said that this strangely shaped flower first appeared at the end of the dark calamity five hundred years ago, but this claim has never been rigorously verified.",
+        "Name": "Frostlamp Flower",
+        "Desc": "A flower that resembles a candle lamp, commonly found near water. It emits a cold, simple aroma that has a calming effect.<br>The contrasting colors of its stamen and stem are thought to symbolize the two different types of kuuvahki, yet despite this symbolism, it is one of the few rare plants that are immune to kuuvahki's influence. As a result, the Frostmoon Scions sometimes regard it as a symbol of faithlessness and apostasy.<br>It is said that this strangely shaped flower first appeared at the end of the dark calamity five hundred years ago, but this claim has never been rigorously verified.",
         "Src": [
             "Go to collect",
             "Recommendation: Found in the Graveyard of Night",
@@ -4743,7 +4743,7 @@
         "_id": 101259,
         "R": 0,
         "Name": "Icy Pebble",
-        "Desc": "A pebble commonly found on Nod-Krai's coasts. It is characterized by a naturally occurring hollow in it. Touching it sends a faint chill up your finger.<br>According to an ancient legend, the hollow in this pebble was once a shelter where Frostmoon guided the fae to, and also the gate to the underworld. In another story popular in Nasha Town, when the legendary thief Reed Miller was surrounded, it was this pebble given to him by a Frostmoon daughter as a love token that allowed him to conceal his form and escape the pursuit. The followers of the Frostmoon Scions sternly rejected this claim as nonsense, for these pebbles do not display any magical properties.",
+        "Desc": "A pebble commonly found on Nod-Krai's coasts, characterized by a naturally occurring hollow. Touching it sends a faint chill through your finger.<br>According to ancient legends, the hollows in these pebbles were once shelters revealed to the fae by the Frostmoon — gateways to the ethereal. In another story popular in Nasha Town, the legendary thief, Reed Miller, was surrounded when a runestone given to him by a maiden of the Frostmoon as a token of her love allowed him to conceal himself and escape his pursuers. Naturally, the Frostmoon Scions vehemently reject this claim, as these pebbles do not display any such magical properties.",
         "Src": [
             "Found in the wild"
         ],
@@ -4754,7 +4754,7 @@
         "_id": 101257,
         "R": 0,
         "Name": "Portable Bearing",
-        "Desc": "Portable bearings that were mass-produced after the Fatui moved into Nod-Krai. Excessively worn units are discarded like useless units.<br>A few of them have a vestige of kuuvahki in them. As they are difficult to imitate, they are occasionally bartered by merchants in Nasha Town.<br>It is said that someone tried to forge these units for that reason, but went bankrupt in the end because the cost of forging them was higher than their market value.",
+        "Desc": "Portable bearings that were mass-produced after the Fatui moved into Nod-Krai. Excessively worn units are discarded like obsolete personnel.<br>A few of them have a vestige of kuuvahki left inside. As they are difficult to imitate, they are occasionally used as currency by merchants in Nasha Town.<br>It's said that people tried to forge these bearings for that reason, but went bankrupt in the end because the cost of forging them was higher than their market value.",
         "Src": [
             "Go to collect",
             "Found near Blue Amber Lake",
@@ -5582,7 +5582,7 @@
     {
         "_id": 101010,
         "R": 0,
-        "Name": "Drop of Rainbow",
+        "Name": "Rainbowdrop Crystal",
         "Desc": "A crystal that gives off an iridescent glow. Exceptionally tough and malleable, it has been regarded by Snezhnayan craftspeople as the best forging material since ancient times.<br>It is believed that when the moon's chariot was shattered, its blood-stained axle-tip fell into the earthly realm beneath the moon, transforming into an iridescent crystal. From that day on, the people of this land no longer worshipped the dead gods. The survivors who knew what the monarchs of the night died for, however, still futilely sing those long-forgotten names.",
         "Src": [
             "Found in the wild"
@@ -5687,8 +5687,8 @@
     {
         "_id": 210259,
         "R": 4,
-        "Name": "Battle Pass: Glacial Moon",
-        "Desc": "Namecard style.<br>The moon's shadow stretches like a sea of ice, across which we journey. Amid shattered isles, the lost once longed deeply for a… new savior.",
+        "Name": "Travel Notes: Glacial Moon",
+        "Desc": "Namecard style.<br>The moon's shadow stretches like a sea of ice, across which we journey. Amid shattered isles, the lost once longed deeply for a... new savior.",
         "Src": [
             "BP Reward"
         ],
@@ -5699,7 +5699,7 @@
         "_id": 210258,
         "R": 4,
         "Name": "Achievement: Time Apart",
-        "Desc": "Namecard style.<br>After ten thousand winters come ten thousand springs anew. After ten thousand partings, ten thousand reunions, too. The past has slipped away. Yet tomorrow holds the promise of your face.",
+        "Desc": "Namecard style.<br>After ten thousand winters come ten thousand springs anew. After ten thousand partings, ten thousand reunions, too. The past has slipped away. Yet tomorrow holds the promise of you.",
         "Src": [
             "Reward for completing all achievements under \"Meetings in Outrealm: Series VI\""
         ],
@@ -8488,7 +8488,7 @@
         "R": 2,
         "Name": "？？？",
         "Desc": "？？？",
-        "Eff": "",
+        "Eff": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108151",
         "Recipe": 0,
         "Buff": 5
@@ -8557,7 +8557,7 @@
         "_id": 108904,
         "R": 2,
         "Name": "Sugar Sculpture: Frostfin Whale",
-        "Desc": "A sugar sculpture modeled after an animal. With a graceful leap, it is a Frostfin Whale playing on the water's surface.",
+        "Desc": "A sugar sculpture modeled after an animal. With a graceful leap, it's a Frostfin Whale playing above the water's surface.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108840",
         "Recipe": 0,
@@ -8567,7 +8567,7 @@
         "_id": 108903,
         "R": 2,
         "Name": "Sugar Sculpture: Puffin",
-        "Desc": "A sugar sculpture modeled after an animal. With a quiet and gentle demeanor, it is a Puffin resting atop the cliff edge.",
+        "Desc": "A sugar sculpture modeled after an animal. With a quiet and gentle demeanor, it's a Puffin resting atop a cliff.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108839",
         "Recipe": 0,
@@ -8577,7 +8577,7 @@
         "_id": 108902,
         "R": 2,
         "Name": "Sugar Sculpture: Dualblaze Ibis",
-        "Desc": "A sugar sculpture modeled after an animal. With wings spread wide, it is a Dualblaze Ibis soaring across the sky.",
+        "Desc": "A sugar sculpture modeled after an animal. With wings spread wide, it's a Dualblaze Ibis soaring across the sky.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108838",
         "Recipe": 0,
@@ -8587,7 +8587,7 @@
         "_id": 108901,
         "R": 2,
         "Name": "Sugar Sculpture: Chic Badger",
-        "Desc": "A sugar sculpture modeled after an animal. With a sturdy and honest appearance, it's a Chic Badger hidden in the bushes.",
+        "Desc": "A sugar sculpture modeled after an animal. With a sturdy and honest appearance, it's a Chic Badger hiding in the bushes.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108837",
         "Recipe": 0,
@@ -8597,7 +8597,7 @@
         "_id": 108900,
         "R": 2,
         "Name": "Sugar Sculpture: Rimehorn Deer",
-        "Desc": "A sugar sculpture modeled after an animal. Its peaceful expression resembles a Rimehorn Deer standing quietly in the forest.",
+        "Desc": "A sugar sculpture modeled after an animal. With a peaceful pose, it's a Rimehorn Deer standing serenely in the forest.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108836",
         "Recipe": 0,
@@ -8606,7 +8606,7 @@
     {
         "_id": 108898,
         "R": 3,
-        "Name": "Crunchy 嘎吱嘎吱甜甜杯",
+        "Name": "Clink-Clank Confectionery Cup",
         "Desc": "Aino's specialty. \"Here it comes!\" With Aino's cheerful announcement, a delicate, wobbling dessert makes its way towards you. You take a big bite... and immediately regret it. The overwhelming sweetness nearly numbs your taste buds. Only then does Ineffa's warning surface in your mind: \"Please be sure to prevent Aino from entering the kitchen at all costs.\"",
         "Eff": "Revives the selected character and restores 20% of Max HP, then restores an additional 1,500 HP.",
         "Icon": "UI_ItemIcon_108835",
@@ -8654,8 +8654,8 @@
     {
         "_id": 108887,
         "R": 2,
-        "Name": "Delicious Lakkaberry-Stuffed Chicken",
-        "Desc": "A chopped chicken dish. The amber-clear sauce evenly coats every piece of chicken, encasing tender, juicy meat within its sweet exterior. No matter what it's paired with, this dish is sure to be scarfed down!",
+        "Name": "Delicious Lakkaberry Madame",
+        "Desc": "A chopped chicken dish. The radiant amber sauce evenly coats every piece of chicken, encasing tender, juicy meat within its sweet, sticky exterior. No matter what it's paired with, this dish is sure to be scarfed down!",
         "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
         "Icon": "UI_ItemIcon_108831",
         "Recipe": 2604,
@@ -8664,7 +8664,7 @@
     {
         "_id": 108886,
         "R": 2,
-        "Name": "Lakkaberry-Stuffed Chicken",
+        "Name": "Lakkaberry Madame",
         "Desc": "A chopped chicken dish. Said to have gained real popularity in Nod-Krai, despite being an imported recipe. It has a sweet-and-sour flavor that is indeed most delectable. A different flavor, certainly, though judging by the name... was the base dish the Sweet Madame, you wonder?",
         "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
         "Icon": "UI_ItemIcon_108831",
@@ -8674,8 +8674,8 @@
     {
         "_id": 108885,
         "R": 2,
-        "Name": "Suspicious Lakkaberry-Stuffed Chicken",
-        "Desc": "A chopped chicken dish. The intense sourness wipes away all expectations of a good taste, causing the smile to vanish instantly and the face to crumple in discomfort... It tastes less like a dish and more like a prank...",
+        "Name": "Suspicious Lakkaberry Madame",
+        "Desc": "A chopped chicken dish. The intense sourness wipes away all expectations of a pleasant meal, causing the smile to vanish instantly and the face to scrunch up in discomfort... It tastes less like a dish and more like a prank...",
         "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
         "Icon": "UI_ItemIcon_108831",
         "Recipe": 2604,
@@ -8815,7 +8815,7 @@
         "_id": 108871,
         "R": 3,
         "Name": "Fruit Tandem Turnovers",
-        "Desc": "Bread baked with berries. After the fermented dough is rolled into long strips, add sugar and berries, and roll them all up to bake before adorning the finished product with chopped berries. Usually paired with coffee, this confection takes the stage at breakfast and during afternoon tea.",
+        "Desc": "Pastries baked with berries. After the fermented dough is rolled into long strips, sugar and berries are added, and the whole thing is rolled up to bake before being sprinkled with chopped berries. Usually paired with coffee, this confection takes center stage at breakfast and during afternoon tea.",
         "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
         "Icon": "UI_ItemIcon_108826",
         "Recipe": 3604,
@@ -8825,7 +8825,7 @@
         "_id": 108870,
         "R": 3,
         "Name": "Suspicious Fruit Tandem Turnovers",
-        "Desc": "Bread baked with berries. The soggy mouthfeel makes them taste as if they have been drenched in the rain for a while already. The sticky dough clings stubbornly to the teeth like a nightmare... Cold sweat is already creeping down the back...",
+        "Desc": "Pastries baked with berries. The soggy mouthfeel makes them taste as if they've been left out in the rain, and the sticky, undercooked dough clings stubbornly to the teeth... It's like something out of a nightmare.",
         "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
         "Icon": "UI_ItemIcon_108826",
         "Recipe": 3604,
@@ -8835,7 +8835,7 @@
         "_id": 108869,
         "R": 3,
         "Name": "Delicious Midsommar Torte",
-        "Desc": "A small cake made from Midsommar Berries. One spoonful is all it takes to take you to a lush berry forest. Amid the vibrant, lively sweetness, there is a hint of refreshing taste created by the sour cream. This cake is undoubtedly what brings festive mood to the peak!",
+        "Desc": "A small cake made from Midsommar Berries. One spoonful is all it takes to whisk you away to a lush berry forest. Amid the vibrant, lively sweetness, there is a hint of refreshing tartness imparted by the Smetana. This cake raises the festive mood to the peak!",
         "Eff": "Revives a character and restores 1,500 HP.",
         "Icon": "UI_ItemIcon_108825",
         "Recipe": 3603,
@@ -8845,7 +8845,7 @@
         "_id": 108868,
         "R": 3,
         "Name": "Midsommar Torte",
-        "Desc": "A small cake made from Midsommar Berries. The cake base is first baked, then drizzled with berry jam and sour cream before being topped with a Midsommar Berry. Its sweet taste and adorable appearance makes it a small but popular surprise on festival days.",
+        "Desc": "A small cake made from Midsommar Berries. The cake base is first baked, then drizzled with berry jam and Smetana before being topped with a decorative Midsommar Berry. Its sweet taste and adorable appearance make it a small but popular surprise on festival days.",
         "Eff": "Revives a character and restores 1,200 HP.",
         "Icon": "UI_ItemIcon_108825",
         "Recipe": 3603,
@@ -8855,7 +8855,7 @@
         "_id": 108867,
         "R": 3,
         "Name": "Suspicious Midsommar Torte",
-        "Desc": "A small cake made from Midsommar Berries. The frosting is uneven and messy, with the Midsommar Berry on top barely staying in place, and there are even cracks visible in the cake base... Maybe it's best to close your eyes before taking a bite.",
+        "Desc": "A small cake made from Midsommar Berries. The frosting is uneven and messy, leaving the Midsommar Berry on top barely able to stay in place. There are cracks visible in the base... Maybe it's best to close your eyes before taking a bite.",
         "Eff": "Revives a character and restores 900 HP.",
         "Icon": "UI_ItemIcon_108825",
         "Recipe": 3603,
@@ -8865,7 +8865,7 @@
         "_id": 108866,
         "R": 2,
         "Name": "Delicious Borderland Crispbread",
-        "Desc": "Crepes made from rye. The rich aroma of grain feels like a warm greeting from the rye fields, while the simple yet satisfying flavor offers a unique sense of comfort.",
+        "Desc": "Crispbread made from rye flour. The rich aroma of grain feels like a warm greeting from the rye fields, while the simple yet satisfying flavor offers a unique sense of comfort.",
         "Eff": "Increases all party members' DEF by 126 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108824",
         "Recipe": 2601,
@@ -8875,7 +8875,7 @@
         "_id": 108865,
         "R": 2,
         "Name": "Borderland Crispbread",
-        "Desc": "Crepes made from rye. The crepes' patterns are created by pressing Icy Pebbles onto them, and they say that the hole in their center are also in imitation of such. They have barely any moisture in them, and are as such well-suited to storage.",
+        "Desc": "Crispbread made from rye flour. The pattern on the crispbread is created by pressing Icy Pebbles into it, while it's said that the hole in its center is also made in imitation of such. It contains barely any moisture, making it well-suited to long storage.",
         "Eff": "Increases all party members' DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108824",
         "Recipe": 2601,
@@ -8885,7 +8885,7 @@
         "_id": 108864,
         "R": 2,
         "Name": "Suspicious Borderland Crispbread",
-        "Desc": "Crepes made from rye. They are dry, hard, and cold — like frozen bricks. These crepes are strong enough to test the hardness of teeth... Though it is probably not the best idea to take that challenge.",
+        "Desc": "Crispbread made from rye flour. It is dry, hard, and cold — like frozen roof tiles. This bread is strong enough to test the hardness of teeth... Though it's probably best not to try.",
         "Eff": "Increases all party members' DEF by 88 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108824",
         "Recipe": 2601,
@@ -8895,7 +8895,7 @@
         "_id": 108863,
         "R": 1,
         "Name": "Delicious Smoked Fish Steak",
-        "Desc": "A large portion of fish steak. The tender fish dissolves effortlessly on the tongue, combining freshd savory notes with a hint of sweetness, while the smoky fragrance lingers, delivering a perfect finale to this flavorful delight.",
+        "Desc": "A large fish steak. The tender fish dissolves effortlessly on the tongue, combining savory notes with a hint of sweetness, while the smoky fragrance lingers, delivering a perfect finale to this flavorful delight.",
         "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
         "Icon": "UI_ItemIcon_108823",
         "Recipe": 1601,
@@ -8905,7 +8905,7 @@
         "_id": 108862,
         "R": 1,
         "Name": "Smoked Fish Steak",
-        "Desc": "A large portion of fish steak. The steak has been cured and placed on a wooden plank before being smoked. Not only does the final product preserve the fish's structure, but it also boasts a unique smoky flavor.",
+        "Desc": "A large fish steak. The steak has been cured and placed on a wooden slat before smoking. Not only does the final product preserve the fish's physical integrity, but it also boasts a unique smoky flavor.",
         "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
         "Icon": "UI_ItemIcon_108823",
         "Recipe": 1601,
@@ -8915,7 +8915,7 @@
         "_id": 108861,
         "R": 1,
         "Name": "Suspicious Smoked Fish Steak",
-        "Desc": "A large portion of fish steak. The sharp smoky smell triggers an immediate aversion. After a reluctant bite, the overpowering saltiness makes it impossible to savor, leaving no choice but to swallow it quickly to avoid waste.",
+        "Desc": "A large fish steak. The acrid scent of smoke triggers an immediate aversion. After taking a reluctant bite, the overpowering saltiness makes it impossible to savor, leaving no choice but to swallow it quickly to avoid waste.",
         "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
         "Icon": "UI_ItemIcon_108823",
         "Recipe": 1601,
@@ -8925,7 +8925,7 @@
         "_id": 108860,
         "R": 3,
         "Name": "Delicious Today's Haul",
-        "Desc": "A vegetarian salad. A vibrant base of vegetables is sweetened by the warm flavors of berries and delicately garnished with petals, creating a bountiful feast that blossoms across the taste buds.",
+        "Desc": "A vegetable salad. A vibrant array of vegetables is given sweetness by the presence of juicy berries and delicately garnished with petals, creating a bountiful feast that blossoms across the taste buds.",
         "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108822",
         "Recipe": 3602,
@@ -8935,7 +8935,7 @@
         "_id": 108859,
         "R": 3,
         "Name": "Today's Haul",
-        "Desc": "A vegetarian salad. The freshest fruits and vegetables are selected and arrayed alongside rye bread and dressing, making for a delicious and satisfying dish that finds its way daily onto the tables of pious Frostmoon Scions.",
+        "Desc": "A vegetable salad. The freshest fruits and vegetables are selected and arrayed alongside rye bread and sprinkled with dressing, making for a delicious and satisfying dish that finds its way daily onto the tables of pious Frostmoon Scions.",
         "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108822",
         "Recipe": 3602,
@@ -8945,7 +8945,7 @@
         "_id": 108858,
         "R": 3,
         "Name": "Suspicious Today's Haul",
-        "Desc": "A vegetarian salad. For some reason, there is an earthy, grassy flavor. It tastes almost like fresh grass. Perhaps a Rimehorn Deer would enjoy such a dish...",
+        "Desc": "A vegetable salad. For some reason, there is an earthy, almost dirt-like flavor, as though you're eating untreated grass. Perhaps a Rimehorn Deer might enjoy this dish better...",
         "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108822",
         "Recipe": 3602,
@@ -8955,7 +8955,7 @@
         "_id": 108857,
         "R": 3,
         "Name": "Delicious Lakkaberry Krumkakes",
-        "Desc": "A classic dessert from Nod-Krai. A heavenly crack sounds, yet contrasting with the crispy egg roll shell is the smooth, sweet, and glutinous filling. Two completely different textures come together in perfect harmony on the palate. Before the aftertaste even arises, the hand has already eagerly reached for the plate again.",
+        "Desc": "A classic dessert from Nod-Krai. The crispy egg rolls break apart in the mouth with a heavenly crackle, contrasting with the smooth, sweet filling inside. A juxtaposition of textures that come together in perfect harmony on the palate. Before the taste has had time to linger, the hand has already reached for another bite.",
         "Eff": "Increases all party members' Shield Strength by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108821",
         "Recipe": 3601,
@@ -8965,7 +8965,7 @@
         "_id": 108856,
         "R": 3,
         "Name": "Lakkaberry Krumkakes",
-        "Desc": "A classic dessert from Nod-Krai. The batter is put on a grill and swiftly rolled up, while butter is squeezed into it and fruits sprinkled on top. Crispy, crunchy, and sweetly aromatic, it is very popular amongst children.",
+        "Desc": "A classic dessert from Nod-Krai. The batter is put on a griddle and swiftly rolled up, while butter is added and fruits are sprinkled on top. Crispy, crunchy, and sweetly aromatic, it is very popular among children.",
         "Eff": "Increases all party members' Shield Strength by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108821",
         "Recipe": 3601,
@@ -8975,7 +8975,7 @@
         "_id": 108855,
         "R": 3,
         "Name": "Suspicious Lakkaberry Krumkakes",
-        "Desc": "A classic dessert from Nod-Krai. The edges taste soft — more like egg crepes than egg rolls — clearly from moisture. Fortunately, the center is still crispy, so if eaten quickly, it should taste fine anyway...",
+        "Desc": "A classic dessert from Nod-Krai. The edges are soft from moisture, with a texture more like egg crepes than krumkakes. Fortunately, the center is still crispy. If scoffed down quickly, you should be able to avoid any unpleasantness...",
         "Eff": "Increases all party members' Shield Strength by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108821",
         "Recipe": 3601,
@@ -17802,7 +17802,7 @@
         "_id": 110016,
         "R": 0,
         "Name": "Rye Flour",
-        "Desc": "A coarse, dark powder produced from grinding rye. Dishes made with it has a unique texture and a sour flavor.",
+        "Desc": "A coarse, dark powder produced from grinding rye. Food made with it has a unique texture and a somewhat sour flavor.",
         "Src": [
             "Processed"
         ],
@@ -17813,7 +17813,7 @@
         "_id": 110015,
         "R": 0,
         "Name": "Smetana",
-        "Desc": "A dairy product obtained through complex processes such as separation and fermentation. It has a smooth texture and a refreshing sour flavor, often serving as a finishing touch in many dishes.",
+        "Desc": "A dairy product produced through complex processes such as separation and fermentation. It has a smooth texture and a refreshing sourness, often serving as the finishing touch in many dishes.",
         "Src": [
             "Processed"
         ],
@@ -18202,7 +18202,7 @@
         "Name": "Crystal Core",
         "Desc": "The core of a crystal butterfly. It absorbs elemental energy that has escaped into the atmosphere.",
         "Src": [
-            "",
+            "Collected by Crystalfly Trap",
             "Gathered by catching Crystalflies"
         ],
         "Icon": "UI_ItemIcon_100085",
@@ -18979,7 +18979,7 @@
         "_id": 100230,
         "R": 1,
         "Name": "The Other Side of the Frostmoon",
-        "Desc": "Complete \"A Half-Step beneath the Moon's Oracle\" to unlock",
+        "Desc": "Complete \"A Half-Step Beneath the Moon's Oracle\" to unlock",
         "Src": [],
         "Pic": "UI_AvatarIcon_76011_Circle"
     },
@@ -19163,7 +19163,7 @@
         "_id": 220125,
         "R": 4,
         "Name": "Lunar Arcana Case",
-        "Desc": "???",
+        "Desc": "A box of cards given to you by a certain witch proficient in divination. It can be used to store the cards you find during your performances, and these Lunar Arcana cards may be exchanged with friends in Co-Op Mode.<br>Each world has a different definition of divination, but one thing remains constant: The use of \"here\" and \"now\" as anchors to unravel the unknown. Thus, the more Arcana one hoards within this box, the brighter the lantern of understanding burns...",
         "Src": [],
         "Icon": "UI_ItemIcon_220125",
         "Type": "Gadget"
@@ -19172,7 +19172,7 @@
         "_id": 220124,
         "R": 4,
         "Name": "Travel Accounts",
-        "Desc": "A notebook filled with various anecdotes and amusing tales.<br>Open it to browse the recorded stories. With the fortune slip tucked inside, you can also make a simple wish of Destiny Drawn.",
+        "Desc": "A notebook filled with various anecdotes and amusing tales.<br>Open it to browse the stories recorded within. With the fortune slip tucked inside, you can also make a simple wish via Destiny Drawn.",
         "Src": [],
         "Icon": "UI_ItemIcon_220124",
         "Type": "Gadget"
@@ -19180,8 +19180,8 @@
     {
         "_id": 220123,
         "R": 4,
-        "Name": "Selene Treasure Compass",
-        "Desc": "A compass that can be used in Nod-Krai to search for nearby treasure and relevant clues.<br>The lands beneath the moonlight hold countless unknown treasures, waiting to be discovered by adventurers with courage or wit.",
+        "Name": "Luna Treasure Compass",
+        "Desc": "A compass that can be used in Nod-Krai to search for nearby treasure and relevant clues.<br>This moonlit world holds countless unknown treasures, waiting to be discovered by adventurers with courage or wit.",
         "Src": [],
         "Icon": "UI_ItemIcon_220123",
         "Type": "Gadget"
@@ -19189,8 +19189,8 @@
     {
         "_id": 220122,
         "R": 4,
-        "Name": "",
-        "Desc": "",
+        "Name": "Memento Kamera",
+        "Desc": "An antique Kamera with an elegant design. It once belonged to a legendary Fontainian photographer and witnessed countless historic moments.<br>Now, it serves a purpose to capture the fleeting beauty along the journey and preserve it forever.<br>Every press of the shutter is a gentle act of capturing a memory.",
         "Src": [],
         "Icon": "UI_ItemIcon_220090",
         "Type": "Gadget"
@@ -19962,7 +19962,7 @@
         "_id": 220033,
         "R": 4,
         "Name": "Seed Dispensary",
-        "Desc": "A special container obtained from Madame Ping. According to her, this dispensary has the power to \"generate seeds\"... That is to say, it can create the seeds of various plants according to their special traits, which can then be planted within the appropriate fields within your Serenitea Pot.<br>Plants available for planting: Silk Flower, Sweet Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Valberry, Small Lamp Grass, Jueyun Chili, Carrot, Radish, Mint, Mushroom, Naku Weed, Horsetail, Snapdragon, Lotus Head, Calla Lily, Seagrass, Sea Ganoderma, Harra Fruit, Zaytun Peach, Sumeru Rose, Pluie Lotus, Marcotte, Lumidouce Bell, Rainbow Rose, Grainfruit, Cacahuatl, Saurian Claw Succulent, Quenepa Berry, Brilliant Chrysanthemum, Sprayfeather Gill, Glowing Hornshroom, Skysplit Gembloom, Frostcup Flower, Midsommar Berry, Lakkaberry.",
+        "Desc": "A special container obtained from Madame Ping. According to her, this dispensary has the power to \"generate seeds\"... That is to say, it can create the seeds of various plants according to their special traits, which can then be planted within the appropriate fields within your Serenitea Pot.<br>Plants available for planting: Silk Flower, Sweet Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Valberry, Small Lamp Grass, Jueyun Chili, Carrot, Radish, Mint, Mushroom, Naku Weed, Horsetail, Snapdragon, Lotus Head, Calla Lily, Seagrass, Sea Ganoderma, Harra Fruit, Zaytun Peach, Sumeru Rose, Pluie Lotus, Marcotte, Lumidouce Bell, Rainbow Rose, Grainfruit, Cacahuatl, Saurian Claw Succulent, Quenepa Berry, Brilliant Chrysanthemum, Sprayfeather Gill, Glowing Hornshroom, Skysplit Gembloom, Frostlamp Flower, Midsommar Berry, Lakkaberry.",
         "Src": [],
         "Icon": "UI_ItemIcon_220033",
         "Type": "Gadget"

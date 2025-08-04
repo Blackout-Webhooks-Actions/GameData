@@ -11728,6 +11728,10 @@
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high Electro concentrations, resulting in its present form.\nOne of the manifestations with the most violent temperament. Commands steel-shattering lightning like mere servants, such that any land it passes through shall be marked as if by a marauding, thunderous calamity.\nIn still-extant prayers of the far north, they were born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why they find the tainting of their pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws near.",
         "Color": "Elec",
+        "Immune": [
+            "Elec"
+        ],
+        "OnlyBaseImmune": true,
         "HP": 5.1,
         "HPCurve": 2,
         "ATK": 7.0,
@@ -11742,6 +11746,12 @@
         "RES": {
             "Elec": 0.5
         },
+        "RESState": [
+            {
+                "State": "Enhanced",
+                "All": 1.2
+            }
+        ],
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11754,6 +11764,10 @@
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high Dendro concentrations, resulting in its present form.\nThis entity has a marvelous resonance with the plant life of the groves. Some say that one of the Moonchanters once made a contract with the wooded lands with their help, thus becoming friend and companion to all life on this land.\nIn still-extant prayers of the far north, they were born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why they find the tainting of their pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws near.",
         "Color": "Grass",
+        "Immune": [
+            "Grass"
+        ],
+        "OnlyBaseImmune": true,
         "HP": 5.1,
         "HPCurve": 2,
         "ATK": 7.0,
@@ -11768,6 +11782,12 @@
         "RES": {
             "Grass": 0.5
         },
+        "RESState": [
+            {
+                "State": "Enhanced",
+                "All": 1.2
+            }
+        ],
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11780,6 +11800,10 @@
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high Pyro concentrations, resulting in its present form.\nOne of the manifestations with the most violent temperament. Even at the frigid edges of the world, it is wreathed in unquenchable flame.\nIn still-extant prayers of the far north, they were born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why they find the tainting of their pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws near.",
         "Color": "Fire",
+        "Immune": [
+            "Fire"
+        ],
+        "OnlyBaseImmune": true,
         "HP": 6.5,
         "HPCurve": 2,
         "ATK": 7.0,
@@ -11794,6 +11818,12 @@
         "RES": {
             "Fire": 0.5
         },
+        "RESState": [
+            {
+                "State": "Enhanced",
+                "All": 1.2
+            }
+        ],
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11806,6 +11836,10 @@
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high Cryo concentrations, resulting in its present form.\nIt is said that this entity is closest to the original form of a Frostnight Scion. They will use icy mists and crystals to set up redoubtable walls, but perhaps they do this only to separate the flawless primeval light from the world that lies beneath the moon.\nIn still-extant prayers of the far north, they were born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why they find the tainting of their pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws near.",
         "Color": "Ice",
+        "Immune": [
+            "Ice"
+        ],
+        "OnlyBaseImmune": true,
         "HP": 6.5,
         "HPCurve": 2,
         "ATK": 7.0,
@@ -11820,6 +11854,12 @@
         "RES": {
             "Ice": 0.5
         },
+        "RESState": [
+            {
+                "State": "Enhanced",
+                "All": 1.2
+            }
+        ],
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11841,7 +11881,7 @@
         ],
         "Tut": 3093,
         "Tutorial": 21310,
-        "Class": "",
+        "Class": "Wilderness Exile",
         "Category": "The Abyss"
     },
     "21310": {
@@ -11862,17 +11902,18 @@
         ],
         "Tut": 3093,
         "Tutorial": 21310,
-        "Class": "",
+        "Class": "Wilderness Exile",
         "Category": "The Abyss"
     },
     "213200": {
         "_id": 213200,
-        "Name": "The Night Watcher",
+        "Name": "Sigurd",
         "Title": [
-            "Shadow of the Wild Hunt",
-            ""
+            "The One Who Swore to Hunt the Hunt",
+            "Shadow of the Wild Hunt"
         ],
         "Desc": "",
+        "Color": "Elec",
         "HP": 22.5,
         "HPCurve": 2,
         "ATK": 11.0,
@@ -11886,12 +11927,13 @@
     },
     "21320": {
         "_id": 21320,
-        "Name": "The Night Watcher",
+        "Name": "Sigurd",
         "Title": [
-            "Shadow of the Wild Hunt",
-            ""
+            "The One Who Swore to Hunt the Hunt",
+            "Shadow of the Wild Hunt"
         ],
         "Desc": "",
+        "Color": "Elec",
         "HP": 4.725,
         "HPCurve": 2,
         "ATK": 5.5,
@@ -11908,9 +11950,10 @@
         "Name": "Knuckle Duckle",
         "Title": [
             "Creator's Pride",
-            ""
+            "Knuckle Duckle"
         ],
         "Desc": "A curiously-shaped kuuvahki device made from scrap metal and mechanical bearings, bearing partial resemblance — as per its creator's proclivities, apparently — to a \"duck.\"\nIts output and resistance to damage are comparable to the Fatui's most cutting-edge warfighting weaponry... But even so, it remains a toy duck that can only punch its opponents very, very hard. A creator's preferences will always do much to determine a creation's appearance, nor does clay have the authority to question its creator's choice of molds in which to cast it. The world beneath the moon has long been sculpted into a form that people take for granted, but in the eyes of its original inhabitants, that form must surely be like that odd duck, shaped by the creator's bizarre predilections.\nOf course, the blue-haired maid will never say any of the above to the mistress of the Krumkake Craftshop. Ducks, in any case, are quite adorable, especially compared to the world's present aspect.",
+        "Color": "Elec",
         "HP": 13.5,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -12072,7 +12115,7 @@
         "_id": 30791,
         "Name": "Oprichniki Fireblade Shock Trooper",
         "Title": [
-            "",
+            "Battle-Hardened Fireblade Shock Trooper",
             ""
         ],
         "Desc": "An elite officer of the Fatui Oprichniki who specializes in close combat against foes with a giant blade.\nWhether it be in the war against the dark calamity or against those ignoramuses who dare stand against the Tsaritsa's ideals, those who breach at the tip of the spear suffer the greatest casualties. As such, those who survive multiple battles of this kind are naturally the elite of the elite. There will always be those willing to become the fire and sword of the empire, just as there will always be those who chafe against the injustice of fate and the inequity of the Old World.",
@@ -12096,10 +12139,10 @@
     },
     "307911": {
         "_id": 307911,
-        "Name": "Oprichniki Fireblade Shock Trooper",
+        "Name": "Raskolnikov",
         "Title": [
-            "",
-            ""
+            "Poruchik",
+            "Battle-Hardened Fireblade Shock Trooper"
         ],
         "Desc": "",
         "Color": "Fire",
@@ -12120,7 +12163,7 @@
         "Icon": [
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
-        "Tutorial": 23079108,
+        "Tutorial": 30791,
         "RES": {
             "Fire": 0.3,
             "Grass": 0.3,
@@ -12136,10 +12179,10 @@
     },
     "307910": {
         "_id": 307910,
-        "Name": "Oprichniki Fireblade Shock Trooper",
+        "Name": "Raskolnikov",
         "Title": [
-            "",
-            ""
+            "Poruchik",
+            "Battle-Hardened Fireblade Shock Trooper"
         ],
         "Desc": "",
         "Color": "Fire",
@@ -12153,6 +12196,7 @@
         "Icon": [
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
+        "Tutorial": 30791,
         "RES": {
             "Phys": -0.2
         },
@@ -12215,7 +12259,7 @@
         "_id": 30801,
         "Name": "Close Combat Storm Landcruiser",
         "Title": [
-            "Force Recon Ground Effect",
+            "Landcruiser",
             "Close Combat Storm"
         ],
         "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nEquipped with Crawler Track Movement Mechanisms, Landcruisers are normally used to storm enemy positions, where they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility. When close-combat Landcruisers approach enemy defensive lines in formation, rotating blades positioned laterally, most foes will concentrate fire on them, allowing other units opportunities to unleash their firepower...",
@@ -12235,7 +12279,7 @@
         "_id": 30802,
         "Name": "Close Combat Scout Landcruiser",
         "Title": [
-            "Force Recon Ground Effect",
+            "Landcruiser",
             "Close Combat Scout"
         ],
         "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nLandcruisers with bipedal structure are often used as \"scouts,\" for they are able to quickly traverse rough terrain and reach key positions to seize the initiative for their allies. Its close-combat-oriented rotating blade armaments allow them to deal fatal damage to their foes and shred shrubbery and obstacles to open the way, allowing their units to operate with ease even amidst deep forests.",
@@ -12255,7 +12299,7 @@
         "_id": 30803,
         "Name": "Force Recon Storm Landcruiser",
         "Title": [
-            "Force Recon Ground Effect",
+            "Landcruiser",
             "Force Recon Storm"
         ],
         "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nEquipped with Crawler Track Movement Mechanisms, Landcruisers are normally used to storm enemy positions, where they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility. Force Recon armaments include a multi-barrel automatic gun, allowing this Landcruiser to pick its battles in both close quarters and long-range combat. Whether it be long-range observation, or obtaining enemy intel even in the midst of a fearsome firefight, this Landcruiser model is more than up to the task.",
@@ -12275,7 +12319,7 @@
         "_id": 30804,
         "Name": "Force Recon Scout Landcruiser",
         "Title": [
-            "Force Recon Ground Effect",
+            "Landcruiser",
             "Force Recon Scout"
         ],
         "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nLandcruisers with bipedal structure are often used as \"scouts,\" for they are able to quickly traverse rough terrain and reach key positions to seize the initiative for their allies. After being equipped with a Force Recon pack, this Landcruiser can not only serve as a forward scout for the main force, but can also exploit openings and actively attack the enemy where their lines are weak, thus playing a similar role to that of cavalry...",
@@ -12295,7 +12339,7 @@
         "_id": 30805,
         "Name": "Force Recon Ground Effect Landcruiser",
         "Title": [
-            "Force Recon Ground Effect",
+            "Landcruiser",
             "Force Recon Ground Effect"
         ],
         "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nThe ground effect vehicle Landcruiser is able to \"fly\" a certain distance off the ground by maintaining lift and generating pressure difference through firing high speed jet sprays at the surface, allowing it to more economically achieve high combat cruising speed, avoid mines and traps, and perform highly effective assaults. However, its costs and limits on operation time mean that mass-produced models have limited payloads. As such, they are limited to Force Recon roles at the moment...",
@@ -12315,7 +12359,7 @@
         "_id": 30851,
         "Name": "Cutting Edge All-Purpose Storm Landcruiser",
         "Title": [
-            "Force Recon Ground Effect",
+            "Landcruiser",
             "Cutting Edge All-Purpose Storm"
         ],
         "Desc": "Balancing cutting-edge tech, production costs and sortie rates, these elite Landcruisers confer immense penetrative power upon any battle order, and are the key fulcrum of the frontline.\nThe all-purpose combat package combines multi-barrel automatic gunss with close-quarter rotating blades, allowing this Landcruiser to battle opponents at any range, while heavy howitzers in both arms will allow it to obliterate cover and deny defenders the benefit of their fortifications. According to combat doctrines co-authored by the Fatui and the Imperial Military Academy, these Landcruisers must be supported by all nearby units when they attack, speedily punching a hole in enemy lines, which will allow for follow-up attacks in depth that will then destroy enemy defensive lines...",
@@ -12336,7 +12380,7 @@
         "_id": 30852,
         "Name": "Cutting Edge All-Purpose Scout Landcruiser",
         "Title": [
-            "Force Recon Ground Effect",
+            "Landcruiser",
             "Cutting Edge All-Purpose Scout"
         ],
         "Desc": "Balancing cutting-edge tech, production costs and sortie rates, these elite Landcruisers confer immense penetrative power upon any battle order, and are the key fulcrum of the frontline.\nThe all-purpose scout combat package is also designed for both long- and short-range combat, and not only leads scout Landcruiser squads, but also provides close support for All-Purpose Storm Landcruisers during high-intensity battles, such as crossing specialized anti-Landcruiser trenches, or destroying enemy strongpoints. This Landcruiser type can also keep up with the tip of the spear as it breaks through in depth, before swinging out to the wings and swiftly attacking key targets in the enemy's rear lines.",
@@ -12357,7 +12401,7 @@
         "_id": 30853,
         "Name": "Cutting Edge Fire Support Ground Effect Landcruiser",
         "Title": [
-            "Force Recon Ground Effect",
+            "Landcruiser",
             "Cutting Edge Fire Support Ground Effect"
         ],
         "Desc": "Balancing cutting-edge tech, production costs and sortie rates, these elite Landcruisers confer immense penetrative power upon any battle order, and are the key fulcrum of the frontline.\nAfter being equipped with high-efficiency jet engines, this Ground Effect Landcruiser has gained the ability to carry multiple armaments, allowing them to send this sizable firepower anywhere on the battlefield in a timely fashion. As such, the combat doctrines co-authored by the Fatui and the Imperial Military Academy state that they are to be organized as a \"Quick Reaction Force\" in large-scale battles, meant to guard against enemy breakthroughs or counterattacks, and to press the advantage if the battle is going favorably. Of course, all such Landcruisers have the ability to operate independently, and on long tours of duty, they can form the core of a small squad and thus maximize the firepower of various Fatui unit types...",
@@ -12376,31 +12420,34 @@
     },
     "616260": {
         "_id": 616260,
-        "Name": "",
+        "Name": "Crab Tsar",
         "Title": [
-            "",
-            ""
+            "Lord of the Palace",
+            "Battle-Scarred Rock Crab"
         ],
         "Desc": "",
+        "Color": "Water",
         "HP": 52.6,
         "HPCurve": 2,
         "ATK": 8.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "Tutorial": 61626,
         "Icon": [
-            "UI_ItemIcon_131047"
+            "UI_MonsterIcon_HermitCrab_Mature_Elite"
         ],
         "Class": "6.0",
         "Category": "Local Legend"
     },
     "61626": {
         "_id": 61626,
-        "Name": "Hermit Crab",
+        "Name": "Crab Tsar",
         "Title": [
-            "",
-            ""
+            "Lord of the Palace",
+            "Battle-Scarred Rock Crab"
         ],
         "Desc": "",
+        "Color": "Water",
         "HP": 10.6,
         "HPCurve": 2,
         "ATK": 5.0,
@@ -12409,7 +12456,7 @@
         "Icon": [
             "UI_MonsterIcon_HermitCrab_Mature_Elite"
         ],
-        "Tutorial": 26162605,
+        "Tutorial": 61626,
         "Class": "Spiral Abyss Versions",
         "Category": "Local Legend"
     },
@@ -12554,10 +12601,11 @@
         "_id": 26162605,
         "Name": "Battle-Scarred Rock Crab: One Million Blasts",
         "Title": [
-            "",
+            "Battle-Scarred Rock Crab",
             ""
         ],
         "Desc": "",
+        "Color": "Water",
         "HP": 278.38596,
         "HPCurve": 20,
         "ATK": 5.0,
@@ -12575,9 +12623,10 @@
         "_id": 23079108,
         "Name": "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope",
         "Title": [
-            "",
+            "Battle-Hardened Fireblade Shock Trooper",
             ""
         ],
+        "Color": "Fire",
         "Desc": "",
         "HP": 311.29312,
         "HPCurve": 20,

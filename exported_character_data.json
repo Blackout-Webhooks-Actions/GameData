@@ -37,9 +37,9 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Aino",
+            "Flins",
             "Lauma",
-            "Flins"
+            "Aino"
         ],
         "NW": [
             14432,
@@ -55,19 +55,20 @@
         "NR": [],
         "VS": [
             "1",
-            "15"
+            "15",
+            "2"
         ],
-        "Note": "6.0v15"
+        "Note": "6.0v2"
     },
     {
         "_name": "Aino",
         "_id": 121,
         "Name": "Aino",
-        "Desc": "",
-        "Title": "",
-        "Constellation": "",
+        "Desc": "A genius mechanic and inventor from Nod-Krai who enjoys interesting machines and sweet treats.",
+        "Title": "???",
+        "Constellation": "Arca Tonitrualis",
         "Nation": "???",
-        "Belong": "",
+        "Belong": "Clink-Clank Krumkake Craftshop",
         "Grade": 4,
         "Type": "Loli",
         "Weapon": "Claymore",
@@ -88,7 +89,7 @@
             "DEF": 607,
             "Custom": 96
         },
-        "Version": "6.0v15",
+        "Version": "6.0v2",
         "Fetter": 121,
         "_CV": {
             "_CH": "???",
@@ -101,11 +102,11 @@
         "_name": "Flins",
         "_id": 120,
         "Name": "Flins",
-        "Desc": "",
-        "Title": "",
-        "Constellation": "",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "Lumen Noctis",
         "Nation": "???",
-        "Belong": "",
+        "Belong": "???",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Pole",
@@ -126,7 +127,7 @@
             "DEF": 809,
             "Custom": 0.384
         },
-        "Version": "6.0v15",
+        "Version": "6.0v2",
         "Fetter": 120,
         "_CV": {
             "_CH": "???",
@@ -139,11 +140,11 @@
         "_name": "Lauma",
         "_id": 119,
         "Name": "Lauma",
-        "Desc": "",
-        "Title": "",
-        "Constellation": "",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "Cervus Argentia",
         "Nation": "???",
-        "Belong": "",
+        "Belong": "???",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Catalyst",
@@ -164,7 +165,7 @@
             "DEF": 669,
             "Custom": 115.2
         },
-        "Version": "6.0v15",
+        "Version": "6.0v2",
         "Fetter": 119,
         "_CV": {
             "_CH": "???",

@@ -234,12 +234,12 @@
             112136,
             112013
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Phantom Flash",
         "EquipAffixID": 115433,
         "Extra": [],
         "Story": 195433,
         "StoryCount": 1,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "15432",
@@ -960,12 +960,12 @@
             112130,
             112124
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Millennial Hymn",
         "EquipAffixID": 114520,
         "Extra": [],
         "Story": 194520,
         "StoryCount": 1,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "14519",
@@ -1312,16 +1312,16 @@
             112130,
             112127
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Token of Covenant",
         "EquipAffixID": 114433,
         "Extra": [],
         "Story": 194433,
         "StoryCount": 1,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "14432",
-        "Name": "Lightweaver's Lyre",
+        "Name": "Etherlight Spindlelute",
         "Desc": "",
         "Type": 3,
         "Rank": 4,
@@ -1334,12 +1334,12 @@
             112133,
             112127
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "The Final Voice",
         "EquipAffixID": 114432,
         "Extra": [],
         "Story": 194432,
         "StoryCount": 1,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "14431",
@@ -1972,12 +1972,12 @@
             112136,
             112127
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Mournful Tribute",
         "EquipAffixID": 113516,
         "Extra": [],
         "Story": 193516,
         "StoryCount": 1,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "13515",
@@ -2236,12 +2236,12 @@
             112136,
             112124
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Swift and Sure",
         "EquipAffixID": 113433,
         "Extra": [],
         "Story": 193433,
         "StoryCount": 1,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "13432",
@@ -3006,12 +3006,12 @@
             112133,
             112124
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Fall Into Place",
         "EquipAffixID": 112433,
         "Extra": [],
         "Story": 192433,
         "StoryCount": 1,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "12432",
@@ -3996,12 +3996,12 @@
             112133,
             112124
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Secret Silver's Testament",
         "EquipAffixID": 111434,
         "Extra": [],
         "Story": 191434,
         "StoryCount": 0,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "11433",
@@ -4018,12 +4018,12 @@
             112130,
             112127
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Solemn Silence",
         "EquipAffixID": 111433,
         "Extra": [],
         "Story": 191433,
         "StoryCount": 1,
-        "V": "15"
+        "V": "2"
     },
     {
         "_id": "11432",
