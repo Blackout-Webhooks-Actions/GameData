@@ -465,7 +465,7 @@
     "Radiant Mutants Materials": {
         "enemyName": "Radiant Moonfly",
         "itemName1": "Lightless Bone",
-        "itemName2": "rare light Remains",
+        "itemName2": "Duskshard Remains",
         "itemName3": "Radiant Exoskeleton"
     },
     "Frostnight Scions Materials": {
@@ -476,15 +476,15 @@
     },
     "Fatui Oprichniki Materials": {
         "enemyName": "Oprichniki Fireblade Shock Trooper",
-        "itemName1": "Worn Certificate",
-        "itemName2": "Exquisite Certificate",
-        "itemName3": "Frosted Certificate"
+        "itemName1": "Tattered Warrant",
+        "itemName2": "Immaculate Warrant",
+        "itemName3": "Frost-Etched Warrant"
     },
     "Landcruiser Materials": {
         "enemyName": "Cutting Edge Fire Support Ground Effect Landcruiser",
         "itemName1": "Broken Drive Shaft",
         "itemName2": "Reinforced Drive Shaft",
-        "itemName3": "Precision Axle"
+        "itemName3": "Precision Drive Shaft"
     },
     "Furnace Shell Mountain Weasels Materials": {
         "enemyName": "Furnace Shell Mountain Weasel",
