@@ -6400,15 +6400,15 @@
         {
             "id": 119,
             "name": "Lauma",
-            "constellation": "",
+            "constellation": "Cervus Argentia",
             "version": "6.0",
             "star": 5,
             "nation": "???",
             "element": "Dendro",
             "weapon": "Catalyst",
             "birthday": "01-01",
-            "title": "",
-            "description": "",
+            "title": "???",
+            "description": "???",
             "reruns": [
                 {
                     "banner": "upcoming",
@@ -6441,15 +6441,15 @@
         {
             "id": 120,
             "name": "Flins",
-            "constellation": "",
+            "constellation": "Lumen Noctis",
             "version": "6.0",
             "star": 5,
             "nation": "???",
             "element": "Electro",
             "weapon": "Polearm",
             "birthday": "01-01",
-            "title": "",
-            "description": "",
+            "title": "???",
+            "description": "???",
             "reruns": [
                 {
                     "banner": "upcoming",
@@ -6466,7 +6466,7 @@
                             "enemyDrop": "Landcruiser Materials",
                             "elementalGem": "Vajrada Amethyst",
                             "normalBossDrop": "Precision Kuuvahki Stamping D-uck-ie",
-                            "localSpecialty": "Frostcup Flower"
+                            "localSpecialty": "Frostlamp Flower"
                         }
                     ],
                     "talents": [
@@ -6482,15 +6482,15 @@
         {
             "id": 121,
             "name": "Aino",
-            "constellation": "",
+            "constellation": "Arca Tonitrualis",
             "version": "6.0",
             "star": 4,
             "nation": "???",
             "element": "Hydro",
             "weapon": "Claymore",
             "birthday": "09-21",
-            "title": "",
-            "description": "",
+            "title": "???",
+            "description": "A genius mechanic and inventor from Nod-Krai who enjoys interesting machines and sweet treats.",
             "reruns": [
                 {
                     "banner": "upcoming",
