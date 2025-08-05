@@ -11743,15 +11743,13 @@
             "UI_MonsterIcon_Moonbeast_Electric"
         ],
         "Tut": 3092,
-        "RES": {
-            "Elec": 0.5
-        },
         "RESState": [
             {
                 "State": "Enhanced",
                 "All": 1.2
             }
         ],
+        "Tutorial": 801,
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11779,15 +11777,13 @@
             "UI_MonsterIcon_Moonbeast_Grass"
         ],
         "Tut": 3092,
-        "RES": {
-            "Grass": 0.5
-        },
         "RESState": [
             {
                 "State": "Enhanced",
                 "All": 1.2
             }
         ],
+        "Tutorial": 801,
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11815,15 +11811,13 @@
             "UI_MonsterIcon_Moonbeast_Fire"
         ],
         "Tut": 3092,
-        "RES": {
-            "Fire": 0.5
-        },
         "RESState": [
             {
                 "State": "Enhanced",
                 "All": 1.2
             }
         ],
+        "Tutorial": 801,
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11851,15 +11845,13 @@
             "UI_MonsterIcon_Moonbeast_Ice"
         ],
         "Tut": 3092,
-        "RES": {
-            "Ice": 0.5
-        },
         "RESState": [
             {
                 "State": "Enhanced",
                 "All": 1.2
             }
         ],
+        "Tutorial": 801,
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11959,6 +11951,14 @@
         "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Duck",
+                "All": 1.4,
+                "Elec": -1.4,
+                "Water": -0.6
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Gastrobot_01"
         ],
@@ -11985,9 +11985,6 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12009,9 +12006,6 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan"
         ],
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12033,9 +12027,6 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Female"
         ],
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12057,9 +12048,6 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12081,9 +12069,6 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12105,9 +12090,6 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12131,9 +12113,6 @@
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
         "Tut": 3094,
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12151,20 +12130,6 @@
         "ATK": 5.0,
         "ATKCurve": 4,
         "RESBase": {
-            "Phys": -0.2,
-            "Fire": 0.3,
-            "Water": 0.3,
-            "Elec": 0.3,
-            "Ice": 0.3,
-            "Grass": 0.3,
-            "Wind": 0.3,
-            "Rock": 0.3
-        },
-        "Icon": [
-            "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
-        ],
-        "Tutorial": 30791,
-        "RES": {
             "Fire": 0.3,
             "Grass": 0.3,
             "Water": 0.3,
@@ -12174,6 +12139,17 @@
             "Rock": 0.3,
             "Phys": -0.2
         },
+        "RESState": [
+            {
+                "State": "Weaken",
+                "All": -0.5,
+                "Elec": -0.6
+            }
+        ],
+        "Icon": [
+            "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
+        ],
+        "Tutorial": 30791,
         "Class": "Spiral Abyss Versions",
         "Category": "Local Legend"
     },
@@ -12193,13 +12169,17 @@
         "RESBase": {
             "Phys": -0.2
         },
+        "RESState": [
+            {
+                "State": "Weaken",
+                "All": -0.5,
+                "Elec": -0.6
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
         "Tutorial": 30791,
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "6.0",
         "Category": "Local Legend"
     },
@@ -12223,9 +12203,6 @@
             "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield"
         ],
         "Tut": 3094,
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12249,9 +12226,6 @@
             "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun"
         ],
         "Tut": 3094,
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12432,6 +12406,12 @@
         "ATK": 8.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Weaken",
+                "All": -0.4
+            }
+        ],
         "Tutorial": 61626,
         "Icon": [
             "UI_MonsterIcon_HermitCrab_Mature_Elite"
@@ -12453,6 +12433,12 @@
         "ATK": 5.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Weaken",
+                "All": -0.4
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_HermitCrab_Mature_Elite"
         ],
@@ -12481,9 +12467,6 @@
         ],
         "Tut": 3096,
         "Tutorial": 63011,
-        "RES": {
-            "Elec": 0.5
-        },
         "Class": "Radiant Mutant",
         "Category": "Mystical Beasts"
     },
@@ -12508,9 +12491,6 @@
         ],
         "Tut": 3096,
         "Tutorial": 63011,
-        "RES": {
-            "Wind": 0.5
-        },
         "Class": "Radiant Mutant",
         "Category": "Mystical Beasts"
     },
@@ -12535,9 +12515,6 @@
         ],
         "Tut": 3096,
         "Tutorial": 63011,
-        "RES": {
-            "Water": 0.5
-        },
         "Class": "Radiant Mutant",
         "Category": "Mystical Beasts"
     },
@@ -12563,10 +12540,6 @@
         ],
         "Tut": 3098,
         "Tutorial": 63011,
-        "RES": {
-            "Fire": 0.7,
-            "Grass": 0.7
-        },
         "Class": "Radiant Mutant",
         "Category": "Mystical Beasts"
     },
@@ -12585,15 +12558,18 @@
         "RESBase": {
             "Phys": 0.7
         },
+        "RESModify": [
+            {
+                "State": "Gargoyle_Elemental",
+                "Show": "Corresponding RES +200%"
+            }
+        ],
         "Icon": [
             "abd"
         ],
         "MultiPlayerID": 108,
         "Tut": 3022,
         "Tutorial": 24030305,
-        "RES": {
-            "Phys": 0.7
-        },
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     },
@@ -12611,6 +12587,12 @@
         "ATK": 5.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Weaken",
+                "All": -0.4
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_HermitCrab_Mature_Elite"
         ],
@@ -12635,14 +12617,23 @@
         "RESBase": {
             "Phys": -0.2
         },
+        "RESState": [
+            {
+                "State": "Shield",
+                "All": 0.6,
+                "Elec": -0.6
+            },
+            {
+                "State": "Weaken",
+                "All": -0.5,
+                "Elec": -0.6
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
         "Tut": 3094,
         "Tutorial": 23079108,
-        "RES": {
-            "Phys": -0.2
-        },
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     }
