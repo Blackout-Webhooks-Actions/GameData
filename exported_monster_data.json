@@ -11902,9 +11902,9 @@
         "Name": "Sigurd",
         "Title": [
             "The One Who Swore to Hunt the Hunt",
-            "Shadow of the Wild Hunt"
+            ""
         ],
-        "Desc": "",
+        "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to dissipate, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
         "HP": 22.5,
         "HPCurve": 2,
@@ -11922,9 +11922,9 @@
         "Name": "Sigurd",
         "Title": [
             "The One Who Swore to Hunt the Hunt",
-            "Shadow of the Wild Hunt"
+            ""
         ],
-        "Desc": "",
+        "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to dissipate, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
         "HP": 4.725,
         "HPCurve": 2,
@@ -12123,7 +12123,7 @@
             "Poruchik",
             "Battle-Hardened Fireblade Shock Trooper"
         ],
-        "Desc": "",
+        "Desc": "A staff member in the titanic kuuvahki research facility, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
         "Color": "Fire",
         "HP": 10.25,
         "HPCurve": 2,
@@ -12147,7 +12147,7 @@
             }
         ],
         "Icon": [
-            "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
+            "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
         ],
         "Tutorial": 30791,
         "Class": "Spiral Abyss Versions",
@@ -12160,7 +12160,7 @@
             "Poruchik",
             "Battle-Hardened Fireblade Shock Trooper"
         ],
-        "Desc": "",
+        "Desc": "A staff member in the titanic kuuvahki research facility, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
         "Color": "Fire",
         "HP": 48.1,
         "HPCurve": 2,
@@ -12177,7 +12177,7 @@
             }
         ],
         "Icon": [
-            "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
+            "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
         ],
         "Tutorial": 30791,
         "Class": "6.0",
@@ -12399,7 +12399,7 @@
             "Lord of the Palace",
             "Battle-Scarred Rock Crab"
         ],
-        "Desc": "",
+        "Desc": "Its mind infected by ancient moonlight, this ruler of crabs was plunged for a time into delirium and madness. But just as it was about to show forth its might, it suffered a massive defeat against thieves who broke into its court, which has rendered it more agreeable. Even so, this crustacean suzerain yet yearns to exchange pointers with strong foes, longing to triumph over opponents worth unleashing its full might against.",
         "Color": "Water",
         "HP": 52.6,
         "HPCurve": 2,
@@ -12426,7 +12426,7 @@
             "Lord of the Palace",
             "Battle-Scarred Rock Crab"
         ],
-        "Desc": "",
+        "Desc": "Its mind infected by ancient moonlight, this ruler of crabs was plunged for a time into delirium and madness. But just as it was about to show forth its might, it suffered a massive defeat against thieves who broke into its court, which has rendered it more agreeable. Even so, this crustacean suzerain yet yearns to exchange pointers with strong foes, longing to triumph over opponents worth unleashing its full might against.",
         "Color": "Water",
         "HP": 10.6,
         "HPCurve": 2,
@@ -12502,7 +12502,7 @@
             "Lunapod"
         ],
         "Desc": "A monster that has undergone a unique evolution due to being drenched in the ancient moon's power for long periods of time.\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the sea were not spared. Those who could not accept the moonlight into themselves vanished like foam, whether they be great sea serpents who could send waves skyward, or single-eyed monsters who once plotted to consume all things.",
-        "Color": "Ice",
+        "Color": "Water",
         "HP": 5.0,
         "HPCurve": 2,
         "ATK": 7.6,
@@ -12601,8 +12601,8 @@
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     },
-    "23079108": {
-        "_id": 23079108,
+    "23079107": {
+        "_id": 23079107,
         "Name": "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope",
         "Title": [
             "Battle-Hardened Fireblade Shock Trooper",
@@ -12610,7 +12610,7 @@
         ],
         "Color": "Fire",
         "Desc": "",
-        "HP": 311.29312,
+        "HP": 291.89548,
         "HPCurve": 20,
         "ATK": 5.0,
         "ATKCurve": 4,
@@ -12630,10 +12630,10 @@
             }
         ],
         "Icon": [
-            "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
+            "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
         ],
         "Tut": 3094,
-        "Tutorial": 23079108,
+        "Tutorial": 23079107,
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     }
