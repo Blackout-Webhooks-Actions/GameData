@@ -6400,14 +6400,14 @@
         {
             "id": 119,
             "name": "Lauma",
-            "constellation": "Cervus Argentia",
+            "constellation": "Cerva Nivea",
             "version": "6.0",
             "star": 5,
             "nation": "???",
             "element": "Dendro",
             "weapon": "Catalyst",
             "birthday": "01-01",
-            "title": "???",
+            "title": "Evermoon's Sacrament Song",
             "description": "???",
             "reruns": [
                 {
@@ -6424,7 +6424,7 @@
                         {
                             "enemyDrop": "Fatui Oprichniki Materials",
                             "elementalGem": "Nagadus Emerald",
-                            "normalBossDrop": "Lightbearing Wings",
+                            "normalBossDrop": "Lightbearing Scale-Feather",
                             "localSpecialty": "Moonfall Silver"
                         }
                     ],
@@ -6441,14 +6441,14 @@
         {
             "id": 120,
             "name": "Flins",
-            "constellation": "Lumen Noctis",
+            "constellation": "Laterna Vigilis",
             "version": "6.0",
             "star": 5,
             "nation": "???",
             "element": "Electro",
             "weapon": "Polearm",
             "birthday": "01-01",
-            "title": "???",
+            "title": "Shadowy Lights, Stranger Wights",
             "description": "???",
             "reruns": [
                 {
@@ -6463,15 +6463,15 @@
                 {
                     "ascension": [
                         {
-                            "enemyDrop": "Landcruiser Materials",
+                            "enemyDrop": "Landcruisers Materials",
                             "elementalGem": "Vajrada Amethyst",
-                            "normalBossDrop": "Precision Kuuvahki Stamping D-uck-ie",
+                            "normalBossDrop": "Precision Kuuvahki Stamping Die",
                             "localSpecialty": "Frostlamp Flower"
                         }
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Landcruiser Materials",
+                            "enemyDrop": "Landcruisers Materials",
                             "weeklyBossDrop": "Ascended Sample: Queen",
                             "talentBooks": "Vagrancy"
                         }
@@ -6482,14 +6482,14 @@
         {
             "id": 121,
             "name": "Aino",
-            "constellation": "Arca Tonitrualis",
+            "constellation": "Cistellula Mira",
             "version": "6.0",
             "star": 4,
             "nation": "???",
             "element": "Hydro",
             "weapon": "Claymore",
             "birthday": "09-21",
-            "title": "???",
+            "title": "Clinky-Clank Gadgets-A-Gogo",
             "description": "A genius mechanic and inventor from Nod-Krai who enjoys interesting machines and sweet treats.",
             "reruns": [
                 {
@@ -6504,15 +6504,15 @@
                 {
                     "ascension": [
                         {
-                            "enemyDrop": "Landcruiser Materials",
+                            "enemyDrop": "Landcruisers Materials",
                             "elementalGem": "Varunada Lazurite",
-                            "normalBossDrop": "Precision Kuuvahki Stamping D-uck-ie",
+                            "normalBossDrop": "Precision Kuuvahki Stamping Die",
                             "localSpecialty": "Portable Bearing"
                         }
                     ],
                     "talents": [
                         {
-                            "enemyDrop": "Landcruiser Materials",
+                            "enemyDrop": "Landcruisers Materials",
                             "weeklyBossDrop": "Silken Feather",
                             "talentBooks": "Elysium"
                         }
