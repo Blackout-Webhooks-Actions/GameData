@@ -11726,7 +11726,7 @@
             "Frostnight Scion",
             "Gleaming Charge"
         ],
-        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high Electro concentrations, resulting in its present form.\nOne of the manifestations with the most violent temperament. Commands steel-shattering lightning like mere servants, such that any land it passes through shall be marked as if by a marauding, thunderous calamity.\nIn still-extant prayers of the far north, they were born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why they find the tainting of their pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws near.",
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Electro, resulting in its present form.\nOne of the manifestations with the most violent temperament, it commands steel-shattering bolts of lightning like mere servants, such that any land it passes through shall be marked as if by a marauding, thunderous calamity.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "Color": "Elec",
         "Immune": [
             "Elec"
@@ -11734,7 +11734,7 @@
         "OnlyBaseImmune": true,
         "HP": 5.1,
         "HPCurve": 2,
-        "ATK": 7.0,
+        "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {
             "Elec": 0.5
@@ -11760,7 +11760,7 @@
             "Frostnight Scion",
             "Tangled Vines"
         ],
-        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high Dendro concentrations, resulting in its present form.\nThis entity has a marvelous resonance with the plant life of the groves. Some say that one of the Moonchanters once made a contract with the wooded lands with their help, thus becoming friend and companion to all life on this land.\nIn still-extant prayers of the far north, they were born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why they find the tainting of their pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws near.",
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Dendro, resulting in its present form.\nThis entity has a marvelous resonance with the plant life of the groves. Some say that one of the Moonchanters once made a contract with the wooded lands with their help, thus becoming a friend and companion to all life on this land.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "Color": "Grass",
         "Immune": [
             "Grass"
@@ -11768,7 +11768,7 @@
         "OnlyBaseImmune": true,
         "HP": 5.1,
         "HPCurve": 2,
-        "ATK": 7.0,
+        "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {
             "Grass": 0.5
@@ -11794,7 +11794,7 @@
             "Frostnight Scion",
             "Blazing Brilliance"
         ],
-        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high Pyro concentrations, resulting in its present form.\nOne of the manifestations with the most violent temperament. Even at the frigid edges of the world, it is wreathed in unquenchable flame.\nIn still-extant prayers of the far north, they were born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why they find the tainting of their pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws near.",
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Pyro, resulting in its present form.\nOne of the manifestations with the most violent temperament, even at the frigid edges of the world, it is wreathed in unquenchable flame.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "Color": "Fire",
         "Immune": [
             "Fire"
@@ -11802,7 +11802,7 @@
         "OnlyBaseImmune": true,
         "HP": 6.5,
         "HPCurve": 2,
-        "ATK": 7.0,
+        "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {
             "Fire": 0.5
@@ -11828,7 +11828,7 @@
             "Frostnight Scion",
             "Icy Crystal"
         ],
-        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high Cryo concentrations, resulting in its present form.\nIt is said that this entity is closest to the original form of a Frostnight Scion. They will use icy mists and crystals to set up redoubtable walls, but perhaps they do this only to separate the flawless primeval light from the world that lies beneath the moon.\nIn still-extant prayers of the far north, they were born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why they find the tainting of their pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws near.",
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Cryo, resulting in its present form.\nIt is said that this entity is closest to the original form of a Frostnight Scion. It will use icy mists and crystals to set up redoubtable walls, but perhaps it does this only to separate the flawless primeval light from the world that lies beneath the moon.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "Color": "Ice",
         "Immune": [
             "Ice"
@@ -11836,7 +11836,7 @@
         "OnlyBaseImmune": true,
         "HP": 6.5,
         "HPCurve": 2,
-        "ATK": 7.0,
+        "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {
             "Ice": 0.5
@@ -11862,7 +11862,7 @@
             "Shadow of the Wild Hunt",
             "Wilderness Exile"
         ],
-        "Desc": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nAll who dwell beneath the moon set out on journeys with their own goals and wishes in mind, but not all such wishes shall receive favor. Spirits that cannot rest due to engendered resentment, partings with loved ones, or desires that go unfulfilled, if corrupted by the Abyss, may transform into these ghouls, forever lost in the thick mists of the Wild Hunt.",
+        "Desc": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nAll who dwell beneath the moon set out on journeys with their own goals and wishes in mind, but not all such wishes receive favor. Spirits that cannot rest due to engendered resentment, partings with loved ones, or desires that go unfulfilled, if corrupted by the Abyss, may transform into ghouls, forever lost in the thick mists of the Wild Hunt.",
         "HP": 1.2,
         "HPCurve": 2,
         "ATK": 3.0,
@@ -11886,7 +11886,7 @@
         "Desc": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nMany great champions of a lost ancient kingdom lie buried beneath the frozen northlands. Though the remnants of the past have been long wiped clean, these noble spirits yet defend their golden homeland. Awakened by Abyssal taint, these warriors now see all who trespass as prey.",
         "HP": 5.2,
         "HPCurve": 2,
-        "ATK": 7.0,
+        "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {},
         "Icon": [
@@ -11902,7 +11902,7 @@
         "Name": "Sigurd",
         "Title": [
             "The One Who Swore to Hunt the Hunt",
-            ""
+            "Battle-Hardened Lightkeeper"
         ],
         "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to dissipate, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
@@ -11922,7 +11922,7 @@
         "Name": "Sigurd",
         "Title": [
             "The One Who Swore to Hunt the Hunt",
-            ""
+            "Battle-Hardened Lightkeeper"
         ],
         "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to dissipate, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
@@ -11974,7 +11974,7 @@
             "Oprichniki",
             "Line Trooper"
         ],
-        "Desc": "Gunblade in hand, these ordinary infantry hold the line, and are the strong center of the Fatui Oprichniki.\nSnezhnayan infantry manuals, the primary duties of line troops is merely to aim, shoot, and charge. Even should the individual soldier's combat power not prove exceptional, soldiers of the line in tight formation remain one of the foundation stones of the Snezhnayan military machine.",
+        "Desc": "A soldier of the Fatui Oprichniki. Gunblade in hand, these ordinary infantry hold the line as the resilient backbone of the Oprichniki forces.\nAccording to Snezhnayan infantry manuals, the primary duties of line troops are merely to aim, shoot, and charge. Even should the individual soldier's combat power not prove exceptional, soldiers of the line in tight formation remain a key foundation of the Snezhnayan military machine.",
         "HP": 0.6,
         "HPCurve": 2,
         "ATK": 1.8,
@@ -11995,7 +11995,7 @@
             "Oprichniki",
             "Vanguard"
         ],
-        "Desc": "A heavy infantry troops with a heavy shield who fights at the very front.\nMany understand that in the long war between Snezhnaya and the dark calamity, only the one who holds out more firmly and outlasts the other could prove victorious. And the thing that \"holds up\" the Oprichniki is, undoubtedly, the shield that supports the troops — so long as this shield does not fall, there is always hope for victory.",
+        "Desc": "A soldier of the Fatui Oprichniki, equipped with a heavy shield and fights at the very front to protect their comrades.\nMany understand that in the long war between Snezhnaya and the dark calamity, only the one who holds out more firmly and outlasts the other could prove victorious. And the thing that \"holds up\" the Oprichniki is, undoubtedly, the shield that supports the troops — so long as this shield does not fall, there is always hope for victory.",
         "HP": 0.7,
         "HPCurve": 2,
         "ATK": 1.6,
@@ -12016,7 +12016,7 @@
             "Oprichniki",
             "Support Trooper"
         ],
-        "Desc": "A soldier from the Fatui Oprichniki equipped with a man-portable grenade launcher that can perform close-range bombardment.\nThough the Oprichniki has large-scale fully-functional support fire complements, the commanding staff have still advocated for large numbers of grenadiers to be maintained. After all, no big gun can compare in surety at the very front lines of combat to a grenade launcher you can direct at will.",
+        "Desc": "A Oprichniki soldier equipped with a man-portable grenade launcher that can perform close-range bombardment.\nThough the Oprichniki has large-scale fully-functional support fire complements, the commanding staff have still advocated for large numbers of grenadiers to be maintained. After all, no big gun can compare in surety at the very front lines of combat to a grenade launcher you can direct at will.",
         "HP": 0.5,
         "HPCurve": 2,
         "ATK": 1.6,
@@ -12037,7 +12037,7 @@
             "Oprichniki",
             "Medic"
         ],
-        "Desc": "The Oprichniki has established vanguard units in order to meet mission needs. These troops will clear obstacles blocking the path, whether they be natural moats resistant to fording, or powerful foes. So long as they oppose the Pale Star banner's advance, they must be utterly eradicted.",
+        "Desc": "A Oprichniki soldier armed with engineering tools and highly adept in close-range combat.\nTo meet the demands of battlefield operations, the Fatui Oprichniki established the Vanguard, tasked with clearing the path for advancing forces. As for what counts as an obstacle? That hardly matters. Be it an impassable ravine or a formidable foe standing in their way, they will remove it without hesitation — whatever it takes to ensure the banner of the Pale Star marches on.",
         "HP": 0.6,
         "HPCurve": 2,
         "ATK": 1.8,
@@ -12058,7 +12058,7 @@
             "Oprichniki",
             "Grenadier"
         ],
-        "Desc": "A Oprichniki soldier who provides field support to their allies.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited. As such, they tend to simply adopt more efficient methods of supporting their allies — mixing in amidst different armed troops.",
+        "Desc": "A Oprichniki soldier equipped with a staff-like device and tasked with providing emergency medical support to allies.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited. As such, they tend to simply adopt more efficient methods of supporting their allies — mixing in amidst different armed troops.",
         "HP": 0.5,
         "HPCurve": 2,
         "ATK": 1.8,
@@ -12079,7 +12079,7 @@
             "Oprichniki",
             "Bombardier"
         ],
-        "Desc": "Bulky soldiers equipped with specialized hover packs who use bombs in combat.\nAs troops with immense breakthrough potential, Bombardiers are often sent into the most dire of battlefields, making them the troops who gain meritorious promotions most quickly. It is said that Oprichniki officers overwhelmingly come from the ranks of the Bombardiers.",
+        "Desc": "A soldier of the Fatui's Special Security Detachment, equipped with a specialized hoverpack and explosive charges, tasked with executing breaching operations.\nAs troops with immense breakthrough potential, Bombardiers are often sent into the most dire of battlefields, making them the troops who gain meritorious promotions most quickly. It is said that Oprichniki officers overwhelmingly come from the ranks of the Bombardiers.",
         "HP": 0.5,
         "HPCurve": 2,
         "ATK": 2.0,
@@ -12100,7 +12100,7 @@
             "Battle-Hardened Fireblade Shock Trooper",
             ""
         ],
-        "Desc": "An elite officer of the Fatui Oprichniki who specializes in close combat against foes with a giant blade.\nWhether it be in the war against the dark calamity or against those ignoramuses who dare stand against the Tsaritsa's ideals, those who breach at the tip of the spear suffer the greatest casualties. As such, those who survive multiple battles of this kind are naturally the elite of the elite. There will always be those willing to become the fire and sword of the empire, just as there will always be those who chafe against the injustice of fate and the inequity of the Old World.",
+        "Desc": "An elite officer of the Fatui Oprichniki who specializes in close combat using a giant blade.\nWhether it be in the war against the dark calamity or against those ignoramuses who dare stand against the Tsaritsa's ideals, those who breach at the tip of the spear suffer the greatest casualties. As such, those who survive multiple battles are naturally the elite of the elite. There will always be those willing to become the fire and sword of the empire, just as there will always be those who chafe against the injustice of fate and the inequity of the Old World.",
         "Color": "Fire",
         "HP": 2.2,
         "HPCurve": 2,
@@ -12190,7 +12190,7 @@
             "Oprichniki",
             "Hailstorm Cannoneer"
         ],
-        "Desc": "An elite officer of the Fatui Oprichniki who uses a heavy cannon to tear enemy formations apart while using a mighty shield to defend their comrades.\nThe bitter battles have dyed the shield frost white, while accumulated blood has tinted its edges black. Oprichniki officers know that empty words will never bring back those who have inevitably been sacrificed — only a bombardment akin to a hailstorm can shake this defiled Old World.",
+        "Desc": "An elite officer of the Fatui Oprichniki who uses a heavy cannon to tear enemy formations apart while using a mighty shield to defend their comrades.\nBitter battles have dyed the shield frost white, while coatings of blood have tinted its edges black. Oprichniki officers know that empty words will never bring back those who have fallen in sacrifice — only a bombardment akin to a hailstorm can shake this defiled Old World.",
         "Color": "Ice",
         "HP": 2.4,
         "HPCurve": 2,
@@ -12213,7 +12213,7 @@
             "Oprichniki",
             "Thunderblitz Druzhina"
         ],
-        "Desc": "Elite officers of the Fatui Oprichniki who specialize in using twin guns in combat.\nUnlike Skirmishers, Oprichniki officers are almost all from the Snehznaya Imperial Military Academy, whether they held noble privilege or commoner talent. After all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals. Traditionally, only fae could become elite Druzhina, but today, this glorious role and title has been given to the Oprichniki officers — a more equal division for the construction of a new world.",
+        "Desc": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snehznaya Imperial Military Academy, whether due to the privilege of noble birth or the rare talent to escape a common background. After all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals. Traditionally, only fae could become elite Druzhina, but today, this glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
         "Color": "Elec",
         "HP": 2.0,
         "HPCurve": 2,
@@ -12236,7 +12236,7 @@
             "Landcruiser",
             "Close Combat Storm"
         ],
-        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nEquipped with Crawler Track Movement Mechanisms, Landcruisers are normally used to storm enemy positions, where they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility. When close-combat Landcruisers approach enemy defensive lines in formation, rotating blades positioned laterally, most foes will concentrate fire on them, allowing other units opportunities to unleash their firepower...",
+        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nEquipped with Crawler Track Movement Mechanisms, these Landcruisers are normally used to storm enemy positions, where they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility. When close-combat Landcruisers approach enemy defensive lines in formation, rotating blades raised for battle, most foes will concentrate fire on them, allowing other units the opportunity to unleash their firepower...",
         "Color": "Fire",
         "HP": 1.2,
         "HPCurve": 2,
@@ -12256,7 +12256,7 @@
             "Landcruiser",
             "Close Combat Scout"
         ],
-        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nLandcruisers with bipedal structure are often used as \"scouts,\" for they are able to quickly traverse rough terrain and reach key positions to seize the initiative for their allies. Its close-combat-oriented rotating blade armaments allow them to deal fatal damage to their foes and shred shrubbery and obstacles to open the way, allowing their units to operate with ease even amidst deep forests.",
+        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nThese walking Landcruisers with bipedal structures are often used as \"scouts,\" for they are able to quickly traverse rough terrain and reach key positions to seize the initiative for their allies. Their close-combat-oriented rotating blades allow them to deal fatal damage to their foes and shred shrubbery and obstacles to open the way, allowing units to operate with ease even amidst thick vegetation.",
         "Color": "Water",
         "HP": 1.2,
         "HPCurve": 2,
@@ -12276,7 +12276,7 @@
             "Landcruiser",
             "Force Recon Storm"
         ],
-        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nEquipped with Crawler Track Movement Mechanisms, Landcruisers are normally used to storm enemy positions, where they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility. Force Recon armaments include a multi-barrel automatic gun, allowing this Landcruiser to pick its battles in both close quarters and long-range combat. Whether it be long-range observation, or obtaining enemy intel even in the midst of a fearsome firefight, this Landcruiser model is more than up to the task.",
+        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nEquipped with Crawler Track Movement Mechanisms, these Landcruisers are normally used to storm enemy positions, where they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility. Force Recon armaments include a multi-barrel automatic gun, allowing this Landcruiser to adjust its tactics to both close quarters and long-range combat. Whether it be long-range observation or obtaining enemy intel in the midst of fearsome firefights, this Landcruiser model is more than up to the task.",
         "Color": "Grass",
         "HP": 1.0,
         "HPCurve": 2,
@@ -12296,7 +12296,7 @@
             "Landcruiser",
             "Force Recon Scout"
         ],
-        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nLandcruisers with bipedal structure are often used as \"scouts,\" for they are able to quickly traverse rough terrain and reach key positions to seize the initiative for their allies. After being equipped with a Force Recon pack, this Landcruiser can not only serve as a forward scout for the main force, but can also exploit openings and actively attack the enemy where their lines are weak, thus playing a similar role to that of cavalry...",
+        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nThese walking Landcruisers with bipedal structures are often used as \"scouts,\" for they are able to quickly traverse rough terrain and reach key positions to seize the initiative for their allies. Equipped with Force Recon armaments, this Landcruiser can not only serve as a forward scout for the main force, but can also exploit openings and actively attack the enemy where their lines are weakest, thus playing a similar role to that of traditional cavalry...",
         "Color": "Ice",
         "HP": 1.0,
         "HPCurve": 2,
@@ -12316,7 +12316,7 @@
             "Landcruiser",
             "Force Recon Ground Effect"
         ],
-        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nThe ground effect vehicle Landcruiser is able to \"fly\" a certain distance off the ground by maintaining lift and generating pressure difference through firing high speed jet sprays at the surface, allowing it to more economically achieve high combat cruising speed, avoid mines and traps, and perform highly effective assaults. However, its costs and limits on operation time mean that mass-produced models have limited payloads. As such, they are limited to Force Recon roles at the moment...",
+        "Desc": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"\nThe ground effect Landcruiser is able to \"fly\" a certain distance above ground by maintaining lift and generating pressure differentials through firing high-speed jet sprays at the surface, allowing it to more economically achieve combat cruising speed, avoid mines and traps, and perform highly effective assaults. However, costs and limits on operation time mean that mass-produced models carry limited payloads. As such, they are currently limited to Force Recon roles...",
         "Color": "Wind",
         "HP": 0.8,
         "HPCurve": 2,
@@ -12450,14 +12450,14 @@
         "_id": 63001,
         "Name": "Radiant Antelope",
         "Title": [
-            "Radiant Mutant",
+            "Radiant Beast",
             "Antelope"
         ],
         "Desc": "A monster that has undergone a unique evolution due to being drenched in the ancient moon's power for long periods of time.\nStrange lightning once fell upon the land blessed by moonlight, and once ordinary antelopes have also gained the power to wield lightning. They say that some have seen a truly strange sight — antelopes standing on cliffs at the convergence of a storm, attracting bolts of lightning to temper their bodies.",
         "Color": "Elec",
         "HP": 5.5,
         "HPCurve": 2,
-        "ATK": 6.6,
+        "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {
             "Elec": 0.5
@@ -12467,14 +12467,14 @@
         ],
         "Tut": 3096,
         "Tutorial": 63011,
-        "Class": "Radiant Mutant",
+        "Class": "Radiant Beast",
         "Category": "Mystical Beasts"
     },
     "63002": {
         "_id": 63002,
         "Name": "Radiant Bladehorn",
         "Title": [
-            "Radiant Mutant",
+            "Radiant Beast",
             "Bladehorn"
         ],
         "Desc": "A monster that has undergone a unique evolution due to being drenched in the ancient moon's power for long periods of time.\nIt is said that in the ancient past, when these borderlands were once shrouded by the pitch-dark shadow, only the giant rhino could bring the power that makes all things back to this place through the charge of its herd... And that this was the sole reward they asked for after the moonlight sent down its blessings.",
@@ -12491,21 +12491,21 @@
         ],
         "Tut": 3096,
         "Tutorial": 63011,
-        "Class": "Radiant Mutant",
+        "Class": "Radiant Beast",
         "Category": "Mystical Beasts"
     },
     "63003": {
         "_id": 63003,
         "Name": "Radiant Lunapod",
         "Title": [
-            "Radiant Mutant",
+            "Radiant Beast",
             "Lunapod"
         ],
         "Desc": "A monster that has undergone a unique evolution due to being drenched in the ancient moon's power for long periods of time.\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the sea were not spared. Those who could not accept the moonlight into themselves vanished like foam, whether they be great sea serpents who could send waves skyward, or single-eyed monsters who once plotted to consume all things.",
         "Color": "Water",
         "HP": 5.0,
         "HPCurve": 2,
-        "ATK": 7.6,
+        "ATK": 6.6,
         "ATKCurve": 4,
         "RESBase": {
             "Water": 0.5
@@ -12515,7 +12515,7 @@
         ],
         "Tut": 3096,
         "Tutorial": 63011,
-        "Class": "Radiant Mutant",
+        "Class": "Radiant Beast",
         "Category": "Mystical Beasts"
     },
     "63011": {
@@ -12540,7 +12540,7 @@
         ],
         "Tut": 3098,
         "Tutorial": 63011,
-        "Class": "Radiant Mutant",
+        "Class": "Radiant Beast",
         "Category": "Mystical Beasts"
     },
     "24030305": {
@@ -12550,7 +12550,7 @@
             "Aeonblight Drake",
             "Perpetual Motion GL-Faf"
         ],
-        "Desc": "",
+        "Desc": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\nThis mysterious, tireless mechanical monstrosity seems to be proof that the now-destroyed realm had reached heights that mortals should never have.\nDue to sustained corruption from the disordered Ley Lines, its frame has been enhanced, and it has adapted to its mission of annihilation so well that it has become a nightmare of death on the battlefield...",
         "HP": 295.7874,
         "HPCurve": 20,
         "ATK": 6.0,
@@ -12580,7 +12580,7 @@
             "Battle-Scarred Rock Crab",
             ""
         ],
-        "Desc": "",
+        "Desc": "A crab that lives within shells and conches. A distant relation to the Fontainian Armored Crab. Most specimens are docile and gentle, but there are stories of crabs fighting to the death to defend their territory — their gentle nature transforming to fuel a wild, frenzied rage.\nAmong the twisted illusions of the Ley Lines, the mighty Rock Crab warrior who fell to a horde of foes has reforged its offensive abilities to withstand the onslaught of a thousand enemies — an endeavor rewarded with alarming success...",
         "Color": "Water",
         "HP": 278.38596,
         "HPCurve": 20,
@@ -12609,7 +12609,7 @@
             ""
         ],
         "Color": "Fire",
-        "Desc": "",
+        "Desc": "An elite officer of the Fatui Oprichniki who specializes in close combat using a giant blade.\nWhether it be in the war against the dark calamity or against those ignoramuses who dare stand against the Tsaritsa's ideals, those who breach at the tip of the spear suffer the greatest casualties. Those who survive a hundred battles only to fall all the same become a fearful memory in the Ley Lines. Due to sustained immersion in the twisted currents, these warriors' lingering shades turn the blades they once wielded in desperate battle against the challenger who seeks to quell the disorder....",
         "HP": 291.89548,
         "HPCurve": 20,
         "ATK": 5.0,

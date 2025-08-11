@@ -2,10 +2,10 @@
     {
         "_id": 113078,
         "R": 4,
-        "Name": "Lightbearing Wings",
-        "Desc": "The scaly wings shed by a defeated Radiant Moonfly.<br>In many local folk tales, those who entered the forbidden woods were often bewitched by these wings, and were never seen again. Some say this is because the illusionary magic of these butterfly-shaped monsters come from the moon that easily induces madness. Some say this is a warning of how inconstant and dangerous an ancient power is...",
+        "Name": "Lightbearing Scale-Feather",
+        "Desc": "The scaly wings shed by a defeated Radiant Moonfly.<br>In many local folk tales, those who enter the forbidden ground are frequently bewitched by these wings and never seen again. Some say this is because the moon, whose illusory magic these butterfly-shaped monsters have harnessed, is prone to inducing madness, while others take it as a warning of the inconstancy and danger of ancient power...",
         "Src": [
-            "Dropped by Lv. 30+ Radiant Moonfly"
+            "Dropped by Lv. 30+ Radiant Moonflies"
         ],
         "Icon": "UI_ItemIcon_113078",
         "Type": "Character Level-Up Material"
@@ -13,10 +13,10 @@
     {
         "_id": 113077,
         "R": 4,
-        "Name": "Precision Kuuvahki Stamping D-uck-ie",
-        "Desc": "A stamping die taken from the damaged structure of a defeated Knuckle Duckle. Can also be considered a souvenir from Aino.<br>A philosopher from Sumeru once argued that self-reproduction is a unique characteristic of life, and no artifical object can achieve the same greatness, so the power to reproduce is the very thing that separates godhood from humanhood.<br>However, if a machine is given an exact mold of itself to replicate itself, the mold included, can this also be seen as endless reproduction? The former master of the silent, blue-haired maid who accompanies Aino had pondered the same question, but ultimately dismissed it out of the fear that the infinitely self-replicating machine would exhaust everything on the planet's surface.<br>But these problems have never concerned Aino, and this machine will not exhaust everything on the planet's surface to replicate itself yet — after all, a duck is just a duck.",
+        "Name": "Precision Kuuvahki Stamping Die",
+        "Desc": "A stamping die taken from the wreckage of a defeated Knuckle Duckle — think of it as a keepsake from Aino.<br>A philosopher from Sumeru once argued that self-replication is a unique characteristic of life, an unparalleled achievement that no man-made object can mimic. The power to reproduce is the key that separates mankind from the divine.<br>However, if a machine is given an exact mold that it can use to replicate itself, mold included, then can not this too be considered perpetual self-replication? The former master of the silent, blue-haired maid who stands by Aino's side once pondered that same question but ultimately dismissed it out of fear that a perpetually self-replicating machine would consume everything on the planet's surface.<br>Such problems have never concerned Aino. This machine will not exhaust the world's resources to multiply itself just yet — after all, it's just a duck.",
         "Src": [
-            "Dropped by Lv. 30+ Knuckle Duckle"
+            "Dropped by Lv. 30+ Knuckle Duckles"
         ],
         "Icon": "UI_ItemIcon_113077",
         "Type": "Character Level-Up Material"
@@ -885,8 +885,8 @@
     {
         "_id": 112136,
         "R": 4,
-        "Name": "Mist Helmet",
-        "Desc": "A helmet found in the fog of a wild hunt.<br>Perhaps because the sullied existence from another world drew on the ancient memories in the earth's veins, its shape appears oddly similar to the relics of the lost ancient kingdom.",
+        "Name": "Mistshroud Helmet",
+        "Desc": "A helmet found in the mists of the Wild Hunt.<br>Perhaps because the sullying presence from beyond this world has fed from the memories of the Ley Lines, its shape appears oddly similar to the relics of a lost kingdom.",
         "Src": [
             "Dropped by Lv. 60+ Wasteland Wild Hunt",
             "Stardust Exchange: Craft after exchanging",
@@ -898,8 +898,8 @@
     {
         "_id": 112135,
         "R": 3,
-        "Name": "Mist Plate",
-        "Desc": "A plate found in the mist of a wild hunt.<br>It was part of the armor worn by the wild hunt beast. For some reason, it did not disappear with the mist.",
+        "Name": "Mistshroud Plate",
+        "Desc": "A plate found in the mists of the Wild Hunt.<br>It was part of the armor of a Wild Hunt monster, but for some reason, it did not disappear with the mist.",
         "Src": [
             "Dropped by Lv. 40+ Wasteland Wild Hunt",
             "Stardust Exchange",
@@ -911,8 +911,8 @@
     {
         "_id": 112134,
         "R": 2,
-        "Name": "Solidified Mist",
-        "Desc": "A chunk found in the mist of a wild hunt.<br>Like snowflakes, it was formed by the manifestation and solidification of the dark power from another world.",
+        "Name": "Mistshroud Manifestation",
+        "Desc": "A chunk found in the mists of the Wild Hunt.<br>Like a snowflake forming from the air, it was created by the manifestation and solidification of dark power from another world.",
         "Src": [
             "Dropped by Wasteland Wild Hunt",
             "Stardust Exchange"
@@ -924,9 +924,9 @@
         "_id": 112133,
         "R": 4,
         "Name": "Radiant Exoskeleton",
-        "Desc": "A cooly glowing giant bone taken from the exterior of a glowing beast.<br>These beasts blessed by the ancient power of the moon are able to manipulate their outer bones through the light that has soaked into their marrow over the long years. Even though their outer bones float and thus are not fully physically connected to their body, they can still commanded them at will like any other part of their body.",
+        "Desc": "A giant piece of bone that glows coldly, taken from the exterior of a glowing beast.<br>These beasts blessed by the ancient power of the moon are able to manipulate their exoskeletons through the light that has soaked into their marrow over long years. Even though their bones float apart from their bodies, they can still command them at will like any other physical part.",
         "Src": [
-            "Dropped by Lv. 60+ Radiant Mutants",
+            "Dropped by Lv. 60+ Radiant Beasts",
             "Stardust Exchange: Craft after exchanging",
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -936,10 +936,10 @@
     {
         "_id": 112132,
         "R": 3,
-        "Name": "Duskshard Remains",
-        "Desc": "A faintly glowing bone taken from the exterior of a glowing beast.<br>It is the remaining outer bone where the ancient power of the moon still lingers. In it you can see a dark color that does not fade away after it has been separated from the body for long because it has soaked up the moonlight.",
+        "Name": "Glowing Remains",
+        "Desc": "A faintly glowing piece of bone taken from the exterior of a glowing beast.<br>It is the remains of an exoskeleton in which a vestige of the ancient power of the moon still lingers. It emanates a deep hue that still lingers long after being separated from its body, steeped as it is in the power of the moon.",
         "Src": [
-            "Dropped by Lv. 40+ Radiant Mutants",
+            "Dropped by Lv. 40+ Radiant Beasts",
             "Stardust Exchange",
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -950,9 +950,9 @@
         "_id": 112131,
         "R": 2,
         "Name": "Lightless Bone",
-        "Desc": "A dull bone taken from the exterior of a glowing beast.<br>It is the fragmented outer bone of a monster infused with the ancient power of the moon. It has lost the secrets hidden and the light that once shone bright from within.",
+        "Desc": "A dull piece of bone taken from the exterior of a glowing beast.<br>It is a fragment from the exoskeleton of a monster infused with the ancient power of the moon. Along with the vanished light, it has also lost the secrets once hidden within.",
         "Src": [
-            "Dropped by Radiant Mutants",
+            "Dropped by Radiant Beasts",
             "Stardust Exchange"
         ],
         "Icon": "UI_ItemIcon_112131",
@@ -1000,7 +1000,7 @@
         "_id": 112127,
         "R": 3,
         "Name": "Frost-Etched Warrant",
-        "Desc": "A warrant issued to members of the Fatui Task Force.<br>Adorned by a frost-colored crystal — a symbol of glory. One wonders what deeds its bearer must have performed to prove their loyalty and worth.",
+        "Desc": "A warrant issued to members of the Fatui Oprichniki.<br>Adorned by a frost-colored crystal — a symbol of glory. One wonders what deeds its bearer must have performed to prove their loyalty and worth.",
         "Src": [
             "Dropped by Lv. 60+ Fatui Oprichniki",
             "Stardust Exchange: Craft after exchanging",
@@ -1013,7 +1013,7 @@
         "_id": 112126,
         "R": 2,
         "Name": "Immaculate Warrant",
-        "Desc": "A warrant issued to members of the Fatui Task Force.<br>One wonders if the exquisite styling might hide a price paid for its owner's promotion.",
+        "Desc": "A warrant issued to members of the Fatui Oprichniki.<br>One wonders if the exquisite styling might hide a price paid for its owner's promotion.",
         "Src": [
             "Dropped by Lv. 40+ Fatui Oprichniki",
             "Stardust Exchange",
@@ -1026,7 +1026,7 @@
         "_id": 112125,
         "R": 1,
         "Name": "Tattered Warrant",
-        "Desc": "A warrant issued to members of the Fatui Task Force.<br>One wonders what resolve drove its bearer to sign up.",
+        "Desc": "A warrant issued to members of the Fatui Oprichniki.<br>One wonders what resolve drove its bearer to sign up.",
         "Src": [
             "Dropped by Fatui Oprichniki",
             "Stardust Exchange"
@@ -1040,7 +1040,7 @@
         "Name": "Precision Drive Shaft",
         "Desc": "The drive shaft of a Landcruiser refined by the Design Bureau.<br>On the blueprints drawn by the engineers of the north, this unassuming part was once the flawless embodiment of glory and technological advancement, its small metal body encapsulating the wisdom of countless generations. Now it lies in the cold dirt, waiting to be recycled once more.",
         "Src": [
-            "Dropped by Lv. 60+ Landcruiser",
+            "Dropped by Lv. 60+ Landcruisers",
             "Stardust Exchange: Craft after exchanging",
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -1053,7 +1053,7 @@
         "Name": "Reinforced Drive Shaft",
         "Desc": "The reinforced drive shaft of a Landcruiser.<br>It took countless reports of destruction to bring about this insignificant improvement. In a sense, the administrative system of the Imperial Ordnance Office is several times more complex than the machinery it builds. After all, even the most advanced Landcruisers don't take months or even years to build.",
         "Src": [
-            "Dropped by Lv. 40+ Landcruiser",
+            "Dropped by Lv. 40+ Landcruisers",
             "Stardust Exchange",
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -1066,7 +1066,7 @@
         "Name": "Broken Drive Shaft",
         "Desc": "The drive shaft of a Landcruiser destroyed in battle.<br>Even the most precise craftsmanship cannot withstand excessive wear, just as the most lofty ideals cannot bring back those who've died in vain for someone else's cause. Moreover, mass-produced components can hardly be called precise, and mass-produced ideals can hardly be considered true ideals.",
         "Src": [
-            "Dropped by Landcruiser",
+            "Dropped by Landcruisers",
             "Stardust Exchange"
         ],
         "Icon": "UI_ItemIcon_112122",
@@ -3755,7 +3755,7 @@
         "_id": 114084,
         "R": 5,
         "Name": "Aureate Radiance of the Far-North Scions",
-        "Desc": "Weapon Ascension Material.<br>With the unblessed birth of the prophesied son, the millennia-long martyrdom ushered in a bleak twilight.<br>The meticulous conspiracy was shattered by a foolish betrayal. The youth who was supposed to be king took away the maid who was supposed to serve him and stole the secret treasure that was supposed to be his, but only to reject all the crowns that destiny had saved for him.<br>Years after, the king who was destined to rule Elysium went down in history as an unforgivable thief, and by the time the true new moon shone upon the land, the far north's final wish of golden grandeur had already been buried by a priestess, who had never believed in any god, in the empty grave of her king.",
+        "Desc": "Weapon Ascension Material.<br>With the unblessed birth of the prophesied son, a millennia-long sacrifice ushered in a bleak twilight.<br>A scheme born of cunning was shattered by foolish betrayal. The youth who was supposed to be king took the maid who was supposed to serve him and stole the secret treasure that was supposed to be his, only to reject the crowns that fate had ordained for him.<br>In time, the king who was destined to rule Elysium went down in history as an unpardonable thief, and by the time the true new moon shone upon the land, the far north's final wish of golden grandeur had already been buried by a priestess, who had never believed in any god, in the empty grave of her king.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3766,7 +3766,7 @@
         "_id": 114083,
         "R": 4,
         "Name": "Oblation of the Far-North Scions",
-        "Desc": "Weapon Ascension Material.<br>The moonlight silver blade was the mercy of the lord.<br>In the name of mercy, all beings could offer hope for tomorrow. Even the incomplete defective had the moonlight's pristine blessing flowing under their skin. Even the smallest blessing, when accumulated, could bring the scions submerged in it closer to the Elysium that would eventually come.<br>All sins and evil thoughts would be cleansed by the pristine moonlight, so all tears and sufferings are necessary sacrifices — at least that is what the people who worshipped the moon have believed.",
+        "Desc": "Weapon Ascension Material.<br>A blade as pure as moonlight is the compassion of a benevolent hand.<br>In the name of mercy, all beings offer hope for tomorrow. Even those looking to be made whole can feel the moonlight's pristine blessing flowing beneath their skin. Even the smallest blessings, accumulated, can guide the pious scions immersed in them closer to the coming Elysium.<br>All sins and wicked thoughts are cleansed by the pristine moonlight, all tears and suffering are necessary sacrifices — at least that is what the people who worship the moon once firmly believed.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3777,7 +3777,7 @@
         "_id": 114082,
         "R": 3,
         "Name": "Unyielding Delusion of the Far-North Scions",
-        "Desc": "Weapon Ascension Material.<br>The grand city of gold and marble was no more. Following the moonlight's pale guidance, its remnants wandered to a desolate foreign land.<br>The glory and prowess of the past had dried up like morning dew, yet the first delusion still flows under the skin of the proud, unlike the graves that have been lost to time.<br>Like farmers pruning their crops, the archpriests who served the moonlight, for generation after generation, selected the pure bloodlines closest to their progenitor's, no matter what the cost was...",
+        "Desc": "Weapon Ascension Material.<br>The grand city of gold and white stone was no more. Following the moonlight's pale guidance, its exiled inhabitants wandered to a desolate foreign land.<br>The glory and prowess of the past had dried up like morning dew, yet the earliest delusion still flowed beneath the skin of the proud, unlike the graves now lost to time.<br>Like farmers breeding their crops, the archpriests who served the moonlight, for generation after generation, selected the purest bloodlines closest to their progenitors, no matter the cost...",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3788,7 +3788,7 @@
         "_id": 114081,
         "R": 2,
         "Name": "Sundered Glory of the Far-North Scions",
-        "Desc": "Weapon Ascension Material.<br>It is told that in the years before the nation of gold and marble sank, the moon-worshipping ancestors were guided by the star of dawn to build a tower reaching to the heavens.<br>Later on, the most transgressive of wild fantasies, one to unify life and the world into one, one that even the monarch who ruled all nations on earth failed to achieve, toppled along with the city in the wrath of the high heavens.<br>The homeless survivors fled to the south by the waning light of the frosty moon, chanting in tears about a glory that was theirs thousands of years ago.",
+        "Desc": "Weapon Ascension Material.<br>It is told that in the years before the country of gold and white stone sank, the moon-worshipping ancestors were guided by the star of dawn to build a tower reaching to the heavens.<br>Later on, the most transgressive of wild fantasies, one to unify life and the world into one, one that even the monarch who ruled all nations on earth failed to achieve, was toppled along with the city in the wrath of the high heavens.<br>The homeless survivors fled to the south by the waning light of the Frostmoon, chanting in tears of a glory that belonged to them millennia ago.",
         "Src": [
             "Exchanged in the Gift Shop"
         ],
@@ -3799,7 +3799,7 @@
         "_id": 114080,
         "R": 5,
         "Name": "Blaze of Long Night Flint",
-        "Desc": "Weapon Ascension Material.<br>In the long years when the night grasped the land, the first Torchforger lit the flames that dispersed the darkness and swore vigilance against the black tide, which merited the royal edict that established the Lightkeepers.<br>Unlike the Marechaussee Hunters of the high seas, the Lightkeepers who patrolled the night did not possess any ancient techniques from a lost empire, or any prestigious titles and ranks. All they could rely on was their weak flesh clad in silver armor, the sword and lamp in their hands, and an ancient oath every generation of them bears.<br>No matter how many souls perish with the dim lights, the dark disaster cannot overturn the resolve of mortals, for the long night can only take away life, but not the dawn that will eventually come.",
+        "Desc": "Weapon Ascension Material.<br>In the long years when the night grasped the land, the first Torchforger lit the flames that dispelled the darkness and swore vigilance against the black tide, so earning the royal edict that established the Lightkeepers.<br>Unlike the Marechaussee Hunters of the high seas, the Lightkeepers who patrolled the night did not possess any ancient techniques from a lost empire, or prestigious titles and ranks. All they could rely on was weak flesh clad in silver armor, the swords and lamps in their hands, and an ancient oath passed down through generations.<br>No matter how many souls perish beneath the dim light, the dark disaster cannot overturn mortal resolve — for the long night can only steal life, and not the dawn that will eventually rise.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3810,7 +3810,7 @@
         "_id": 114079,
         "R": 4,
         "Name": "Flare of Long Night Flint",
-        "Desc": "Weapon Ascension Material.<br>A nightingale holding a burning wick in its beak is the insignia of the Lightkeepers.<br>It is said that in the past, the nightingale insignia belonged to a renowned noble house in the northern kingdom. In the shadow untouched by light, a boy, later known throughout the land as the legendary thief, carved his first raven insignia with his best friend in imitatation of the nightingale insignia.<br>But that was many years ago. Nowadays, the raven insignia could be seen anywhere, but the nightingale that the raven once looked up to still dwells on the tower, singingly lamenting the winter city to the light.",
+        "Desc": "Weapon Ascension Material.<br>The insignia of the Lightkeepers is a nightingale holding a burning wick in its beak.<br>It is said that in the past, the nightingale insignia belonged to a renowned noble house in the northern kingdom. In the shadow untouched by light, a boy, who would become a legendary thief, carved his first raven insignia with his friend in imitatation of the nightingale.<br>But that was many years ago. Nowadays, the raven insignia can be seen everywhere, but the nightingale that the raven once looked up to still dwells on its tower, lamenting the winter city to the light.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3821,7 +3821,7 @@
         "_id": 114078,
         "R": 3,
         "Name": "Afterglow of Long Night Flint",
-        "Desc": "Weapon Ascension Material.<br>Lighting a lamp could dispel darkness, so the people of the borderland believed that as long as the lamps of the Lightkeepers were alight, the home of the living would be free of vile spirits.<br>The warriors who had sworn to watch over the night believed the same. That is why, like moths to a flame, the man faced a mountain of evil with his fragile flesh clad in armor.<br>Until the black tide consumes his flesh, or his flesh devours the black tide, when the two cannot be differentiated from one another.",
+        "Desc": "Weapon Ascension Material.<br>Lighting a lamp can dispel darkness, and so the people of the borderlands believed that as long as the lamps of the Lightkeepers were lit, the home of the living would be free of evil spirits.<br>The warriors who had sworn to watch over the night believed the same. That is why, like moths to a flame, man faced a mountain of evil clad in armor to protect his fragile flesh.<br>Until the black tide consumes his flesh, or his flesh devours the black tide, the two cannot be told apart.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3832,7 +3832,7 @@
         "_id": 114077,
         "R": 2,
         "Name": "Ember of Long Night Flint",
-        "Desc": "Weapon Ascension Material.<br>In earthly poetry, the lights are often a metaphor of hope. The fires burned out in silence, only for people to see the path ahead in the darkness before dawn.<br>That said, neither the first Torchforger, nor the friend with whom he painted the Elysium as a child, ever knew where the lit path led until the moment the lights went out.",
+        "Desc": "Weapon Ascension Material.<br>In earthly poetry, light is often a metaphor of hope. The fires burn out in silence, only to reveal the onward path in the darkness before dawn.<br>Regardless, neither the first Torchforger nor the friend with whom he painted Elysium as a child ever knew where the illuminated path would lead until the moment the lights were extinguished.",
         "Src": [
             "Exchanged in the Gift Shop"
         ],
@@ -3843,7 +3843,7 @@
         "_id": 114076,
         "R": 5,
         "Name": "Arcane Device Wish",
-        "Desc": "Weapon Ascension Material.<br>\"O the poor, the starving, the freezing, the humiliated, the oppressed! My displaced brothers and sisters!\"<br>\"If you, too, have tasted indignities at the cruel hands of fate! If you, too, have wept in the night at the plight of your neighbors!\"<br>\"If you, too, have longed for a shelter from fear! If you, too, have dreamed of a world where no one weeps!<br>\"Then join us, with your brothers and sisters, in breaking the chains of slavery!\"<br>\"Let the dead bury the dead, but you will rise up, and with the treasures of the haughty, you will build an Elysium without boundaries!\"",
+        "Desc": "Weapon Ascension Material.<br>\"The poor, the starving, the wretched, the oppressed! My exiled brothers and sisters!\"<br>\"If you, too, have tasted indignities at the cruel hands of fate! If you, too, have wept in the night at the plight of your neighbors!\"<br>\"If you, too, have longed for a shelter from fear! If you, too, have dreamed of a world where no tears are shed!<br>\"Then join us, your brothers and sisters, in breaking the chains of slavery!\"<br>\"Let the dead bury the dead, for you will rise up, and with the treasures of the haughty, we will build an Elysium without boundaries!\"",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3854,7 +3854,7 @@
         "_id": 114075,
         "R": 4,
         "Name": "Arcane Device Inheritance",
-        "Desc": "Weapon Ascension Material.<br>Word on the street is that the legendary thief Reed Miller has been put to death several times, yet he always managed to break out of the execution ground at the last minute with the help of his friends and gadgets.<br>In some versions of those stories, several of his followers willingly died in his place for their revered King of Elysium. However, these versions are much less popular because drunken stories are always romantic and blissful. Since there has never been a shackle that can restrain the legendary thief, there naturally will never be an ending that can restrain him.",
+        "Desc": "Weapon Ascension Material.<br>Word on the street is that the legendary thief, Reed Miller, has been sentenced to death several times, yet he's always managed to escape at the last minute with the help of his friends — and his tools.<br>In some versions of these stories, several of his followers willingly died in his place for their revered King of Elysium. Naturally, these versions can't compete with the more popular drunken stories full of romance and bliss. Since there has never been a shackle that could restrain the legendary thief, it is only natural to assume that no ending could do the same.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3865,7 +3865,7 @@
         "_id": 114074,
         "R": 3,
         "Name": "Arcane Device Replica",
-        "Desc": "Weapon Ascension Material.<br>Just as the legendary thief's tools have been imitated by countless others, so has his name.<br>In a sense, it was not the people who thirsted for something who stole Reed Miller's name, but rather Reed Miller who stole the identity that was originally theirs alone. There was little difference between those two to begin with.",
+        "Desc": "Weapon Ascension Material.<br>Just as the legendary thief's tools have been imitated by countless others, so has his name.<br>In a sense, it was not the people who thirsted for something more who stole Reed Miller's name, but rather Reed Miller who stole the identity that was originally theirs alone. These viewpoints are just two sides of the same coin.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3876,7 +3876,7 @@
         "_id": 114073,
         "R": 2,
         "Name": "Arcane Device Fragment",
-        "Desc": "Weapon Ascension Material.<br>An intricate device once called \"the Seven Gadgets of the Legendary Thief\". It is rumored to be invented by the legendary thief Reed Miller whose name is known far and wide.<br>Just as the original Treasure Hoarder was an assembly of all kinds of people, by combining multiple gadgets that were meant for different purposes, one could break through artificial boundaries, whether they were chains or borders.<br>The number of tools contained therein is not limited to seven categories, only that people are accustomed to using seven to describe anything that is numerous. Perhaps it is for the same reason that the world is believed to have only seven orders.",
+        "Desc": "Weapon Ascension Material.<br>An intricate device once known as the \"Seven Tools of the Great Thief.\" Rumors claim it was created by the legendary thief, Reed Miller.<br>Just as the first Treasure Hoarders came from all walks of life, this combination of tools meant for different purposes was designed to break down artificial boundaries, regardless of whether they were chains or borders.<br>It should be noted that there are more than seven tools, its just that people are accustomed to using seven to describe anything numerous. Perhaps it is for the same reason that the world is believed to have only seven forms of order.",
         "Src": [
             "Exchanged in the Gift Shop"
         ],
@@ -4758,7 +4758,7 @@
         "Src": [
             "Go to collect",
             "Found near Blue Amber Lake",
-            "Recommendation: Found near the Northen Training Ground"
+            "Recommendation: Found near the Northern Training Ground"
         ],
         "Icon": "UI_ItemIcon_101257",
         "Type": "Local Specialty (Nod-Krai)"
@@ -5723,7 +5723,7 @@
         "Name": "Nod-Krai: Moonlight",
         "Desc": "Namecard style.<br>Of the thousand nights before, none held a new moon as beautiful as the one we saw.",
         "Src": [
-            "Obtained from completing all quests of \"Selenic Chronicles: II\""
+            "Obtained from completing all quests under \"Selenic Chronicles: II\""
         ],
         "Icon": "UI_NameCardIcon_NodKraiOffering1",
         "Pic": "UI_NameCardPic_NodKraiOffering1_P"
@@ -8486,8 +8486,8 @@
     {
         "_id": 121374,
         "R": 2,
-        "Name": "？？？",
-        "Desc": "？？？",
+        "Name": "???",
+        "Desc": "???",
         "Eff": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108151",
         "Recipe": 0,
@@ -8607,7 +8607,7 @@
         "_id": 108898,
         "R": 3,
         "Name": "Clink-Clank Confectionery Cup",
-        "Desc": "Aino's specialty. \"Here it comes!\" With Aino's cheerful announcement, a delicate, wobbling dessert makes its way towards you. You take a big bite... and immediately regret it. The overwhelming sweetness nearly numbs your taste buds. Only then does Ineffa's warning surface in your mind: \"Please be sure to prevent Aino from entering the kitchen at all costs.\"",
+        "Desc": "Aino's specialty. \"Here it comes!\" Aino announces, gleefully, as a precariously wobbling dessert makes its way towards you. You take a big bite... and immediately regret it. The overwhelming sweetness nearly numbs your taste buds. Only then does Ineffa's warning surface in your mind — \"Please be sure to prevent Aino from entering the kitchen at all costs.\"",
         "Eff": "Revives the selected character and restores 20% of Max HP, then restores an additional 1,500 HP.",
         "Icon": "UI_ItemIcon_108835",
         "Recipe": 3603,
@@ -8619,7 +8619,7 @@
         "_id": 108895,
         "R": 1,
         "Name": "Long Night Alight",
-        "Desc": "Flins's specialty. The delicate fish slices shimmer with a gem-like, translucent orange-red glow. A woody, smoky aroma adds to the freshness of the fish like a gentle piece of classical music. The precision in heat control reveals the mastery of culinary arts — truly, a fine work by Flins.",
+        "Desc": "Flins's specialty. Delicate fish slices shimmer with a gemstonesque, translucent, orange-red glow. A woody, smoky aroma complements the freshness of the fish like the gentle strains of classical music. The precision in heat control reveals a mastery of the culinary arts — a true representation of Flins's abilities.",
         "Eff": "Restores 16% of Max HP and an additional 1,350 HP to the selected character.",
         "Icon": "UI_ItemIcon_108834",
         "Recipe": 1601,
@@ -8631,7 +8631,7 @@
         "_id": 108892,
         "R": 3,
         "Name": "Whisper in the Woods",
-        "Desc": "Lauma's specialty. The flavors of ingredients bloom on the tongue, setting the taste buds dancing — a freshness unlike any other. It's as if you can hear birds chirping at dawn, and the gentle sound of dewdrops glistening in under the morning sun... Could this be a blessing from the Lady of the Forest?",
+        "Desc": "Lauma's specialty. Each ingredient blossoms on the tongue, setting your taste buds to dancing — a flavorful freshness unlike any other. It's as if you can hear birds chirping at dawn, and the gentle sound of dewdrops glistening under the morning sun... Could this be a blessing from the Maiden of the Grove?",
         "Eff": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108833",
         "Recipe": 3602,
@@ -8643,7 +8643,7 @@
         "_id": 108889,
         "R": 3,
         "Name": "Thunderclap Slash!",
-        "Desc": "Ineffa's specialty. With a blank expression, Ineffa calls out \"Thunderclap Slash!\" as egg rolls are launched one after another from her detached arm, landing precisely on the plate before you. Intricate patterns and a sweet, delightful flavor prove the maker's excellent culinary skills. Your taste buds have no choice but to surrender to this \"Thunderclap Slash.\"",
+        "Desc": "Ineffa's specialty. Ineffa shouts \"Thunderclap Slash!\" impassively as krumkakes are launched one after another from her empty arm socket, landing with precision on the plate before you. Intricate patterns and a sweet, delightful flavor confirm the maker's culinary excellence. Your taste buds have no choice but to surrender to the all-conquering \"Thunderclap Slash.\"",
         "Eff": "Increases all party members' Shield Strength by 35% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108832",
         "Recipe": 3601,
@@ -8685,7 +8685,7 @@
         "_id": 108884,
         "R": 3,
         "Name": "Delicious Crispy Roast",
-        "Desc": "Large chunks of roasted meat. The moment it comes out of the oven, the rich meaty aroma leaps right into the soul. No wonder many people from Nod-Krai believe this roasted meat is the warm sun on days shrouded by cold, biting winds.",
+        "Desc": "Large chunks of roasted meat. The moment it comes out of the oven, the rich, meaty aroma fills your soul. No wonder so many people from Nod-Krai say this roasted meat is like the warm sun when the cold falls and the biting winds blow.",
         "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108830",
         "Recipe": 3606,
@@ -8705,7 +8705,7 @@
         "_id": 108882,
         "R": 3,
         "Name": "Suspicious Crispy Roast",
-        "Desc": "Large chunks of roasted meat. Swiftly snatched from the choking black smoke, the roasted meat now looks like charcoal. Before the embers in the grill fade, it's worth trying to make another batch.",
+        "Desc": "Large chunks of roasted meat. Swiftly snatched from the choking black smoke, the roasted meat looks more like charcoal. Before the embers in the grill have faded, it's worth trying to make another batch.",
         "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108830",
         "Recipe": 3606,
@@ -8715,7 +8715,7 @@
         "_id": 108881,
         "R": 2,
         "Name": "Delicious Nod-Krai Hot Dogs",
-        "Desc": "Classic convenience food. Freshly cooked sausage paired with freshly baked bread. With each bite, the irresistible aroma of oil fills the palate. It's gone in no more than three bites, leaving you craving another serving.",
+        "Desc": "Classic convenience food. Freshly cooked sausage paired with freshly baked bread. With each bite, the irresistible aroma of fat fills the palate. It's gone in a few quick bites, leaving you craving another.",
         "Eff": "Increases all party members' CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108829",
         "Recipe": 2603,
@@ -8725,7 +8725,7 @@
         "_id": 108880,
         "R": 2,
         "Name": "Nod-Krai Hot Dogs",
-        "Desc": "Classic convenience food. Wrap bread around a sausage, squeezing onions into the mix for good measure... and there you go, a delicious, filling Nod-Krai Hot Dog!",
+        "Desc": "Classic convenience food. Put a sausage in some bread, sprinkle on some fried onions, a generous squirt of sauce... and there you go, a delicious, filling Nod-Krai Hot Dog!",
         "Eff": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108829",
         "Recipe": 2603,
@@ -8735,7 +8735,7 @@
         "_id": 108879,
         "R": 2,
         "Name": "Suspicious Nod-Krai Hot Dogs",
-        "Desc": "Classic convenience food. The sausage lacks the oily aroma, while the bread is too soft, giving the strange impression of chewing on a dried sponge... If not for hunger, it would be hard to accept such a hot dog...",
+        "Desc": "Classic convenience food. The sausage is too dry, while the bread is too soft, giving the unpleasant impression of chewing on a sponge... If not for hunger, it would be hard not to throw it away...",
         "Eff": "Increases all party members' CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108829",
         "Recipe": 2603,
@@ -8745,7 +8745,7 @@
         "_id": 108878,
         "R": 3,
         "Name": "Delicious Roulette Special",
-        "Desc": "Colorful drinks. The sweet and refreshing notes of flowers and fruit are perfectly balanced. Having one glass is never enough, and before one moves the pointer, an inner prayer rises quietly: Please point to a full cup!",
+        "Desc": "Colorful drinks. The sweet and refreshing notes of flowers and fruit are perfectly balanced. Having one glass is never enough, and before one moves the pointer, an inner prayer rises quietly — please point to a full cup!",
         "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108828",
         "Recipe": 3605,
@@ -8755,7 +8755,7 @@
         "_id": 108877,
         "R": 3,
         "Name": "Roulette Special",
-        "Desc": "Colorful drinks. It might be more accurate to call it a sort of table game than nourishment of any sort, where the rules are to drink whatever drink the needle falls on. Demyan has modified the drinks to differ from The Flagship's usual products — all of them are alcohol-free and rather sweet.",
+        "Desc": "Colorful drinks. It might be more accurate to call this a table game than nourishment of any sort, one where the rules are to drink whatever drink the pointer falls on. Demyan has modified the drinks to differ from The Flagship's usual offerings — all of them are alcohol-free and rather sweet.",
         "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108828",
         "Recipe": 3605,
@@ -8765,7 +8765,7 @@
         "_id": 108876,
         "R": 3,
         "Name": "Suspicious Roulette Special",
-        "Desc": "Colorful drinks. Every cup tastes the same, just the dull flavor of sugar water. It inevitably makes one wonder: Why bother making eight differently colored drinks that taste exactly the same?",
+        "Desc": "Colorful drinks. Every cup tastes the same — like dull, sugary water. It makes one wonder what the point of making eight different colored drinks is when they all have one flavor.",
         "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108828",
         "Recipe": 3605,
@@ -8775,7 +8775,7 @@
         "_id": 108875,
         "R": 2,
         "Name": "Delicious Berries and Fried Meat",
-        "Desc": "Fried meat matched with mashed potatoes. The meat has a fine texture and is savory and flavorful. Paired with the natural sweetness of berries, it feels like a journey in the wilderness on the tip of the tongue — full of delight and healing powers for the soul.",
+        "Desc": "Fried meat accompanied by mashed potatoes. The marbled meat is savory and flavorful. When paired with the natural sweetness of the berries, it feels like your tongue is wandering through the wilderness — full of delight and healing for the soul.",
         "Eff": "Revives a character and restores 550 HP.",
         "Icon": "UI_ItemIcon_108827",
         "Recipe": 2602,
@@ -8785,7 +8785,7 @@
         "_id": 108874,
         "R": 2,
         "Name": "Berries and Fried Meat",
-        "Desc": "Fried meat matched with mashed potatoes. The meat is thinly sliced, fried first, then stewed, and once cooked, laid atop a bed of mashed potatoes. Usually eaten with ground berries. Nutritious and filling!",
+        "Desc": "Fried meat accompanied by mashed potatoes. The meat is thinly sliced, fried, then stewed, before being laid atop a bed of mashed potatoes. Usually eaten with crushed berries. Nutritious and filling!",
         "Eff": "Revives a character and restores 400 HP.",
         "Icon": "UI_ItemIcon_108827",
         "Recipe": 2602,
@@ -8795,7 +8795,7 @@
         "_id": 108873,
         "R": 2,
         "Name": "Suspicious Berries and Fried Meat",
-        "Desc": "Fried meat matched with mashed potatoes. The meat looks as if it is cooked but unexpectedly carries a strong, bloody taste. If one can get past the idea of eating it raw, the flavor itself isn't actually that bad...",
+        "Desc": "Fried meat accompanied by mashed potatoes. The meat looks cooked but carries a strong taste of blood. If one can get past the idea of eating it raw, the flavor itself isn't actually all that bad...",
         "Eff": "Revives a character and restores 250 HP.",
         "Icon": "UI_ItemIcon_108827",
         "Recipe": 2602,
@@ -8805,7 +8805,7 @@
         "_id": 108872,
         "R": 3,
         "Name": "Delicious Fruit Tandem Turnovers",
-        "Desc": "Bread baked with berries. The freshly baked Fruit Tandem Turnovers are warm and comforting. As your teeth break through their crust and sink into the soft interior, it feels as if cuddling in a cozy cashmere blanket. The happiness that rises within could fend off even the coldest wind in the winter.",
+        "Desc": "Pastries baked with berries. The freshly baked Fruit Tandem Turnovers are warm and comforting. As your teeth break through their crust and sink into the soft interior, you feel as though you're being wrapped in a cozy cashmere blanket. The joy that rises within could fend off even the coldest winter winds.",
         "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
         "Icon": "UI_ItemIcon_108826",
         "Recipe": 3604,
@@ -8924,7 +8924,7 @@
     {
         "_id": 108860,
         "R": 3,
-        "Name": "Delicious Today's Haul",
+        "Name": "Delicious Today's Boon",
         "Desc": "A vegetable salad. A vibrant array of vegetables is given sweetness by the presence of juicy berries and delicately garnished with petals, creating a bountiful feast that blossoms across the taste buds.",
         "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108822",
@@ -8934,7 +8934,7 @@
     {
         "_id": 108859,
         "R": 3,
-        "Name": "Today's Haul",
+        "Name": "Today's Boon",
         "Desc": "A vegetable salad. The freshest fruits and vegetables are selected and arrayed alongside rye bread and sprinkled with dressing, making for a delicious and satisfying dish that finds its way daily onto the tables of pious Frostmoon Scions.",
         "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108822",
@@ -8944,7 +8944,7 @@
     {
         "_id": 108858,
         "R": 3,
-        "Name": "Suspicious Today's Haul",
+        "Name": "Suspicious Today's Boon",
         "Desc": "A vegetable salad. For some reason, there is an earthy, almost dirt-like flavor, as though you're eating untreated grass. Perhaps a Rimehorn Deer might enjoy this dish better...",
         "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108822",
@@ -18202,7 +18202,7 @@
         "Name": "Crystal Core",
         "Desc": "The core of a crystal butterfly. It absorbs elemental energy that has escaped into the atmosphere.",
         "Src": [
-            "Collected by Crystalfly Trap",
+            "Collected by the Crystalfly Trap",
             "Gathered by catching Crystalflies"
         ],
         "Icon": "UI_ItemIcon_100085",
@@ -18979,7 +18979,7 @@
         "_id": 100230,
         "R": 1,
         "Name": "The Other Side of the Frostmoon",
-        "Desc": "Complete \"A Half-Step Beneath the Moon's Oracle\" to unlock",
+        "Desc": "Complete \"Polkka Beneath the Moon's Oracle\" to unlock",
         "Src": [],
         "Pic": "UI_AvatarIcon_76011_Circle"
     },
@@ -19163,7 +19163,7 @@
         "_id": 220125,
         "R": 4,
         "Name": "Lunar Arcana Case",
-        "Desc": "A box of cards given to you by a certain witch proficient in divination. It can be used to store the cards you find during your performances, and these Lunar Arcana cards may be exchanged with friends in Co-Op Mode.<br>Each world has a different definition of divination, but one thing remains constant: The use of \"here\" and \"now\" as anchors to unravel the unknown. Thus, the more Arcana one hoards within this box, the brighter the lantern of understanding burns...",
+        "Desc": "A card box given to you by a certain witch proficient in divination. It can be used to store the Lunar Arcana you find during your performances, cards which may also be exchanged with friends in Co-Op Mode.<br>Each world defines divination differently, but one thing remains constant — the use of \"here\" and \"now\" as anchors to unravel the unknown. Thus, the more Arcana one hoards within this box, the brighter the lantern of understanding burns...",
         "Src": [],
         "Icon": "UI_ItemIcon_220125",
         "Type": "Gadget"
@@ -19190,7 +19190,7 @@
         "_id": 220122,
         "R": 4,
         "Name": "Memento Kamera",
-        "Desc": "An antique Kamera with an elegant design. It once belonged to a legendary Fontainian photographer and witnessed countless historic moments.<br>Now, it serves a purpose to capture the fleeting beauty along the journey and preserve it forever.<br>Every press of the shutter is a gentle act of capturing a memory.",
+        "Desc": "An antique Kamera with an elegant design. It once belonged to a legendary Fontainian photographer and witnessed countless historic moments.<br>Now, it serves the purpose of capturing the fleeting beauty along its journey and preserving it forever.<br>Every press of the shutter is a gentle act of capturing a memory.",
         "Src": [],
         "Icon": "UI_ItemIcon_220090",
         "Type": "Gadget"

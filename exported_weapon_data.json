@@ -239,7 +239,7 @@
         "Extra": [],
         "Story": 195433,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "15432",
@@ -948,7 +948,7 @@
     {
         "_id": "14520",
         "Name": "Nightweaver's Looking Glass",
-        "Desc": "",
+        "Desc": "A mirror crafted from flawless silver that is said to have witnessed the birth of the Moon Maiden. It is seen as a relic of unrivalled provenance by the Frostmoon Scions.",
         "Type": 3,
         "Rank": 5,
         "Icons": "UI_EquipIcon_Catalyst_MenulisRing",
@@ -965,7 +965,7 @@
         "Extra": [],
         "Story": 194520,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "14519",
@@ -1317,18 +1317,18 @@
         "Extra": [],
         "Story": 194433,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "14432",
         "Name": "Etherlight Spindlelute",
-        "Desc": "",
+        "Desc": "A lute whose golden strings are as radiant as sunlight. It appears to be a relic from the Seelie of old.",
         "Type": 3,
         "Rank": 4,
         "Icons": "UI_EquipIcon_Catalyst_SeeliesLute",
         "Stat": 509.605949,
-        "Custom": "EM",
-        "CustomStat": 165.38400000000001,
+        "Custom": "ER",
+        "CustomStat": 0.45940000000000003,
         "AscMatID": 114084,
         "MatIDs": [
             112133,
@@ -1339,7 +1339,7 @@
         "Extra": [],
         "Story": 194432,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "14431",
@@ -1960,7 +1960,7 @@
     {
         "_id": "13516",
         "Name": "Bloodsoaked Ruins",
-        "Desc": "",
+        "Desc": "A long spear tainted black by unrelenting battle, it shines with an ethereal glow beneath the ghostly blue light of lantern-fire.",
         "Type": 4,
         "Rank": 5,
         "Icons": "UI_EquipIcon_Pole_TummaLyhty",
@@ -1977,7 +1977,7 @@
         "Extra": [],
         "Story": 193516,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "13515",
@@ -2241,7 +2241,7 @@
         "Extra": [],
         "Story": 193433,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "13432",
@@ -3011,7 +3011,7 @@
         "Extra": [],
         "Story": 192433,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "12432",
@@ -3984,7 +3984,7 @@
     {
         "_id": "11434",
         "Name": "Moonweaver's Dawn",
-        "Desc": "",
+        "Desc": "An immaculate, sharp silver sword that can slice through armor like moonlight flowing through the empty night. According to legend, it is a divine blade, blessed by the first Moonchanter herself.",
         "Type": 1,
         "Rank": 4,
         "Icons": "UI_EquipIcon_Sword_Miekka",
@@ -4001,7 +4001,7 @@
         "Extra": [],
         "Story": 191434,
         "StoryCount": 0,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "11433",
@@ -4023,7 +4023,7 @@
         "Extra": [],
         "Story": 191433,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "11432",

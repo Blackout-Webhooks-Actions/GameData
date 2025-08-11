@@ -38,8 +38,8 @@
         },
         "NA": [
             "Aino",
-            "Flins",
-            "Lauma"
+            "Lauma",
+            "Flins"
         ],
         "NW": [
             14432,
@@ -56,17 +56,18 @@
         "VS": [
             "1",
             "15",
-            "2"
+            "2",
+            "3"
         ],
-        "Note": "6.0v2"
+        "Note": "6.0v3"
     },
     {
         "_name": "Aino",
         "_id": 121,
         "Name": "Aino",
         "Desc": "A genius mechanic and inventor from Nod-Krai who enjoys interesting machines and sweet treats.",
-        "Title": "???",
-        "Constellation": "Arca Tonitrualis",
+        "Title": "Clinky-Clank Gadgets-A-Gogo",
+        "Constellation": "Cistellula Mira",
         "Nation": "???",
         "Belong": "Clink-Clank Krumkake Craftshop",
         "Grade": 4,
@@ -89,7 +90,7 @@
             "DEF": 607,
             "Custom": 96
         },
-        "Version": "6.0v2",
+        "Version": "6.0v3",
         "Fetter": 121,
         "_CV": {
             "_CH": "???",
@@ -103,8 +104,8 @@
         "_id": 120,
         "Name": "Flins",
         "Desc": "???",
-        "Title": "???",
-        "Constellation": "Lumen Noctis",
+        "Title": "Shadowy Lights, Stranger Wights",
+        "Constellation": "Laterna Vigilis",
         "Nation": "???",
         "Belong": "???",
         "Grade": 5,
@@ -127,7 +128,7 @@
             "DEF": 809,
             "Custom": 0.384
         },
-        "Version": "6.0v2",
+        "Version": "6.0v3",
         "Fetter": 120,
         "_CV": {
             "_CH": "???",
@@ -141,8 +142,8 @@
         "_id": 119,
         "Name": "Lauma",
         "Desc": "???",
-        "Title": "???",
-        "Constellation": "Cervus Argentia",
+        "Title": "Evermoon's Sacrament Song",
+        "Constellation": "Cerva Nivea",
         "Nation": "???",
         "Belong": "???",
         "Grade": 5,
@@ -165,7 +166,7 @@
             "DEF": 669,
             "Custom": 115.2
         },
-        "Version": "6.0v2",
+        "Version": "6.0v3",
         "Fetter": 119,
         "_CV": {
             "_CH": "???",
