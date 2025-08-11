@@ -33,8 +33,10 @@ def strip_level(enemy_name):
 
 def singularize(name):
 	# Avoid altering names ending in any of these suffixes
-	blacklist_suffixes = ("Regisvines", "Drakes", "Matricis", "horses", "Statues")
+	blacklist_suffixes = ("Regisvines", "Drakes", "Matricis", "horses", "Statues", "Duckle", "Duckles")
 
+	if name.endswith("ies") and not name.endswith(blacklist_suffixes):
+		return name[:-3] + "y"
 	if name.endswith("es") and not name.endswith(blacklist_suffixes):
 		return name[:-2] + "is"
 	if name.endswith("s") and not name.endswith(("ss", "is")):
@@ -130,8 +132,11 @@ for rarity in [4, 5]:
 				enemy_name = s.split("Dropped by")[1].strip() if "Dropped by" in s else enemy_name
 				enemy_name = s.split("Challenge Reward")[-2].split("Lv.")[-1].strip() if "Challenge Reward" in s else enemy_name
 
+				print(enemy_name)
 				enemy_name = strip_level(enemy_name)
+				print(enemy_name)
 				enemy_name = singularize(enemy_name)
+				print(enemy_name)
 
 				# Manual override first
 				if enemy_name in manual_boss_overrides:
@@ -218,7 +223,8 @@ manual_closest_enemy_overrides = {
 	"Sauroform Tribal Warriors Materials": "Yumkasaurus Warrior: Flowing Skyfire",
 	"Natlan Saurians Materials": "Iktomisaurus",
 	"Wasteland Wild Hunt Materials": "Wilderness Hunter",
-	"Fungi Materials": "Floating Dendro Fungus"
+	"Fungi Materials": "Floating Dendro Fungus",
+	"Landcruisers Materials": "Force Recon Storm Landcruiser",
 }
 
 # Fuzzy match function to find closest enemy name from image data

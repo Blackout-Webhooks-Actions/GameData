@@ -153,11 +153,11 @@
         "star2": "Brilliant Diamond Sliver"
     },
     "Lightbearing Scale-Feather": {
-        "bossName": "Radiant Moonfliis",
+        "bossName": "Radiant Moonfly",
         "itemName": "Lightbearing Scale-Feather"
     },
     "Precision Kuuvahki Stamping Die": {
-        "bossName": "Knuckle Ducklis",
+        "bossName": "Knuckle Duckle",
         "itemName": "Precision Kuuvahki Stamping Die"
     },
     "Secret Source Airflow Accumulator": {
@@ -481,7 +481,7 @@
         "itemName3": "Frost-Etched Warrant"
     },
     "Landcruisers Materials": {
-        "enemyName": "Landcruisers",
+        "enemyName": "Force Recon Storm Landcruiser",
         "itemName1": "Broken Drive Shaft",
         "itemName2": "Reinforced Drive Shaft",
         "itemName3": "Precision Drive Shaft"
