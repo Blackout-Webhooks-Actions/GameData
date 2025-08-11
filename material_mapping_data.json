@@ -152,13 +152,13 @@
         "star3": "Brilliant Diamond Fragment",
         "star2": "Brilliant Diamond Sliver"
     },
-    "Lightbearing Wings": {
-        "bossName": "Radiant Moonfly",
-        "itemName": "Lightbearing Wings"
+    "Lightbearing Scale-Feather": {
+        "bossName": "Radiant Moonfliis",
+        "itemName": "Lightbearing Scale-Feather"
     },
-    "Precision Kuuvahki Stamping D-uck-ie": {
-        "bossName": "Knuckle Duckle",
-        "itemName": "Precision Kuuvahki Stamping D-uck-ie"
+    "Precision Kuuvahki Stamping Die": {
+        "bossName": "Knuckle Ducklis",
+        "itemName": "Precision Kuuvahki Stamping Die"
     },
     "Secret Source Airflow Accumulator": {
         "bossName": "Secret Source Automaton: Overseer Device",
@@ -458,14 +458,14 @@
     },
     "Wasteland Wild Hunt Materials": {
         "enemyName": "Wilderness Hunter",
-        "itemName1": "Solidified Mist",
-        "itemName2": "Mist Plate",
-        "itemName3": "Mist Helmet"
+        "itemName1": "Mistshroud Manifestation",
+        "itemName2": "Mistshroud Plate",
+        "itemName3": "Mistshroud Helmet"
     },
-    "Radiant Mutants Materials": {
-        "enemyName": "Radiant Moonfly",
+    "Radiant Beasts Materials": {
+        "enemyName": "Radiant Bladehorn",
         "itemName1": "Lightless Bone",
-        "itemName2": "Duskshard Remains",
+        "itemName2": "Glowing Remains",
         "itemName3": "Radiant Exoskeleton"
     },
     "Frostnight Scions Materials": {
@@ -480,8 +480,8 @@
         "itemName2": "Immaculate Warrant",
         "itemName3": "Frost-Etched Warrant"
     },
-    "Landcruiser Materials": {
-        "enemyName": "Cutting Edge Fire Support Ground Effect Landcruiser",
+    "Landcruisers Materials": {
+        "enemyName": "Landcruisers",
         "itemName1": "Broken Drive Shaft",
         "itemName2": "Reinforced Drive Shaft",
         "itemName3": "Precision Drive Shaft"
