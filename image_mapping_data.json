@@ -30,8 +30,8 @@
     },
     "Items": {
         "Character Level-Up Material": {
-            "Lightbearing Wings": 113078,
-            "Precision Kuuvahki Stamping D-uck-ie": 113077,
+            "Lightbearing Scale-Feather": 113078,
+            "Precision Kuuvahki Stamping Die": 113077,
             "Secret Source Airflow Accumulator": 113076,
             "Ascended Sample: Queen": 113075,
             "Ascended Sample: Rook": 113074,
@@ -109,11 +109,11 @@
             "Hurricane Seed": 113001
         },
         "Character and Weapon Enhancement Material": {
-            "Mist Helmet": 112136,
-            "Mist Plate": 112135,
-            "Solidified Mist": 112134,
+            "Mistshroud Helmet": 112136,
+            "Mistshroud Plate": 112135,
+            "Mistshroud Manifestation": 112134,
             "Radiant Exoskeleton": 112133,
-            "Duskshard Remains": 112132,
+            "Glowing Remains": 112132,
             "Lightless Bone": 112131,
             "Frostnight's Glory": 112130,
             "Frostnight's Glow": 112129,
@@ -631,9 +631,9 @@
             "Delicious Smoked Fish Steak": 108863,
             "Smoked Fish Steak": 108862,
             "Suspicious Smoked Fish Steak": 108861,
-            "Delicious Today's Haul": 108860,
-            "Today's Haul": 108859,
-            "Suspicious Today's Haul": 108858,
+            "Delicious Today's Boon": 108860,
+            "Today's Boon": 108859,
+            "Suspicious Today's Boon": 108858,
             "Delicious Lakkaberry Krumkakes": 108857,
             "Lakkaberry Krumkakes": 108856,
             "Suspicious Lakkaberry Krumkakes": 108855,
@@ -1757,7 +1757,6 @@
             "Genshin Impact: A New World": 210001
         },
         "Miscellaneous": {
-            "？？？": 121374,
             "???": 108905,
             "Sugar Sculpture: Frostfin Whale": 108904,
             "Sugar Sculpture: Puffin": 108903,
