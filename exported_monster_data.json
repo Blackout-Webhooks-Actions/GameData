@@ -12149,18 +12149,11 @@
         ],
         "Desc": "A staff member in the titanic kuuvahki research facility, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
         "Color": "Fire",
-        "HP": 10.25,
-        "HPCurve": 2,
+        "HP": 311.29312,
+        "HPCurve": 20,
         "ATK": 5.0,
         "ATKCurve": 4,
         "RESBase": {
-            "Fire": 0.3,
-            "Grass": 0.3,
-            "Water": 0.3,
-            "Elec": 0.3,
-            "Wind": 0.3,
-            "Ice": 0.3,
-            "Rock": 0.3,
             "Phys": -0.2
         },
         "RESState": [
@@ -12203,7 +12196,7 @@
         "Icon": [
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
         ],
-        "Tutorial": 30791,
+        "Tutorial": 307910,
         "Class": "6.0",
         "Category": "Local Legend"
     },
