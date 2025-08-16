@@ -700,6 +700,34 @@
             ]
         },
         {
+            "id": 98,
+            "name": "Heated Battle Mode: Automatic Artistry",
+            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2025-09-01T03:59:59",
+            "end_timestamp": 1756670399,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2025-08-16T10:00:00",
+            "start_timestamp": 1755309600,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 107021,
+                    "name": "Lucky Coin",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
+                    "num": 3000,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
+                }
+            ]
+        },
+        {
             "id": 97,
             "name": "The Forge Realm's Temper: Game of Wits",
             "description": "",
@@ -796,24 +824,6 @@
                 "remaining": 3,
                 "total": 3
             }
-        },
-        {
-            "id": 98,
-            "name": "Heated Battle Mode: Automatic Artistry",
-            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
         }
     ],
     "weapon_banners": [
