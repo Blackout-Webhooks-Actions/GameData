@@ -11920,7 +11920,7 @@
             "The One Who Swore to Hunt the Hunt",
             "Battle-Hardened Lightkeeper"
         ],
-        "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to dissipate, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
+        "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to fade, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
         "HP": 22.5,
         "HPCurve": 2,
@@ -11930,6 +11930,8 @@
         "Icon": [
             "UI_MonsterIcon_WildHunt_Male_Sigurd"
         ],
+        "Tutorial": 21320,
+        "HPCount": 2,
         "Class": "6.0",
         "Category": "Local Legend"
     },
@@ -11940,7 +11942,7 @@
             "The One Who Swore to Hunt the Hunt",
             "Battle-Hardened Lightkeeper"
         ],
-        "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to dissipate, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
+        "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to fade, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
         "HP": 4.725,
         "HPCurve": 2,
@@ -11950,6 +11952,8 @@
         "Icon": [
             "UI_MonsterIcon_WildHunt_Male_Sigurd"
         ],
+        "Tutorial": 21320,
+        "HPCount": 2,
         "Class": "Spiral Abyss Versions",
         "Category": "Local Legend"
     },
@@ -11960,7 +11964,7 @@
             "Creator's Pride",
             "Knuckle Duckle"
         ],
-        "Desc": "A curiously-shaped kuuvahki device made from scrap metal and mechanical bearings, bearing partial resemblance — as per its creator's proclivities, apparently — to a \"duck.\"\nIts output and resistance to damage are comparable to the Fatui's most cutting-edge warfighting weaponry... But even so, it remains a toy duck that can only punch its opponents very, very hard. A creator's preferences will always do much to determine a creation's appearance, nor does clay have the authority to question its creator's choice of molds in which to cast it. The world beneath the moon has long been sculpted into a form that people take for granted, but in the eyes of its original inhabitants, that form must surely be like that odd duck, shaped by the creator's bizarre predilections.\nOf course, the blue-haired maid will never say any of the above to the mistress of the Krumkake Craftshop. Ducks, in any case, are quite adorable, especially compared to the world's present aspect.",
+        "Desc": "A kuuvahki mechanism of peculiar make, made from scrap metal and mechanical bearings, that bears a partial resemblance — as per its creator's proclivities, apparently — to a \"duck.\"\nIts output and resistance to damage are comparable to the Fatui's most cutting-edge warfighting weaponry... But even so, it remains simply a toy duck that can punch its opponents very, very hard. A creator's preferences will always do much to determine a creation's appearance, as clay lacks the authority to question its creator's choice of molds. The world beneath the moon has long been sculpted into a form that people take for granted, but in the eyes of its original inhabitants, that form must surely be like a peculiar duck, shaped by its creator's bizarre predilections.\nOf course, the blue-haired maid would never say any such thing to the mistress of the Krumkake Craftshop — after all, ducks are adorable, especially compared to the world's present aspect.",
         "Color": "Elec",
         "HP": 13.5,
         "HPCurve": 2,
@@ -11998,7 +12002,7 @@
             "Oprichniki",
             "Line Trooper"
         ],
-        "Desc": "A soldier of the Fatui Oprichniki. Gunblade in hand, these ordinary infantry hold the line as the resilient backbone of the Oprichniki forces.\nAccording to Snezhnayan infantry manuals, the primary duties of line troops are merely to aim, shoot, and charge. Even should the individual soldier's combat power not prove exceptional, soldiers of the line in tight formation remain a key foundation of the Snezhnayan military machine.",
+        "Desc": "A soldier of the Fatui Oprichniki, equipped with a gunblade and tasked to hold the line as the resilient backbone of the Oprichniki forces.\nAccording to Snezhnayan infantry manuals, the primary duties of line troops are merely to aim, shoot, and charge. Even should the individual soldier's combat power not prove exceptional, soldiers of the line in tight formation remain a key foundation of the Snezhnayan military machine.",
         "HP": 0.6,
         "HPCurve": 2,
         "ATK": 1.8,
@@ -12019,7 +12023,7 @@
             "Oprichniki",
             "Vanguard"
         ],
-        "Desc": "A soldier of the Fatui Oprichniki, equipped with a heavy shield and fights at the very front to protect their comrades.\nMany understand that in the long war between Snezhnaya and the dark calamity, only the one who holds out more firmly and outlasts the other could prove victorious. And the thing that \"holds up\" the Oprichniki is, undoubtedly, the shield that supports the troops — so long as this shield does not fall, there is always hope for victory.",
+        "Desc": "A soldier of the Fatui Oprichniki, equipped with a heavy shield and tasked to fight at the very front to protect their comrades.\nMany understand that in the long war between Snezhnaya and the dark calamity, only the side that holds out with greater resolution can outlast the other and emerge victorious. The ultimate resolution of the Oprichniki is, undoubtedly, the shield that protects their forces — so long as this shield does not fall, there is always hope for victory.",
         "HP": 0.7,
         "HPCurve": 2,
         "ATK": 1.6,
@@ -12040,7 +12044,7 @@
             "Oprichniki",
             "Support Trooper"
         ],
-        "Desc": "A Oprichniki soldier equipped with a man-portable grenade launcher that can perform close-range bombardment.\nThough the Oprichniki has large-scale fully-functional support fire complements, the commanding staff have still advocated for large numbers of grenadiers to be maintained. After all, no big gun can compare in surety at the very front lines of combat to a grenade launcher you can direct at will.",
+        "Desc": "A soldier of the Fatui Oprichniki, equipped with a man-portable grenade launcher that can perform close-range bombardment.\nThough the Oprichniki has large-scale, fully-functional fire support attachments, the commanding staff still advocates for large numbers of grenadiers to be maintained. After all, no big gun can compare in surety at the very front lines of combat to a grenade launcher you can direct at will.",
         "HP": 0.5,
         "HPCurve": 2,
         "ATK": 1.6,
@@ -12061,7 +12065,7 @@
             "Oprichniki",
             "Medic"
         ],
-        "Desc": "A Oprichniki soldier armed with engineering tools and highly adept in close-range combat.\nTo meet the demands of battlefield operations, the Fatui Oprichniki established the Vanguard, tasked with clearing the path for advancing forces. As for what counts as an obstacle? That hardly matters. Be it an impassable ravine or a formidable foe standing in their way, they will remove it without hesitation — whatever it takes to ensure the banner of the Pale Star marches on.",
+        "Desc": "A soldier of the Fatui Oprichniki, equipped with engineering tools and highly adept in close-range combat.\nTo meet the demands of battlefield operations, the Fatui Oprichniki established vanguard units, tasked with clearing the path of obstacles for advancing forces. As for exactly what counts as an obstacle, that hardly matters. Be it an impassable ravine or a formidable foe standing in their way, they will remove it without hesitation — whatever it takes to ensure the banner of the Pale Star marches on.",
         "HP": 0.6,
         "HPCurve": 2,
         "ATK": 1.8,
@@ -12082,7 +12086,7 @@
             "Oprichniki",
             "Grenadier"
         ],
-        "Desc": "A Oprichniki soldier equipped with a staff-like device and tasked with providing emergency medical support to allies.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited. As such, they tend to simply adopt more efficient methods of supporting their allies — mixing in amidst different armed troops.",
+        "Desc": "A soldier of the Fatui Oprichniki, equipped with a staff-like device and tasked with providing emergency medical support to their comrades in arms.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited. In practice, they tend to adopt more efficient methods of supporting their allies — mixing in with the different units and charging at the enemy lines.",
         "HP": 0.5,
         "HPCurve": 2,
         "ATK": 1.8,
@@ -12103,7 +12107,7 @@
             "Oprichniki",
             "Bombardier"
         ],
-        "Desc": "A soldier of the Fatui's Special Security Detachment, equipped with a specialized hoverpack and explosive charges, tasked with executing breaching operations.\nAs troops with immense breakthrough potential, Bombardiers are often sent into the most dire of battlefields, making them the troops who gain meritorious promotions most quickly. It is said that Oprichniki officers overwhelmingly come from the ranks of the Bombardiers.",
+        "Desc": "A soldier of the Fatui Oprichniki, equipped with a specialized hover pack and explosive charges, and tasked with performing breaching operations.\nAs troops with immense breakthrough potential, bombardiers are often sent to the most dire of battlefields, making them the troops who gain meritorious promotions most quickly. It is said that Oprichniki officers overwhelmingly come from the ranks of the bombardiers.",
         "HP": 0.5,
         "HPCurve": 2,
         "ATK": 2.0,
@@ -12147,7 +12151,7 @@
             "Poruchik",
             "Battle-Hardened Fireblade Shock Trooper"
         ],
-        "Desc": "A staff member in the titanic kuuvahki research facility, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
+        "Desc": "Employed at the titanic Kuuvahki Experimental Design Bureau, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
         "Color": "Fire",
         "HP": 311.29312,
         "HPCurve": 20,
@@ -12177,7 +12181,7 @@
             "Poruchik",
             "Battle-Hardened Fireblade Shock Trooper"
         ],
-        "Desc": "A staff member in the titanic kuuvahki research facility, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
+        "Desc": "Employed at the titanic Kuuvahki Experimental Design Bureau, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
         "Color": "Fire",
         "HP": 48.1,
         "HPCurve": 2,
@@ -12230,7 +12234,7 @@
             "Oprichniki",
             "Thunderblitz Druzhina"
         ],
-        "Desc": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snehznaya Imperial Military Academy, whether due to the privilege of noble birth or the rare talent to escape a common background. After all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals. Traditionally, only fae could become elite Druzhina, but today, this glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
+        "Desc": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snezhnaya Royal Military Academy, whether due to the privilege of noble birth or the rare talent to escape a common background. After all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals. Traditionally, only fae could become elite Druzhina, but today, this glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
         "Color": "Elec",
         "HP": 2.0,
         "HPCurve": 2,
@@ -12353,7 +12357,7 @@
             "Landcruiser",
             "Cutting Edge All-Purpose Storm"
         ],
-        "Desc": "Balancing cutting-edge tech, production costs and sortie rates, these elite Landcruisers confer immense penetrative power upon any battle order, and are the key fulcrum of the frontline.\nThe all-purpose combat package combines multi-barrel automatic gunss with close-quarter rotating blades, allowing this Landcruiser to battle opponents at any range, while heavy howitzers in both arms will allow it to obliterate cover and deny defenders the benefit of their fortifications. According to combat doctrines co-authored by the Fatui and the Imperial Military Academy, these Landcruisers must be supported by all nearby units when they attack, speedily punching a hole in enemy lines, which will allow for follow-up attacks in depth that will then destroy enemy defensive lines...",
+        "Desc": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle, and are the key fulcrum of the frontline.\nThe all-purpose storm combat package combines multi-barrel automatic guns with close-quarter rotating blades, allowing this Landcruiser to battle opponents at any range, while heavy howitzers on both arms allow it to obliterate cover and deny defenders the benefit of their fortifications. According to combat doctrine co-authored by the Fatui and the Royal Military Academy, these Landcruisers must be supported by all nearby units when they attack, speedily punching a hole in enemy lines, which will allow for follow-up attacks in depth that will then cause the enemy defenses to collapse completely.",
         "Color": "Elec",
         "HP": 3.5,
         "HPCurve": 2,
@@ -12374,7 +12378,7 @@
             "Landcruiser",
             "Cutting Edge All-Purpose Scout"
         ],
-        "Desc": "Balancing cutting-edge tech, production costs and sortie rates, these elite Landcruisers confer immense penetrative power upon any battle order, and are the key fulcrum of the frontline.\nThe all-purpose scout combat package is also designed for both long- and short-range combat, and not only leads scout Landcruiser squads, but also provides close support for All-Purpose Storm Landcruisers during high-intensity battles, such as crossing specialized anti-Landcruiser trenches, or destroying enemy strongpoints. This Landcruiser type can also keep up with the tip of the spear as it breaks through in depth, before swinging out to the wings and swiftly attacking key targets in the enemy's rear lines.",
+        "Desc": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle, and are the key fulcrum of the frontline.\nThe all-purpose scout combat package is designed for both long- and short-range combat, and not only leads scout Landcruiser squads, but also provides close support for All-Purpose Storm Landcruisers during high-intensity battles, such as crossing specialized anti-Landcruiser trenches, or destroying enemy strongpoints. This Landcruiser type can also keep up with the tip of the spear as it breaks through in depth, before swinging out to the wings and swiftly attacking key targets in the enemy's rear lines.",
         "Color": "Ice",
         "HP": 4.0,
         "HPCurve": 2,
@@ -12395,7 +12399,7 @@
             "Landcruiser",
             "Cutting Edge Fire Support Ground Effect"
         ],
-        "Desc": "Balancing cutting-edge tech, production costs and sortie rates, these elite Landcruisers confer immense penetrative power upon any battle order, and are the key fulcrum of the frontline.\nAfter being equipped with high-efficiency jet engines, this Ground Effect Landcruiser has gained the ability to carry multiple armaments, allowing them to send this sizable firepower anywhere on the battlefield in a timely fashion. As such, the combat doctrines co-authored by the Fatui and the Imperial Military Academy state that they are to be organized as a \"Quick Reaction Force\" in large-scale battles, meant to guard against enemy breakthroughs or counterattacks, and to press the advantage if the battle is going favorably. Of course, all such Landcruisers have the ability to operate independently, and on long tours of duty, they can form the core of a small squad and thus maximize the firepower of various Fatui unit types...",
+        "Desc": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle, and are the key fulcrum of the frontline.\nAfter being equipped with high-efficiency jet engines, this Ground Effect Landcruiser has gained the ability to carry multiple armaments, allowing it to deliver this sizable firepower anywhere on the battlefield in a timely fashion. As such, the combat doctrine co-authored by the Fatui and the Royal Military Academy states that they are to be organized as a \"Quick Reaction Force\" in large-scale battles, meant to guard against enemy breakthroughs or counterattacks, and to press the advantage if the battle is going favorably. Of course, all such Landcruisers have the ability to operate independently, and on long tours of duty, they can form the core of a small squad and thus maximize the firepower of various Fatui unit types...",
         "Color": "Fire",
         "HP": 3.0,
         "HPCurve": 2,
@@ -12416,7 +12420,7 @@
             "Lord of the Palace",
             "Battle-Scarred Rock Crab"
         ],
-        "Desc": "Its mind infected by ancient moonlight, this ruler of crabs was plunged for a time into delirium and madness. But just as it was about to show forth its might, it suffered a massive defeat against thieves who broke into its court, which has rendered it more agreeable. Even so, this crustacean suzerain yet yearns to exchange pointers with strong foes, longing to triumph over opponents worth unleashing its full might against.",
+        "Desc": "Its mind infected by ancient moonlight, this ruler of crabs was plunged for a time into delirium and madness. But just as it was about to unleash its might, it suffered a crushing defeat at the hands of a thief who broke into its court, rendering it more agreeable. Even so, this crustacean suzerain yet yearns to clash pincers with strong foes, longing to triumph over opponents worthy of its full might.",
         "Color": "Water",
         "HP": 52.6,
         "HPCurve": 2,
@@ -12443,7 +12447,7 @@
             "Lord of the Palace",
             "Battle-Scarred Rock Crab"
         ],
-        "Desc": "Its mind infected by ancient moonlight, this ruler of crabs was plunged for a time into delirium and madness. But just as it was about to show forth its might, it suffered a massive defeat against thieves who broke into its court, which has rendered it more agreeable. Even so, this crustacean suzerain yet yearns to exchange pointers with strong foes, longing to triumph over opponents worth unleashing its full might against.",
+        "Desc": "Its mind infected by ancient moonlight, this ruler of crabs was plunged for a time into delirium and madness. But just as it was about to unleash its might, it suffered a crushing defeat at the hands of a thief who broke into its court, rendering it more agreeable. Even so, this crustacean suzerain yet yearns to clash pincers with strong foes, longing to triumph over opponents worthy of its full might.",
         "Color": "Water",
         "HP": 10.6,
         "HPCurve": 2,
@@ -12470,7 +12474,7 @@
             "Radiant Beast",
             "Antelope"
         ],
-        "Desc": "A monster that has undergone a unique evolution due to being drenched in the ancient moon's power for long periods of time.\nStrange lightning once fell upon the land blessed by moonlight, and once ordinary antelopes have also gained the power to wield lightning. They say that some have seen a truly strange sight — antelopes standing on cliffs at the convergence of a storm, attracting bolts of lightning to temper their bodies.",
+        "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nStrange lightning once fell upon the land blessed by moonlight, causing once ordinary antelopes to gain the power to wield lightning. They say that some have seen a truly strange sight — antelopes standing on cliffs at the convergence of a storm, attracting bolts of lightning to temper their bodies.",
         "Color": "Elec",
         "HP": 5.5,
         "HPCurve": 2,
@@ -12494,7 +12498,7 @@
             "Radiant Beast",
             "Bladehorn"
         ],
-        "Desc": "A monster that has undergone a unique evolution due to being drenched in the ancient moon's power for long periods of time.\nIt is said that in the ancient past, when these borderlands were once shrouded by the pitch-dark shadow, only the giant rhino could bring the power that makes all things back to this place through the charge of its herd... And that this was the sole reward they asked for after the moonlight sent down its blessings.",
+        "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nIt is said that in the ancient past, when these borderlands were still shrouded by the pitch-dark shadow, only the charging of the giant rhinos could return the power that makes all things turn... And this was all that was asked of them in return for the moonlight shining down its blessings.",
         "Color": "Wind",
         "HP": 6.0,
         "HPCurve": 2,
@@ -12518,7 +12522,7 @@
             "Radiant Beast",
             "Lunapod"
         ],
-        "Desc": "A monster that has undergone a unique evolution due to being drenched in the ancient moon's power for long periods of time.\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the sea were not spared. Those who could not accept the moonlight into themselves vanished like foam, whether they be great sea serpents who could send waves skyward, or single-eyed monsters who once plotted to consume all things.",
+        "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the sea were not spared. Those who could not accept the moonlight into themselves vanished like foam, whether great sea serpents who could send waves skyward, or single-eyed monsters who once plotted to consume all things.",
         "Color": "Water",
         "HP": 5.0,
         "HPCurve": 2,
@@ -12542,7 +12546,7 @@
             "Shifting Shadow Beneath the Moon",
             "Radiant Moonfly"
         ],
-        "Desc": "The moon's ancient power has seeped into these illusory wings, and the butterfly-shaped monster now dances lightly in the moonlight.\nThe principles of evolution say that after the wild yet primeval power was tamed by the heavenly ruler, such monsters should not be able to maintain their shape, becoming smaller and weaker. However, the moon's blessing has allowed it to glide through this world while remaining in its prime, displaying the remnants of an older world, when the ancient moon once illuminated the land.",
+        "Desc": "The moon's ancient power has seeped into these illusory wings, and the butterfly-shaped monster now dances lightly in the moonlight.\nThe principles of evolution state that after the wild yet primeval power was tamed by the heavenly ruler, such a monster should not be able to maintain its shape, becoming smaller and weaker over time. However, the moon's blessing has allowed it to glide through this world while remaining in its prime, displaying the remnants of an older world, when the ancient moon once illuminated the land.",
         "Color": "Grass",
         "HP": 8.0,
         "HPCurve": 2,
@@ -12597,7 +12601,7 @@
             "Battle-Scarred Rock Crab",
             ""
         ],
-        "Desc": "A crab that lives within shells and conches. A distant relation to the Fontainian Armored Crab. Most specimens are docile and gentle, but there are stories of crabs fighting to the death to defend their territory — their gentle nature transforming to fuel a wild, frenzied rage.\nAmong the twisted illusions of the Ley Lines, the mighty Rock Crab warrior who fell to a horde of foes has reforged its offensive abilities to withstand the onslaught of a thousand enemies — an endeavor rewarded with alarming success...",
+        "Desc": "A crab that lives within shells and conches. A distant relation to the Fontainian Armored Crab. Most specimens are docile and gentle, but there are stories of crabs fighting to the death to defend their territory — their gentle nature transforming to fuel a wild, frenzied rage.\nAmong the twisted illusions of the Ley Lines, the mighty Rock Crab warrior who fell to a horde of foes has reforged its offensive abilities to withstand the onslaught of a hundred thousand enemies — an endeavor rewarded with alarming success...",
         "Color": "Water",
         "HP": 278.38596,
         "HPCurve": 20,

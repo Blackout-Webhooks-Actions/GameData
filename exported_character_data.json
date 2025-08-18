@@ -38,8 +38,8 @@
         },
         "NA": [
             "Aino",
-            "Lauma",
-            "Flins"
+            "Flins",
+            "Lauma"
         ],
         "NW": [
             14432,
@@ -57,15 +57,16 @@
             "1",
             "15",
             "2",
-            "3"
+            "3",
+            "4"
         ],
-        "Note": "6.0v3"
+        "Note": "6.0v4"
     },
     {
         "_name": "Aino",
         "_id": 121,
         "Name": "Aino",
-        "Desc": "A genius mechanic and inventor from Nod-Krai who enjoys interesting machines and sweet treats.",
+        "Desc": "A genius mechanic and inventor from Nod-Krai who loves interesting machines and sweet treats.",
         "Title": "Clinky-Clank Gadgets-A-Gogo",
         "Constellation": "Cistellula Mira",
         "Nation": "???",
@@ -90,7 +91,7 @@
             "DEF": 607,
             "Custom": 96
         },
-        "Version": "6.0v3",
+        "Version": "6.0v4",
         "Fetter": 121,
         "_CV": {
             "_CH": "???",
@@ -112,7 +113,7 @@
         "Type": "Male",
         "Weapon": "Pole",
         "Element": "Elec",
-        "Birthday": "1/1",
+        "Birthday": "10/31",
         "Icon": "UI_AvatarIcon_Flins",
         "CommonMatt": 112124,
         "TalentMat": 3,
@@ -128,7 +129,7 @@
             "DEF": 809,
             "Custom": 0.384
         },
-        "Version": "6.0v3",
+        "Version": "6.0v4",
         "Fetter": 120,
         "_CV": {
             "_CH": "???",
@@ -150,7 +151,7 @@
         "Type": "Lady",
         "Weapon": "Catalyst",
         "Element": "Grass",
-        "Birthday": "1/1",
+        "Birthday": "3/1",
         "Icon": "UI_AvatarIcon_Lauma",
         "CommonMatt": 112127,
         "TalentMat": 1,
@@ -166,7 +167,7 @@
             "DEF": 669,
             "Custom": 115.2
         },
-        "Version": "6.0v3",
+        "Version": "6.0v4",
         "Fetter": 119,
         "_CV": {
             "_CH": "???",
