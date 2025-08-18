@@ -12622,8 +12622,8 @@
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     },
-    "23079107": {
-        "_id": 23079107,
+    "23079405": {
+        "_id": 23079405,
         "Name": "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope",
         "Title": [
             "Battle-Hardened Fireblade Shock Trooper",
@@ -12654,7 +12654,7 @@
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
         ],
         "Tut": 3094,
-        "Tutorial": 23079107,
+        "Tutorial": 23079405,
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     }
