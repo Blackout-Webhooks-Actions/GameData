@@ -11975,8 +11975,7 @@
             {
                 "State": "Duck",
                 "All": 1.4,
-                "Elec": -1.4,
-                "Water": -0.6
+                "Elec": -1.4
             },
             {
                 "State": "Shield",
