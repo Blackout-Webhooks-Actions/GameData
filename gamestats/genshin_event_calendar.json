@@ -319,6 +319,61 @@
     "chronicled_banners": null,
     "events": [
         {
+            "id": 101,
+            "name": "Mementos of Teyvat: Prelude of the Frozen Veil",
+            "description": "When you journey too far, you might forget even the most breathtaking moments you've seen and the warmest companions you've met. To keep that day from coming, you must anchor those memories — and keep them alive in the pages of a picture book.",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2025-09-01T03:59:59",
+            "end_timestamp": 1756670399,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2025-08-21T10:00:00",
+            "start_timestamp": 1755741600,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 420,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 121270,
+                    "name": "Teyvat Commemorative Album",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/8619c1be4e055a726294314cf7170819.png",
+                    "num": 1,
+                    "rarity": 3,
+                    "wiki_url": null
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ]
+        },
+        {
             "id": 103,
             "name": "Tracing Vanishing Trails",
             "description": "Summer is here, and on your way to Yilong Wharf for tea, you and Paimon run into Yelan. It's not long before you find yourselves embroiled in a special case...",
@@ -586,24 +641,6 @@
                 "explored_percentage": 100.0,
                 "is_finished": true
             }
-        },
-        {
-            "id": 101,
-            "name": "Mementos of Teyvat: Prelude of the Frozen Veil",
-            "description": "When you journey too far, you might forget even the most breathtaking moments you've seen and the warmest companions you've met. To keep that day from coming, you must anchor those memories — and keep them alive in the pages of a picture book.",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
         },
         {
             "id": 104,
