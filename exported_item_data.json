@@ -3777,7 +3777,7 @@
         "_id": 114082,
         "R": 3,
         "Name": "Unyielding Delusion of the Far-North Scions",
-        "Desc": "Weapon Ascension Material.<br>The grand city of gold and white stone was no more. Following the moonlight's pale guidance, its exiled inhabitants wandered to a desolate foreign land.<br>The glory and prowess of the past had dried up like morning dew, yet the earliest delusion still flowed beneath the skin of the proud, unlike the graves now lost to time.<br>Like farmers breeding their crops, the archpriests who served the moonlight, for generation after generation, selected the purest bloodlines closest to their progenitors, no matter the cost...",
+        "Desc": "Weapon Ascension Material.<br>The grand city of gold and white stone was no more. Following the moonlight's pale guidance, its exiled inhabitants wandered to a desolate foreign land.<br>The glory and prowess of the past had dried up like morning dew, yet the earliest delusion still flowed beneath the skin of the proud, unlike the graves now lost to time.<br>Like farmers breeding their crops, the Archpriestesses who served the moonlight, for generation after generation, selected the purest bloodlines closest to their progenitors, no matter the cost...",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3842,7 +3842,7 @@
     {
         "_id": 114076,
         "R": 5,
-        "Name": "Arcane Device Wish",
+        "Name": "Artful Device Wish",
         "Desc": "Weapon Ascension Material.<br>\"The poor, the starving, the wretched, the oppressed! My exiled brothers and sisters!\"<br>\"If you, too, have tasted indignities at the cruel hands of fate! If you, too, have wept in the night at the plight of your neighbors!\"<br>\"If you, too, have longed for a shelter from fear! If you, too, have dreamed of a world where no tears are shed!<br>\"Then join us, your brothers and sisters, in breaking the chains of slavery!\"<br>\"Let the dead bury the dead, for you will rise up, and with the treasures of the haughty, we will build an Elysium without boundaries!\"",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3853,7 +3853,7 @@
     {
         "_id": 114075,
         "R": 4,
-        "Name": "Arcane Device Inheritance",
+        "Name": "Artful Device Inheritance",
         "Desc": "Weapon Ascension Material.<br>Word on the street is that the legendary thief, Reed Miller, has been sentenced to death several times, yet he's always managed to escape at the last minute with the help of his friends — and his tools.<br>In some versions of these stories, several of his followers willingly died in his place for their revered King of Elysium. Naturally, these versions can't compete with the more popular drunken stories full of romance and bliss. Since there has never been a shackle that could restrain the legendary thief, it is only natural to assume that no ending could do the same.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3864,7 +3864,7 @@
     {
         "_id": 114074,
         "R": 3,
-        "Name": "Arcane Device Replica",
+        "Name": "Artful Device Replica",
         "Desc": "Weapon Ascension Material.<br>Just as the legendary thief's tools have been imitated by countless others, so has his name.<br>In a sense, it was not the people who thirsted for something more who stole Reed Miller's name, but rather Reed Miller who stole the identity that was originally theirs alone. These viewpoints are just two sides of the same coin.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
@@ -3875,7 +3875,7 @@
     {
         "_id": 114073,
         "R": 2,
-        "Name": "Arcane Device Fragment",
+        "Name": "Artful Device Fragment",
         "Desc": "Weapon Ascension Material.<br>An intricate device once known as the \"Seven Tools of the Great Thief.\" Rumors claim it was created by the legendary thief, Reed Miller.<br>Just as the first Treasure Hoarders came from all walks of life, this combination of tools meant for different purposes was designed to break down artificial boundaries, regardless of whether they were chains or borders.<br>It should be noted that there are more than seven tools, its just that people are accustomed to using seven to describe anything numerous. Perhaps it is for the same reason that the world is believed to have only seven forms of order.",
         "Src": [
             "Exchanged in the Gift Shop"
@@ -4733,9 +4733,9 @@
         "Desc": "A flower that resembles a candle lamp, commonly found near water. It emits a cold, simple aroma that has a calming effect.<br>The contrasting colors of its stamen and stem are thought to symbolize the two different types of kuuvahki, yet despite this symbolism, it is one of the few rare plants that are immune to kuuvahki's influence. As a result, the Frostmoon Scions sometimes regard it as a symbol of faithlessness and apostasy.<br>It is said that this strangely shaped flower first appeared at the end of the dark calamity five hundred years ago, but this claim has never been rigorously verified.",
         "Src": [
             "Go to collect",
-            "Recommendation: Found in the Graveyard of Night",
+            "Recommendation: Found in the Final Night Cemetery",
             "Recommendation: Found near the Frostmoon Enclave",
-            ""
+            "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101261",
         "Type": "Local Specialty (Nod-Krai)"
@@ -4759,7 +4759,7 @@
         "Src": [
             "Go to collect",
             "Found near Blue Amber Lake",
-            "Recommendation: Found near the Northern Training Ground"
+            "Recommendation: Found at the Clink-Clank Krumkake Craftshop"
         ],
         "Icon": "UI_ItemIcon_101257",
         "Type": "Local Specialty (Nod-Krai)"
@@ -8577,8 +8577,8 @@
     {
         "_id": 108902,
         "R": 2,
-        "Name": "Sugar Sculpture: Dualblaze Ibis",
-        "Desc": "A sugar sculpture modeled after an animal. With wings spread wide, it's a Dualblaze Ibis soaring across the sky.",
+        "Name": "Sugar Sculpture: Dualblaze Longplume Ibis",
+        "Desc": "A sugar sculpture modeled after an animal. With wings spread wide, it's a Dualblaze Longplume Ibis soaring across the sky.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108838",
         "Recipe": 0,
@@ -18025,7 +18025,7 @@
         "Desc": "The gray-brown ears are a gift from the earth. Their richness can only be brought out by grounding and roasting.",
         "Src": [
             "Found in the wild",
-            "Sold at general goods shops"
+            "Sold at general goods shops in Nod-Krai"
         ],
         "Icon": "UI_ItemIcon_101268",
         "Type": "Cooking Ingredient"
@@ -19182,7 +19182,7 @@
         "_id": 220123,
         "R": 4,
         "Name": "Luna Treasure Compass",
-        "Desc": "A compass that can be used in Nod-Krai to search for nearby treasure and relevant clues.<br>This moonlit world holds countless unknown treasures, waiting to be discovered by adventurers with courage or wit.",
+        "Desc": "A compass that can be used in Nod-Krai to search for nearby treasure and relevant clues.<br>This sublunary sphere holds countless unknown treasures, waiting to be discovered by adventurers with courage or wit.",
         "Src": [],
         "Icon": "UI_ItemIcon_220123",
         "Type": "Gadget"
@@ -19500,6 +19500,7 @@
         "Name": "Crystalfly Trap",
         "Desc": "A Crystalfly Trap, developed by a senior researcher named Fawitzki from Fontaine Research Institute of Kinetic Energy Engineering.<br>After being properly deployed and inserting the required materials, this device will start working and lure Crystalflies inside.<br>Fawitzki once led research on \"Low-Temperature Lighting Devices,\" which required a large amount of Crystal Cores as research materials, which led to the development of the Crystalfly Trap.<br>However, the project was suspended for various reasons.<br>\"We are here to commemorate the diligent Mr. Fawitzki. We sincerely hope that there are those who will carry on his research. The Institute will provide maximum support in any areas deemed appropriate.\"",
         "Src": [
+            "Reward for reaching Reputation Lv. 3 (Fontaine)",
             ""
         ],
         "Icon": "UI_ItemIcon_220088",
@@ -19738,6 +19739,7 @@
         "Name": "\"The Boon of the Elder Tree\"",
         "Desc": "Talismans of this kind are often seen in the forests in Sumeru. They possess the ability to gather the power of grass and trees.<br>To prevent the erosion of the forest and, in darker times, to resist the invasion of vicious monsters, trees and vines would form impregnable shelters together.<br>The Lord of Verdure would grant these talismans to people, giving them unfettered access to walk amidst the forest under the guidance of streams and moonlight.<br>One day, the labyrinth disappeared, and the forest lost its intellect.<br>Even so, the people of Sumeru take these talismans as symbols of the forest's protection — and the forest answers the request of such talismans and gives its power.",
         "Src": [
+            "Reward for reaching Reputation Lv. 3 (Sumeru)",
             ""
         ],
         "Icon": "UI_ItemIcon_220059",

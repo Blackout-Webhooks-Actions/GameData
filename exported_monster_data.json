@@ -12228,12 +12228,12 @@
     },
     "30793": {
         "_id": 30793,
-        "Name": "Oprichniki Thunderblitz Druzhina",
+        "Name": "Oprichniki Thunderblitz Gvardiya",
         "Title": [
             "Oprichniki",
-            "Thunderblitz Druzhina"
+            "Thunderblitz Gvardiya"
         ],
-        "Desc": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snezhnaya Royal Military Academy, whether due to the privilege of noble birth or the rare talent to escape a common background. After all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals. Traditionally, only fae could become elite Druzhina, but today, this glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
+        "Desc": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snezhnaya Royal Military Academy, whether due to the privilege of noble birth or the rare talent to escape a common background. After all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals. Traditionally, only fae could become elite Gvardiya, but today, this glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
         "Color": "Elec",
         "HP": 2.0,
         "HPCurve": 2,
@@ -12602,7 +12602,7 @@
         ],
         "Desc": "A crab that lives within shells and conches. A distant relation to the Fontainian Armored Crab. Most specimens are docile and gentle, but there are stories of crabs fighting to the death to defend their territory — their gentle nature transforming to fuel a wild, frenzied rage.\nAmong the twisted illusions of the Ley Lines, the mighty Rock Crab warrior who fell to a horde of foes has reforged its offensive abilities to withstand the onslaught of a hundred thousand enemies — an endeavor rewarded with alarming success...",
         "Color": "Water",
-        "HP": 278.38596,
+        "HP": 262.92004,
         "HPCurve": 20,
         "ATK": 5.0,
         "ATKCurve": 4,

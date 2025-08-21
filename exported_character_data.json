@@ -58,9 +58,10 @@
             "15",
             "2",
             "3",
-            "4"
+            "4",
+            "5"
         ],
-        "Note": "6.0v4"
+        "Note": "6.0v5"
     },
     {
         "_name": "Aino",
@@ -91,7 +92,7 @@
             "DEF": 607,
             "Custom": 96
         },
-        "Version": "6.0v4",
+        "Version": "6.0v5",
         "Fetter": 121,
         "_CV": {
             "_CH": "???",
@@ -104,11 +105,11 @@
         "_name": "Flins",
         "_id": 120,
         "Name": "Flins",
-        "Desc": "???",
+        "Desc": "A Lightkeeper of Nod-Krai, guardian of a lighthouse and graveyard on a northern isle. An enigmatic gentleman, cultured and courtly.",
         "Title": "Shadowy Lights, Stranger Wights",
         "Constellation": "Laterna Vigilis",
         "Nation": "???",
-        "Belong": "???",
+        "Belong": "Lightkeepers",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Pole",
@@ -129,7 +130,7 @@
             "DEF": 809,
             "Custom": 0.384
         },
-        "Version": "6.0v4",
+        "Version": "6.0v5",
         "Fetter": 120,
         "_CV": {
             "_CH": "???",
@@ -142,11 +143,11 @@
         "_name": "Lauma",
         "_id": 119,
         "Name": "Lauma",
-        "Desc": "???",
+        "Desc": "A Maiden blessed by moonlight and the grove alike, hope born to the Frostmoon Scions.",
         "Title": "Evermoon's Sacrament Song",
         "Constellation": "Cerva Nivea",
         "Nation": "???",
-        "Belong": "???",
+        "Belong": "Frostmoon Scions",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Catalyst",
@@ -167,7 +168,7 @@
             "DEF": 669,
             "Custom": 115.2
         },
-        "Version": "6.0v4",
+        "Version": "6.0v5",
         "Fetter": 119,
         "_CV": {
             "_CH": "???",
