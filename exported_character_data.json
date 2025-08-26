@@ -37,8 +37,8 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Lauma",
             "Flins",
+            "Lauma",
             "Aino"
         ],
         "NW": [
@@ -166,7 +166,7 @@
             "HP": 10654,
             "ATK": 255,
             "DEF": 669,
-            "Custom": 115.2
+            "Custom": 315.2
         },
         "Version": "6.0v5",
         "Fetter": 119,
