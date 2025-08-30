@@ -28,6 +28,12 @@
             "DEF": 799,
             "Custom": 0.384
         },
+        "ShowStats2": {
+            "HP": 14034,
+            "ATK": 396,
+            "DEF": 856,
+            "Custom": 0.384
+        },
         "Version": "9.0",
         "Fetter": 42,
         "_CV": {
@@ -92,6 +98,12 @@
             "DEF": 607,
             "Custom": 96
         },
+        "ShowStats2": {
+            "HP": 11976,
+            "ATK": 303,
+            "DEF": 649,
+            "Custom": 96
+        },
         "Version": "6.0v5",
         "Fetter": 121,
         "_CV": {
@@ -128,6 +140,12 @@
             "HP": 12491,
             "ATK": 352,
             "DEF": 809,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13379,
+            "ATK": 431,
+            "DEF": 866,
             "Custom": 0.384
         },
         "Version": "6.0v5",
@@ -168,6 +186,12 @@
             "DEF": 669,
             "Custom": 315.2
         },
+        "ShowStats2": {
+            "HP": 11411,
+            "ATK": 313,
+            "DEF": 716,
+            "Custom": 315.2
+        },
         "Version": "6.0v5",
         "Fetter": 119,
         "_CV": {
@@ -204,6 +228,12 @@
             "HP": 12613,
             "ATK": 330,
             "DEF": 828,
+            "Custom": 0.192
+        },
+        "ShowStats2": {
+            "HP": 13510,
+            "ATK": 405,
+            "DEF": 887,
             "Custom": 0.192
         },
         "Version": "5.8",
@@ -244,6 +274,12 @@
             "DEF": 560,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 13371,
+            "ATK": 237,
+            "DEF": 598,
+            "Custom": 0.24
+        },
         "Version": "5.7",
         "Fetter": 115,
         "_CV": {
@@ -280,6 +316,12 @@
             "HP": 12417,
             "ATK": 359,
             "DEF": 806,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13300,
+            "ATK": 440,
+            "DEF": 864,
             "Custom": 0.384
         },
         "Version": "5.7",
@@ -320,6 +362,12 @@
             "DEF": 605,
             "Custom": 96
         },
+        "ShowStats2": {
+            "HP": 10778,
+            "ATK": 223,
+            "DEF": 647,
+            "Custom": 96
+        },
         "Version": "5.6",
         "Fetter": 113,
         "_CV": {
@@ -356,6 +404,12 @@
             "HP": 13348,
             "ATK": 347,
             "DEF": 732,
+            "Custom": 0.192
+        },
+        "ShowStats2": {
+            "HP": 14297,
+            "ATK": 425,
+            "DEF": 784,
             "Custom": 0.192
         },
         "Version": "5.6",
@@ -396,6 +450,12 @@
             "DEF": 782,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 13602,
+            "ATK": 437,
+            "DEF": 837,
+            "Custom": 0.192
+        },
         "Version": "5.5",
         "Fetter": 111,
         "_CV": {
@@ -432,6 +492,12 @@
             "HP": 10657,
             "ATK": 257,
             "DEF": 638,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 11395,
+            "ATK": 322,
+            "DEF": 682,
             "Custom": 0.24
         },
         "Version": "5.5",
@@ -472,6 +538,12 @@
             "DEF": 757,
             "Custom": 115.2
         },
+        "ShowStats2": {
+            "HP": 13641,
+            "ATK": 264,
+            "DEF": 811,
+            "Custom": 115.2
+        },
         "Version": "5.4",
         "Fetter": 109,
         "_CV": {
@@ -508,6 +580,12 @@
             "HP": 9244,
             "ATK": 251,
             "DEF": 580,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 9883,
+            "ATK": 314,
+            "DEF": 620,
             "Custom": 0.24
         },
         "Version": "5.3",
@@ -548,6 +626,12 @@
             "DEF": 763,
             "Custom": 115.2
         },
+        "ShowStats2": {
+            "HP": 12460,
+            "ATK": 155,
+            "DEF": 817,
+            "Custom": 115.2
+        },
         "Version": "5.3",
         "Fetter": 107,
         "_CV": {
@@ -584,6 +668,12 @@
             "HP": 12552,
             "ATK": 359,
             "DEF": 792,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13444,
+            "ATK": 440,
+            "DEF": 848,
             "Custom": 0.384
         },
         "Version": "5.3",
@@ -626,6 +716,13 @@
             "HP": 10875,
             "ATK": 212,
             "DEF": 683,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
             "Custom": 0.24,
             "Norm": 21098
         },
@@ -672,6 +769,13 @@
             "Custom": 0.24,
             "Norm": 21098
         },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
         "Version": "5.3",
         "Fetter": 5,
         "_CV": {
@@ -708,6 +812,12 @@
             "HP": 9244,
             "ATK": 244,
             "DEF": 587,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 9883,
+            "ATK": 306,
+            "DEF": 628,
             "Custom": 0.24
         },
         "Version": "5.2",
@@ -748,6 +858,12 @@
             "DEF": 615,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 10493,
+            "ATK": 425,
+            "DEF": 659,
+            "Custom": 0.192
+        },
         "Version": "5.2",
         "Fetter": 104,
         "_CV": {
@@ -784,6 +900,12 @@
             "HP": 12405,
             "ATK": 275,
             "DEF": 930,
+            "Custom": 0.36
+        },
+        "ShowStats2": {
+            "HP": 13287,
+            "ATK": 337,
+            "DEF": 996,
             "Custom": 0.36
         },
         "Version": "5.1",
@@ -824,6 +946,12 @@
             "DEF": 570,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 16264,
+            "ATK": 223,
+            "DEF": 611,
+            "Custom": 0.192
+        },
         "Version": "5.0",
         "Fetter": 102,
         "_CV": {
@@ -860,6 +988,12 @@
             "HP": 12858,
             "ATK": 332,
             "DEF": 802,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13772,
+            "ATK": 408,
+            "DEF": 859,
             "Custom": 0.384
         },
         "Version": "5.0",
@@ -900,6 +1034,12 @@
             "DEF": 792,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 12615,
+            "ATK": 271,
+            "DEF": 847,
+            "Custom": 0.24
+        },
         "Version": "5.0",
         "Fetter": 100,
         "_CV": {
@@ -936,6 +1076,12 @@
             "HP": 13568,
             "ATK": 335,
             "DEF": 730,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 14533,
+            "ATK": 410,
+            "DEF": 782,
             "Custom": 0.384
         },
         "Version": "4.8",
@@ -976,6 +1122,12 @@
             "DEF": 784,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 13877,
+            "ATK": 413,
+            "DEF": 840,
+            "Custom": 0.192
+        },
         "Version": "4.7",
         "Fetter": 98,
         "_CV": {
@@ -1012,6 +1164,12 @@
             "HP": 9787,
             "ATK": 227,
             "DEF": 560,
+            "Custom": 96
+        },
+        "ShowStats2": {
+            "HP": 10464,
+            "ATK": 285,
+            "DEF": 598,
             "Custom": 96
         },
         "Version": "4.7",
@@ -1052,6 +1210,12 @@
             "DEF": 500,
             "Custom": 0.288
         },
+        "ShowStats2": {
+            "HP": 14297,
+            "ATK": 236,
+            "DEF": 535,
+            "Custom": 0.288
+        },
         "Version": "4.7",
         "Fetter": 95,
         "_CV": {
@@ -1088,6 +1252,12 @@
             "HP": 13103,
             "ATK": 342,
             "DEF": 765,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 14034,
+            "ATK": 419,
+            "DEF": 819,
             "Custom": 0.384
         },
         "Version": "4.6",
@@ -1128,6 +1298,12 @@
             "DEF": 953,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 12251,
+            "ATK": 396,
+            "DEF": 1021,
+            "Custom": 0.192
+        },
         "Version": "4.5",
         "Fetter": 94,
         "_CV": {
@@ -1164,6 +1340,12 @@
             "HP": 10409,
             "ATK": 335,
             "DEF": 573,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 11149,
+            "ATK": 410,
+            "DEF": 613,
             "Custom": 0.288
         },
         "Version": "4.4",
@@ -1204,6 +1386,12 @@
             "DEF": 703,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 12208,
+            "ATK": 378,
+            "DEF": 752,
+            "Custom": 0.24
+        },
         "Version": "4.4",
         "Fetter": 92,
         "_CV": {
@@ -1240,6 +1428,12 @@
             "HP": 12650,
             "ATK": 352,
             "DEF": 793,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13549,
+            "ATK": 431,
+            "DEF": 850,
             "Custom": 0.384
         },
         "Version": "4.3",
@@ -1280,6 +1474,12 @@
             "DEF": 605,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 12790,
+            "ATK": 242,
+            "DEF": 647,
+            "Custom": 0.24
+        },
         "Version": "4.3",
         "Fetter": 90,
         "_CV": {
@@ -1316,6 +1516,12 @@
             "HP": 15307,
             "ATK": 244,
             "DEF": 696,
+            "Custom": 0.192
+        },
+        "ShowStats2": {
+            "HP": 16395,
+            "ATK": 299,
+            "DEF": 745,
             "Custom": 0.192
         },
         "Version": "4.2",
@@ -1356,6 +1562,12 @@
             "DEF": 546,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 11511,
+            "ATK": 217,
+            "DEF": 584,
+            "Custom": 0.24
+        },
         "Version": "4.2",
         "Fetter": 88,
         "_CV": {
@@ -1392,6 +1604,12 @@
             "HP": 14695,
             "ATK": 208,
             "DEF": 576,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 15740,
+            "ATK": 255,
+            "DEF": 617,
             "Custom": 0.384
         },
         "Version": "4.1",
@@ -1432,6 +1650,12 @@
             "DEF": 763,
             "Custom": 0.384
         },
+        "ShowStats2": {
+            "HP": 14559,
+            "ATK": 381,
+            "DEF": 817,
+            "Custom": 0.384
+        },
         "Version": "4.1",
         "Fetter": 86,
         "_CV": {
@@ -1468,6 +1692,12 @@
             "HP": 12071,
             "ATK": 255,
             "DEF": 708,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 12906,
+            "ATK": 319,
+            "DEF": 757,
             "Custom": 0.24
         },
         "Version": "4.0",
@@ -1508,6 +1738,12 @@
             "DEF": 538,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 11805,
+            "ATK": 390,
+            "DEF": 576,
+            "Custom": 0.192
+        },
         "Version": "4.0",
         "Fetter": 84,
         "_CV": {
@@ -1544,6 +1780,12 @@
             "HP": 12397,
             "ATK": 232,
             "DEF": 712,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 13255,
+            "ATK": 290,
+            "DEF": 761,
             "Custom": 0.24
         },
         "Version": "4.0",
@@ -1586,6 +1828,13 @@
             "HP": 10875,
             "ATK": 212,
             "DEF": 683,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
             "Custom": 0.24,
             "Norm": 21098
         },
@@ -1632,6 +1881,13 @@
             "Custom": 0.24,
             "Norm": 21098
         },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
         "Version": "4.0",
         "Fetter": 5,
         "_CV": {
@@ -1668,6 +1924,12 @@
             "HP": 12180,
             "ATK": 223,
             "DEF": 546,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 13022,
+            "ATK": 279,
+            "DEF": 584,
             "Custom": 0.24
         },
         "Version": "3.7",
@@ -1708,6 +1970,12 @@
             "DEF": 500,
             "Custom": 0.288
         },
+        "ShowStats2": {
+            "HP": 14297,
+            "ATK": 236,
+            "DEF": 535,
+            "Custom": 0.288
+        },
         "Version": "3.6",
         "Fetter": 82,
         "_CV": {
@@ -1744,6 +2012,12 @@
             "HP": 11962,
             "ATK": 234,
             "DEF": 751,
+            "Custom": 96
+        },
+        "ShowStats2": {
+            "HP": 12790,
+            "ATK": 293,
+            "DEF": 803,
             "Custom": 96
         },
         "Version": "3.6",
@@ -1784,6 +2058,12 @@
             "DEF": 713,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 13371,
+            "ATK": 279,
+            "DEF": 763,
+            "Custom": 0.24
+        },
         "Version": "3.5",
         "Fetter": 80,
         "_CV": {
@@ -1820,6 +2100,12 @@
             "HP": 15675,
             "ATK": 265,
             "DEF": 628,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 16789,
+            "ATK": 325,
+            "DEF": 673,
             "Custom": 0.288
         },
         "Version": "3.5",
@@ -1860,6 +2146,12 @@
             "DEF": 782,
             "Custom": 0.288
         },
+        "ShowStats2": {
+            "HP": 14297,
+            "ATK": 384,
+            "DEF": 837,
+            "Custom": 0.288
+        },
         "Version": "3.4",
         "Fetter": 78,
         "_CV": {
@@ -1896,6 +2188,12 @@
             "HP": 12289,
             "ATK": 212,
             "DEF": 751,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 13139,
+            "ATK": 266,
+            "DEF": 803,
             "Custom": 0.24
         },
         "Version": "3.4",
@@ -1936,6 +2234,12 @@
             "DEF": 628,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 10232,
+            "ATK": 246,
+            "DEF": 671,
+            "Custom": 0.24
+        },
         "Version": "3.3",
         "Fetter": 76,
         "_CV": {
@@ -1972,6 +2276,12 @@
             "HP": 10164,
             "ATK": 328,
             "DEF": 607,
+            "Custom": 0.192
+        },
+        "ShowStats2": {
+            "HP": 10887,
+            "ATK": 402,
+            "DEF": 650,
             "Custom": 0.192
         },
         "Version": "3.3",
@@ -2012,6 +2322,12 @@
             "DEF": 655,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 11860,
+            "ATK": 271,
+            "DEF": 701,
+            "Custom": 0.24
+        },
         "Version": "3.2",
         "Fetter": 74,
         "_CV": {
@@ -2048,6 +2364,12 @@
             "HP": 10360,
             "ATK": 299,
             "DEF": 630,
+            "Custom": 115.2
+        },
+        "ShowStats2": {
+            "HP": 11096,
+            "ATK": 366,
+            "DEF": 675,
             "Custom": 115.2
         },
         "Version": "3.2",
@@ -2088,6 +2410,12 @@
             "DEF": 683,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
+            "Custom": 0.24
+        },
         "Version": "3.1",
         "Fetter": 72,
         "_CV": {
@@ -2124,6 +2452,12 @@
             "HP": 12491,
             "ATK": 318,
             "DEF": 859,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13379,
+            "ATK": 390,
+            "DEF": 920,
             "Custom": 0.384
         },
         "Version": "3.1",
@@ -2164,6 +2498,12 @@
             "DEF": 729,
             "Custom": 0.288
         },
+        "ShowStats2": {
+            "HP": 16264,
+            "ATK": 281,
+            "DEF": 780,
+            "Custom": 0.288
+        },
         "Version": "3.1",
         "Fetter": 70,
         "_CV": {
@@ -2200,6 +2540,12 @@
             "HP": 10850,
             "ATK": 268,
             "DEF": 630,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 11621,
+            "ATK": 328,
+            "DEF": 675,
             "Custom": 0.288
         },
         "Version": "3.0",
@@ -2240,6 +2586,12 @@
             "DEF": 723,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 13255,
+            "ATK": 279,
+            "DEF": 774,
+            "Custom": 0.24
+        },
         "Version": "3.0",
         "Fetter": 68,
         "_CV": {
@@ -2276,6 +2628,12 @@
             "HP": 9787,
             "ATK": 200,
             "DEF": 601,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 10464,
+            "ATK": 250,
+            "DEF": 642,
             "Custom": 0.24
         },
         "Version": "3.0",
@@ -2318,6 +2676,13 @@
             "HP": 10875,
             "ATK": 212,
             "DEF": 683,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
             "Custom": 0.24,
             "Norm": 21098
         },
@@ -2364,6 +2729,13 @@
             "Custom": 0.24,
             "Norm": 21098
         },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
         "Version": "3.0",
         "Fetter": 5,
         "_CV": {
@@ -2400,6 +2772,12 @@
             "HP": 10657,
             "ATK": 225,
             "DEF": 684,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 11395,
+            "ATK": 282,
+            "DEF": 731,
             "Custom": 0.24
         },
         "Version": "2.8",
@@ -2440,6 +2818,12 @@
             "DEF": 751,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 13139,
+            "ATK": 266,
+            "DEF": 803,
+            "Custom": 0.24
+        },
         "Version": "2.7",
         "Fetter": 65,
         "_CV": {
@@ -2476,6 +2860,12 @@
             "HP": 14450,
             "ATK": 244,
             "DEF": 548,
+            "Custom": 0.192
+        },
+        "ShowStats2": {
+            "HP": 15477,
+            "ATK": 299,
+            "DEF": 587,
             "Custom": 0.192
         },
         "Version": "2.7",
@@ -2516,6 +2906,12 @@
             "DEF": 769,
             "Custom": 0.384
         },
+        "ShowStats2": {
+            "HP": 14690,
+            "ATK": 366,
+            "DEF": 823,
+            "Custom": 0.384
+        },
         "Version": "2.6",
         "Fetter": 66,
         "_CV": {
@@ -2552,6 +2948,12 @@
             "HP": 10372,
             "ATK": 340,
             "DEF": 569,
+            "Custom": 0.192
+        },
+        "ShowStats2": {
+            "HP": 11109,
+            "ATK": 416,
+            "DEF": 609,
             "Custom": 0.192
         },
         "Version": "2.5",
@@ -2592,6 +2994,12 @@
             "DEF": 734,
             "Custom": 0.2667
         },
+        "ShowStats2": {
+            "HP": 11395,
+            "ATK": 239,
+            "DEF": 785,
+            "Custom": 0.2667
+        },
         "Version": "2.4",
         "Fetter": 64,
         "_CV": {
@@ -2628,6 +3036,12 @@
             "HP": 12993,
             "ATK": 304,
             "DEF": 830,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 13916,
+            "ATK": 372,
+            "DEF": 889,
             "Custom": 0.288
         },
         "Version": "2.4",
@@ -2668,6 +3082,12 @@
             "DEF": 959,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 13772,
+            "ATK": 279,
+            "DEF": 1027,
+            "Custom": 0.192
+        },
         "Version": "2.3",
         "Fetter": 57,
         "_CV": {
@@ -2704,6 +3124,12 @@
             "HP": 9570,
             "ATK": 183,
             "DEF": 648,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 10232,
+            "ATK": 229,
+            "DEF": 693,
             "Custom": 0.24
         },
         "Version": "2.3",
@@ -2744,6 +3170,12 @@
             "DEF": 751,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 11046,
+            "ATK": 253,
+            "DEF": 803,
+            "Custom": 0.24
+        },
         "Version": "2.2",
         "Fetter": 50,
         "_CV": {
@@ -2780,6 +3212,12 @@
             "HP": 10899,
             "ATK": 234,
             "DEF": 676,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 11673,
+            "ATK": 287,
+            "DEF": 724,
             "Custom": 0.288
         },
         "Version": "2.1",
@@ -2820,6 +3258,12 @@
             "DEF": 628,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 10232,
+            "ATK": 245,
+            "DEF": 671,
+            "Custom": 0.24
+        },
         "Version": "2.1",
         "Fetter": 56,
         "_CV": {
@@ -2856,6 +3300,12 @@
             "HP": 13471,
             "ATK": 234,
             "DEF": 657,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 14428,
+            "ATK": 287,
+            "DEF": 704,
             "Custom": 0.288
         },
         "Version": "2.1",
@@ -2896,6 +3346,12 @@
             "DEF": 789,
             "Custom": 0.32
         },
+        "ShowStats2": {
+            "HP": 13825,
+            "ATK": 413,
+            "DEF": 845,
+            "Custom": 0.32
+        },
         "Version": "2.1",
         "Fetter": 52,
         "_CV": {
@@ -2932,6 +3388,12 @@
             "HP": 11854,
             "ATK": 244,
             "DEF": 745,
+            "Custom": 96
+        },
+        "ShowStats2": {
+            "HP": 12674,
+            "ATK": 306,
+            "DEF": 796,
             "Custom": 96
         },
         "Version": "2.0",
@@ -2972,6 +3434,12 @@
             "DEF": 615,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 10887,
+            "ATK": 396,
+            "DEF": 659,
+            "Custom": 0.192
+        },
         "Version": "2.0",
         "Fetter": 49,
         "_CV": {
@@ -3008,6 +3476,12 @@
             "HP": 12858,
             "ATK": 342,
             "DEF": 784,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13772,
+            "ATK": 419,
+            "DEF": 840,
             "Custom": 0.384
         },
         "Version": "2.0",
@@ -3050,6 +3524,13 @@
             "HP": 10875,
             "ATK": 212,
             "DEF": 683,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
             "Custom": 0.24,
             "Norm": 21098
         },
@@ -3096,6 +3577,13 @@
             "Custom": 0.24,
             "Norm": 21098
         },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
         "Version": "2.0",
         "Fetter": 5,
         "_CV": {
@@ -3132,6 +3620,12 @@
             "HP": 13348,
             "ATK": 297,
             "DEF": 807,
+            "Custom": 115.2
+        },
+        "ShowStats2": {
+            "HP": 14297,
+            "ATK": 364,
+            "DEF": 864,
             "Custom": 115.2
         },
         "Version": "1.6",
@@ -3172,6 +3666,12 @@
             "DEF": 751,
             "Custom": 0.384
         },
+        "ShowStats2": {
+            "HP": 14166,
+            "ATK": 419,
+            "DEF": 804,
+            "Custom": 0.384
+        },
         "Version": "1.5",
         "Fetter": 51,
         "_CV": {
@@ -3208,6 +3708,12 @@
             "HP": 9352,
             "ATK": 240,
             "DEF": 587,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 9999,
+            "ATK": 301,
+            "DEF": 628,
             "Custom": 0.24
         },
         "Version": "1.5",
@@ -3248,6 +3754,12 @@
             "DEF": 710,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 13139,
+            "ATK": 301,
+            "DEF": 759,
+            "Custom": 0.24
+        },
         "Version": "1.4",
         "Fetter": 45,
         "_CV": {
@@ -3284,6 +3796,12 @@
             "HP": 15552,
             "ATK": 106,
             "DEF": 876,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 16658,
+            "ATK": 130,
+            "DEF": 938,
             "Custom": 0.384
         },
         "Version": "1.3",
@@ -3324,6 +3842,12 @@
             "DEF": 799,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 13641,
+            "ATK": 428,
+            "DEF": 856,
+            "Custom": 0.192
+        },
         "Version": "1.3",
         "Fetter": 26,
         "_CV": {
@@ -3360,6 +3884,12 @@
             "HP": 13226,
             "ATK": 251,
             "DEF": 876,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 14166,
+            "ATK": 308,
+            "DEF": 938,
             "Custom": 0.288
         },
         "Version": "1.2",
@@ -3400,6 +3930,12 @@
             "DEF": 630,
             "Custom": 0.384
         },
+        "ShowStats2": {
+            "HP": 10493,
+            "ATK": 410,
+            "DEF": 675,
+            "Custom": 0.384
+        },
         "Version": "1.2",
         "Fetter": 37,
         "_CV": {
@@ -3436,6 +3972,12 @@
             "HP": 11201,
             "ATK": 249,
             "DEF": 799,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 11976,
+            "ATK": 311,
+            "DEF": 854,
             "Custom": 0.24
         },
         "Version": "1.1",
@@ -3476,6 +4018,12 @@
             "DEF": 601,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 10232,
+            "ATK": 266,
+            "DEF": 642,
+            "Custom": 0.24
+        },
         "Version": "1.1",
         "Fetter": 39,
         "_CV": {
@@ -3512,6 +4060,12 @@
             "HP": 13103,
             "ATK": 301,
             "DEF": 815,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 14034,
+            "ATK": 369,
+            "DEF": 873,
             "Custom": 0.288
         },
         "Version": "1.1",
@@ -3552,6 +4106,12 @@
             "DEF": 738,
             "Custom": 0.288
         },
+        "ShowStats2": {
+            "HP": 15740,
+            "ATK": 308,
+            "DEF": 790,
+            "Custom": 0.288
+        },
         "Version": "1.1",
         "Fetter": 30,
         "_CV": {
@@ -3588,6 +4148,12 @@
             "HP": 9244,
             "ATK": 170,
             "DEF": 703,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 9883,
+            "ATK": 213,
+            "DEF": 752,
             "Custom": 0.24
         },
         "Version": "1.0",
@@ -3628,6 +4194,12 @@
             "DEF": 653,
             "Custom": 0.32
         },
+        "ShowStats2": {
+            "HP": 11149,
+            "ATK": 352,
+            "DEF": 700,
+            "Custom": 0.32
+        },
         "Version": "1.0",
         "Fetter": 41,
         "_CV": {
@@ -3664,6 +4236,12 @@
             "HP": 10984,
             "ATK": 223,
             "DEF": 648,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 11743,
+            "ATK": 279,
+            "DEF": 693,
             "Custom": 0.24
         },
         "Version": "1.0",
@@ -3704,6 +4282,12 @@
             "DEF": 922,
             "Custom": 0.2215
         },
+        "ShowStats2": {
+            "HP": 13247,
+            "ATK": 352,
+            "DEF": 988,
+            "Custom": 0.2215
+        },
         "Version": "1.0",
         "Fetter": 35,
         "_CV": {
@@ -3740,6 +4324,12 @@
             "HP": 12071,
             "ATK": 191,
             "DEF": 799,
+            "Custom": 0.3
+        },
+        "ShowStats2": {
+            "HP": 12906,
+            "ATK": 239,
+            "DEF": 854,
             "Custom": 0.3
         },
         "Version": "1.0",
@@ -3780,6 +4370,12 @@
             "DEF": 771,
             "Custom": 0.2667
         },
+        "ShowStats2": {
+            "HP": 13255,
+            "ATK": 239,
+            "DEF": 825,
+            "Custom": 0.2667
+        },
         "Version": "1.0",
         "Fetter": 32,
         "_CV": {
@@ -3816,6 +4412,12 @@
             "HP": 9189,
             "ATK": 244,
             "DEF": 594,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 9825,
+            "ATK": 306,
+            "DEF": 635,
             "Custom": 0.24
         },
         "Version": "1.0",
@@ -3856,6 +4458,12 @@
             "DEF": 615,
             "Custom": 0.288
         },
+        "ShowStats2": {
+            "HP": 11018,
+            "ATK": 381,
+            "DEF": 659,
+            "Custom": 0.288
+        },
         "Version": "1.0",
         "Fetter": 29,
         "_CV": {
@@ -3892,6 +4500,12 @@
             "HP": 9787,
             "ATK": 212,
             "DEF": 573,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 10464,
+            "ATK": 266,
+            "DEF": 613,
             "Custom": 0.24
         },
         "Version": "1.0",
@@ -3932,6 +4546,12 @@
             "DEF": 758,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 10930,
+            "ATK": 253,
+            "DEF": 810,
+            "Custom": 0.24
+        },
         "Version": "1.0",
         "Fetter": 25,
         "_CV": {
@@ -3968,6 +4588,12 @@
             "HP": 13050,
             "ATK": 225,
             "DEF": 648,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 13953,
+            "ATK": 282,
+            "DEF": 693,
             "Custom": 0.24
         },
         "Version": "1.0",
@@ -4008,6 +4634,12 @@
             "DEF": 669,
             "Custom": 96
         },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 282,
+            "DEF": 715,
+            "Custom": 96
+        },
         "Version": "1.0",
         "Fetter": 23,
         "_CV": {
@@ -4044,6 +4676,12 @@
             "HP": 10531,
             "ATK": 263,
             "DEF": 669,
+            "Custom": 0.32
+        },
+        "ShowStats2": {
+            "HP": 11280,
+            "ATK": 323,
+            "DEF": 716,
             "Custom": 0.32
         },
         "Version": "1.0",
@@ -4084,6 +4722,12 @@
             "DEF": 601,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 10116,
+            "ATK": 279,
+            "DEF": 642,
+            "Custom": 0.24
+        },
         "Version": "1.0",
         "Fetter": 21,
         "_CV": {
@@ -4120,6 +4764,12 @@
             "HP": 11962,
             "ATK": 234,
             "DEF": 751,
+            "Custom": 0.3
+        },
+        "ShowStats2": {
+            "HP": 12790,
+            "ATK": 293,
+            "DEF": 803,
             "Custom": 0.3
         },
         "Version": "1.0",
@@ -4160,6 +4810,12 @@
             "DEF": 784,
             "Custom": 0.192
         },
+        "ShowStats2": {
+            "HP": 13903,
+            "ATK": 410,
+            "DEF": 840,
+            "Custom": 0.192
+        },
         "Version": "1.0",
         "Fetter": 16,
         "_CV": {
@@ -4196,6 +4852,12 @@
             "HP": 11636,
             "ATK": 223,
             "DEF": 792,
+            "Custom": 0.2667
+        },
+        "ShowStats2": {
+            "HP": 12441,
+            "ATK": 279,
+            "DEF": 846,
             "Custom": 0.2667
         },
         "Version": "1.0",
@@ -4236,6 +4898,12 @@
             "DEF": 669,
             "Custom": 0.24
         },
+        "ShowStats2": {
+            "HP": 10464,
+            "ATK": 199,
+            "DEF": 715,
+            "Custom": 0.24
+        },
         "Version": "1.0",
         "Fetter": 14,
         "_CV": {
@@ -4274,6 +4942,12 @@
             "DEF": 573,
             "Custom": 96
         },
+        "ShowStats2": {
+            "HP": 10232,
+            "ATK": 290,
+            "DEF": 613,
+            "Custom": 96
+        },
         "Version": "1.0",
         "Fetter": 6,
         "_CV": {
@@ -4310,6 +4984,12 @@
             "HP": 14695,
             "ATK": 239,
             "DEF": 769,
+            "Custom": 0.2215
+        },
+        "ShowStats2": {
+            "HP": 15740,
+            "ATK": 293,
+            "DEF": 823,
             "Custom": 0.2215
         },
         "Version": "1.0",
@@ -4352,6 +5032,13 @@
             "HP": 10875,
             "ATK": 212,
             "DEF": 683,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
             "Custom": 0.24,
             "Norm": 21098
         },
@@ -4398,6 +5085,13 @@
             "Custom": 0.24,
             "Norm": 21098
         },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
         "Version": "1.0",
         "Fetter": 5,
         "_CV": {
@@ -4441,6 +5135,13 @@
             "Custom": 0.24,
             "Norm": 21098
         },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
         "Version": "1.0",
         "Fetter": 7,
         "_CV": {
@@ -4481,6 +5182,13 @@
             "HP": 10875,
             "ATK": 212,
             "DEF": 683,
+            "Custom": 0.24,
+            "Norm": 21098
+        },
+        "ShowStats2": {
+            "HP": 11627,
+            "ATK": 266,
+            "DEF": 730,
             "Custom": 0.24,
             "Norm": 21098
         },
