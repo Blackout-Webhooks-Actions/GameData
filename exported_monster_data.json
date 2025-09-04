@@ -946,9 +946,9 @@
     },
     "5102": {
         "_id": 5102,
-        "Name": "Ninianne of the Lake",
+        "Name": "Veteran Tainted Water-Splitting Phantasm",
         "Title": [
-            "Rift-Subduing Lake Spirit"
+            "Water Without Source"
         ],
         "Desc": "",
         "Color": "Water",
@@ -966,8 +966,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "511": {
         "_id": 511,
@@ -1021,9 +1021,9 @@
     },
     "5112": {
         "_id": 5112,
-        "Name": "Vivianne of the Lake",
+        "Name": "Veteran Tainted Water-Spouting Phantasm",
         "Title": [
-            "Rift-Subduing Lake Spirit"
+            "Water Without Source"
         ],
         "Desc": "",
         "Color": "Water",
@@ -1041,8 +1041,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "512": {
         "_id": 512,
@@ -1100,9 +1100,7 @@
         "Icon": [
             "UI_MonsterIcon_Narcissusborn_Normal_01"
         ],
-        "Tutorial": 5300512,
-        "Class": "5.3",
-        "Category": "Event"
+        "Tutorial": 5300512
     },
     "513": {
         "_id": 513,
@@ -3156,9 +3154,9 @@
     },
     "30605": {
         "_id": 30605,
-        "Name": "Yseut",
+        "Name": "Veteran Frost Operative",
         "Title": [
-            "\"The Cold Hand\""
+            "Rimesword Servant"
         ],
         "Color": "Ice",
         "HP": 6.6,
@@ -3177,14 +3175,14 @@
             "ECLegends"
         ],
         "Tut": 3064,
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "30606": {
         "_id": 30606,
-        "Name": "Deianeira of Snezhevna",
+        "Name": "Veteran Wind Operative",
         "Title": [
-            "Risky Investment Actuary"
+            "Gale-Lily Servant"
         ],
         "Color": "Wind",
         "HP": 6.26,
@@ -3203,8 +3201,8 @@
             "ECLegends"
         ],
         "Tut": 3065,
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "40101": {
         "_id": 40101,
@@ -3714,9 +3712,9 @@
     },
     "40632": {
         "_id": 40632,
-        "Name": "Automated Supercomputing Field Generator",
+        "Name": "Veteran Arithmetic Enhancer Mek",
         "Title": [
-            "Verified Type Aur001"
+            "Arithmetic Enhancer Mek"
         ],
         "Color": "Rock",
         "HP": 7.6,
@@ -3736,8 +3734,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "40603": {
         "_id": 40603,
@@ -5634,8 +5632,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "60411": {
         "_id": 60411,
@@ -5661,8 +5659,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "60501": {
         "_id": 60501,
@@ -6007,9 +6005,9 @@
     },
     "60513": {
         "_id": 60513,
-        "Name": "Cineas",
+        "Name": "Battle-Hardened Primordial Bathysmal Vishap",
         "Title": [
-            "\"Unreturned Envoy\""
+            "Deep Sea-Dwelling Beast"
         ],
         "Tutorial": 60512,
         "Color": "Water",
@@ -6033,8 +6031,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "60601": {
         "_id": 60601,
@@ -6784,9 +6782,7 @@
         "Icon": [
             "UI_MonsterIcon_Golem_Centaur"
         ],
-        "Tutorial": 5361401,
-        "Class": "5.3",
-        "Category": "Event"
+        "Tutorial": 5361401
     },
     "61402": {
         "_id": 61402,
@@ -7168,9 +7164,7 @@
         "Icon": [
             "UI_MonsterIcon_HermitCrab_Primo"
         ],
-        "Tutorial": 5361701,
-        "Class": "5.3",
-        "Category": "Event"
+        "Tutorial": 5361701
     },
     "61801": {
         "_id": 61801,
@@ -7976,9 +7970,7 @@
         ],
         "Csx": [
             "ECElementalLifeforms"
-        ],
-        "Class": "3.7",
-        "Category": "Event"
+        ]
     },
     "3740303": {
         "_id": 3740303,
@@ -8015,9 +8007,7 @@
         ],
         "Csx": [
             "ECAutomatons"
-        ],
-        "Class": "3.7",
-        "Category": "Event"
+        ]
     },
     "3760507": {
         "_id": 3760507,
@@ -8040,9 +8030,7 @@
         ],
         "Csx": [
             "ECMysticalBeasts"
-        ],
-        "Class": "3.7",
-        "Category": "Event"
+        ]
     },
     "3760508": {
         "_id": 3760508,
@@ -8065,9 +8053,7 @@
         ],
         "Csx": [
             "ECMysticalBeasts"
-        ],
-        "Class": "3.7",
-        "Category": "Event"
+        ]
     },
     "4660501": {
         "_id": 4660501,
@@ -8107,9 +8093,7 @@
         ],
         "Csx": [
             "ECMysticalBeasts"
-        ],
-        "Class": "4.6",
-        "Category": "Event"
+        ]
     },
     "4660202": {
         "_id": 4660202,
@@ -8144,9 +8128,7 @@
         ],
         "Csx": [
             "ECMysticalBeasts"
-        ],
-        "Class": "4.6",
-        "Category": "Event"
+        ]
     },
     "4661101": {
         "_id": 4661101,
@@ -8187,9 +8169,7 @@
         ],
         "Csx": [
             "ECMysticalBeasts"
-        ],
-        "Class": "4.6",
-        "Category": "Event"
+        ]
     },
     "4661801": {
         "_id": 4661801,
@@ -8224,9 +8204,7 @@
         ],
         "Csx": [
             "ECMysticalBeasts"
-        ],
-        "Class": "4.6",
-        "Category": "Event"
+        ]
     },
     "40901": {
         "_id": 40901,
@@ -9165,7 +9143,7 @@
     },
     "30121": {
         "_id": 30121,
-        "Name": "Polychrome Tri-Stars: Sidorenko",
+        "Name": "Veteran Fatui Skirmisher - Cryogunner Legionnaire",
         "Title": [],
         "Desc": "",
         "Color": "Ice",
@@ -9189,12 +9167,12 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "30123": {
         "_id": 30123,
-        "Name": "Polychrome Tri-Stars: Nomokonov",
+        "Name": "Veteran Fatui Skirmisher - Electrohammer Vanguard",
         "Title": [],
         "Desc": "",
         "Color": "Elec",
@@ -9218,12 +9196,12 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "30126": {
         "_id": 30126,
-        "Name": "Polychrome Tri-Stars: Vasily",
+        "Name": "Veteran Fatui Skirmisher - Pyroslinger Bracer",
         "Title": [],
         "Desc": "",
         "Color": "Fire",
@@ -9247,14 +9225,14 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "30221": {
         "_id": 30221,
-        "Name": "\"Balachko\"",
+        "Name": "Veteran Fatui Pyro Agent",
         "Title": [
-            "Shadows Like Blades Deepening"
+            "Agent - Incinerating Blades"
         ],
         "Desc": "",
         "Color": "Fire",
@@ -9273,8 +9251,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "55151": {
         "_id": 55151,
@@ -9334,9 +9312,9 @@
     },
     "55172": {
         "_id": 55172,
-        "Name": "\"Sappho Amidst the Waves\"",
+        "Name": "Veteran Koholasaurus Warrior: Waveshuttler",
         "Title": [
-            "Waterborne Lutenist"
+            "Koholasaurus Warrior: Waveshuttler"
         ],
         "Desc": "",
         "Color": "Water",
@@ -9354,8 +9332,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "55153": {
         "_id": 55153,
@@ -9440,7 +9418,7 @@
     },
     "28021302": {
         "_id": 28021302,
-        "Name": "Cocijo",
+        "Name": "Battle-Hardened Tent Tortoise",
         "Title": [
             "Spirit of Cloud and Thunder"
         ],
@@ -9461,8 +9439,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "28022601": {
         "_id": 28022601,
@@ -9488,9 +9466,9 @@
     },
     "28022602": {
         "_id": 28022602,
-        "Name": "\"He Never Dies\"",
+        "Name": "Battle-Hardened Capybara",
         "Title": [
-            "Dragon-Defier"
+            "Capybara"
         ],
         "Desc": "These herbivores, which often dwell close to the water, are famous for their steely, stoic \"won't even twitch if lightning strikes right next to their toes\" disposition. Tourists consider them to be the paragon of animal friends.\nCapybaras like to zone out while having a soak in the water, or sun themselves on the shore, and it's quite common for them to barely move for most of the day, as though not a single thing in the world could possibly perturb their calm demeanor and make them anxious. Despite their fluffy appearance, their hairs are actually quite hard and tough. If you pet them in the same direction as their coat of hair, it feels relatively smooth, but should you pet them in the opposite direction, you may end up with a scratched hand. Perhaps that is the reason even famished predators do not regard these completely harmless and quite defenseless little friends as prey...",
         "HP": 10.32,
@@ -9505,8 +9483,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "21202": {
         "_id": 21202,
@@ -9779,9 +9757,7 @@
         "Icon": [
             "UI_MonsterIcon_DragonClaw"
         ],
-        "Tutorial": 5340902,
-        "Class": "5.3",
-        "Category": "Event"
+        "Tutorial": 5340902
     },
     "21201": {
         "_id": 21201,
@@ -10284,7 +10260,7 @@
     },
     "62610": {
         "_id": 62610,
-        "Name": "\"Potapo's Solidarity\"",
+        "Name": "Potapo's Solidarity: Secret Shadow's Re-Emergence",
         "Title": [
             "Will of Rivalry and Battle"
         ],
@@ -10304,8 +10280,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "626100": {
         "_id": 626100,
@@ -11011,9 +10987,9 @@
     },
     "62504": {
         "_id": 62504,
-        "Name": "The Peak",
+        "Name": "Battle-Hardened Tatankasaurus",
         "Title": [
-            "Mutant Species That Fell into the Volcano"
+            "Ranging Saurians of Natlan"
         ],
         "Color": "Fire",
         "Desc": "",
@@ -11037,8 +11013,8 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "62611": {
         "_id": 62611,
@@ -11464,7 +11440,6 @@
         "_id": 20051205,
         "Name": "Hydro Tulpa: Turbulent Vortex",
         "Title": [
-            "Hydro Tulpa",
             "Awakened Egregore"
         ],
         "Desc": "A humanoid monster formed from the agglomeration of water.\nCountless wills dissolved in the water, which, like the universe, was full of souls that wished to be born.\nSuffering and hatred, suffused into those waters, intersected to warp what was once human shape amidst the inchoate chaos of the Ley Lines. The tragic dissolution is soon to repeat itself...",
@@ -11496,7 +11471,6 @@
         "_id": 26270305,
         "Name": "Lava Dragon Statue: Blazing Flame",
         "Title": [
-            "Lava Dragon Statue",
             "Stone-Hearted Final Form of Flowing Flame"
         ],
         "Desc": "A monster that can continuously generate heat to sustain its activities.\nA failed attempt to birth wisdom from pure energy that bears the outline of a great race yet possesses no more consciousness than a stone.\nThough this being was once no different from a corpse, the Ley Lines in turmoil have imparted the virulent animus of the deceased upon it, adding thoughts fell and perilous to its instinct for battle.",
@@ -11534,7 +11508,6 @@
         "_id": 24090504,
         "Name": "Secret Source Automaton: Overseer Device - Obliterator Panoply",
         "Title": [
-            "Secret Source Automaton: Overseer Device",
             "Ancient Ruins Master Terminal"
         ],
         "Desc": "A domination mechanism from the ancient ruins.\nIn the distant past, a once-mighty ancient race used this mechanism to oversee the operation of their cities. Even now, long after the fall of their civilization, it still retains immense authority.\nIn the depths of the chaotic Ley Lines, the core energy module that deteriorated over the lengthening years has been restored, indeed, even \"overclocked\" to a dangerous degree. This machine is now unchained by its original specifications, capable of freeing itself from the planet's shackles and using its horrific \"Obliterator Panoply\"...",
@@ -11572,8 +11545,7 @@
         "_id": 55601,
         "Name": "The Last Survivor of Tenochtzitoc",
         "Title": [
-            "Actor: Papar",
-            "Gentle Yet Unyielding Resolve"
+            "Actor: Papar"
         ],
         "Desc": "",
         "Color": "Elec",
@@ -11603,9 +11575,8 @@
     },
     "55602": {
         "_id": 55602,
-        "Name": "The Last Survivor of Tenochtzitoc",
+        "Name": "Battle-Hardened Pipilpan Idol",
         "Title": [
-            "Actor: Papar",
             "Gentle Yet Unyielding Resolve"
         ],
         "Desc": "",
@@ -11631,14 +11602,13 @@
             "UI_MonsterIcon_Tenoyollotzin"
         ],
         "Tutorial": 55602,
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "22121604": {
         "_id": 22121604,
         "Name": "Tenebrous Papilla: Shadow Void Transfiguration",
         "Title": [
-            "Tenebrous Papilla",
             "Void Fantasy Plant"
         ],
         "Desc": "Abyssal monsters that grow like parasitic plants.\nAgents of continuous corrosion, these distorters are capable of extracting memories from deeper layers of the earth, and through the power of the Abyss, reconstructing memories of greater potency. The hatred once spread from their roots coalesced amidst the inchoate chaos of the Ley Lines to form blades of untold savagery that would inflict deep suffering on those foolhardy enough to challenge them...",
@@ -11689,7 +11659,6 @@
         "_id": 25560206,
         "Name": "Battle-Hardened Pipilpan Idol: Hundred Deceptions",
         "Title": [
-            "Actor: Papar",
             "Gentle Yet Unyielding Resolve"
         ],
         "Desc": "A Pipilpan Idol who channels the essence of Tenoch. Adept at dazzling hat tricks and stratagems of battle, it can attack from a wide range of angles, leaving reckless challengers paying the price for hasty missteps...\nAmidst the inchoate chaos of the Ley Lines, the performer's obsession takes form as flurries of rejection and annihilation. Any slight mistake may result in the challenger being ground into dust, just as Tenoch's opponents once were...",
@@ -11917,8 +11886,7 @@
         "_id": 213200,
         "Name": "Sigurd",
         "Title": [
-            "The One Who Swore to Hunt the Hunt",
-            "Battle-Hardened Lightkeeper"
+            "The One Who Swore to Hunt the Hunt"
         ],
         "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to fade, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
@@ -11937,10 +11905,9 @@
     },
     "21320": {
         "_id": 21320,
-        "Name": "Sigurd",
+        "Name": "Battle-Hardened Lightkeeper",
         "Title": [
-            "The One Who Swore to Hunt the Hunt",
-            "Battle-Hardened Lightkeeper"
+            ""
         ],
         "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to fade, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
@@ -11954,8 +11921,8 @@
         ],
         "Tutorial": 21320,
         "HPCount": 2,
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "41001": {
         "_id": 41001,
@@ -12145,10 +12112,9 @@
     },
     "307911": {
         "_id": 307911,
-        "Name": "Raskolnikov",
+        "Name": "Battle-Hardened Fireblade Shock Trooper",
         "Title": [
-            "Poruchik",
-            "Battle-Hardened Fireblade Shock Trooper"
+            "Molten Iron, Thundering Edge"
         ],
         "Desc": "Employed at the titanic Kuuvahki Experimental Design Bureau, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
         "Color": "Fire",
@@ -12170,15 +12136,14 @@
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
         ],
         "Tutorial": 30791,
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "307910": {
         "_id": 307910,
         "Name": "Raskolnikov",
         "Title": [
-            "Poruchik",
-            "Battle-Hardened Fireblade Shock Trooper"
+            "Poruchik"
         ],
         "Desc": "Employed at the titanic Kuuvahki Experimental Design Bureau, Poruchik Raskolnikov fulfills his role as a cog in the machine perfectly, executing every order without question, and doing his duty in silence and with precision.",
         "Color": "Fire",
@@ -12416,8 +12381,7 @@
         "_id": 616260,
         "Name": "Crab Tsar",
         "Title": [
-            "Lord of the Palace",
-            "Battle-Scarred Rock Crab"
+            "Lord of the Palace"
         ],
         "Desc": "Its mind infected by ancient moonlight, this ruler of crabs was plunged for a time into delirium and madness. But just as it was about to unleash its might, it suffered a crushing defeat at the hands of a thief who broke into its court, rendering it more agreeable. Even so, this crustacean suzerain yet yearns to clash pincers with strong foes, longing to triumph over opponents worthy of its full might.",
         "Color": "Water",
@@ -12441,10 +12405,9 @@
     },
     "61626": {
         "_id": 61626,
-        "Name": "Crab Tsar",
+        "Name": "Battle-Scarred Rock Crab",
         "Title": [
-            "Lord of the Palace",
-            "Battle-Scarred Rock Crab"
+            "Fighting Spirit, Driven by Regret"
         ],
         "Desc": "Its mind infected by ancient moonlight, this ruler of crabs was plunged for a time into delirium and madness. But just as it was about to unleash its might, it suffered a crushing defeat at the hands of a thief who broke into its court, rendering it more agreeable. Even so, this crustacean suzerain yet yearns to clash pincers with strong foes, longing to triumph over opponents worthy of its full might.",
         "Color": "Water",
@@ -12463,8 +12426,8 @@
             "UI_MonsterIcon_HermitCrab_Mature_Elite"
         ],
         "Tutorial": 61626,
-        "Class": "Spiral Abyss Versions",
-        "Category": "Local Legend"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "63001": {
         "_id": 63001,
@@ -12567,7 +12530,6 @@
         "_id": 24030305,
         "Name": "Aeonblight Drake: Annihilation Configuration",
         "Title": [
-            "Aeonblight Drake",
             "Perpetual Motion GL-Faf"
         ],
         "Desc": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\nThis mysterious, tireless mechanical monstrosity seems to be proof that the now-destroyed realm had reached heights that mortals should never have.\nDue to sustained corruption from the disordered Ley Lines, its frame has been enhanced, and it has adapted to its mission of annihilation so well that it has become a nightmare of death on the battlefield...",
@@ -12597,8 +12559,7 @@
         "_id": 26162605,
         "Name": "Battle-Scarred Rock Crab: One Million Blasts",
         "Title": [
-            "Battle-Scarred Rock Crab",
-            ""
+            "Fighting Spirit, Driven by Regret"
         ],
         "Desc": "A crab that lives within shells and conches. A distant relation to the Fontainian Armored Crab. Most specimens are docile and gentle, but there are stories of crabs fighting to the death to defend their territory — their gentle nature transforming to fuel a wild, frenzied rage.\nAmong the twisted illusions of the Ley Lines, the mighty Rock Crab warrior who fell to a horde of foes has reforged its offensive abilities to withstand the onslaught of a hundred thousand enemies — an endeavor rewarded with alarming success...",
         "Color": "Water",
@@ -12625,8 +12586,7 @@
         "_id": 23079405,
         "Name": "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope",
         "Title": [
-            "Battle-Hardened Fireblade Shock Trooper",
-            ""
+            "Molten Iron, Thundering Edge"
         ],
         "Color": "Fire",
         "Desc": "An elite officer of the Fatui Oprichniki who specializes in close combat using a giant blade.\nWhether it be in the war against the dark calamity or against those ignoramuses who dare stand against the Tsaritsa's ideals, those who breach at the tip of the spear suffer the greatest casualties. Those who survive a hundred battles only to fall all the same become a fearful memory in the Ley Lines. Due to sustained immersion in the twisted currents, these warriors' lingering shades turn the blades they once wielded in desperate battle against the challenger who seeks to quell the disorder....",
