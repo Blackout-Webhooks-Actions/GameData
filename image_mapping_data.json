@@ -2256,7 +2256,30 @@
             "Raskolnikov": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya",
             "Crab Tsar": "UI_MonsterIcon_HermitCrab_Mature_Elite"
         },
-        "Event": {
+        "Battle-Hardened": {
+            "Veteran Tainted Water-Splitting Phantasm": "UI_MonsterIcon_Necalevia_Normal",
+            "Veteran Tainted Water-Spouting Phantasm": "UI_MonsterIcon_Necalevia_Big",
+            "Veteran Frost Operative": "UI_MonsterIcon_Fatuus_Escadron_Ice",
+            "Veteran Wind Operative": "UI_MonsterIcon_Fatuus_Escadron_Wind",
+            "Veteran Arithmetic Enhancer Mek": "UI_MonsterIcon_MachinaIustitia_Pylon",
+            "Ruler of the Chizhang Mountains: Yiji": "UI_MonsterIcon_Drake_Rock",
+            "Ruler of the Chizhang Mountains: Tianyu": "UI_MonsterIcon_Drake_Rock",
+            "Battle-Hardened Primordial Bathysmal Vishap": "UI_MonsterIcon_Drake_Deepsea_Water",
+            "Veteran Fatui Skirmisher - Cryogunner Legionnaire": "fsc2",
+            "Veteran Fatui Skirmisher - Electrohammer Vanguard": "fse",
+            "Veteran Fatui Skirmisher - Pyroslinger Bracer": "fsp",
+            "Veteran Fatui Pyro Agent": "fpa",
+            "Veteran Koholasaurus Warrior: Waveshuttler": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
+            "Battle-Hardened Tent Tortoise": "UI_AnimalIcon_Tortoise_Electric",
+            "Battle-Hardened Capybara": "UI_AnimalIcon_Capybara_02",
+            "Potapo's Solidarity: Secret Shadow's Re-Emergence": "UI_MonsterIcon_Wayob_Shamansaurus",
+            "Battle-Hardened Tatankasaurus": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Crystal",
+            "Battle-Hardened Pipilpan Idol": "UI_MonsterIcon_Tenoyollotzin",
+            "Battle-Hardened Lightkeeper": "UI_MonsterIcon_WildHunt_Male_Sigurd",
+            "Battle-Hardened Fireblade Shock Trooper": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya",
+            "Battle-Scarred Rock Crab": "UI_MonsterIcon_HermitCrab_Mature_Elite"
+        },
+        "Miscellaneous": {
             "Hydro Tulpa: Flashflood": "UI_MonsterIcon_Narcissusborn_Normal_01",
             "Legatus Golem: Harmonizer": "UI_MonsterIcon_Golem_Centaur",
             "Tyrant of Fire and Iron": "UI_MonsterIcon_HermitCrab_Primo",
@@ -2268,6 +2291,7 @@
             "Sky-Searing Pyro Regisvine": "pr",
             "Metastable Jadeplume Terrorshroom": "jpt",
             "Enraged Millennial Pearl Seahorse": "UI_MonsterIcon_SeaHorse_Primo_Electric",
+            "Cocijo": "UI_AnimalIcon_Tortoise_Electric",
             "Secret Source Automaton: Firepower Enhanced": "UI_MonsterIcon_DragonClaw"
         },
         "Hilichurls": {
@@ -2609,9 +2633,6 @@
             "Chess Game: Queen Piece": "UI_MonsterIcon_GiantChess_Queen",
             "Ascended King": "UI_MonsterIcon_GiantChess_King",
             "Sublimated Queen": "UI_MonsterIcon_GiantChess_Queen"
-        },
-        "Miscellaneous": {
-            "Cocijo": "UI_AnimalIcon_Tortoise_Electric"
         },
         "Stygian Onslaught": {
             "Hydro Tulpa: Turbulent Vortex": "UI_MonsterIcon_Narcissusborn_Normal_01",
