@@ -53,6 +53,7 @@ manual_boss_overrides = {
 	"Primo Geovishap": "Hydro Primo Geovishap",
 	"Bathysmal Vishap Herd": "Coral Defenders",
 	"Semi-Intransient Matrices": "Algorithm of Semi-Intransient Matrix of Overseer Network",
+	"Semi-Intransient Matricis": "Algorithm of Semi-Intransient Matrix of Overseer Network",
 	"Iniquitous Baptist": "Iniquitous Baptist - Invoker of Flame, Frost, and Fulmination",
 	"Legatus Golem": "\"Statue of Marble and Brass\"",
 	"Tenebrous Papilla": "Tenebrous Papilla: Type I",
