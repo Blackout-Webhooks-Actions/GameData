@@ -43,9 +43,9 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
+            "Aino",
             "Flins",
-            "Lauma",
-            "Aino"
+            "Lauma"
         ],
         "NW": [
             14432,
@@ -68,6 +68,49 @@
             "5"
         ],
         "Note": "6.0v5"
+    },
+    {
+        "_name": "Nefer",
+        "_id": 1000,
+        "Name": "Nefer",
+        "Skills": [
+            {
+                "Name": "Kit Data",
+                "DescList": [
+                    "@Elemental Skill# Leaps into the air and ...",
+                    "@Elemental Burst# Uses her Polyhedral device to ...",
+                    "@Passive Talent [1]# Bloom does not create Dendro Cores, but instead grants Nefer with a special buff ...",
+                    "@Passive Talent [2]# Increases ATK ...",
+                    "@Passive Talent [3]# Similar to Lauma.",
+                    "@Passive Talent [4]# Gains more rewards when dispatched on a Nod Krai Expedition.",
+                    "@Constellation [1]# ???",
+                    "@Constellation [2]# Enhances Passive.",
+                    "@Constellation [3]# Increases the level of Elemental Skill.",
+                    "@Constellation [4]# Decreases enemies' Dendro RES.",
+                    "@Constellation [5]# Increases the level of Elemental Burst.",
+                    "@Constellation [6]# ???"
+                ],
+                "Tag": ""
+            }
+        ],
+        "Stats": {
+            "HP": 12417,
+            "ATK": 330,
+            "DEF": 828,
+            "Custom": 0.192,
+            "CustomPromote": "CR"
+        },
+        "Mats": [],
+        "Desc": "6.1v0",
+        "Title": "6.1v0",
+        "Grade": 5,
+        "Element": "Grass",
+        "Weapon": "Catalyst",
+        "Icon": "../Avatar/UI_AvatarIcon_Nefer",
+        "Gacha": "../Gacha/UI_Gacha_AvatarImg_Nefer",
+        "GachaBig": true,
+        "Version": "6.1v0",
+        "Add": true
     },
     {
         "_name": "Aino",
