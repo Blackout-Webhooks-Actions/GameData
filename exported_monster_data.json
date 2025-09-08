@@ -11907,7 +11907,7 @@
         "_id": 21320,
         "Name": "Battle-Hardened Lightkeeper",
         "Title": [
-            ""
+            "The Eternal Hunter"
         ],
         "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to fade, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. The dark abyss's corrosion has seeped into his marrow, causing him to lose his way, but the desire to defend hearth and home will surely reignite, reawakening him to continue a bitter, eternal battle.",
         "Color": "Elec",
@@ -12484,7 +12484,7 @@
             "Radiant Beast",
             "Lunapod"
         ],
-        "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the sea were not spared. Those who could not accept the moonlight into themselves vanished like foam, whether great sea serpents who could send waves skyward, or single-eyed monsters who once plotted to consume all things.",
+        "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the Forsaken Sea were not spared. Those who could not accept the moonlight into themselves vanished like foam, whether great sea serpents who could send waves skyward, or single-eyed monsters who once plotted to consume all things.",
         "Color": "Water",
         "HP": 5.0,
         "HPCurve": 2,

@@ -1051,7 +1051,7 @@
         "_id": 112123,
         "R": 2,
         "Name": "Reinforced Drive Shaft",
-        "Desc": "The reinforced drive shaft of a Landcruiser.<br>It took countless reports of destruction to bring about this insignificant improvement. In a sense, the administrative system of the Royal Ordnance Office is several times more complex than the machinery it builds. After all, even the most advanced Landcruisers don't take months or even years to build.",
+        "Desc": "The reinforced drive shaft of a Landcruiser.<br>It took countless reports of destruction to bring about this insignificant improvement. In a sense, the administrative system of the Royal Armory Palace is several times more complex than the machinery it builds. After all, even the most advanced Landcruisers don't take months or even years to build.",
         "Src": [
             "Dropped by Lv. 40+ Landcruisers",
             "Stardust Exchange",
@@ -3810,7 +3810,7 @@
         "_id": 114079,
         "R": 4,
         "Name": "Flare of Long Night Flint",
-        "Desc": "Weapon Ascension Material.<br>The insignia of the Lightkeepers is a nightingale holding a burning wick in its beak.<br>It is said that in the past, the nightingale insignia belonged to a renowned noble house in the northern kingdom. In the shadow untouched by light, a boy, who would become a legendary thief, carved his first raven insignia with his friend in imitatation of the nightingale.<br>But that was many years ago. Nowadays, the raven insignia can be seen everywhere, but the nightingale that the raven once looked up to still dwells on its tower, lamenting the winter city to the light.",
+        "Desc": "Weapon Ascension Material.<br>The insignia of the Lightkeepers is a nightingale holding a burning wick in its beak.<br>It is said that in the past, the nightingale insignia belonged to a renowned noble house in the northern kingdom. In the shadow untouched by light, a boy, who would become a legendary thief, carved his first raven insignia with his friend in imitation of the nightingale.<br>But that was many years ago. Nowadays, the raven insignia can be seen everywhere, but the nightingale that the raven once looked up to still dwells on its tower, lamenting the winter city to the light.",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -3843,7 +3843,7 @@
         "_id": 114076,
         "R": 5,
         "Name": "Artful Device Wish",
-        "Desc": "Weapon Ascension Material.<br>\"The poor, the starving, the wretched, the oppressed! My exiled brothers and sisters!\"<br>\"If you, too, have tasted indignities at the cruel hands of fate! If you, too, have wept in the night at the plight of your neighbors!\"<br>\"If you, too, have longed for a shelter from fear! If you, too, have dreamed of a world where no tears are shed!<br>\"Then join us, your brothers and sisters, in breaking the chains of slavery!\"<br>\"Let the dead bury the dead, for you will rise up, and with the treasures of the haughty, we will build an Elysium without boundaries!\"",
+        "Desc": "Weapon Ascension Material.<br>\"The poor, the starving, the wretched, the oppressed! My exiled brothers and sisters!\"<br>\"If you, too, have tasted indignities at the cruel hands of fate! If you, too, have wept in the night at the plight of your neighbors!\"<br>\"If you, too, have longed for a shelter from fear! If you, too, have dreamed of a world where no tears are shed!\"<br>\"Then join us, your brothers and sisters, in breaking the chains of slavery!\"<br>\"Let the dead bury the dead, for you will rise up, and with the treasures of the haughty, we will build an Elysium without boundaries!\"",
         "Src": [
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -4696,7 +4696,7 @@
         "_id": 101264,
         "R": 0,
         "Name": "Lakkaberry",
-        "Desc": "A fruit as white as pearl that tastes refreshingly sweet.<br>In the legends of the Frostmoon Scions, these fruits, like Kuuhenki, are a gift from Kuutar, a sacred symbol blessed by the new moon. Therefore, sharing and eating delicious Lakkaberries is also a form of worshipping Kuutar.<br>Even when not associated with the divine, their plumpness and sweetness alone are enough to awaken one's appetite.",
+        "Desc": "A fruit as white as pearl that tastes refreshingly sweet.<br>In the legends of the Frostmoon Scions, these fruits, like kuuhenki, are a gift from the Moon Maiden, a sacred symbol blessed by the new moon. Therefore, sharing and eating delicious Lakkaberries is also a form of worshipping Kuutar.<br>Even when not associated with the divine, their plumpness and sweetness alone are enough to awaken one's appetite.",
         "Src": [
             "Found in the wild"
         ],
@@ -4707,7 +4707,7 @@
         "_id": 101263,
         "R": 0,
         "Name": "Moonfall Silver",
-        "Desc": "A silver crystal as pure and pristine as moonlight. It possesses almost perfect elemental affinity.<br>In the legacy of the Frostmoon Scions, these crystals were born five hundred years ago alongside the Kuutar, and were believed by the Moonchanter at the time to be a gift from the moon, hence the name \"Moonfall Silver\". However, in older documents written by Snezhnayan chroniclers, the descendants of the golden realm were already using secret silver woven by the Frostmoon thousands of years in the past. The threads that connect these two tales are unclear — the only certain thing is that these crystals make excellent elemental conductors in the eyes of Nod-Krai's craftspeople.",
+        "Desc": "A silver crystal as pure and pristine as moonlight. It possesses almost perfect elemental affinity.<br>In the legacy of the Frostmoon Scions, these crystals were born five hundred years ago alongside the Moon Maiden, and were believed by the Moonchanter at the time to be a gift from the moon, hence the name \"Moonfall Silver\". However, in older documents written by Snezhnayan chroniclers, the descendants of the golden realm were already using secret silver woven by the Frostmoon thousands of years in the past. The threads that connect these two tales are unclear — the only certain thing is that these crystals make excellent elemental conductors in the eyes of Nod-Krai's craftspeople.",
         "Src": [
             "Go to collect",
             "Found on Hiisi Island"
@@ -4719,7 +4719,7 @@
         "_id": 101262,
         "R": 0,
         "Name": "Nocturnal Blossom",
-        "Desc": "A flower in two entwined colors with a strong affinity for kuuvahki. Its light fragrance and conspicuous color have made it an excellent natural dye.<br>Its contrasting colors are thought to symbolize the two different types of kuuvahki, so the followers of the Frostmoon Scions sometimes regard it as Kuutar's blessing.<br>It is said that this strangely shaped flower first appeared decades after the dark calamity ended five hundred years ago, a claim widely reflected in the verses of the Frostmoon Scions, though it has never been rigorously verified.",
+        "Desc": "A flower in two entwined colors with a strong affinity for kuuvahki. Its light fragrance and conspicuous color have made it an excellent natural dye.<br>Its contrasting colors are thought to symbolize the two different types of kuuvahki, so the followers of the Frostmoon Scions sometimes regard it as the Moon Maiden's blessing.<br>It is said that this strangely shaped flower first appeared decades after the dark calamity ended five hundred years ago, a claim widely reflected in the verses of the Frostmoon Scions, though it has never been rigorously verified.",
         "Src": [
             "Found in the wild"
         ],
@@ -4744,7 +4744,7 @@
         "_id": 101259,
         "R": 0,
         "Name": "Icy Pebble",
-        "Desc": "A pebble commonly found on Nod-Krai's coasts, characterized by a naturally occurring hollow. Touching it sends a faint chill through your finger.<br>According to ancient legends, the hollows in these pebbles were once shelters revealed to the fae by the Frostmoon — gateways to the ethereal. In another story popular in Nasha Town, the legendary thief, Reed Miller, was surrounded when a runestone given to him by a maiden of the Frostmoon as a token of her love allowed him to conceal himself and escape his pursuers. Naturally, the Frostmoon Scions vehemently reject this claim, as these pebbles do not display any such magical properties.",
+        "Desc": "A pebble commonly found on Nod-Krai's coasts, characterized by a naturally occurring hollow. Touching it sends a faint chill through your finger.<br>According to ancient legends, the hollows in these pebbles were once shelters revealed to the fae by the Frost Moon — gateways to the ethereal. In another story popular in Nasha Town, the legendary thief, Reed Miller, was surrounded when a runestone given to him by a holy lady of the Frost Moon as a token of her love allowed him to conceal himself and escape his pursuers. Naturally, the Frostmoon Scions vehemently reject this claim, as these pebbles do not display any such magical properties.",
         "Src": [
             "Found in the wild"
         ],
@@ -4755,7 +4755,7 @@
         "_id": 101257,
         "R": 0,
         "Name": "Portable Bearing",
-        "Desc": "Portable bearings that were mass-produced after the Fatui moved into Nod-Krai. Excessively worn units are discarded like obsolete personnel.<br>A few of them have a vestige of kuuvahki left inside. As they are difficult to imitate, they are occasionally used as currency by merchants in Nasha Town.<br>It's said that people tried to forge these bearings for that reason, but went bankrupt in the end because the cost of forging them was higher than their market value.",
+        "Desc": "A portable bearing of a type that was mass-produced after the Fatui moved into Nod-Krai. Excessively worn units are discarded like obsolete personnel.<br>A few of them have a vestige of kuuvahki left inside. As they are difficult to imitate, they are occasionally used as currency by merchants in Nasha Town.<br>It's said that people tried to forge these bearings for that reason, but went bankrupt in the end because the cost of forging them was higher than their market value.",
         "Src": [
             "Go to collect",
             "Found near Blue Amber Lake",
@@ -5677,10 +5677,10 @@
     {
         "_id": 210260,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Celebration: Sublime Flavors",
+        "Desc": "Namecard style.<br>Some say cooking a dish is a duel between a chef and a customer, and that the reward for the former's victory is the latter's satisfied smile.",
         "Src": [
-            "???"
+            "Obtained from a collaboration event"
         ],
         "Icon": "UI_NameCardIcon_YellowV2",
         "Pic": "UI_NameCardPic_YellowV2_P"
@@ -5732,8 +5732,8 @@
     {
         "_id": 210255,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Aino: Whoopsie Ducksie",
+        "Desc": "Namecard style.<br>When a \"Cool Your Jets Ducky\" is overheating, does Aino throw out another Ducky to cool its jets, or does she just say \"Whoopsie Ducksie\" and leave it at that?",
         "Src": [
             "Reward for reaching Friendship Lv. 10 with Aino"
         ],
@@ -5743,8 +5743,8 @@
     {
         "_id": 210254,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Flins: Oathkeeper's Lantern",
+        "Desc": "Namecard style.<br>As the saying goes, \"Will-o'-the-wisps are like love — most visible in the barren swamp, and just as likely to lead you into danger.\" Of course, the saying only relates to the natural phenomenon.",
         "Src": [
             "Reward for reaching Friendship Lv. 10 with Flins"
         ],
@@ -5754,8 +5754,8 @@
     {
         "_id": 210253,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Lauma: Branched Antlers",
+        "Desc": "Namecard style.<br>In a distant land, there are legends of those who bear antlers. Antlers are said to be the outgrowth of wisdom too vast for the mind to contain, branching upward like the limbs of a tree. One can't help but wonder if Lauma's antlers were once soft and covered in velvet.",
         "Src": [
             "Reward for reaching Friendship Lv. 10 with Lauma"
         ],
@@ -8487,8 +8487,8 @@
     {
         "_id": 121374,
         "R": 2,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Apple Cider",
+        "Desc": "Escorted all the way from Mondstadt by Mika, this Apple Cider is said to be a present prompted by a certain Cavalry Captain's proposal...",
         "Eff": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108151",
         "Recipe": 0,
@@ -8517,8 +8517,8 @@
     {
         "_id": 108908,
         "R": 2,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Sugar Sculpture: Flins",
+        "Desc": "A sugar sculpture crafted to capture a person's essence. The ancient, lonely lamp brings to mind Flins, standing guard by the graves.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108844",
         "Recipe": 0,
@@ -8527,28 +8527,28 @@
     {
         "_id": 108907,
         "R": 2,
-        "Name": "???",
-        "Desc": "???",
-        "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
-        "Icon": "UI_ItemIcon_108843",
-        "Recipe": 0,
-        "Buff": 8
-    },
-    {
-        "_id": 108906,
-        "R": 2,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Sugar Sculpture: Aino",
+        "Desc": "A sugar sculpture crafted to capture a person's essence. The playful and cute design brings to mind Aino, the whiz-kid mechanic.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108842",
         "Recipe": 0,
         "Buff": 8
     },
     {
+        "_id": 108906,
+        "R": 2,
+        "Name": "Sugar Sculpture: Lauma",
+        "Desc": "A sugar sculpture crafted to capture a person's essence. The elegant and sacred marks bring to mind Lauma, the Maiden of the Grove.",
+        "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
+        "Icon": "UI_ItemIcon_108843",
+        "Recipe": 0,
+        "Buff": 8
+    },
+    {
         "_id": 108905,
         "R": 2,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Sugar Sculpture: Ineffa",
+        "Desc": "A sugar sculpture crafted to capture a person's essence. The calm and reliable little robot brings to mind Ineffa, the mechanical maid.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108841",
         "Recipe": 0,
@@ -8985,8 +8985,8 @@
     {
         "_id": 108854,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Delicious Thick-Cut Duelist's Burger",
+        "Desc": "A burger with a thick-cut steak as its main ingredient. Constructed to embody the philosophy of \"defeating diners with deliciousness,\" the thick steak has a hearty texture, complemented by a variety of garnishes and toppings that bring out the flavor of the meat. It takes only one bite to be overwhelmed by the satisfaction of \"defeat.\"",
         "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108820",
         "Recipe": 4904,
@@ -8995,8 +8995,8 @@
     {
         "_id": 108853,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Thick-Cut Duelist's Burger",
+        "Desc": "A burger with a thick-cut steak as its main ingredient. The sumptuous bread gives off a pleasantly toasty aroma, which complements the rich sauce lavished on the thick steak. A variety of garnishes serve to enrich the mouthfeel and provide added nutritional value.",
         "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108820",
         "Recipe": 4904,
@@ -9005,8 +9005,8 @@
     {
         "_id": 108852,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Suspicious Thick-Cut Duelist's Burger",
+        "Desc": "A burger with a thick-cut steak as its main ingredient. The steak has been cut too thick and grilled too dry. It feels like you're chewing on some strange, rubbery meat, and the lettuce seems to have been left out for too long and wilted... Ingredients that should have complemented each other are now clashing on the tip of your tongue...",
         "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108820",
         "Recipe": 4904,
@@ -19182,7 +19182,7 @@
         "_id": 220123,
         "R": 4,
         "Name": "Luna Treasure Compass",
-        "Desc": "A compass that can be used in Nod-Krai to search for nearby treasure and relevant clues.<br>This sublunary sphere holds countless unknown treasures, waiting to be discovered by adventurers with courage or wit.",
+        "Desc": "A compass that can be used in Nod-Krai to search for nearby treasures and relevant clues.<br>This sublunary sphere holds countless unknown treasures, waiting to be discovered by adventurers with courage or wit.",
         "Src": [],
         "Icon": "UI_ItemIcon_220123",
         "Type": "Gadget"
@@ -19199,8 +19199,8 @@
     {
         "_id": 220121,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Rotor Hovering Daybed",
+        "Desc": "The Voynich Guild developed this hovering daybed using artifacts unearthed from the pioneering age.<br>Once activated, it hovers slightly above ground, allowing you to rest on it anywhere in the wild. A remarkable creation indeed!<br>Despite the Voynich Guild's best efforts at reverse-engineering, the daybed remains somewhat unstable — the technology of the pioneering age remains unfathomable to this day.<br>It is said that when the earliest hovering daybed was discovered, it was buried alongside a mechanical cat, leading some to call it the \"King Size Cat Bed.\"<br>\"No! It couldn't possibly be a cat bed. Everyone knows cats don't sleep in their own beds!\"",
         "Src": [],
         "Icon": "UI_ItemIcon_220121",
         "Type": "Gadget"
@@ -19208,8 +19208,8 @@
     {
         "_id": 220120,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Ujola Cat",
+        "Desc": "A mysterious mechanical being, much like a cat.<br>It is a gift from the Voynich Guild that was unearthed from an ancient ruin dating back to the pioneering age. According to an anonymous informant, the inscription at the excavation site once bore the word \"Ujola,\" but it weathered away shortly after being uncovered. To this day, the meaning of the name remains uncertain.<br>Perhaps it was simply a cat named \"Ujola,\" or it once belonged to someone by that name. Records from the Akademiya show that this name once belonged to a student from Nod-Krai many years ago. The truth is probably simple — after all, it's just a name paired with a cat. What more profound meaning could there possibly be?",
         "Src": [],
         "Icon": "UI_ItemIcon_220120",
         "Type": "Gadget"
@@ -19501,7 +19501,7 @@
         "Desc": "A Crystalfly Trap, developed by a senior researcher named Fawitzki from Fontaine Research Institute of Kinetic Energy Engineering.<br>After being properly deployed and inserting the required materials, this device will start working and lure Crystalflies inside.<br>Fawitzki once led research on \"Low-Temperature Lighting Devices,\" which required a large amount of Crystal Cores as research materials, which led to the development of the Crystalfly Trap.<br>However, the project was suspended for various reasons.<br>\"We are here to commemorate the diligent Mr. Fawitzki. We sincerely hope that there are those who will carry on his research. The Institute will provide maximum support in any areas deemed appropriate.\"",
         "Src": [
             "Reward for reaching Reputation Lv. 3 (Fontaine)",
-            ""
+            "Purchase from the blacksmith in Mondstadt or Liyue"
         ],
         "Icon": "UI_ItemIcon_220088",
         "Type": "Gadget"
@@ -19740,7 +19740,7 @@
         "Desc": "Talismans of this kind are often seen in the forests in Sumeru. They possess the ability to gather the power of grass and trees.<br>To prevent the erosion of the forest and, in darker times, to resist the invasion of vicious monsters, trees and vines would form impregnable shelters together.<br>The Lord of Verdure would grant these talismans to people, giving them unfettered access to walk amidst the forest under the guidance of streams and moonlight.<br>One day, the labyrinth disappeared, and the forest lost its intellect.<br>Even so, the people of Sumeru take these talismans as symbols of the forest's protection — and the forest answers the request of such talismans and gives its power.",
         "Src": [
             "Reward for reaching Reputation Lv. 3 (Sumeru)",
-            ""
+            "Purchase from the blacksmith in Mondstadt or Liyue"
         ],
         "Icon": "UI_ItemIcon_220059",
         "Type": "Gadget"

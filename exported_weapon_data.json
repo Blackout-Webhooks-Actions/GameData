@@ -239,7 +239,7 @@
         "Extra": [],
         "Story": 195433,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "15432",
@@ -282,7 +282,7 @@
         "EquipAffixID": 115431,
         "Extra": [],
         "Story": 195431,
-        "StoryCount": 2,
+        "StoryCount": 3,
         "V": "L"
     },
     {
@@ -965,7 +965,7 @@
         "Extra": [],
         "Story": 194520,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "14519",
@@ -1317,7 +1317,7 @@
         "Extra": [],
         "Story": 194433,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "14432",
@@ -1334,12 +1334,12 @@
             112133,
             112127
         ],
-        "EquipAffixName": "The Final Voice",
+        "EquipAffixName": "Last Singer",
         "EquipAffixID": 114432,
         "Extra": [],
         "Story": 194432,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "14431",
@@ -1360,7 +1360,7 @@
         "EquipAffixID": 114431,
         "Extra": [],
         "Story": 194431,
-        "StoryCount": 2,
+        "StoryCount": 3,
         "V": "L"
     },
     {
@@ -1977,7 +1977,7 @@
         "Extra": [],
         "Story": 193516,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "13515",
@@ -2241,7 +2241,7 @@
         "Extra": [],
         "Story": 193433,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "13432",
@@ -2284,7 +2284,7 @@
         "EquipAffixID": 113431,
         "Extra": [],
         "Story": 193431,
-        "StoryCount": 2,
+        "StoryCount": 3,
         "V": "L"
     },
     {
@@ -3011,7 +3011,7 @@
         "Extra": [],
         "Story": 192433,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "12432",
@@ -3054,7 +3054,7 @@
         "EquipAffixID": 112431,
         "Extra": [],
         "Story": 192431,
-        "StoryCount": 2,
+        "StoryCount": 3,
         "V": "L"
     },
     {
@@ -4001,7 +4001,7 @@
         "Extra": [],
         "Story": 191434,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "11433",
@@ -4023,7 +4023,7 @@
         "Extra": [],
         "Story": 191433,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "11432",
@@ -4066,7 +4066,7 @@
         "EquipAffixID": 111431,
         "Extra": [],
         "Story": 191431,
-        "StoryCount": 2,
+        "StoryCount": 3,
         "V": "L"
     },
     {
