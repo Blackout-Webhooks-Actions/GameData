@@ -5746,6 +5746,7 @@
             "Long-Slumbering Earthshaker Dragon"
         ],
         "Desc": "After many years, the awesomely powerful Primo Geovishaps grow accustomed to changes in their elemental environment.\nFolktales hold that after the great \"draconic calamity\" that led to the ruination of Tianqiu Valley, the overlord of the Geovishaps and Primo Geovishaps was imprisoned deep beneath the earth, and so too did they burrow into deep and unseen places, awaiting their chance to rise once more...",
+        "Color": "Rock",
         "UseCustomColorName": true,
         "HP": 30.0,
         "HPCurve": 1,
@@ -11693,7 +11694,7 @@
         "Name": "Gleaming Charge: Frostnight Scion",
         "Title": [
             "Frostnight Scion",
-            "Gleaming Charge"
+            ""
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Electro, resulting in its present form.\nOne of the manifestations with the most violent temperament, it commands steel-shattering bolts of lightning like mere servants, such that any land it passes through shall be marked as if by a marauding, thunderous calamity.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "Color": "Elec",
@@ -11731,7 +11732,7 @@
         "Name": "Tangled Vines: Frostnight Scion",
         "Title": [
             "Frostnight Scion",
-            "Tangled Vines"
+            ""
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Dendro, resulting in its present form.\nThis entity has a marvelous resonance with the plant life of the groves. Some say that one of the Moonchanters once made a contract with the wooded lands with their help, thus becoming a friend and companion to all life on this land.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "Color": "Grass",
@@ -11769,7 +11770,7 @@
         "Name": "Blazing Brilliance: Frostnight Scion",
         "Title": [
             "Frostnight Scion",
-            "Blazing Brilliance"
+            ""
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Pyro, resulting in its present form.\nOne of the manifestations with the most violent temperament, even at the frigid edges of the world, it is wreathed in unquenchable flame.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "Color": "Fire",
@@ -11807,7 +11808,7 @@
         "Name": "Icy Crystal: Frostnight Scion",
         "Title": [
             "Frostnight Scion",
-            "Icy Crystal"
+            ""
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Cryo, resulting in its present form.\nIt is said that this entity is closest to the original form of a Frostnight Scion. It will use icy mists and crystals to set up redoubtable walls, but perhaps it does this only to separate the flawless primeval light from the world that lies beneath the moon.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "Color": "Ice",
@@ -12615,6 +12616,98 @@
         "Tut": 3094,
         "Tutorial": 23079405,
         "Class": "6.0",
+        "Category": "Stygian Onslaught"
+    },
+    "810": {
+        "_id": 810,
+        "Name": "Frostnight Herra",
+        "Title": [
+            "Guardian of the Holy Light",
+            "Frostnight Herra"
+        ],
+        "Desc": "Proud beings that roam in the waning glow of the moon, wielding ancient powers long since tamed by the Lord of the Sky.\nLegend says these graceful and mystical beasts were born in the age before the Frost Moon shattered, and, favored by the divine emissary, they would not be tainted by the skylight. Even now, among the followers of the Frost Moon, they are regarded as sacred beasts lost to this world, retreating along secret lunar paths beyond the reach of mortal eyes. Yet, as they have for countless centuries past, they still wander in the shadows of the moon, treading the boundary between two worlds, guarding the lands coveted by calamity, and watching over those who dwell within them — for this is the very oath they first swore to the apostle of the golden city.",
+        "Color": "Ice",
+        "HP": 11.0,
+        "HPCurve": 2,
+        "ATK": 8.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_HerraFrost"
+        ],
+        "Tut": 3099,
+        "Tutorial": 810,
+        "Class": "Elemental Lifeforms",
+        "Category": "<b>6.1</b>"
+    },
+    "20081101": {
+        "_id": 20081101,
+        "Name": "Frostnight Herra: Hatred and Rage",
+        "Title": [
+            "Guardian of the Holy Light",
+            "Frostnight Herra"
+        ],
+        "Desc": "",
+        "Color": "Ice",
+        "HP": 264.6519,
+        "HPCurve": 20,
+        "ATK": 5.5,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_HerraFrost"
+        ],
+        "MultiPlayerID": 108,
+        "Tutorial": 20081101,
+        "Class": "6.1",
+        "Category": "Stygian Onslaught"
+    },
+    "22132005": {
+        "_id": 22132005,
+        "Name": "Battle-Hardened Lightkeeper: Mourning Echoes",
+        "Title": [
+            "Battle-Hardened Lightkeeper",
+            "The Eternal Hunter"
+        ],
+        "Desc": "",
+        "HP": 155.67758,
+        "HPCurve": 20,
+        "ATK": 5.5,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_WildHunt_Male_Sigurd"
+        ],
+        "MultiPlayerID": 108,
+        "Color": "Elec",
+        "Tutorial": 22132005,
+        "HPCount": 2,
+        "Class": "6.1",
+        "Category": "Stygian Onslaught"
+    },
+    "23060503": {
+        "_id": 23060503,
+        "Name": "Veteran Frost Operative: Bloodsoaked Blade",
+        "Title": [
+            "Veteran Frost Operative",
+            ""
+        ],
+        "Desc": "",
+        "HP": 290.68085,
+        "HPCurve": 20,
+        "ATK": 2.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Ice": 0.7,
+            "Phys": -0.2
+        },
+        "Icon": [
+            "UI_MonsterIcon_Fatuus_Escadron_Ice"
+        ],
+        "MultiPlayerID": 108,
+        "Color": "Ice",
+        "Tutorial": 23060503,
+        "Class": "6.1",
         "Category": "Stygian Onslaught"
     }
 }

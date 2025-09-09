@@ -43,75 +43,62 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Lauma",
-            "Flins",
-            "Aino"
+            "Nefer"
         ],
         "NW": [
-            14432,
-            14433,
-            11433,
-            11434,
-            15433,
-            13516,
-            12433,
-            14520,
-            13433
+            14521,
+            13434,
+            14434
         ],
         "NR": [],
         "VS": [
-            "1",
-            "15",
-            "2",
-            "3",
-            "4",
-            "5",
-            "L"
+            "1"
         ],
-        "Note": "6.0"
+        "Note": "6.1v1"
     },
     {
         "_name": "Nefer",
-        "_id": 1000,
+        "_id": 122,
         "Name": "Nefer",
-        "Skills": [
-            {
-                "Name": "Kit Data",
-                "DescList": [
-                    "@Elemental Skill# Leaps into the air and ...",
-                    "@Elemental Burst# Uses her Polyhedral device to ...",
-                    "@Passive Talent [1]# Bloom does not create Dendro Cores, but instead grants Nefer with a special buff ...",
-                    "@Passive Talent [2]# Increases EM ...",
-                    "@Passive Talent [3]# Similar to Lauma.",
-                    "@Passive Talent [4]# Gains more rewards when dispatched on a Nod Krai Expedition.",
-                    "@Constellation [1]# ???",
-                    "@Constellation [2]# Enhances Passive.",
-                    "@Constellation [3]# Increases the level of Elemental Skill.",
-                    "@Constellation [4]# Decreases enemies' Dendro RES.",
-                    "@Constellation [5]# Increases the level of Elemental Burst.",
-                    "@Constellation [6]# ???"
-                ],
-                "Tag": ""
-            }
-        ],
-        "Stats": {
-            "HP": 12417,
-            "ATK": 330,
-            "DEF": 828,
-            "Custom": 0.192,
-            "CustomPromote": "CR"
-        },
-        "Mats": [],
-        "Desc": "6.1v0",
-        "Title": "6.1v0",
+        "Desc": "",
+        "Title": "",
+        "Constellation": "",
+        "Nation": "???",
+        "Belong": "",
         "Grade": 5,
-        "Element": "Grass",
+        "Type": "Lady",
         "Weapon": "Catalyst",
-        "Icon": "../Avatar/UI_AvatarIcon_Nefer",
-        "Gacha": "../Gacha/UI_Gacha_AvatarImg_Nefer",
-        "GachaBig": true,
-        "Version": "6.1v0",
-        "Add": true
+        "Element": "Grass",
+        "Birthday": "5/9",
+        "Icon": "UI_AvatarIcon_Nefer",
+        "CommonMatt": 112127,
+        "TalentMat": 2,
+        "TalentMatt": 104361,
+        "SpecialityMat": 101263,
+        "AscMat": 113079,
+        "WeekMat": 113074,
+        "CustomPromote": "CD",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 12704,
+            "ATK": 344,
+            "DEF": 799,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13607,
+            "ATK": 422,
+            "DEF": 856,
+            "Custom": 0.384
+        },
+        "Version": "6.1v1",
+        "Fetter": 122,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
     },
     {
         "_name": "Aino",

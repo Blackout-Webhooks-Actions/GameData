@@ -282,7 +282,7 @@
         "EquipAffixID": 115431,
         "Extra": [],
         "Story": 195431,
-        "StoryCount": 3,
+        "StoryCount": 2,
         "V": "L"
     },
     {
@@ -946,6 +946,28 @@
         "V": "L"
     },
     {
+        "_id": "14521",
+        "Name": "Reliquary of Truth",
+        "Desc": "",
+        "Type": 3,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Catalyst_Sistrum",
+        "Stat": 541.829758,
+        "Custom": "CD",
+        "CustomStat": 0.882048,
+        "AscMatID": 114044,
+        "MatIDs": [
+            112133,
+            112061
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 114521,
+        "Extra": [],
+        "Story": 194521,
+        "StoryCount": 1,
+        "V": "1"
+    },
+    {
         "_id": "14520",
         "Name": "Nightweaver's Looking Glass",
         "Desc": "A mirror crafted from flawless silver that is said to have witnessed the birth of the Moon Maiden. It is seen as a relic of unrivalled provenance by the Frostmoon Scions.",
@@ -1298,6 +1320,28 @@
         "V": "L"
     },
     {
+        "_id": "14434",
+        "Name": "Froststar",
+        "Desc": "",
+        "Type": 3,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Catalyst_Ziedas",
+        "Stat": 509.605949,
+        "Custom": "CD",
+        "CustomStat": 0.55128,
+        "AscMatID": 114076,
+        "MatIDs": [
+            112130,
+            112127
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 114434,
+        "Extra": [],
+        "Story": 194434,
+        "StoryCount": 1,
+        "V": "1"
+    },
+    {
         "_id": "14433",
         "Name": "Blackmarrow Lantern",
         "Desc": "A lantern that emits a faint, ghostly glow, contained by a midnight-black alloy that resembles interlocking bones. It is said to have once been revered as a precious treasure by a certain secret organization.",
@@ -1360,7 +1404,7 @@
         "EquipAffixID": 114431,
         "Extra": [],
         "Story": 194431,
-        "StoryCount": 3,
+        "StoryCount": 2,
         "V": "L"
     },
     {
@@ -2222,6 +2266,28 @@
         "V": "L"
     },
     {
+        "_id": "13434",
+        "Name": "Sacrificer's Staff",
+        "Desc": "",
+        "Type": 4,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Pole_Krivule",
+        "Stat": 620.0329535,
+        "Custom": "CR",
+        "CustomStat": 0.09188,
+        "AscMatID": 114080,
+        "MatIDs": [
+            112136,
+            112124
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 113434,
+        "Extra": [],
+        "Story": 193434,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
         "_id": "13433",
         "Name": "Prospector's Shovel",
         "Desc": "A polearm that appears to have been crafted from a metal agricultural tool. At first glance, it could not look more ordinary, yet its discreet design hides fittings that are both lavish and undeniably exquisite.",
@@ -2284,7 +2350,7 @@
         "EquipAffixID": 113431,
         "Extra": [],
         "Story": 193431,
-        "StoryCount": 3,
+        "StoryCount": 2,
         "V": "L"
     },
     {
@@ -3054,7 +3120,7 @@
         "EquipAffixID": 112431,
         "Extra": [],
         "Story": 192431,
-        "StoryCount": 3,
+        "StoryCount": 2,
         "V": "L"
     },
     {
@@ -4066,7 +4132,7 @@
         "EquipAffixID": 111431,
         "Extra": [],
         "Story": 191431,
-        "StoryCount": 3,
+        "StoryCount": 2,
         "V": "L"
     },
     {

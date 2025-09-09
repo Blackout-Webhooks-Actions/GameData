@@ -1,5 +1,16 @@
 [
     {
+        "_id": 113079,
+        "R": 4,
+        "Name": "",
+        "Desc": "",
+        "Src": [
+            ""
+        ],
+        "Icon": "UI_ItemIcon_113079",
+        "Type": ""
+    },
+    {
         "_id": 113078,
         "R": 4,
         "Name": "Lightbearing Scale-Feather",
@@ -5675,6 +5686,28 @@
         "Type": "Forging Ore"
     },
     {
+        "_id": 210262,
+        "R": 4,
+        "Name": "Travel Notes: Bygone Ruins",
+        "Desc": "Namecard style.<br>Hidden beyond time and veiled in eternal shadow, the one who embraces the silent spring of dreams with riddles awaits the world's answer in the wake of a falling star.",
+        "Src": [
+            "BP Reward"
+        ],
+        "Icon": "UI_NameCardIcon_Bp45",
+        "Pic": "UI_NameCardPic_Bp45_P"
+    },
+    {
+        "_id": 210261,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "Reward for reaching Friendship 10 with Nefer"
+        ],
+        "Icon": "UI_NameCardIcon_Nefer",
+        "Pic": "UI_NameCardPic_Nefer_P"
+    },
+    {
         "_id": 210260,
         "R": 4,
         "Name": "Celebration: Sublime Flavors",
@@ -8513,6 +8546,118 @@
         "Icon": "UI_ItemIcon_111029",
         "Recipe": 14101,
         "Buff": 2
+    },
+    {
+        "_id": 108919,
+        "R": 2,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
+        "Icon": "UI_ItemIcon_108851",
+        "Recipe": 0,
+        "Buff": 8
+    },
+    {
+        "_id": 108918,
+        "R": 2,
+        "Name": "Exchanged Whisper",
+        "Desc": "Nefer's specialty dish. Her voice coaxes a deal: \"How about this in exchange for one of your interesting anecdotes?\" No sooner are the words out of her mouth that a plate of irresistibly fragrant, superbly crunchy balls appears before you. You reach out for the balls in tacit agreement when she gently catches your hand. \"Oh by the way,\" she adds, \"it's one ball for at least one sentence.\" ...Sure enough, one has to pay the right price for a taste of Nefer's cooking.",
+        "Eff": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+        "Icon": "UI_ItemIcon_108850",
+        "Recipe": 2305,
+        "Avatar": 122,
+        "AI": "UI_AvatarIcon_Nefer",
+        "Buff": 4
+    },
+    {
+        "_id": 108917,
+        "R": 2,
+        "Name": "Forager's Way",
+        "Desc": "Liquid gradient in a glass. This does not appear to contain any alcohol. Containing two of Nod-Krai's signature berries, its vibrant colors feel light and cheerful, as if you are strolling down a path with fruit all around you.",
+        "Eff": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
+        "Icon": "UI_ItemIcon_108849",
+        "Recipe": 0,
+        "Buff": 5
+    },
+    {
+        "_id": 108916,
+        "R": 2,
+        "Name": "Frontier Land",
+        "Desc": "Liquid gradient in a glass. This does not appear to contain any alcohol. The inspiration for this concoction is said to come from Nod-Krai itself, with an icy and bracing sensation that finishes on a smoky and astringent note. It's worth noting that the high-alcohol version of this drink is a daily staple for many veteran adventurers in the region.",
+        "Eff": "Restores 80 Stamina.",
+        "Icon": "UI_ItemIcon_108848",
+        "Recipe": 0,
+        "Buff": 7
+    },
+    {
+        "_id": 108915,
+        "R": 2,
+        "Name": "Piramida's Nightingale",
+        "Desc": "A clear beverage with an elegant color. This glass does not appear to contain any alcohol. Legend has it that the Torchforger Solovei once gifted a nightingale to a certain person, and that moment served as the inspiration for this drink. Now, only the nightingale's song remains unchanged as it continues to flow through the quiet night.",
+        "Eff": "Restores 30% of Max HP and an additional 1,750 HP to the selected character.",
+        "Icon": "UI_ItemIcon_108847",
+        "Recipe": 0,
+        "Buff": 0
+    },
+    {
+        "_id": 108914,
+        "R": 2,
+        "Name": "Delicious Lohikeitto",
+        "Desc": "A classic soup from the frigid regions. The creamy soup, smooth as flowing silk, envelops each ingredient in a smooth embrace. As you take your first sip, you can feel a gentle, cozy warmth spread throughout you, as if an orange-red sun is rising within.",
+        "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
+        "Icon": "UI_ItemIcon_108846",
+        "Recipe": 2605,
+        "Buff": 5
+    },
+    {
+        "_id": 108913,
+        "R": 2,
+        "Name": "Lohikeitto",
+        "Desc": "A classic soup from the frigid regions. Cut the salmon into pieces and cook it with some fresh vegetables. Just before serving, stir in the cream and other seasonings for a bowl of warm, hearty soup with a silky-smooth texture.",
+        "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
+        "Icon": "UI_ItemIcon_108846",
+        "Recipe": 2605,
+        "Buff": 5
+    },
+    {
+        "_id": 108912,
+        "R": 2,
+        "Name": "Suspicious Lohikeitto",
+        "Desc": "A classic soup from the frigid regions. At first glance, it appears unremarkable. However, a single sip reveals an overwhelming burnt flavor. You quickly inspect the pot and sure enough, the bottom is a charred, brown mess... For the sake of your health, it's probably best to skip this one.",
+        "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
+        "Icon": "UI_ItemIcon_108846",
+        "Recipe": 2605,
+        "Buff": 5
+    },
+    {
+        "_id": 108911,
+        "R": 3,
+        "Name": "Delicious Lakkaberry Pie",
+        "Desc": "A sweet treat from the borderlands. The dense crust of this pie, with its subtle grain aroma, is a perfect match for the sweet-and-tart flavor of the two kinds of berries in the filling. It's no wonder this delightfully punchy treat has become a beloved comfort across Nod-Krai.",
+        "Eff": "Restores 100 Stamina.",
+        "Icon": "UI_ItemIcon_108845",
+        "Recipe": 3607,
+        "Buff": 7
+    },
+    {
+        "_id": 108910,
+        "R": 3,
+        "Name": "Lakkaberry Pie",
+        "Desc": "A sweet treat from the borderlands. Originally made with only Lakkaberries, it was later enriched with Midsommar Berries. The two fruits complement each other perfectly, giving it a richer, more enticing flavor, yet the original name remains.",
+        "Eff": "Restores 85 Stamina.",
+        "Icon": "UI_ItemIcon_108845",
+        "Recipe": 3607,
+        "Buff": 7
+    },
+    {
+        "_id": 108909,
+        "R": 3,
+        "Name": "Suspicious Lakkaberry Pie",
+        "Desc": "A sweet treat from the borderlands. After a solid bite, the coarse crumbs of this pie grate against the inside of your mouth, making for an uncomfortable crunch. Yet just as you're about to regret the effort, a faint hint of berry flavor lingers, reminding you it's not quite like gnawing on permafrost after all...",
+        "Eff": "Restores 70 Stamina.",
+        "Icon": "UI_ItemIcon_108845",
+        "Recipe": 3607,
+        "Buff": 7
     },
     {
         "_id": 108908,
@@ -18959,6 +19104,38 @@
             "Envisaged Echoes challenge reward"
         ],
         "Icon": "UI_TraceEffectIcon_Qin"
+    },
+    {
+        "_id": 900004,
+        "R": 1,
+        "Name": "Custom Avatar",
+        "Desc": "",
+        "Src": [],
+        "Pic": ""
+    },
+    {
+        "_id": 900003,
+        "R": 1,
+        "Name": "Avatar Info Error",
+        "Desc": "",
+        "Src": [],
+        "Pic": "UI_AvatarIcon_Mannequin_Custom_Circle"
+    },
+    {
+        "_id": 900002,
+        "R": 1,
+        "Name": "Default Manekina Avatar",
+        "Desc": "",
+        "Src": [],
+        "Pic": "UI_AvatarIcon_MannequinGirl_Circle"
+    },
+    {
+        "_id": 900001,
+        "R": 1,
+        "Name": "Default Manekin Avatar",
+        "Desc": "",
+        "Src": [],
+        "Pic": "UI_AvatarIcon_MannequinBoy_Circle"
     },
     {
         "_id": 200010,
