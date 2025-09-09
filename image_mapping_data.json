@@ -1504,6 +1504,8 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
+            "Travel Notes: Bygone Ruins": 210262,
+            "???": 210261,
             "Celebration: Sublime Flavors": 210260,
             "Travel Notes: Glacial Moon": 210259,
             "Achievement: Time Apart": 210258,
@@ -1763,6 +1765,17 @@
         },
         "Miscellaneous": {
             "Apple Cider": 121374,
+            "???": 108919,
+            "Exchanged Whisper": 108918,
+            "Forager's Way": 108917,
+            "Frontier Land": 108916,
+            "Piramida's Nightingale": 108915,
+            "Delicious Lohikeitto": 108914,
+            "Lohikeitto": 108913,
+            "Suspicious Lohikeitto": 108912,
+            "Delicious Lakkaberry Pie": 108911,
+            "Lakkaberry Pie": 108910,
+            "Suspicious Lakkaberry Pie": 108909,
             "Sugar Sculpture: Flins": 108908,
             "Sugar Sculpture: Aino": 108907,
             "Sugar Sculpture: Lauma": 108906,
@@ -1772,6 +1785,10 @@
             "Sugar Sculpture: Dualblaze Longplume Ibis": 108902,
             "Sugar Sculpture: Chic Badger": 108901,
             "Sugar Sculpture: Rimehorn Deer": 108900,
+            "Custom Avatar": 900004,
+            "Avatar Info Error": 900003,
+            "Default Manekina Avatar": 900002,
+            "Default Manekin Avatar": 900001,
             "Vigorous Yapping": 200010
         },
         "Profile Pictures": {
@@ -1980,6 +1997,7 @@
             "Raven Bow": "Bow_Crowfeather"
         },
         "Catalyst": {
+            "Reliquary of Truth": "Catalyst_Sistrum",
             "Nightweaver's Looking Glass": "Catalyst_MenulisRing",
             "Vivid Notions": "Catalyst_VaresaTransformer",
             "Sunny Morning Sleep-In": "Catalyst_SakuraFan",
@@ -1996,6 +2014,7 @@
             "Memory of Dust": "Catalyst_Kunwu",
             "Lost Prayer to the Sacred Winds": "Catalyst_Fourwinds",
             "Skyward Atlas": "Catalyst_Dvalin",
+            "Froststar": "Catalyst_Ziedas",
             "Blackmarrow Lantern": "Catalyst_Ilmarinen",
             "Etherlight Spindlelute": "Catalyst_SeeliesLute",
             "Ring of Yaxche": "Catalyst_Isikhulu",
@@ -2040,6 +2059,7 @@
             "Vortex Vanquisher": "Pole_Kunwu",
             "Skyward Spine": "Pole_Dvalin",
             "Staff of Homa": "Pole_Homa",
+            "Sacrificer's Staff": "Pole_Krivule",
             "Prospector's Shovel": "Pole_Ilmarinen",
             "Tamayuratei no Ohanashi": "Pole_Aoandon",
             "Footprint of the Rainbow": "Pole_Isikhulu",
@@ -2654,7 +2674,13 @@
             "Battle-Hardened Pipilpan Idol: Hundred Deceptions": "UI_MonsterIcon_Tenoyollotzin",
             "Aeonblight Drake: Annihilation Configuration": "abd",
             "Battle-Scarred Rock Crab: One Million Blasts": "UI_MonsterIcon_HermitCrab_Mature_Elite",
-            "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
+            "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya",
+            "Frostnight Herra: Hatred and Rage": "UI_MonsterIcon_HerraFrost",
+            "Battle-Hardened Lightkeeper: Mourning Echoes": "UI_MonsterIcon_WildHunt_Male_Sigurd",
+            "Veteran Frost Operative: Bloodsoaked Blade": "UI_MonsterIcon_Fatuus_Escadron_Ice"
+        },
+        "<b>6.1</b>": {
+            "Frostnight Herra": "UI_MonsterIcon_HerraFrost"
         }
     }
 }
