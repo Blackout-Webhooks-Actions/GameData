@@ -6549,6 +6549,47 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 122,
+            "name": "Nefer",
+            "constellation": "",
+            "version": "6.1",
+            "star": 5,
+            "nation": "???",
+            "element": "Dendro",
+            "weapon": "Catalyst",
+            "birthday": "05-09",
+            "title": "",
+            "description": "",
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "6.1",
+                    "phase": "upcoming",
+                    "wishType": "event",
+                    "info": "official"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Fatui Oprichniki Materials",
+                            "elementalGem": "Nagadus Emerald",
+                            "normalBossDrop": null,
+                            "localSpecialty": "Moonfall Silver"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Fatui Oprichniki Materials",
+                            "weeklyBossDrop": "Ascended Sample: Rook",
+                            "talentBooks": "Elysium"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
