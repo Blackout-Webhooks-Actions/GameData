@@ -446,6 +446,12 @@
                     "endDate": "2024-12-10",
                     "version": "5.2",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -3815,6 +3821,12 @@
                     "endDate": "2024-11-19",
                     "version": "5.1",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4035,6 +4047,12 @@
                     "endDate": "2022-09-09",
                     "version": "3.0",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -4087,6 +4105,12 @@
                     "endDate": "2024-08-06",
                     "version": "4.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -4139,6 +4163,12 @@
                     "endDate": "2023-12-19",
                     "version": "4.2",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -4261,6 +4291,12 @@
                     "endDate": "2024-11-19",
                     "version": "5.1",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4371,6 +4407,12 @@
                     "endDate": "2024-06-04",
                     "version": "4.6",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -4557,6 +4599,12 @@
                     "endDate": "2024-06-25",
                     "version": "4.7",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -4597,6 +4645,12 @@
                     "endDate": "2023-03-21",
                     "version": "3.5",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -4700,6 +4754,12 @@
                     "startDate": "2024-07-17",
                     "endDate": "2024-08-06",
                     "version": "4.8",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
+                    "version": "6.0",
                     "wishType": "event"
                 }
             ],
@@ -6441,11 +6501,10 @@
             "description": "A Maiden blessed by moonlight and the grove alike, hope born to the Frostmoon Scions.",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-09-10",
+                    "endDate": "2025-09-30",
                     "version": "6.0",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
