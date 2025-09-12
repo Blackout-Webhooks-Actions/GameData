@@ -420,6 +420,205 @@
     ],
     "events": [
         {
+            "id": 114,
+            "name": "Clink Clank Clash",
+            "description": "After familiarizing yourself with Nod-Krai, you and Paimon find yourselves with some time on your hands, but before you can kick back and relax, you discover that Ineffa and Aino have been dragged into a curious crisis...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2025-09-29T03:59:59",
+            "end_timestamp": 1759089599,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2025-09-12T10:00:00",
+            "start_timestamp": 1757642400,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 1020,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104319,
+                    "name": "Crown of Insight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bf059be872ce72f035e3df38da065e89.png",
+                    "num": 1,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/900"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 14432,
+                    "name": "Etherlight Spindlelute",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/c46b6bec8f810d6406ed662e2235ab7e.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8837"
+                },
+                {
+                    "id": 104364,
+                    "name": "Philosophies of Vagrancy",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/1f8ee5698c4defe2b21e3cb48571c273.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8590"
+                },
+                {
+                    "id": 104361,
+                    "name": "Philosophies of Elysium",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/3f8c8f6868003d0b9b28148b6958726c.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8587"
+                },
+                {
+                    "id": 104358,
+                    "name": "Philosophies of Moonlight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/8ecc303ca901fe747d40b5016c39314e.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8584"
+                },
+                {
+                    "id": 200127,
+                    "name": "Golden Strings",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/10e919c678d9e4f7cd1a224600f7b44d.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                },
+                {
+                    "id": 114082,
+                    "name": "Unyielding Delusion of the Far-North Scions",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/7d4d489c1023eb503c8de3369c7270ab.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8600"
+                },
+                {
+                    "id": 114078,
+                    "name": "Afterglow of Long Night Flint",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/7685de26fb1b4af4b24c1025ec592bb0.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8596"
+                },
+                {
+                    "id": 114074,
+                    "name": "Artful Device Replica",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/da562f06d91a6d09e00111a116c48f08.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8592"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 104363,
+                    "name": "Guide to Vagrancy",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/bdd7c8e04e99d8ba65ce98c09ec1eda0.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8589"
+                },
+                {
+                    "id": 104360,
+                    "name": "Guide to Elysium",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/28f0b3c352d65a8aa9bfc3d4f5ed76a9.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8586"
+                },
+                {
+                    "id": 104357,
+                    "name": "Guide to Moonlight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/eb9eff023c49d27b826e0fe7d3df28c9.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8583"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 114081,
+                    "name": "Sundered Glory of the Far-North Scions",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/67eb6c5127dd8a416ba7df4fcdd8cdf0.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8599"
+                },
+                {
+                    "id": 114077,
+                    "name": "Ember of Long Night Flint",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/4c8b983a7a3e4e16e28c0268502e0f1d.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8595"
+                },
+                {
+                    "id": 114073,
+                    "name": "Artful Device Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/9a489820394571851e7d98308af11c67.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8591"
+                }
+            ]
+        },
+        {
             "id": 118,
             "name": "The Isle of Cold Moonlight",
             "description": "Ancient ruins sleep beneath the tides of time, where ocean winds whisper across lonely shores. Beneath the purest moonlight, a land of chance and wonder awaits.\nThrough drifting fog and hidden valleys, trace the dancing moonbeams to where all journeys begin.",
@@ -446,7 +645,7 @@
                 }
             ],
             "exploration_detail": {
-                "explored_percentage": 30.0,
+                "explored_percentage": 33.0,
                 "is_finished": null
             }
         },
@@ -531,24 +730,6 @@
             "id": 116,
             "name": "Dodoco's Blow-Up-Erative Bomb-Nanza",
             "description": "As you pass by a garden in Mondstadt, you and Paimon run into an enthusiastic adventurer. Following her recommendation, you try out a familiar yet novel tabletop game...",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 114,
-            "name": "Clink Clank Clash",
-            "description": "After familiarizing yourself with Nod-Krai, you and Paimon find yourselves with some time on your hands, but before you can kick back and relax, you discover that Ineffa and Aino have been dragged into a curious crisis...",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
