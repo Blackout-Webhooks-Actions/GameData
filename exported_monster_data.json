@@ -12632,6 +12632,12 @@
         "ATK": 8.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Enhanced",
+                "All": 1.2
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_HerraFrost"
         ],
@@ -12654,6 +12660,12 @@
         "ATK": 5.5,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Enhanced",
+                "All": 1.2
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_HerraFrost"
         ],
