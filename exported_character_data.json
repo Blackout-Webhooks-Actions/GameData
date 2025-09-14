@@ -98,6 +98,9 @@
             "_EN": "???",
             "_JP": "???",
             "_KR": "???"
+        },
+        "CustomStat": {
+            "EM": 200
         }
     },
     {
@@ -215,13 +218,13 @@
             "HP": 10654,
             "ATK": 255,
             "DEF": 669,
-            "Custom": 315.2
+            "Custom": 115.2
         },
         "ShowStats2": {
             "HP": 11411,
             "ATK": 312,
             "DEF": 716,
-            "Custom": 315.2
+            "Custom": 115.2
         },
         "Version": "6.0",
         "Fetter": 119,
@@ -230,6 +233,9 @@
             "_EN": "桑島法子",
             "_JP": "Alexandra Guelff",
             "_KR": "Jang Chae-yeon"
+        },
+        "CustomStat": {
+            "EM": 200
         }
     },
     {
