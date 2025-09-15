@@ -12129,7 +12129,10 @@
         "RESState": [
             {
                 "State": "Weaken",
-                "All": -0.5,
+                "All": -0.5
+            },
+            {
+                "State": "Recover",
                 "Elec": -0.6
             }
         ],
@@ -12158,7 +12161,10 @@
         "RESState": [
             {
                 "State": "Weaken",
-                "All": -0.5,
+                "All": -0.5
+            },
+            {
+                "State": "Recover",
                 "Elec": -0.6
             }
         ],
@@ -12606,7 +12612,10 @@
             },
             {
                 "State": "Weaken",
-                "All": -0.5,
+                "All": -0.5
+            },
+            {
+                "State": "Recover",
                 "Elec": -0.6
             }
         ],

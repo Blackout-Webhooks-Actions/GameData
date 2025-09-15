@@ -960,12 +960,12 @@
             112133,
             112061
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Essence of Falsity",
         "EquipAffixID": 114521,
         "Extra": [],
         "Story": 194521,
         "StoryCount": 1,
-        "V": "1"
+        "V": "2"
     },
     {
         "_id": "14520",
@@ -1334,12 +1334,12 @@
             112130,
             112127
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Nocturnal Dreams",
         "EquipAffixID": 114434,
         "Extra": [],
         "Story": 194434,
         "StoryCount": 1,
-        "V": "1"
+        "V": "2"
     },
     {
         "_id": "14433",
@@ -2280,12 +2280,12 @@
             112136,
             112124
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Untainted Desire",
         "EquipAffixID": 113434,
         "Extra": [],
         "Story": 193434,
-        "StoryCount": 0,
-        "V": "1"
+        "StoryCount": 1,
+        "V": "2"
     },
     {
         "_id": "13433",

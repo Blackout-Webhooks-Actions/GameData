@@ -52,19 +52,20 @@
         ],
         "NR": [],
         "VS": [
-            "1"
+            "1",
+            "2"
         ],
-        "Note": "6.1v1"
+        "Note": "6.1v2"
     },
     {
         "_name": "Nefer",
         "_id": 122,
         "Name": "Nefer",
-        "Desc": "",
-        "Title": "",
-        "Constellation": "",
+        "Desc": "The owner of the Curatorium of Secrets. A long way from her home in Sumeru.",
+        "Title": "???",
+        "Constellation": "Ludus Latrunculorum",
         "Nation": "???",
-        "Belong": "",
+        "Belong": "Curatorium of Secrets",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Catalyst",
@@ -91,7 +92,7 @@
             "DEF": 856,
             "Custom": 0.384
         },
-        "Version": "6.1v1",
+        "Version": "6.1v2",
         "Fetter": 122,
         "_CV": {
             "_CH": "???",

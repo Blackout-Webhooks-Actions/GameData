@@ -2,13 +2,13 @@
     {
         "_id": 113079,
         "R": 4,
-        "Name": "",
-        "Desc": "",
+        "Name": "Glowing Antler",
+        "Desc": "A fragment from the defeated Frostnight Herra's antlered crown. Light and razor-sharp, it can slice through ordinary metal armor even without being polished or sharpened.<br>In the ancient tales, these beautiful and haughty creatures came from the hand of the first divine emissary. When paradise fell, they made a pact with the mistress of the Frost Moon, vowing to use the primal light bestowed by the Frost Moon to cleanse the mortal world's defilement until the patron of old returns once more. Today, it is no longer possible to find out the origin of the legend nor prove its veracity. But the creatures that once walked with the light continue to watch over this land from the shadows, through the long frozen nights and pitch-black withered tides alike, all of which have failed to make their forms vanish from this world.",
         "Src": [
-            ""
+            "Dropped by Lv. 30+ Frostnight Herra"
         ],
         "Icon": "UI_ItemIcon_113079",
-        "Type": ""
+        "Type": "Character Level-Up Material"
     },
     {
         "_id": 113078,
