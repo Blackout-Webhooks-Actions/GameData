@@ -6612,15 +6612,15 @@
         {
             "id": 122,
             "name": "Nefer",
-            "constellation": "",
+            "constellation": "Ludus Latrunculorum",
             "version": "6.1",
             "star": 5,
             "nation": "???",
             "element": "Dendro",
             "weapon": "Catalyst",
             "birthday": "05-09",
-            "title": "",
-            "description": "",
+            "title": "???",
+            "description": "The owner of the Curatorium of Secrets. A long way from her home in Sumeru.",
             "reruns": [
                 {
                     "banner": "upcoming",
@@ -6636,7 +6636,7 @@
                         {
                             "enemyDrop": "Fatui Oprichniki Materials",
                             "elementalGem": "Nagadus Emerald",
-                            "normalBossDrop": null,
+                            "normalBossDrop": "Glowing Antler",
                             "localSpecialty": "Moonfall Silver"
                         }
                     ],
