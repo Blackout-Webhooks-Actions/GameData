@@ -152,6 +152,10 @@
         "star3": "Brilliant Diamond Fragment",
         "star2": "Brilliant Diamond Sliver"
     },
+    "Glowing Antler": {
+        "bossName": "Frostnight Herra",
+        "itemName": "Glowing Antler"
+    },
     "Lightbearing Scale-Feather": {
         "bossName": "Radiant Moonfly",
         "itemName": "Lightbearing Scale-Feather"
