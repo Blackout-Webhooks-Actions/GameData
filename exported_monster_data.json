@@ -12659,8 +12659,7 @@
         "_id": 20081101,
         "Name": "Frostnight Herra: Hatred and Rage",
         "Title": [
-            "Guardian of the Holy Light",
-            "Frostnight Herra"
+            "Guardian of the Holy Light"
         ],
         "Desc": "",
         "Color": "Ice",
@@ -12687,7 +12686,6 @@
         "_id": 22132005,
         "Name": "Battle-Hardened Lightkeeper: Mourning Echoes",
         "Title": [
-            "Battle-Hardened Lightkeeper",
             "The Eternal Hunter"
         ],
         "Desc": "",
@@ -12710,7 +12708,6 @@
         "_id": 23060503,
         "Name": "Veteran Frost Operative: Bloodsoaked Blade",
         "Title": [
-            "Veteran Frost Operative",
             ""
         ],
         "Desc": "",
