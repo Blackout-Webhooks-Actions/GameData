@@ -30,7 +30,7 @@
     },
     "Items": {
         "Character Level-Up Material": {
-            "Glowing Antler": 113079,
+            "Radiant Antler": 113079,
             "Lightbearing Scale-Feather": 113078,
             "Precision Kuuvahki Stamping Die": 113077,
             "Secret Source Airflow Accumulator": 113076,
@@ -1767,10 +1767,10 @@
         "Miscellaneous": {
             "Apple Cider": 121374,
             "???": 108919,
-            "Exchanged Whisper": 108918,
-            "Forager's Way": 108917,
+            "Secrets Exchanged": 108918,
+            "Wildberry Trail": 108917,
             "Frontier Land": 108916,
-            "Piramida's Nightingale": 108915,
+            "Piramida Nightingale": 108915,
             "Delicious Lohikeitto": 108914,
             "Lohikeitto": 108913,
             "Suspicious Lohikeitto": 108912,
@@ -2015,7 +2015,7 @@
             "Memory of Dust": "Catalyst_Kunwu",
             "Lost Prayer to the Sacred Winds": "Catalyst_Fourwinds",
             "Skyward Atlas": "Catalyst_Dvalin",
-            "Froststar": "Catalyst_Ziedas",
+            "Dawning Frost": "Catalyst_Ziedas",
             "Blackmarrow Lantern": "Catalyst_Ilmarinen",
             "Etherlight Spindlelute": "Catalyst_SeeliesLute",
             "Ring of Yaxche": "Catalyst_Isikhulu",
