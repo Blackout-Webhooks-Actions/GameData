@@ -6619,8 +6619,8 @@
             "element": "Dendro",
             "weapon": "Catalyst",
             "birthday": "05-09",
-            "title": "???",
-            "description": "The owner of the Curatorium of Secrets. A long way from her home in Sumeru.",
+            "title": "Secret Beneath the Sands",
+            "description": "The remarkably resourceful owner of the Curatorium of Secrets.",
             "reruns": [
                 {
                     "banner": "upcoming",
@@ -6636,7 +6636,7 @@
                         {
                             "enemyDrop": "Fatui Oprichniki Materials",
                             "elementalGem": "Nagadus Emerald",
-                            "normalBossDrop": "Glowing Antler",
+                            "normalBossDrop": "Radiant Antler",
                             "localSpecialty": "Moonfall Silver"
                         }
                     ],
