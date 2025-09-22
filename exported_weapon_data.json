@@ -965,7 +965,7 @@
         "Extra": [],
         "Story": 194521,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "14520",
@@ -1321,7 +1321,7 @@
     },
     {
         "_id": "14434",
-        "Name": "Froststar",
+        "Name": "Dawning Frost",
         "Desc": "",
         "Type": 3,
         "Rank": 4,
@@ -1339,7 +1339,7 @@
         "Extra": [],
         "Story": 194434,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "14433",
@@ -2285,7 +2285,7 @@
         "Extra": [],
         "Story": 193434,
         "StoryCount": 1,
-        "V": "2"
+        "V": "3"
     },
     {
         "_id": "13433",

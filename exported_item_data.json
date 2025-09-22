@@ -2,10 +2,10 @@
     {
         "_id": 113079,
         "R": 4,
-        "Name": "Glowing Antler",
+        "Name": "Radiant Antler",
         "Desc": "A fragment from the defeated Frostnight Herra's antlered crown. Light and razor-sharp, it can slice through ordinary metal armor even without being polished or sharpened.<br>In the ancient tales, these beautiful and haughty creatures came from the hand of the first divine emissary. When paradise fell, they made a pact with the mistress of the Frost Moon, vowing to use the primal light bestowed by the Frost Moon to cleanse the mortal world's defilement until the patron of old returns once more. Today, it is no longer possible to find out the origin of the legend nor prove its veracity. But the creatures that once walked with the light continue to watch over this land from the shadows, through the long frozen nights and pitch-black withered tides alike, all of which have failed to make their forms vanish from this world.",
         "Src": [
-            "Dropped by Lv. 30+ Frostnight Herra"
+            "Dropped by Lv. 30+ Frostnight Herras"
         ],
         "Icon": "UI_ItemIcon_113079",
         "Type": "Character Level-Up Material"
@@ -8560,8 +8560,8 @@
     {
         "_id": 108918,
         "R": 2,
-        "Name": "Exchanged Whisper",
-        "Desc": "Nefer's specialty dish. Her voice coaxes a deal: \"How about this in exchange for one of your interesting anecdotes?\" No sooner are the words out of her mouth that a plate of irresistibly fragrant, superbly crunchy balls appears before you. You reach out for the balls in tacit agreement when she gently catches your hand. \"Oh by the way,\" she adds, \"it's one ball for at least one sentence.\" ...Sure enough, one has to pay the right price for a taste of Nefer's cooking.",
+        "Name": "Secrets Exchanged",
+        "Desc": "Nefer's specialty. \"How about this in exchange for a story?\" No sooner are the words out of her mouth than a plate of fragrant, crispy spheres appears in front of you. Before you have time to agree, she gently catches your hand. \"Oh, and by the way,\" she adds, \"each mouthful buys at least one sentence.\" ...Sure enough, one has to pay the right price for a taste of Nefer's cooking...",
         "Eff": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
         "Icon": "UI_ItemIcon_108850",
         "Recipe": 2305,
@@ -8572,8 +8572,8 @@
     {
         "_id": 108917,
         "R": 2,
-        "Name": "Forager's Way",
-        "Desc": "Liquid gradient in a glass. This does not appear to contain any alcohol. Containing two of Nod-Krai's signature berries, its vibrant colors feel light and cheerful, as if you are strolling down a path with fruit all around you.",
+        "Name": "Wildberry Trail",
+        "Desc": "A layered drink of different colors — this one does not appear to contain any alcohol. Incorporating two of Nod-Krai's signature berries, its vibrant colors feel light and cheerful, as if you're strolling down a path through a fertile orchard.",
         "Eff": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108849",
         "Recipe": 0,
@@ -8583,7 +8583,7 @@
         "_id": 108916,
         "R": 2,
         "Name": "Frontier Land",
-        "Desc": "Liquid gradient in a glass. This does not appear to contain any alcohol. The inspiration for this concoction is said to come from Nod-Krai itself, with an icy and bracing sensation that finishes on a smoky and astringent note. It's worth noting that the high-alcohol version of this drink is a daily staple for many veteran adventurers in the region.",
+        "Desc": "A layered drink of different colors — this one does not appear to contain any alcohol. The inspiration for this concoction is said to be Nod-Krai itself, with an initial icy chill that gives way to smoky, astringent notes. It's worth noting that the alcoholic version of this drink is a daily staple for many of the region's veteran adventurers.",
         "Eff": "Restores 80 Stamina.",
         "Icon": "UI_ItemIcon_108848",
         "Recipe": 0,
@@ -8592,8 +8592,8 @@
     {
         "_id": 108915,
         "R": 2,
-        "Name": "Piramida's Nightingale",
-        "Desc": "A clear beverage with an elegant color. This glass does not appear to contain any alcohol. Legend has it that the Torchforger Solovei once gifted a nightingale to a certain person, and that moment served as the inspiration for this drink. Now, only the nightingale's song remains unchanged as it continues to flow through the quiet night.",
+        "Name": "Piramida Nightingale",
+        "Desc": "A drink whose colors are clear and elegant — this one does not appear to contain any alcohol. Legend has it that the Torchforger, Solovei, once gifted someone a nightingale, and that moment served as the inspiration for this drink. Now, only the nightingale's song remains, lingering amid the tranquil night.",
         "Eff": "Restores 30% of Max HP and an additional 1,750 HP to the selected character.",
         "Icon": "UI_ItemIcon_108847",
         "Recipe": 0,
@@ -8603,7 +8603,7 @@
         "_id": 108914,
         "R": 2,
         "Name": "Delicious Lohikeitto",
-        "Desc": "A classic soup from the frigid regions. The creamy soup, smooth as flowing silk, envelops each ingredient in a smooth embrace. As you take your first sip, you can feel a gentle, cozy warmth spread throughout you, as if an orange-red sun is rising within.",
+        "Desc": "A classic soup from the frigid regions. The creamy chowder, smooth as flowing silk, envelops each ingredient in its smooth embrace. As you take your first sip, you feel a gentle, cozy warmth spread throughout you, as if a vivid, golden sunrise is taking place inside your stomach.",
         "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108846",
         "Recipe": 2605,
@@ -8613,7 +8613,7 @@
         "_id": 108913,
         "R": 2,
         "Name": "Lohikeitto",
-        "Desc": "A classic soup from the frigid regions. Cut the salmon into pieces and cook it with some fresh vegetables. Just before serving, stir in the cream and other seasonings for a bowl of warm, hearty soup with a silky-smooth texture.",
+        "Desc": "Classic soup from the frigid regions. Succulent salmon is cut into chunks and cooked with fresh vegetables. Cream is added just before serving, along with other special seasonings, to create a bowl of warm, hearty chowder with a silky-smooth texture.",
         "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108846",
         "Recipe": 2605,
@@ -8623,7 +8623,7 @@
         "_id": 108912,
         "R": 2,
         "Name": "Suspicious Lohikeitto",
-        "Desc": "A classic soup from the frigid regions. At first glance, it appears unremarkable. However, a single sip reveals an overwhelming burnt flavor. You quickly inspect the pot and sure enough, the bottom is a charred, brown mess... For the sake of your health, it's probably best to skip this one.",
+        "Desc": "A classic soup from the frigid regions. At first glance, it looks appetizing enough. However, a single sip reveals a burnt flavor that overwhelms your taste buds. You quickly inspect the pot and sure enough, the bottom is a charred, black mess... For the sake of your health, it's probably best to skip this one.",
         "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108846",
         "Recipe": 2605,
@@ -8633,7 +8633,7 @@
         "_id": 108911,
         "R": 3,
         "Name": "Delicious Lakkaberry Pie",
-        "Desc": "A sweet treat from the borderlands. The dense crust of this pie, with its subtle grain aroma, is a perfect match for the sweet-and-tart flavor of the two kinds of berries in the filling. It's no wonder this delightfully punchy treat has become a beloved comfort across Nod-Krai.",
+        "Desc": "A sweet treat from the borderlands. The comforting aroma of freshly baked pastry blends perfectly with the sweet yet tart flavor of the succulent two-berry filling. Rich flavors dance vividly across your tongue — no wonder this delightfully punchy treat has become a beloved and comforting staple on the tables of Nod-Krai.",
         "Eff": "Restores 100 Stamina.",
         "Icon": "UI_ItemIcon_108845",
         "Recipe": 3607,
@@ -8643,7 +8643,7 @@
         "_id": 108910,
         "R": 3,
         "Name": "Lakkaberry Pie",
-        "Desc": "A sweet treat from the borderlands. Originally made with only Lakkaberries, it was later enriched with Midsommar Berries. The two fruits complement each other perfectly, giving it a richer, more enticing flavor, yet the original name remains.",
+        "Desc": "A sweet treat from the borderlands. Once made using nothing but Lakkaberries, the recipe was later enhanced by adding Midsommar Berries to the mix. The two fruits complement each other perfectly, giving this sweet pie a rich, enticing flavor. The original name, however, remains unchanged.",
         "Eff": "Restores 85 Stamina.",
         "Icon": "UI_ItemIcon_108845",
         "Recipe": 3607,
@@ -8653,7 +8653,7 @@
         "_id": 108909,
         "R": 3,
         "Name": "Suspicious Lakkaberry Pie",
-        "Desc": "A sweet treat from the borderlands. After a solid bite, the coarse crumbs of this pie grate against the inside of your mouth, making for an uncomfortable crunch. Yet just as you're about to regret the effort, a faint hint of berry flavor lingers, reminding you it's not quite like gnawing on permafrost after all...",
+        "Desc": "A sweet treat from the borderlands. After mustering your full strength to bite through the near-impregnable crust, the coarse chunks of pastry grate against the inside of your mouth like rocks. Fortunately, just as you're questioning your life choices — or at least those that apply to baked goods — a slight hint of berries hits your palate, reminding you that you are, in fact, not eating frozen soil...",
         "Eff": "Restores 70 Stamina.",
         "Icon": "UI_ItemIcon_108845",
         "Recipe": 3607,
@@ -18349,7 +18349,8 @@
         "Desc": "The core of a crystal butterfly. It absorbs elemental energy that has escaped into the atmosphere.",
         "Src": [
             "Collected by the Crystalfly Trap",
-            "Gathered by catching Crystalflies"
+            "Gathered by catching Crystalflies",
+            ""
         ],
         "Icon": "UI_ItemIcon_100085",
         "Type": "Material"

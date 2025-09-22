@@ -12661,7 +12661,7 @@
         "Title": [
             "Guardian of the Holy Light"
         ],
-        "Desc": "",
+        "Desc": "A majestic being that strides with pride through the frost-laden night, wielding ancient powers long since tamed by the Lord of the Sky. Yet under the unspeakable influence of the Ley Lines, its solemn nobility has been usurped by a ferocious appetite for prey and a willingness to meet intruders with the freezing edge of a blade...",
         "Color": "Ice",
         "HP": 264.6519,
         "HPCurve": 20,
@@ -12688,8 +12688,8 @@
         "Title": [
             "The Eternal Hunter"
         ],
-        "Desc": "",
-        "HP": 155.67758,
+        "Desc": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to fade, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. Twisted by the chaotic Ley Lines, any intruders who enter his sight are treated no differently than the fiercest abominations of the Wild Hunt and are faced with the full force of his determination and strength...",
+        "HP": 140.10982,
         "HPCurve": 20,
         "ATK": 5.5,
         "ATKCurve": 4,
@@ -12708,9 +12708,9 @@
         "_id": 23060503,
         "Name": "Veteran Frost Operative: Bloodsoaked Blade",
         "Title": [
-            ""
+            "Shadowy Icicle"
         ],
-        "Desc": "",
+        "Desc": "An elite agent of the Fatui. Selected from childhood, she rose to the top after long years of rigorous training — an experience which instilled in her extraordinary skill and unswerving loyalty.\nRegrettably, in the perilous chaos of the Ley Lines, her sense of reason has long since been swallowed by a lust for battle — one that leads her to mercilessly hunt down intruders and subject them to an onslaught of pure rage...",
         "HP": 290.68085,
         "HPCurve": 20,
         "ATK": 2.0,

@@ -53,16 +53,17 @@
         "NR": [],
         "VS": [
             "1",
-            "2"
+            "2",
+            "3"
         ],
-        "Note": "6.1v2"
+        "Note": "6.1v3"
     },
     {
         "_name": "Nefer",
         "_id": 122,
         "Name": "Nefer",
-        "Desc": "The owner of the Curatorium of Secrets. A long way from her home in Sumeru.",
-        "Title": "???",
+        "Desc": "The remarkably resourceful owner of the Curatorium of Secrets.",
+        "Title": "Secret Beneath the Sands",
         "Constellation": "Ludus Latrunculorum",
         "Nation": "???",
         "Belong": "Curatorium of Secrets",
@@ -92,7 +93,7 @@
             "DEF": 856,
             "Custom": 0.384
         },
-        "Version": "6.1v2",
+        "Version": "6.1v3",
         "Fetter": 122,
         "_CV": {
             "_CH": "???",
