@@ -1100,7 +1100,10 @@
         "Icon": [
             "UI_MonsterIcon_Narcissusborn_Normal_01"
         ],
-        "Tutorial": 5300512
+        "Tutorial": 5300512,
+        "Csx": [
+            "ECElementalLifeforms"
+        ]
     },
     "513": {
         "_id": 513,
@@ -6783,7 +6786,10 @@
         "Icon": [
             "UI_MonsterIcon_Golem_Centaur"
         ],
-        "Tutorial": 5361401
+        "Tutorial": 5361401,
+        "Csx": [
+            "ECMysticalBeasts"
+        ]
     },
     "61402": {
         "_id": 61402,
@@ -7165,7 +7171,10 @@
         "Icon": [
             "UI_MonsterIcon_HermitCrab_Primo"
         ],
-        "Tutorial": 5361701
+        "Tutorial": 5361701,
+        "Csx": [
+            "ECMysticalBeasts"
+        ]
     },
     "61801": {
         "_id": 61801,
@@ -9758,7 +9767,10 @@
         "Icon": [
             "UI_MonsterIcon_DragonClaw"
         ],
-        "Tutorial": 5340902
+        "Tutorial": 5340902,
+        "Csx": [
+            "ECAutomatons"
+        ]
     },
     "21201": {
         "_id": 21201,
@@ -10436,6 +10448,9 @@
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Rhizome"
         ],
+        "Csx": [
+            "ECMimeses"
+        ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
     },
@@ -10455,6 +10470,9 @@
         "Tut": 3083,
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Rhizome"
+        ],
+        "Csx": [
+            "ECMimeses"
         ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
@@ -10476,6 +10494,9 @@
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Rhizome"
         ],
+        "Csx": [
+            "ECMimeses"
+        ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
     },
@@ -10495,6 +10516,9 @@
         "Tut": 3083,
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Rhizome"
+        ],
+        "Csx": [
+            "ECMimeses"
         ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
@@ -10516,6 +10540,9 @@
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Rhizome"
         ],
+        "Csx": [
+            "ECMimeses"
+        ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
     },
@@ -10535,6 +10562,9 @@
         "Tut": 3083,
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Rhizome"
+        ],
+        "Csx": [
+            "ECMimeses"
         ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
@@ -10682,6 +10712,9 @@
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Rhizome"
         ],
+        "Csx": [
+            "ECMimeses"
+        ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
     },
@@ -10699,6 +10732,9 @@
         "RESBase": {},
         "Icon": [
             "UI_MonsterIcon_TheAbyss_Rhizome"
+        ],
+        "Csx": [
+            "ECMimeses"
         ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
@@ -11465,6 +11501,9 @@
         "Tut": 3068,
         "Color": "Water",
         "Tutorial": 20051205,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "5.7",
         "Category": "Stygian Onslaught"
     },
@@ -11502,6 +11541,9 @@
         "Tut": 3089,
         "Color": "Fire",
         "Tutorial": 26270305,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "5.7",
         "Category": "Stygian Onslaught"
     },
@@ -11539,6 +11581,9 @@
         "Tut": 3091,
         "Color": "Water",
         "Tutorial": 24090504,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "5.7",
         "Category": "Stygian Onslaught"
     },
@@ -11571,6 +11616,9 @@
             "UI_MonsterIcon_Tenoyollotzin"
         ],
         "Tutorial": 55602,
+        "Csx": [
+            "ECLegends"
+        ],
         "Class": "5.8",
         "Category": "Local Legend"
     },
@@ -11603,6 +11651,9 @@
             "UI_MonsterIcon_Tenoyollotzin"
         ],
         "Tutorial": 55602,
+        "Csx": [
+            "ECLegends"
+        ],
         "Class": "",
         "Category": "Battle-Hardened"
     },
@@ -11629,6 +11680,9 @@
         ],
         "MultiPlayerID": 108,
         "Tutorial": 22121604,
+        "Csx": [
+            "ECLeyLine-II"
+        ],
         "Class": "5.8",
         "Category": "Stygian Onslaught"
     },
@@ -11653,6 +11707,9 @@
         "MultiPlayerID": 108,
         "Color": "Elec",
         "Tutorial": 28021305,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "5.8",
         "Category": "Stygian Onslaught"
     },
@@ -11686,6 +11743,9 @@
         "MultiPlayerID": 108,
         "Color": "Elec",
         "Tutorial": 55602,
+        "Csx": [
+            "ECLeyLine- "
+        ],
         "Class": "5.8",
         "Category": "Stygian Onslaught"
     },
@@ -11724,6 +11784,9 @@
             }
         ],
         "Tutorial": 801,
+        "Csx": [
+            "ECElementalLifeforms"
+        ],
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11762,6 +11825,9 @@
             }
         ],
         "Tutorial": 801,
+        "Csx": [
+            "ECElementalLifeforms"
+        ],
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11800,6 +11866,9 @@
             }
         ],
         "Tutorial": 801,
+        "Csx": [
+            "ECElementalLifeforms"
+        ],
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11838,6 +11907,9 @@
             }
         ],
         "Tutorial": 801,
+        "Csx": [
+            "ECElementalLifeforms"
+        ],
         "Class": "Frostnight Scion",
         "Category": "Elemental Lifeforms"
     },
@@ -11859,6 +11931,9 @@
         ],
         "Tut": 3093,
         "Tutorial": 21310,
+        "Csx": [
+            "ECAbyss"
+        ],
         "Class": "Wilderness Exile",
         "Category": "The Abyss"
     },
@@ -11880,6 +11955,9 @@
         ],
         "Tut": 3093,
         "Tutorial": 21310,
+        "Csx": [
+            "ECAbyss"
+        ],
         "Class": "Wilderness Exile",
         "Category": "The Abyss"
     },
@@ -11901,6 +11979,9 @@
         ],
         "Tutorial": 21320,
         "HPCount": 2,
+        "Csx": [
+            "ECLegends"
+        ],
         "Class": "6.0",
         "Category": "Local Legend"
     },
@@ -11922,6 +12003,9 @@
         ],
         "Tutorial": 21320,
         "HPCount": 2,
+        "Csx": [
+            "ECLegends"
+        ],
         "Class": "",
         "Category": "Battle-Hardened"
     },
@@ -11959,6 +12043,9 @@
         ],
         "Tut": 3097,
         "Tutorial": 41001,
+        "Csx": [
+            "ECAutomatons"
+        ],
         "Class": "Knuckle Duckle",
         "Category": "Automatons"
     },
@@ -11979,6 +12066,9 @@
         },
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
+        ],
+        "Csx": [
+            "ECFatui"
         ],
         "Class": "Oprichniki I",
         "Category": "Fatui"
@@ -12001,6 +12091,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_MuscleMan"
         ],
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12021,6 +12114,9 @@
         },
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Female"
+        ],
+        "Csx": [
+            "ECFatui"
         ],
         "Class": "Oprichniki I",
         "Category": "Fatui"
@@ -12043,6 +12139,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12064,6 +12163,9 @@
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
         ],
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Oprichniki I",
         "Category": "Fatui"
     },
@@ -12084,6 +12186,9 @@
         },
         "Icon": [
             "UI_MonsterIcon_NodKrai_Oprichnik_Male"
+        ],
+        "Csx": [
+            "ECFatui"
         ],
         "Class": "Oprichniki I",
         "Category": "Fatui"
@@ -12108,6 +12213,9 @@
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
         ],
         "Tut": 3094,
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12140,6 +12248,9 @@
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
         ],
         "Tutorial": 30791,
+        "Csx": [
+            "ECLegends"
+        ],
         "Class": "",
         "Category": "Battle-Hardened"
     },
@@ -12172,6 +12283,9 @@
             "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
         ],
         "Tutorial": 307910,
+        "Csx": [
+            "ECLegends"
+        ],
         "Class": "6.0",
         "Category": "Local Legend"
     },
@@ -12195,6 +12309,9 @@
             "UI_MonsterIcon_Oprichnik_Male_Fat_CannonShield"
         ],
         "Tut": 3094,
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12218,6 +12335,9 @@
             "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun"
         ],
         "Tut": 3094,
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Oprichniki II",
         "Category": "Fatui"
     },
@@ -12237,6 +12357,9 @@
         "RESBase": {},
         "Icon": [
             "UI_MonsterIcon_Fatuimecha_CoreA_MoveB_AttackA_Fire"
+        ],
+        "Csx": [
+            "ECFatui"
         ],
         "Class": "Landcruisers I",
         "Category": "Fatui"
@@ -12258,6 +12381,9 @@
         "Icon": [
             "UI_MonsterIcon_Fatuimecha_CoreA_MoveA_AttackC_Water"
         ],
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Landcruisers I",
         "Category": "Fatui"
     },
@@ -12277,6 +12403,9 @@
         "RESBase": {},
         "Icon": [
             "UI_MonsterIcon_Fatuimecha_CoreB_MoveB_AttackB_Grass"
+        ],
+        "Csx": [
+            "ECFatui"
         ],
         "Class": "Landcruisers I",
         "Category": "Fatui"
@@ -12298,6 +12427,9 @@
         "Icon": [
             "UI_MonsterIcon_Fatuimecha_CoreB_MoveA_AttackB_Ice"
         ],
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Landcruisers I",
         "Category": "Fatui"
     },
@@ -12317,6 +12449,9 @@
         "RESBase": {},
         "Icon": [
             "UI_MonsterIcon_Fatuimecha_CoreB_MoveE_AttackB_Wind"
+        ],
+        "Csx": [
+            "ECFatui"
         ],
         "Class": "Landcruisers I",
         "Category": "Fatui"
@@ -12339,6 +12474,9 @@
             "UI_MonsterIcon_Fatuimecha_CoreC_MoveD_AttackA_AttackC_AttackB_Electric"
         ],
         "Tut": 3095,
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Landcruisers II",
         "Category": "Fatui"
     },
@@ -12360,6 +12498,9 @@
             "UI_MonsterIcon_Fatuimecha_CoreC_MoveC_AttackD_AttackC_AttackB_Water"
         ],
         "Tut": 3095,
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Landcruisers II",
         "Category": "Fatui"
     },
@@ -12381,6 +12522,9 @@
             "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire"
         ],
         "Tut": 3095,
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "Landcruisers II",
         "Category": "Fatui"
     },
@@ -12406,6 +12550,9 @@
         "Tutorial": 61626,
         "Icon": [
             "UI_MonsterIcon_HermitCrab_Mature_Elite"
+        ],
+        "Csx": [
+            "ECLegends"
         ],
         "Class": "6.0",
         "Category": "Local Legend"
@@ -12433,6 +12580,9 @@
             "UI_MonsterIcon_HermitCrab_Mature_Elite"
         ],
         "Tutorial": 61626,
+        "Csx": [
+            "ECLegends"
+        ],
         "Class": "",
         "Category": "Battle-Hardened"
     },
@@ -12457,6 +12607,9 @@
         ],
         "Tut": 3096,
         "Tutorial": 63001,
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Radiant Beast",
         "Category": "Mystical Beasts"
     },
@@ -12481,6 +12634,9 @@
         ],
         "Tut": 3096,
         "Tutorial": 63001,
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Radiant Beast",
         "Category": "Mystical Beasts"
     },
@@ -12505,6 +12661,9 @@
         ],
         "Tut": 3096,
         "Tutorial": 63001,
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Radiant Beast",
         "Category": "Mystical Beasts"
     },
@@ -12530,6 +12689,9 @@
         ],
         "Tut": 3098,
         "Tutorial": 63011,
+        "Csx": [
+            "ECMysticalBeasts"
+        ],
         "Class": "Radiant Beast",
         "Category": "Mystical Beasts"
     },
@@ -12559,6 +12721,9 @@
         "MultiPlayerID": 108,
         "Tut": 3022,
         "Tutorial": 24030305,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     },
@@ -12586,6 +12751,9 @@
         ],
         "MultiPlayerID": 108,
         "Tutorial": 26162605,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     },
@@ -12624,6 +12792,9 @@
         ],
         "Tut": 3094,
         "Tutorial": 23079405,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.0",
         "Category": "Stygian Onslaught"
     },
