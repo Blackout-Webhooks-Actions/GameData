@@ -1856,6 +1856,12 @@
                     "endDate": "2024-12-10",
                     "version": "5.2",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-30",
+                    "endDate": "2025-10-21",
+                    "version": "6.0",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -3757,6 +3763,12 @@
                     "endDate": "2024-08-27",
                     "version": "4.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-30",
+                    "endDate": "2025-10-21",
+                    "version": "6.0",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4006,6 +4018,12 @@
                     "startDate": "2024-10-09",
                     "endDate": "2024-10-29",
                     "version": "5.1",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-30",
+                    "endDate": "2025-10-21",
+                    "version": "6.0",
                     "wishType": "event"
                 }
             ],
@@ -6541,11 +6559,10 @@
             "description": "A Lightkeeper of Nod-Krai, guardian of a lighthouse and graveyard on a northern isle. An enigmatic gentleman, cultured and courtly.",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-09-30",
+                    "endDate": "2025-10-21",
                     "version": "6.0",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6582,11 +6599,10 @@
             "description": "A genius mechanic and inventor from Nod-Krai who loves interesting machines and sweet treats.",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-09-30",
+                    "endDate": "2025-10-21",
                     "version": "6.0",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
