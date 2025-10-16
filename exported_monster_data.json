@@ -12574,6 +12574,10 @@
             {
                 "State": "Weaken",
                 "All": -0.4
+            },
+            {
+                "State": "After_Ult",
+                "All": 0.7
             }
         ],
         "Icon": [
