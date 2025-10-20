@@ -55,9 +55,10 @@
             "1",
             "2",
             "3",
-            "4"
+            "4",
+            "L"
         ],
-        "Note": "6.1v4"
+        "Note": "6.1"
     },
     {
         "_name": "Nefer",
@@ -94,16 +95,16 @@
             "DEF": 856,
             "Custom": 0.384
         },
-        "Version": "6.1v4",
+        "Version": "6.1",
         "Fetter": 122,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "曾彤",
+            "_EN": "水樹奈々",
+            "_JP": "Ashleigh Haddad",
+            "_KR": "Won Esther"
         },
         "CustomStat": {
-            "EM": 200
+            "EM": 100
         }
     },
     {
@@ -2461,7 +2462,7 @@
         "_CV": {
             "_CH": "张琦",
             "_EN": "柚木涼香",
-            "_JP": "Shara Kirby",
+            "_JP": "Shara Kirby & Anonymous",
             "_KR": "Jun Young-soo"
         }
     },

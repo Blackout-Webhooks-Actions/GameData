@@ -948,7 +948,7 @@
     {
         "_id": "14521",
         "Name": "Reliquary of Truth",
-        "Desc": "An antlered box carved from gold and jade. Legend has it that it was once enshrined in a temple deep within Tulaytullah, the Sapphire City.",
+        "Desc": "An angular box carved from gold and jade. Legend has it that it was once enshrined in a temple deep within Tulaytullah, the Sapphire City.",
         "Type": 3,
         "Rank": 5,
         "Icons": "UI_EquipIcon_Catalyst_Sistrum",
@@ -965,7 +965,7 @@
         "Extra": [],
         "Story": 194521,
         "StoryCount": 1,
-        "V": "4"
+        "V": "L"
     },
     {
         "_id": "14520",
@@ -1339,7 +1339,7 @@
         "Extra": [],
         "Story": 194434,
         "StoryCount": 1,
-        "V": "4"
+        "V": "L"
     },
     {
         "_id": "14433",
@@ -2285,7 +2285,7 @@
         "Extra": [],
         "Story": 193434,
         "StoryCount": 1,
-        "V": "4"
+        "V": "L"
     },
     {
         "_id": "13433",

@@ -5699,8 +5699,8 @@
     {
         "_id": 210261,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Nefer: Secrets",
+        "Desc": "Namecard style.<br>Even the ugliest victory is preferable to noble defeat. Unbesmirched innocence has no place amid the blood and sand. This is simply how the desert folk survive.",
         "Src": [
             "Reward for reaching Friendship 10 with Nefer"
         ],
@@ -5867,7 +5867,7 @@
         "Name": "Celebration: Lavish Gala",
         "Desc": "Namecard style.<br>Amid the ticking countdown, the gala commences on schedule. After their masked waltz, the two set their separate schemes into motion...<br>Perhaps this unspoken understanding is the true \"treasure\" to be cherished.",
         "Src": [
-            "Reward from the \"Genshin Impact × KFC\" collaboration"
+            "Obtained from a collaboration event"
         ],
         "Icon": "UI_NameCardIcon_RedandWhite3",
         "Pic": "UI_NameCardPic_RedandWhite3_P"
@@ -8550,8 +8550,8 @@
     {
         "_id": 108919,
         "R": 2,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Sugar Sculpture: Nefer",
+        "Desc": "A sugar sculpture crafted to capture a person's essence. The mysterious and unfathomable headdress brings to mind Nefer, the owner of the Curatorium of Secrets.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108851",
         "Recipe": 0,
@@ -8583,7 +8583,7 @@
         "_id": 108916,
         "R": 2,
         "Name": "Frontier Land",
-        "Desc": "A layered drink of different colors — this one does not appear to contain any alcohol. The inspiration for this concoction is said to be Nod-Krai itself, with an initial icy chill that gives way to smoky, astringent notes. It's worth noting that the alcoholic version of this drink is a daily staple for many of the region's veteran adventurers.",
+        "Desc": "A layered drink of shifting shades — this one does not appear to contain any alcohol. The inspiration for this concoction is said to be Nod-Krai itself, with an initial icy chill that gives way to smoky, astringent notes. It's worth noting that the alcoholic version of this drink is a daily staple for many of the region's veteran adventurers.",
         "Eff": "Restores 80 Stamina.",
         "Icon": "UI_ItemIcon_108848",
         "Recipe": 0,
