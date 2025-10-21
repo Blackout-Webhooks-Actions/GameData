@@ -2436,7 +2436,8 @@
             "Force Recon Ground Effect Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreB_MoveE_AttackB_Wind",
             "Cutting Edge All-Purpose Storm Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveD_AttackA_AttackC_AttackB_Electric",
             "Cutting Edge All-Purpose Scout Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveC_AttackD_AttackC_AttackB_Water",
-            "Cutting Edge Fire Support Ground Effect Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire"
+            "Cutting Edge Fire Support Ground Effect Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire",
+            "Veteran Frost Operative: Bloodsoaked Blade": "UI_MonsterIcon_Fatuimecha_AMP"
         },
         "Automatons": {
             "Ruin Guard": "UI_MonsterIcon_Defender_Noner_01",
@@ -2680,7 +2681,7 @@
             "Battle-Hardened Lightkeeper: Mourning Echoes": "UI_MonsterIcon_WildHunt_Male_Sigurd",
             "Veteran Frost Operative: Bloodsoaked Blade": "UI_MonsterIcon_Fatuus_Escadron_Ice"
         },
-        "<b>6.1</b>": {
+        "<b>6.0~6.2</b>": {
             "Frostnight Herra": "UI_MonsterIcon_HerraFrost"
         }
     }
