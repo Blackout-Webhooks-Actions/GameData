@@ -3733,7 +3733,7 @@
         "Icon": [
             "UI_MonsterIcon_MachinaIustitia_Pylon"
         ],
-        "Tutorial": 40622,
+        "Tutorial": 40632,
         "Csx": [
             "ECLegends"
         ],
@@ -12828,7 +12828,7 @@
         "Tut": 3099,
         "Tutorial": 810,
         "Class": "Elemental Lifeforms",
-        "Category": "<b>6.1</b>"
+        "Category": "<b>6.0~6.2</b>"
     },
     "20081101": {
         "_id": 20081101,
@@ -12902,5 +12902,25 @@
         "Tutorial": 23060503,
         "Class": "6.1",
         "Category": "Stygian Onslaught"
+    },
+    "30901": {
+        "_id": 30901,
+        "Name": "Veteran Frost Operative: Bloodsoaked Blade",
+        "Title": [
+            ""
+        ],
+        "Desc": "",
+        "HP": 0,
+        "HPCurve": 2,
+        "ATK": 0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Fatuimecha_AMP"
+        ],
+        "Color": "Ice",
+        "Tutorial": 30901,
+        "Class": "Battle Machines",
+        "Category": "Fatui"
     }
 }
