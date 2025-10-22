@@ -30,6 +30,7 @@
     },
     "Items": {
         "Character Level-Up Material": {
+            "Cyclic Military Kuuvahki Core": 113080,
             "Radiant Antler": 113079,
             "Lightbearing Scale-Feather": 113078,
             "Precision Kuuvahki Stamping Die": 113077,
@@ -1505,6 +1506,8 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
+            "Battle Pass: Blazing Snow": 210265,
+            "???": 210263,
             "Travel Notes: Bygone Ruins": 210262,
             "Nefer: Secrets": 210261,
             "Celebration: Sublime Flavors": 210260,
@@ -1766,6 +1769,9 @@
         },
         "Miscellaneous": {
             "Apple Cider": 121374,
+            "???": 108926,
+            "Apple Stew (Trial Version)": 108924,
+            "\"After-Class Practice\"": 108921,
             "Sugar Sculpture: Nefer": 108919,
             "Secrets Exchanged": 108918,
             "Wildberry Trail": 108917,
@@ -1826,6 +1832,8 @@
             "Golden House Maiden": 100487
         },
         "Envisaged Echoes": {
+            "Echo: Fleeing Sunlight": 215017,
+            "Echo: Kreideprinz": 215016,
             "Echo: Physic of Purity": 215015,
             "Echo: Valley Orchid": 215014,
             "Echo: Lonesome Transcendence": 215013,
@@ -1843,6 +1851,7 @@
             "Echo: Dandelion Knight": 215001
         },
         "Gadget": {
+            "The Little Witch's Dictionary": 220126,
             "Lunar Arcana Case": 220125,
             "Travel Accounts": 220124,
             "Luna Treasure Compass": 220123,
@@ -1953,6 +1962,7 @@
     },
     "Weapons": {
         "Bow": {
+            "6.2 Bow": "Bow_Arianna",
             "Astral Vulture's Crimson Plumage": "Bow_Qoyllorsnova",
             "Silvershower Heartstrings": "Bow_Arcdange",
             "The First Great Magic": "Bow_Pledge",
@@ -1963,6 +1973,7 @@
             "Elegy for the End": "Bow_Widsith",
             "Amos' Bow": "Bow_Amos",
             "Skyward Harp": "Bow_Dvalin",
+            "6.2 Event Bow": "Bow_ElegguaBow",
             "Snare Hook": "Bow_Ilmarinen",
             "Sequence of Solitude": "Bow_Stinger",
             "Chain Breaker": "Bow_Isikhulu",
@@ -2131,6 +2142,7 @@
             "Ferrous Shadow": "Claymore_Glaive"
         },
         "Sword": {
+            "6.2 Sword": "Sword_Motsognir",
             "Azurelight": "Sword_OuterSword",
             "Peak Patrol Song": "Sword_XochitlsTube",
             "Absolution": "Sword_Estoc",
@@ -2437,7 +2449,7 @@
             "Cutting Edge All-Purpose Storm Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveD_AttackA_AttackC_AttackB_Electric",
             "Cutting Edge All-Purpose Scout Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveC_AttackD_AttackC_AttackB_Water",
             "Cutting Edge Fire Support Ground Effect Landcruiser": "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire",
-            "Veteran Frost Operative: Bloodsoaked Blade": "UI_MonsterIcon_Fatuimecha_AMP"
+            "Super-Heavy Landrover: Mechanized Fortress": "UI_MonsterIcon_Fatuimecha_AMP"
         },
         "Automatons": {
             "Ruin Guard": "UI_MonsterIcon_Defender_Noner_01",
