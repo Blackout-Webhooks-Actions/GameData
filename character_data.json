@@ -902,6 +902,12 @@
                     "endDate": "2025-08-19",
                     "version": "5.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-10-22",
+                    "endDate": "2025-11-11",
+                    "version": "6.1",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -3435,6 +3441,12 @@
                     "endDate": "2024-10-29",
                     "version": "5.1",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-10-22",
+                    "endDate": "2025-11-11",
+                    "version": "6.1",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4044,6 +4056,12 @@
                     "startDate": "2025-07-08",
                     "endDate": "2025-07-29",
                     "version": "5.7",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-10-22",
+                    "endDate": "2025-11-11",
+                    "version": "6.1",
                     "wishType": "event"
                 }
             ],
@@ -4714,6 +4732,12 @@
                     "startDate": "2025-03-04",
                     "endDate": "2025-03-25",
                     "version": "5.4",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-10-22",
+                    "endDate": "2025-11-11",
+                    "version": "6.1",
                     "wishType": "event"
                 }
             ],
@@ -6119,11 +6143,10 @@
             "description": "The remarkably resourceful owner of the Curatorium of Secrets.",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-10-22",
+                    "endDate": "2025-11-11",
                     "version": "6.1",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
