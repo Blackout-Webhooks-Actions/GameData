@@ -152,6 +152,10 @@
         "star3": "Brilliant Diamond Fragment",
         "star2": "Brilliant Diamond Sliver"
     },
+    "Cyclic Military Kuuvahki Core": {
+        "bossName": "Super-Heavy Landrover: Mechanized Fortressis",
+        "itemName": "Cyclic Military Kuuvahki Core"
+    },
     "Radiant Antler": {
         "bossName": "Frostnight Herra",
         "itemName": "Radiant Antler"
