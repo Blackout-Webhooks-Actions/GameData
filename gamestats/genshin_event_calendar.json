@@ -228,22 +228,109 @@
             }
         }
     ],
-    "character_banners": null,
+    "character_banners": [
+        {
+            "id": 91,
+            "name": "Character Event Wish",
+            "type": 1,
+            "end_time": "2025-11-11T17:59:59",
+            "end_timestamp": 1762855199,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-10-22T07:00:00",
+            "start_timestamp": 1761087600,
+            "version": "6.1",
+            "characters": [
+                {
+                    "id": 10000122,
+                    "name": "Nefer",
+                    "element": "Dendro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68f81e8b/3599d082a372edcd04d8ba377b430180.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000025,
+                    "name": "Xingqiu",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7a37a944f52edbd6894bc39da801fb67.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000067,
+                    "name": "Collei",
+                    "element": "Dendro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/eaf61637b76953695940fe1ceedb18a0.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000077,
+                    "name": "Yaoyao",
+                    "element": "Dendro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7ec9b285faccd804b54fa026dde96e8.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        },
+        {
+            "id": 94,
+            "name": "Character Event Wish 2",
+            "type": 1,
+            "end_time": "2025-11-11T17:59:59",
+            "end_timestamp": 1762855199,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-10-22T07:00:00",
+            "start_timestamp": 1761087600,
+            "version": "6.1",
+            "characters": [
+                {
+                    "id": 10000089,
+                    "name": "Furina",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000025,
+                    "name": "Xingqiu",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7a37a944f52edbd6894bc39da801fb67.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000067,
+                    "name": "Collei",
+                    "element": "Dendro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/eaf61637b76953695940fe1ceedb18a0.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000077,
+                    "name": "Yaoyao",
+                    "element": "Dendro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7ec9b285faccd804b54fa026dde96e8.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        }
+    ],
     "chronicled_banners": null,
     "events": [
         {
-            "id": 112,
-            "name": "The Forge Realm's Temper: Clever Stratagems",
+            "id": 136,
+            "name": "The Forge Realm's Temper: Endless Swarm",
             "description": "",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2025-10-22T07:00:00",
-            "end_timestamp": 1761087600,
+            "end_time": "2025-12-03T07:00:00",
+            "end_timestamp": 1764716400,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2025-09-10T07:00:00",
-            "start_timestamp": 1757458800,
+            "start_time": "2025-10-22T07:00:00",
+            "start_timestamp": 1761087600,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -289,7 +376,183 @@
                 "explored_percentage": 100.0,
                 "is_finished": true
             }
+        },
+        {
+            "id": 134,
+            "name": "Dance Dance Dynamic Disco",
+            "description": "At the joint invitation of the People of the Springs, the Flower-Feather Clan, and the Children of Echoes, a group of friends from Sumeru has come to Natlan to host a lively \"dance exchange\"...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 131,
+            "name": "Ruins Exploration: Fieldwise Center",
+            "description": "Returning once more to Sumeru, you reunite with old friends and set out to investigate a strange incident deep within the desert...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 130,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 132,
+            "name": "Saurian Sojourn",
+            "description": "Born of remembrance for a bygone companion who once stood by his side, Kweku has made it his mission to share with every tribe the art of joyful kinship with the saurians. Now, he brings his teachings to the Children of Echoes...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 129,
+            "name": "Overflowing Abundance",
+            "description": "",
+            "type": "ActTypeDouble",
+            "abyss_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null,
+            "double_reward_detail": {
+                "remaining": 3,
+                "total": 3
+            }
+        },
+        {
+            "id": 135,
+            "name": "Heated Battle Mode: Automatic Artistry",
+            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
         }
     ],
-    "weapon_banners": null
+    "weapon_banners": [
+        {
+            "id": 95,
+            "name": "Weapon Event Wish",
+            "type": 2,
+            "end_time": "2025-11-11T17:59:59",
+            "end_timestamp": 1762855199,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-10-22T07:00:00",
+            "start_timestamp": 1761087600,
+            "version": "6.1",
+            "characters": null,
+            "weapons": [
+                {
+                    "id": 14521,
+                    "name": "Reliquary of Truth",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68f81e8b/23a39268794ca7cb0d4e30c459ce823b.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8991"
+                },
+                {
+                    "id": 11513,
+                    "name": "Splendor of Tranquil Waters",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a0c785ee7bcfa4e7dd19032b8c28c7fa.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4570"
+                },
+                {
+                    "id": 11434,
+                    "name": "Moonweaver's Dawn",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/22a2b4dd7289c7085f7cb13e8a41c069.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8512"
+                },
+                {
+                    "id": 13434,
+                    "name": "Sacrificer's Staff",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68f81e8b/c8d9e50b48a7a69f8f90b6d2e566d5dc.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8989"
+                },
+                {
+                    "id": 14434,
+                    "name": "Dawning Frost",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68f81e8b/3104dc9b64ea1db72de813c2e28983e5.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8990"
+                },
+                {
+                    "id": 12402,
+                    "name": "The Bell",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f9ca521e414f63dfe24876b91cc139.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2033"
+                },
+                {
+                    "id": 15401,
+                    "name": "Favonius Warbow",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f0b8edcc330cd9de1dcf97eccb20cbaf.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2019"
+                }
+            ]
+        }
+    ]
 }
