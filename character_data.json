@@ -555,88 +555,6 @@
             ]
         },
         {
-            "id": 20,
-            "name": "Razor",
-            "constellation": "Lupus Minor",
-            "version": "1.0",
-            "star": 4,
-            "nation": "Mondstadt",
-            "element": "Electro",
-            "weapon": "Claymore",
-            "birthday": "09-09",
-            "title": "Wolf Boy",
-            "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
-            "reruns": [
-                {
-                    "startDate": "2020-12-01",
-                    "endDate": "2020-12-22",
-                    "version": "1.1",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-03-17",
-                    "endDate": "2021-04-06",
-                    "version": "1.4",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-06-29",
-                    "endDate": "2021-07-20",
-                    "version": "1.6",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-04-19",
-                    "endDate": "2022-05-31",
-                    "version": "2.6",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-11-02",
-                    "endDate": "2022-11-18",
-                    "version": "3.2",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2023-07-05",
-                    "endDate": "2023-07-25",
-                    "version": "3.8",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2024-03-13",
-                    "endDate": "2024-04-02",
-                    "version": "4.5",
-                    "wishType": "chronicled"
-                },
-                {
-                    "startDate": "2024-08-06",
-                    "endDate": "2024-08-27",
-                    "version": "4.8",
-                    "wishType": "event"
-                }
-            ],
-            "materials": [
-                {
-                    "ascension": [
-                        {
-                            "enemyDrop": "Hilichurls Materials",
-                            "elementalGem": "Vajrada Amethyst",
-                            "normalBossDrop": "Lightning Prism",
-                            "localSpecialty": "Wolfhook"
-                        }
-                    ],
-                    "talents": [
-                        {
-                            "enemyDrop": "Hilichurls Materials",
-                            "weeklyBossDrop": "Dvalin's Claw",
-                            "talentBooks": "Resistance"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": 21,
             "name": "Amber",
             "constellation": "Lepus",
@@ -671,76 +589,6 @@
                             "enemyDrop": "Hilichurl Shooters Materials",
                             "weeklyBossDrop": "Dvalin's Sigh",
                             "talentBooks": "Freedom"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 22,
-            "name": "Venti",
-            "constellation": "Carmen Dei",
-            "version": "1.0",
-            "star": 5,
-            "nation": "Mondstadt",
-            "element": "Anemo",
-            "weapon": "Bow",
-            "birthday": "06-16",
-            "title": "Windborne Bard",
-            "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
-            "reruns": [
-                {
-                    "startDate": "2020-09-28",
-                    "endDate": "2020-10-18",
-                    "version": "1.0",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-03-17",
-                    "endDate": "2021-04-06",
-                    "version": "1.4",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-03-30",
-                    "endDate": "2022-04-19",
-                    "version": "2.6",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-09-28",
-                    "endDate": "2022-10-14",
-                    "version": "3.1",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2023-10-17",
-                    "endDate": "2023-11-07",
-                    "version": "4.1",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2025-04-15",
-                    "endDate": "2025-05-06",
-                    "version": "5.5",
-                    "wishType": "event"
-                }
-            ],
-            "materials": [
-                {
-                    "ascension": [
-                        {
-                            "enemyDrop": "Slimes Materials",
-                            "elementalGem": "Vayuda Turquoise",
-                            "normalBossDrop": "Hurricane Seed",
-                            "localSpecialty": "Cecilia"
-                        }
-                    ],
-                    "talents": [
-                        {
-                            "enemyDrop": "Slimes Materials",
-                            "weeklyBossDrop": "Tail of Boreas",
-                            "talentBooks": "Ballad"
                         }
                     ]
                 }
@@ -1171,170 +1019,6 @@
             ]
         },
         {
-            "id": 29,
-            "name": "Klee",
-            "constellation": "Trifolium",
-            "version": "1.0",
-            "star": 5,
-            "nation": "Mondstadt",
-            "element": "Pyro",
-            "weapon": "Catalyst",
-            "birthday": "07-27",
-            "title": "Fleeing Sunlight",
-            "description": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
-            "reruns": [
-                {
-                    "startDate": "2020-10-20",
-                    "endDate": "2020-11-10",
-                    "version": "1.0",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-06-09",
-                    "endDate": "2021-06-29",
-                    "version": "1.6",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-07-13",
-                    "endDate": "2022-08-02",
-                    "version": "2.8",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2023-07-05",
-                    "endDate": "2023-07-25",
-                    "version": "3.8",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2024-03-13",
-                    "endDate": "2024-04-02",
-                    "version": "4.5",
-                    "wishType": "chronicled"
-                }
-            ],
-            "materials": [
-                {
-                    "ascension": [
-                        {
-                            "enemyDrop": "Samachurls Materials",
-                            "elementalGem": "Agnidus Agate",
-                            "normalBossDrop": "Everflame Seed",
-                            "localSpecialty": "Philanemo Mushroom"
-                        }
-                    ],
-                    "talents": [
-                        {
-                            "enemyDrop": "Samachurls Materials",
-                            "weeklyBossDrop": "Ring of Boreas",
-                            "talentBooks": "Freedom"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 31,
-            "name": "Fischl",
-            "constellation": "Corvus",
-            "version": "1.0",
-            "star": 4,
-            "nation": "Mondstadt",
-            "element": "Electro",
-            "weapon": "Bow",
-            "birthday": "05-27",
-            "title": "Prinzessin der Verurteilung!",
-            "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
-            "reruns": [
-                {
-                    "startDate": "2020-09-28",
-                    "endDate": "2020-10-18",
-                    "version": "1.0",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2020-12-23",
-                    "endDate": "2021-01-12",
-                    "version": "1.2",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-04-06",
-                    "endDate": "2021-04-27",
-                    "version": "1.4",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-06-09",
-                    "endDate": "2021-06-29",
-                    "version": "1.6",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-02-16",
-                    "endDate": "2022-03-08",
-                    "version": "2.5",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-08-24",
-                    "endDate": "2022-09-09",
-                    "version": "3.0",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2023-05-02",
-                    "endDate": "2023-05-23",
-                    "version": "3.6",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2023-09-27",
-                    "endDate": "2023-10-17",
-                    "version": "4.1",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2024-03-13",
-                    "endDate": "2024-04-02",
-                    "version": "4.5",
-                    "wishType": "chronicled"
-                },
-                {
-                    "startDate": "2024-12-10",
-                    "endDate": "2024-12-31",
-                    "version": "5.2",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2025-07-30",
-                    "endDate": "2025-08-19",
-                    "version": "5.8",
-                    "wishType": "event"
-                }
-            ],
-            "materials": [
-                {
-                    "ascension": [
-                        {
-                            "enemyDrop": "Hilichurl Shooters Materials",
-                            "elementalGem": "Vajrada Amethyst",
-                            "normalBossDrop": "Lightning Prism",
-                            "localSpecialty": "Small Lamp Grass"
-                        }
-                    ],
-                    "talents": [
-                        {
-                            "enemyDrop": "Hilichurl Shooters Materials",
-                            "weeklyBossDrop": "Spirit Locket of Boreas",
-                            "talentBooks": "Ballad"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": 32,
             "name": "Bennett",
             "constellation": "Rota Calamitas",
@@ -1693,46 +1377,6 @@
             ]
         },
         {
-            "id": 41,
-            "name": "Mona",
-            "constellation": "Astrolabos",
-            "version": "1.0",
-            "star": 5,
-            "nation": "Mondstadt",
-            "element": "Hydro",
-            "weapon": "Catalyst",
-            "birthday": "08-31",
-            "title": "Astral Reflection",
-            "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
-            "reruns": [
-                {
-                    "startDate": "2024-03-13",
-                    "endDate": "2024-04-02",
-                    "version": "4.5",
-                    "wishType": "chronicled"
-                }
-            ],
-            "materials": [
-                {
-                    "ascension": [
-                        {
-                            "enemyDrop": "Whopperflowers Materials",
-                            "elementalGem": "Varunada Lazurite",
-                            "normalBossDrop": "Cleansing Heart",
-                            "localSpecialty": "Philanemo Mushroom"
-                        }
-                    ],
-                    "talents": [
-                        {
-                            "enemyDrop": "Whopperflowers Materials",
-                            "weeklyBossDrop": "Ring of Boreas",
-                            "talentBooks": "Resistance"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": 42,
             "name": "Keqing",
             "constellation": "Trulla Cementarii",
@@ -1773,112 +1417,6 @@
                             "enemyDrop": "Whopperflowers Materials",
                             "weeklyBossDrop": "Ring of Boreas",
                             "talentBooks": "Prosperity"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 43,
-            "name": "Sucrose",
-            "constellation": "Ampulla",
-            "version": "1.0",
-            "star": 4,
-            "nation": "Mondstadt",
-            "element": "Anemo",
-            "weapon": "Catalyst",
-            "birthday": "11-26",
-            "title": "Harmless Sweetie",
-            "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
-            "reruns": [
-                {
-                    "startDate": "2020-10-20",
-                    "endDate": "2020-11-10",
-                    "version": "1.0",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2020-12-23",
-                    "endDate": "2021-01-12",
-                    "version": "1.2",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-03-17",
-                    "endDate": "2021-04-06",
-                    "version": "1.4",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-06-09",
-                    "endDate": "2021-06-29",
-                    "version": "1.6",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-09-01",
-                    "endDate": "2021-09-21",
-                    "version": "2.1",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-03-30",
-                    "endDate": "2022-04-19",
-                    "version": "2.6",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-09-09",
-                    "endDate": "2022-09-27",
-                    "version": "3.0",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2023-03-21",
-                    "endDate": "2023-04-11",
-                    "version": "3.5",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2023-12-20",
-                    "endDate": "2024-01-09",
-                    "version": "4.3",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2024-03-13",
-                    "endDate": "2024-04-02",
-                    "version": "4.5",
-                    "wishType": "chronicled"
-                },
-                {
-                    "startDate": "2024-11-20",
-                    "endDate": "2024-12-10",
-                    "version": "5.2",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2025-09-30",
-                    "endDate": "2025-10-21",
-                    "version": "6.0",
-                    "wishType": "event"
-                }
-            ],
-            "materials": [
-                {
-                    "ascension": [
-                        {
-                            "enemyDrop": "Whopperflowers Materials",
-                            "elementalGem": "Vayuda Turquoise",
-                            "normalBossDrop": "Hurricane Seed",
-                            "localSpecialty": "Windwheel Aster"
-                        }
-                    ],
-                    "talents": [
-                        {
-                            "enemyDrop": "Whopperflowers Materials",
-                            "weeklyBossDrop": "Spirit Locket of Boreas",
-                            "talentBooks": "Freedom"
                         }
                     ]
                 }
@@ -2283,64 +1821,6 @@
                             "enemyDrop": "Whopperflowers Materials",
                             "weeklyBossDrop": "Shadow of the Warrior",
                             "talentBooks": "Diligence"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 38,
-            "name": "Albedo",
-            "constellation": "Princeps Cretaceus",
-            "version": "1.2",
-            "star": 5,
-            "nation": "Mondstadt",
-            "element": "Geo",
-            "weapon": "Sword",
-            "birthday": "09-13",
-            "title": "Kreideprinz",
-            "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
-            "reruns": [
-                {
-                    "startDate": "2020-12-23",
-                    "endDate": "2021-01-12",
-                    "version": "1.2",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2021-11-24",
-                    "endDate": "2021-12-14",
-                    "version": "2.3",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2022-10-14",
-                    "endDate": "2022-11-01",
-                    "version": "3.1",
-                    "wishType": "event"
-                },
-                {
-                    "startDate": "2024-03-13",
-                    "endDate": "2024-04-02",
-                    "version": "4.5",
-                    "wishType": "chronicled"
-                }
-            ],
-            "materials": [
-                {
-                    "ascension": [
-                        {
-                            "enemyDrop": "Samachurls Materials",
-                            "elementalGem": "Prithiva Topaz",
-                            "normalBossDrop": "Basalt Pillar",
-                            "localSpecialty": "Cecilia"
-                        }
-                    ],
-                    "talents": [
-                        {
-                            "enemyDrop": "Samachurls Materials",
-                            "weeklyBossDrop": "Tusk of Monoceros Caeli",
-                            "talentBooks": "Ballad"
                         }
                     ]
                 }
@@ -6661,6 +6141,608 @@
                             "enemyDrop": "Fatui Oprichniki Materials",
                             "weeklyBossDrop": "Ascended Sample: Rook",
                             "talentBooks": "Elysium"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Razor",
+            "constellation": "Lupus Minor",
+            "version": "6.2",
+            "star": 4,
+            "nation": "Mondstadt",
+            "element": "Electro",
+            "weapon": "Claymore",
+            "birthday": "09-09",
+            "title": "Wolf Boy",
+            "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+            "reruns": [
+                {
+                    "startDate": "2020-12-01",
+                    "endDate": "2020-12-22",
+                    "version": "1.1",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-03-17",
+                    "endDate": "2021-04-06",
+                    "version": "1.4",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-06-29",
+                    "endDate": "2021-07-20",
+                    "version": "1.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-04-19",
+                    "endDate": "2022-05-31",
+                    "version": "2.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-11-02",
+                    "endDate": "2022-11-18",
+                    "version": "3.2",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2023-07-05",
+                    "endDate": "2023-07-25",
+                    "version": "3.8",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2024-03-13",
+                    "endDate": "2024-04-02",
+                    "version": "4.5",
+                    "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2024-08-06",
+                    "endDate": "2024-08-27",
+                    "version": "4.8",
+                    "wishType": "event"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Hilichurls Materials",
+                            "elementalGem": "Vajrada Amethyst",
+                            "normalBossDrop": "Lightning Prism",
+                            "localSpecialty": "Wolfhook"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Hilichurls Materials",
+                            "weeklyBossDrop": "Dvalin's Claw",
+                            "talentBooks": "Resistance"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Venti",
+            "constellation": "Carmen Dei",
+            "version": "6.2",
+            "star": 5,
+            "nation": "Mondstadt",
+            "element": "Anemo",
+            "weapon": "Bow",
+            "birthday": "06-16",
+            "title": "Windborne Bard",
+            "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+            "reruns": [
+                {
+                    "startDate": "2020-09-28",
+                    "endDate": "2020-10-18",
+                    "version": "1.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-03-17",
+                    "endDate": "2021-04-06",
+                    "version": "1.4",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-03-30",
+                    "endDate": "2022-04-19",
+                    "version": "2.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-09-28",
+                    "endDate": "2022-10-14",
+                    "version": "3.1",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2023-10-17",
+                    "endDate": "2023-11-07",
+                    "version": "4.1",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-04-15",
+                    "endDate": "2025-05-06",
+                    "version": "5.5",
+                    "wishType": "event"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Slimes Materials",
+                            "elementalGem": "Vayuda Turquoise",
+                            "normalBossDrop": "Hurricane Seed",
+                            "localSpecialty": "Cecilia"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Slimes Materials",
+                            "weeklyBossDrop": "Tail of Boreas",
+                            "talentBooks": "Ballad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Klee",
+            "constellation": "Trifolium",
+            "version": "6.2",
+            "star": 5,
+            "nation": "Mondstadt",
+            "element": "Pyro",
+            "weapon": "Catalyst",
+            "birthday": "07-27",
+            "title": "Fleeing Sunlight",
+            "description": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
+            "reruns": [
+                {
+                    "startDate": "2020-10-20",
+                    "endDate": "2020-11-10",
+                    "version": "1.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-06-09",
+                    "endDate": "2021-06-29",
+                    "version": "1.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-07-13",
+                    "endDate": "2022-08-02",
+                    "version": "2.8",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2023-07-05",
+                    "endDate": "2023-07-25",
+                    "version": "3.8",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2024-03-13",
+                    "endDate": "2024-04-02",
+                    "version": "4.5",
+                    "wishType": "chronicled"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Samachurls Materials",
+                            "elementalGem": "Agnidus Agate",
+                            "normalBossDrop": "Everflame Seed",
+                            "localSpecialty": "Philanemo Mushroom"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Samachurls Materials",
+                            "weeklyBossDrop": "Ring of Boreas",
+                            "talentBooks": "Freedom"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Fischl",
+            "constellation": "Corvus",
+            "version": "6.2",
+            "star": 4,
+            "nation": "Mondstadt",
+            "element": "Electro",
+            "weapon": "Bow",
+            "birthday": "05-27",
+            "title": "Prinzessin der Verurteilung!",
+            "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+            "reruns": [
+                {
+                    "startDate": "2020-09-28",
+                    "endDate": "2020-10-18",
+                    "version": "1.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2020-12-23",
+                    "endDate": "2021-01-12",
+                    "version": "1.2",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-04-06",
+                    "endDate": "2021-04-27",
+                    "version": "1.4",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-06-09",
+                    "endDate": "2021-06-29",
+                    "version": "1.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-02-16",
+                    "endDate": "2022-03-08",
+                    "version": "2.5",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-08-24",
+                    "endDate": "2022-09-09",
+                    "version": "3.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2023-05-02",
+                    "endDate": "2023-05-23",
+                    "version": "3.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2023-09-27",
+                    "endDate": "2023-10-17",
+                    "version": "4.1",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2024-03-13",
+                    "endDate": "2024-04-02",
+                    "version": "4.5",
+                    "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2024-12-10",
+                    "endDate": "2024-12-31",
+                    "version": "5.2",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-07-30",
+                    "endDate": "2025-08-19",
+                    "version": "5.8",
+                    "wishType": "event"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Hilichurl Shooters Materials",
+                            "elementalGem": "Vajrada Amethyst",
+                            "normalBossDrop": "Lightning Prism",
+                            "localSpecialty": "Small Lamp Grass"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Hilichurl Shooters Materials",
+                            "weeklyBossDrop": "Spirit Locket of Boreas",
+                            "talentBooks": "Ballad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Albedo",
+            "constellation": "Princeps Cretaceus",
+            "version": "6.2",
+            "star": 5,
+            "nation": "Mondstadt",
+            "element": "Geo",
+            "weapon": "Sword",
+            "birthday": "09-13",
+            "title": "Kreideprinz",
+            "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+            "reruns": [
+                {
+                    "startDate": "2020-12-23",
+                    "endDate": "2021-01-12",
+                    "version": "1.2",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-11-24",
+                    "endDate": "2021-12-14",
+                    "version": "2.3",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-10-14",
+                    "endDate": "2022-11-01",
+                    "version": "3.1",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2024-03-13",
+                    "endDate": "2024-04-02",
+                    "version": "4.5",
+                    "wishType": "chronicled"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Samachurls Materials",
+                            "elementalGem": "Prithiva Topaz",
+                            "normalBossDrop": "Basalt Pillar",
+                            "localSpecialty": "Cecilia"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Samachurls Materials",
+                            "weeklyBossDrop": "Tusk of Monoceros Caeli",
+                            "talentBooks": "Ballad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Mona",
+            "constellation": "Astrolabos",
+            "version": "6.2",
+            "star": 5,
+            "nation": "Mondstadt",
+            "element": "Hydro",
+            "weapon": "Catalyst",
+            "birthday": "08-31",
+            "title": "Astral Reflection",
+            "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+            "reruns": [
+                {
+                    "startDate": "2024-03-13",
+                    "endDate": "2024-04-02",
+                    "version": "4.5",
+                    "wishType": "chronicled"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Whopperflowers Materials",
+                            "elementalGem": "Varunada Lazurite",
+                            "normalBossDrop": "Cleansing Heart",
+                            "localSpecialty": "Philanemo Mushroom"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Whopperflowers Materials",
+                            "weeklyBossDrop": "Ring of Boreas",
+                            "talentBooks": "Resistance"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Sucrose",
+            "constellation": "Ampulla",
+            "version": "6.2",
+            "star": 4,
+            "nation": "Mondstadt",
+            "element": "Anemo",
+            "weapon": "Catalyst",
+            "birthday": "11-26",
+            "title": "Harmless Sweetie",
+            "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+            "reruns": [
+                {
+                    "startDate": "2020-10-20",
+                    "endDate": "2020-11-10",
+                    "version": "1.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2020-12-23",
+                    "endDate": "2021-01-12",
+                    "version": "1.2",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-03-17",
+                    "endDate": "2021-04-06",
+                    "version": "1.4",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-06-09",
+                    "endDate": "2021-06-29",
+                    "version": "1.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2021-09-01",
+                    "endDate": "2021-09-21",
+                    "version": "2.1",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-03-30",
+                    "endDate": "2022-04-19",
+                    "version": "2.6",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2022-09-09",
+                    "endDate": "2022-09-27",
+                    "version": "3.0",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2023-03-21",
+                    "endDate": "2023-04-11",
+                    "version": "3.5",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2023-12-20",
+                    "endDate": "2024-01-09",
+                    "version": "4.3",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2024-03-13",
+                    "endDate": "2024-04-02",
+                    "version": "4.5",
+                    "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2024-11-20",
+                    "endDate": "2024-12-10",
+                    "version": "5.2",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2025-09-30",
+                    "endDate": "2025-10-21",
+                    "version": "6.0",
+                    "wishType": "event"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Whopperflowers Materials",
+                            "elementalGem": "Vayuda Turquoise",
+                            "normalBossDrop": "Hurricane Seed",
+                            "localSpecialty": "Windwheel Aster"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Whopperflowers Materials",
+                            "weeklyBossDrop": "Spirit Locket of Boreas",
+                            "talentBooks": "Freedom"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "name": "Durin",
+            "constellation": "Draco Rubedo",
+            "version": "6.2",
+            "star": 5,
+            "nation": "Mondstadt",
+            "element": "Pyro",
+            "weapon": "Sword",
+            "birthday": "01-01",
+            "title": "???",
+            "description": "???",
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "6.2",
+                    "phase": "upcoming",
+                    "wishType": "event",
+                    "info": "official"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Fatui Oprichniki Materials",
+                            "elementalGem": "Agnidus Agate",
+                            "normalBossDrop": "Cyclic Military Kuuvahki Core",
+                            "localSpecialty": "Frostlamp Flower"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Fatui Oprichniki Materials",
+                            "weeklyBossDrop": "Eroded Sunfire",
+                            "talentBooks": "Ballad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "name": "Jahoda",
+            "constellation": "Fragum",
+            "version": "6.2",
+            "star": 4,
+            "nation": "???",
+            "element": "Anemo",
+            "weapon": "Bow",
+            "birthday": "01-01",
+            "title": "???",
+            "description": "???",
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "6.2",
+                    "phase": "upcoming",
+                    "wishType": "event",
+                    "info": "official"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Landcruisers Materials",
+                            "elementalGem": "Vayuda Turquoise",
+                            "normalBossDrop": "Lightbearing Scale-Feather",
+                            "localSpecialty": "Portable Bearing"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Landcruisers Materials",
+                            "weeklyBossDrop": "Ascended Sample: Knight",
+                            "talentBooks": "Vagrancy"
                         }
                     ]
                 }
