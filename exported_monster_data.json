@@ -12809,7 +12809,7 @@
             "Guardian of the Holy Light",
             "Frostnight Herra"
         ],
-        "Desc": "Proud beings that roam in the waning glow of the moon, wielding ancient powers long since tamed by the Lord of the Sky.\nLegends say these graceful, mystical beasts were born in the age before the Frost Moon was broken, and, favored by the divine emissary, they would not be tainted by the light of day. Even now, among the followers of the Frost Moon, they are regarded as sacred beasts lost to this world, retreating along secret lunar paths beyond the reach of mortal eyes. Yet, as they have for countless centuries past, they still wander in the shadows of the moon, treading the boundary between two worlds, guarding the lands coveted by calamity, and watching over those who dwell within them — for this is the very oath they first swore to the apostle of the golden city.",
+        "Desc": "Proud beings that roam in the waning glow of the moon, wielding ancient powers long since tamed by the Lord of the Sky.\nLegends say these graceful, mystical beasts were born in the age when the Frost Moon still turned, and, favored by the divine emissary, they would not be tainted by the light of day. Even now, among the followers of the Frost Moon, they are regarded as sacred beasts lost to this world, retreating along secret lunar paths beyond the reach of mortal eyes. Yet, as they have for countless centuries past, they still wander in the shadows of the moon, treading the boundary between two worlds, guarding the lands coveted by calamity, and watching over those who dwell within them — for this is the very oath they first swore to the apostle of the golden city.",
         "Color": "Ice",
         "HP": 11.0,
         "HPCurve": 2,
@@ -12827,6 +12827,9 @@
         ],
         "Tut": 3099,
         "Tutorial": 810,
+        "Csx": [
+            "ECElementalLifeforms"
+        ],
         "Class": "Elemental Lifeforms",
         "Category": "<b>6.0~6.2</b>"
     },
@@ -12854,6 +12857,9 @@
         ],
         "MultiPlayerID": 108,
         "Tutorial": 20081101,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.1",
         "Category": "Stygian Onslaught"
     },
@@ -12876,6 +12882,9 @@
         "Color": "Elec",
         "Tutorial": 22132005,
         "HPCount": 2,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.1",
         "Category": "Stygian Onslaught"
     },
@@ -12900,19 +12909,22 @@
         "MultiPlayerID": 108,
         "Color": "Ice",
         "Tutorial": 23060503,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.1",
         "Category": "Stygian Onslaught"
     },
     "30901": {
         "_id": 30901,
-        "Name": "Veteran Frost Operative: Bloodsoaked Blade",
+        "Name": "Super-Heavy Landrover: Mechanized Fortress",
         "Title": [
-            ""
+            "All-Terrain Combat Mek"
         ],
-        "Desc": "",
-        "HP": 0,
+        "Desc": "Referred to internally as the \"Type Drzislav,\" this super heavy-class mechanism was jointly developed by the Armory Palace and the Kuuvahki Experimental Design Bureau.\nThis giant all-terrain vehicle was originally designed for civilian use, particularly heavy transport, as evidenced by its equipped drills and cutters. However, later production models were militarized with heavy weapons mounted on them.\nAfter all, in this mortal world beneath the moon, even the most perfect and divine designs may stray from their original intent, let alone machines born of mortal hands, crafted from humble intentions and flawed from the very beginning.",
+        "HP": 11.0,
         "HPCurve": 2,
-        "ATK": 0,
+        "ATK": 8.0,
         "ATKCurve": 4,
         "RESBase": {},
         "Icon": [
@@ -12920,7 +12932,81 @@
         ],
         "Color": "Ice",
         "Tutorial": 30901,
-        "Class": "Battle Machines",
+        "Class": "All-Terrain Combat Mek",
         "Category": "Fatui"
+    },
+    "22100304": {
+        "_id": 22100304,
+        "Name": "",
+        "Title": [
+            "The Guide to the Dark Paradise"
+        ],
+        "Desc": "",
+        "HP": 164.83508,
+        "HPCurve": 20,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Invoker_Archdeacon"
+        ],
+        "MultiPlayerID": 108,
+        "Tutorial": 22100304,
+        "Class": "6.2",
+        "Category": "Stygian Onslaught"
+    },
+    "26240304": {
+        "_id": 26240304,
+        "Name": "",
+        "Title": [
+            "Ranging Saurians of Natlan"
+        ],
+        "Desc": "",
+        "HP": 9.9622,
+        "HPCurve": 2,
+        "ATK": 4.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Fire": 0.7,
+            "Grass": 0.7,
+            "Water": 0.7,
+            "Elec": 0.7,
+            "Wind": 0.7,
+            "Ice": 1.1,
+            "Rock": 0.7,
+            "Phys": 0.7
+        },
+        "Icon": [
+            "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal"
+        ],
+        "MultiPlayerID": 108,
+        "Color": "Ice",
+        "Tutorial": 26240304,
+        "Class": "6.2",
+        "Category": "Stygian Onslaught"
+    },
+    "24080105": {
+        "_id": 24080105,
+        "Name": "",
+        "Title": [
+            "Prototype Cal. Breguet"
+        ],
+        "Desc": "",
+        "HP": 295.02527,
+        "HPCurve": 20,
+        "ATK": 7.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Rock": 0.7
+        },
+        "Icon": [
+            "UI_MonsterIcon_MachinaIustitia_Gravitas"
+        ],
+        "MultiPlayerID": 108,
+        "Tut": 3067,
+        "Color": "Rock",
+        "Tutorial": 24080105,
+        "Class": "6.2",
+        "Category": "Stygian Onslaught"
     }
 }

@@ -1,5 +1,16 @@
 [
     {
+        "_id": 113080,
+        "R": 4,
+        "Name": "Cyclic Military Kuuvahki Core",
+        "Desc": "A kuuvahki device obtained from the energy core after defeating the Super-Heavy Landrover: Mechanized Fortress.<br>The Fontaine Research Institute of Kinetic Energy Engineering once defined several ideal cycle patterns for elemental working substance engines. Regardless of the type, the most perfect number of cycles has consistently been four. Although most engineers from Armory Palace and the Paha Isle Experimental Design Bureau tend to regard kuuvahki as a working substance distinct from elemental energy, design configurations beyond the four-cycle paradigm have still been proven inefficient and impractical. In a certain sense, the \"four\"-cycle might be the world's peculiar preference. Although, the world may have no preference at all, and for the world, the habit of presumptuous mortals making self-satisfied conjectures could well be the strangest preference of all.",
+        "Src": [
+            "Dropped by Lv. 30+ Super-Heavy Landrover: Mechanized Fortresses"
+        ],
+        "Icon": "UI_ItemIcon_113080",
+        "Type": "Character Level-Up Material"
+    },
+    {
         "_id": 113079,
         "R": 4,
         "Name": "Radiant Antler",
@@ -5686,6 +5697,39 @@
         "Type": "Forging Ore"
     },
     {
+        "_id": 210265,
+        "R": 4,
+        "Name": "Battle Pass: Blazing Snow",
+        "Desc": "Namecard style.<br>To press forward through ice, wind, and snow, the key lies not in solitary courage, but in the discernment to find one’s path.",
+        "Src": [
+            "BP Reward"
+        ],
+        "Icon": "UI_NameCardIcon_Bp46",
+        "Pic": "UI_NameCardPic_Bp46_P"
+    },
+    {
+        "_id": 210264,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "Reward for reaching Friendship 10 with Jahoda"
+        ],
+        "Icon": "UI_NameCardIcon_Jahoda",
+        "Pic": "UI_NameCardPic_Jahoda_P"
+    },
+    {
+        "_id": 210263,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Src": [
+            "Reward for reaching Friendship 10 with Durin"
+        ],
+        "Icon": "UI_NameCardIcon_Durin",
+        "Pic": "UI_NameCardPic_Durin_P"
+    },
+    {
         "_id": 210262,
         "R": 4,
         "Name": "Travel Notes: Bygone Ruins",
@@ -8546,6 +8590,80 @@
         "Icon": "UI_ItemIcon_111029",
         "Recipe": 14101,
         "Buff": 2
+    },
+    {
+        "_id": 108930,
+        "R": 2,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
+        "Icon": "UI_ItemIcon_108856",
+        "Recipe": 0,
+        "Buff": 8
+    },
+    {
+        "_id": 108929,
+        "R": 2,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
+        "Icon": "UI_ItemIcon_108855",
+        "Recipe": 0,
+        "Buff": 8
+    },
+    {
+        "_id": 108928,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Restores 100 Stamina.",
+        "Icon": "UI_ItemIcon_108855",
+        "Recipe": 4905,
+        "Buff": 5
+    },
+    {
+        "_id": 108927,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Restores 85 Stamina.",
+        "Icon": "UI_ItemIcon_108854",
+        "Recipe": 4905,
+        "Buff": 5
+    },
+    {
+        "_id": 108926,
+        "R": 4,
+        "Name": "???",
+        "Desc": "???",
+        "Eff": "Restores 70 Stamina.",
+        "Icon": "UI_ItemIcon_108854",
+        "Recipe": 4905,
+        "Buff": 5
+    },
+    {
+        "_id": 108924,
+        "R": 3,
+        "Name": "Apple Stew (Trial Version)",
+        "Desc": "",
+        "Eff": "Restores 85 Stamina.",
+        "Icon": "UI_ItemIcon_108853",
+        "Recipe": 3011,
+        "Avatar": 123,
+        "AI": "UI_AvatarIcon_Durin",
+        "Buff": 0
+    },
+    {
+        "_id": 108921,
+        "R": 3,
+        "Name": "\"After-Class Practice\"",
+        "Desc": "",
+        "Eff": "Restores 85 Stamina.",
+        "Icon": "UI_ItemIcon_108852",
+        "Recipe": 3604,
+        "Avatar": 124,
+        "AI": "UI_AvatarIcon_Jahoda",
+        "Buff": 0
     },
     {
         "_id": 108919,
@@ -18957,6 +19075,26 @@
         "Type": "Food"
     },
     {
+        "_id": 215017,
+        "R": 4,
+        "Name": "Echo: Fleeing Sunlight",
+        "Desc": "Klee's Envisaged Echo.",
+        "Src": [
+            "Envisaged Echoes challenge reward"
+        ],
+        "Icon": "UI_TraceEffectIcon_Klee"
+    },
+    {
+        "_id": 215016,
+        "R": 4,
+        "Name": "Echo: Kreideprinz",
+        "Desc": "Albedo's Envisaged Echo.",
+        "Src": [
+            "Envisaged Echoes challenge reward"
+        ],
+        "Icon": "UI_TraceEffectIcon_Albedo"
+    },
+    {
         "_id": 215015,
         "R": 4,
         "Name": "Echo: Physic of Purity",
@@ -19337,6 +19475,15 @@
         "Desc": "Complete \"Sacred Sakura Cleansing Ritual\" to unlock",
         "Src": [],
         "Pic": "UI_AvatarIcon_72105_Circle"
+    },
+    {
+        "_id": 220126,
+        "R": 5,
+        "Name": "The Little Witch's Dictionary",
+        "Desc": "",
+        "Src": [],
+        "Icon": "UI_ItemIcon_220126",
+        "Type": "Gadget"
     },
     {
         "_id": 220125,

@@ -43,22 +43,430 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Nefer"
+            "Razor",
+            "Sucrose",
+            "Jahoda",
+            "Mona",
+            "Albedo",
+            "Klee",
+            "Fischl",
+            "Durin",
+            "Venti"
         ],
         "NW": [
-            14521,
-            13434,
-            14434
+            15434,
+            15515,
+            11518
         ],
         "NR": [],
         "VS": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "L"
+            "L",
+            "1"
         ],
-        "Note": "6.1"
+        "Note": "6.2v1"
+    },
+    {
+        "_name": "Jahoda",
+        "_id": 124,
+        "Name": "Jahoda",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "Fragum",
+        "Nation": "???",
+        "Belong": "???",
+        "Grade": 4,
+        "Type": "Girl",
+        "Weapon": "Bow",
+        "Element": "Wind",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_Jahoda",
+        "CommonMatt": 112124,
+        "TalentMat": 3,
+        "TalentMatt": 104364,
+        "SpecialityMat": 101257,
+        "AscMat": 113078,
+        "WeekMat": 113073,
+        "CustomPromote": "Heal",
+        "Curve": 104,
+        "ShowStats": {
+            "HP": 9646,
+            "ATK": 223,
+            "DEF": 580,
+            "Custom": 0.1846
+        },
+        "ShowStats2": {
+            "HP": 10313,
+            "ATK": 280,
+            "DEF": 620,
+            "Custom": 0.1846
+        },
+        "Version": "6.2v1",
+        "Fetter": 124,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
+    },
+    {
+        "_name": "Durin",
+        "_id": 123,
+        "Name": "Durin",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "Draco Rubedo",
+        "Nation": "Mondstadt",
+        "Belong": "???",
+        "Grade": 5,
+        "Type": "Boy",
+        "Weapon": "Sword",
+        "Element": "Fire",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_Durin",
+        "CommonMatt": 112127,
+        "TalentMat": 3,
+        "TalentMatt": 104309,
+        "SpecialityMat": 101261,
+        "AscMat": 113080,
+        "WeekMat": 113069,
+        "CustomPromote": "CD",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 12430,
+            "ATK": 347,
+            "DEF": 822,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13313,
+            "ATK": 425,
+            "DEF": 881,
+            "Custom": 0.384
+        },
+        "Version": "6.2v1",
+        "Fetter": 123,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
+    },
+    {
+        "_name": "Sucrose",
+        "_id": 43,
+        "Name": "Sucrose",
+        "Desc": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+        "Title": "Harmless Sweetie",
+        "Constellation": "Ampulla",
+        "Nation": "Mondstadt",
+        "Belong": "Knights of Favonius",
+        "Grade": 4,
+        "Type": "Girl",
+        "Weapon": "Catalyst",
+        "Element": "Wind",
+        "Birthday": "11/26",
+        "Icon": "UI_AvatarIcon_Sucrose",
+        "CommonMatt": 112040,
+        "TalentMat": 1,
+        "TalentMatt": 104303,
+        "SpecialityMat": 100024,
+        "AscMat": 113001,
+        "WeekMat": 113008,
+        "CustomPromote": "Wind",
+        "Curve": 104,
+        "ShowStats": {
+            "HP": 9244,
+            "ATK": 170,
+            "DEF": 703,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 9883,
+            "ATK": 213,
+            "DEF": 752,
+            "Custom": 0.24
+        },
+        "Version": "6.2v1",
+        "Fetter": 43,
+        "_CV": {
+            "_CH": "小敢",
+            "_EN": "藤田茜",
+            "_JP": "Valeria Rodriguez & Anonymous",
+            "_KR": "Kim Ha-young"
+        },
+        "Buff": 1
+    },
+    {
+        "_name": "Mona",
+        "_id": 41,
+        "Name": "Mona",
+        "Desc": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+        "Title": "Astral Reflection",
+        "Constellation": "Astrolabos",
+        "Nation": "Mondstadt",
+        "Belong": "Mondstadt",
+        "Grade": 5,
+        "Type": "Girl",
+        "Weapon": "Catalyst",
+        "Element": "Water",
+        "Birthday": "8/31",
+        "Icon": "UI_AvatarIcon_Mona",
+        "CommonMatt": 112040,
+        "TalentMat": 2,
+        "TalentMatt": 104306,
+        "SpecialityMat": 100025,
+        "AscMat": 113012,
+        "WeekMat": 113007,
+        "CustomPromote": "ER",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 10409,
+            "ATK": 287,
+            "DEF": 653,
+            "Custom": 0.32
+        },
+        "ShowStats2": {
+            "HP": 11149,
+            "ATK": 352,
+            "DEF": 700,
+            "Custom": 0.32
+        },
+        "Version": "6.2v1",
+        "Fetter": 41,
+        "_CV": {
+            "_CH": "陈婷婷",
+            "_EN": "小原好美",
+            "_JP": "Felecia Angelle",
+            "_KR": "Woo Jeong-shin"
+        },
+        "Buff": 1
+    },
+    {
+        "_name": "Albedo",
+        "_id": 38,
+        "Name": "Albedo",
+        "Desc": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+        "Title": "Kreideprinz",
+        "Constellation": "Princeps Cretaceus",
+        "Nation": "Mondstadt",
+        "Belong": "Knights of Favonius",
+        "Grade": 5,
+        "Type": "Boy",
+        "Weapon": "Sword",
+        "Element": "Rock",
+        "Birthday": "9/13",
+        "Icon": "UI_AvatarIcon_Albedo",
+        "CommonMatt": 112010,
+        "TalentMat": 3,
+        "TalentMatt": 104309,
+        "SpecialityMat": 100023,
+        "AscMat": 113009,
+        "WeekMat": 113013,
+        "CustomPromote": "Rock",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 13226,
+            "ATK": 251,
+            "DEF": 876,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 14166,
+            "ATK": 308,
+            "DEF": 938,
+            "Custom": 0.288
+        },
+        "Version": "6.2v1",
+        "Fetter": 38,
+        "_CV": {
+            "_CH": "Mace",
+            "_EN": "野島健児",
+            "_JP": "Khoi Dao",
+            "_KR": "Kim Myeong-joon"
+        },
+        "Buff": 1
+    },
+    {
+        "_name": "Fischl",
+        "_id": 31,
+        "Name": "Fischl",
+        "Desc": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+        "Title": "Prinzessin der Verurteilung!",
+        "Constellation": "Corvus",
+        "Nation": "Mondstadt",
+        "Belong": "Adventurers' Guild",
+        "Grade": 4,
+        "Type": "Girl",
+        "Weapon": "Bow",
+        "Element": "Elec",
+        "Birthday": "5/27",
+        "Icon": "UI_AvatarIcon_Fischl",
+        "CommonMatt": 112013,
+        "TalentMat": 3,
+        "TalentMatt": 104309,
+        "SpecialityMat": 100055,
+        "AscMat": 113002,
+        "WeekMat": 113008,
+        "CustomPromote": "ATK",
+        "Curve": 104,
+        "ShowStats": {
+            "HP": 9189,
+            "ATK": 244,
+            "DEF": 594,
+            "Custom": 0.24
+        },
+        "ShowStats2": {
+            "HP": 9825,
+            "ATK": 307,
+            "DEF": 635,
+            "Custom": 0.24
+        },
+        "Version": "6.2v1",
+        "Fetter": 31,
+        "_CV": {
+            "_CH": "Mace & 赵悦程",
+            "_EN": "内田真礼 & 増谷康紀",
+            "_JP": "Brittany Cox & Ben Pronsky",
+            "_KR": "Park Go-woon & Lee Hyeon"
+        },
+        "Buff": 1
+    },
+    {
+        "_name": "Klee",
+        "_id": 29,
+        "Name": "Klee",
+        "Desc": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
+        "Title": "Fleeing Sunlight",
+        "Constellation": "Trifolium",
+        "Nation": "Mondstadt",
+        "Belong": "Knights of Favonius",
+        "Grade": 5,
+        "Type": "Loli",
+        "Weapon": "Catalyst",
+        "Element": "Fire",
+        "Birthday": "7/27",
+        "Icon": "UI_AvatarIcon_Klee",
+        "CommonMatt": 112010,
+        "TalentMat": 1,
+        "TalentMatt": 104303,
+        "SpecialityMat": 100025,
+        "AscMat": 113011,
+        "WeekMat": 113007,
+        "CustomPromote": "Fire",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 10287,
+            "ATK": 311,
+            "DEF": 615,
+            "Custom": 0.288
+        },
+        "ShowStats2": {
+            "HP": 11018,
+            "ATK": 381,
+            "DEF": 659,
+            "Custom": 0.288
+        },
+        "Version": "6.2v1",
+        "Fetter": 29,
+        "_CV": {
+            "_CH": "花玲",
+            "_EN": "久野美咲",
+            "_JP": "Poonam Basu",
+            "_KR": "Bang Yeon-ji"
+        },
+        "Buff": 1
+    },
+    {
+        "_name": "Venti",
+        "_id": 22,
+        "Name": "Venti",
+        "Desc": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+        "Title": "Windborne Bard",
+        "Constellation": "Carmen Dei",
+        "Nation": "Mondstadt",
+        "Belong": "Mondstadt",
+        "Grade": 5,
+        "Type": "Boy",
+        "Weapon": "Bow",
+        "Element": "Wind",
+        "Birthday": "6/16",
+        "Icon": "UI_AvatarIcon_Venti",
+        "CommonMatt": 112004,
+        "TalentMat": 3,
+        "TalentMatt": 104309,
+        "SpecialityMat": 100023,
+        "AscMat": 113001,
+        "WeekMat": 113006,
+        "CustomPromote": "ER",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 10531,
+            "ATK": 263,
+            "DEF": 669,
+            "Custom": 0.32
+        },
+        "ShowStats2": {
+            "HP": 11280,
+            "ATK": 322,
+            "DEF": 716,
+            "Custom": 0.32
+        },
+        "Version": "6.2v1",
+        "Fetter": 22,
+        "_CV": {
+            "_CH": "喵酱",
+            "_EN": "村瀬歩",
+            "_JP": "Erika Harlacher",
+            "_KR": "Jung Yoo-jung"
+        },
+        "Buff": 1
+    },
+    {
+        "_name": "Razor",
+        "_id": 20,
+        "Name": "Razor",
+        "Desc": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+        "Title": "Wolf Boy",
+        "Constellation": "Lupus Minor",
+        "Nation": "Mondstadt",
+        "Belong": "Wolvendom",
+        "Grade": 4,
+        "Type": "Boy",
+        "Weapon": "Claymore",
+        "Element": "Elec",
+        "Birthday": "9/9",
+        "Icon": "UI_AvatarIcon_Razor",
+        "CommonMatt": 112007,
+        "TalentMat": 2,
+        "TalentMatt": 104306,
+        "SpecialityMat": 100021,
+        "AscMat": 113002,
+        "WeekMat": 113004,
+        "CustomPromote": "Phys",
+        "Curve": 104,
+        "ShowStats": {
+            "HP": 11962,
+            "ATK": 234,
+            "DEF": 751,
+            "Custom": 0.3
+        },
+        "ShowStats2": {
+            "HP": 12790,
+            "ATK": 293,
+            "DEF": 803,
+            "Custom": 0.3
+        },
+        "Version": "6.2v1",
+        "Fetter": 20,
+        "_CV": {
+            "_CH": "周帅",
+            "_EN": "内山昂輝",
+            "_JP": "Todd Haberkorn",
+            "_KR": "Kim Seo-young"
+        },
+        "Buff": 1
     },
     {
         "_name": "Nefer",
@@ -3899,51 +4307,6 @@
         }
     },
     {
-        "_name": "Albedo",
-        "_id": 38,
-        "Name": "Albedo",
-        "Desc": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
-        "Title": "Kreideprinz",
-        "Constellation": "Princeps Cretaceus",
-        "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
-        "Grade": 5,
-        "Type": "Boy",
-        "Weapon": "Sword",
-        "Element": "Rock",
-        "Birthday": "9/13",
-        "Icon": "UI_AvatarIcon_Albedo",
-        "CommonMatt": 112010,
-        "TalentMat": 3,
-        "TalentMatt": 104309,
-        "SpecialityMat": 100023,
-        "AscMat": 113009,
-        "WeekMat": 113013,
-        "CustomPromote": "Rock",
-        "Curve": 105,
-        "ShowStats": {
-            "HP": 13226,
-            "ATK": 251,
-            "DEF": 876,
-            "Custom": 0.288
-        },
-        "ShowStats2": {
-            "HP": 14166,
-            "ATK": 308,
-            "DEF": 938,
-            "Custom": 0.288
-        },
-        "Version": "1.2",
-        "Fetter": 38,
-        "_CV": {
-            "_CH": "Mace",
-            "_EN": "野島健児",
-            "_JP": "Khoi Dao",
-            "_KR": "Kim Myeong-joon"
-        },
-        "Hex": 1
-    },
-    {
         "_name": "Ganyu",
         "_id": 37,
         "Name": "Ganyu",
@@ -4164,96 +4527,6 @@
         }
     },
     {
-        "_name": "Sucrose",
-        "_id": 43,
-        "Name": "Sucrose",
-        "Desc": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
-        "Title": "Harmless Sweetie",
-        "Constellation": "Ampulla",
-        "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
-        "Grade": 4,
-        "Type": "Girl",
-        "Weapon": "Catalyst",
-        "Element": "Wind",
-        "Birthday": "11/26",
-        "Icon": "UI_AvatarIcon_Sucrose",
-        "CommonMatt": 112040,
-        "TalentMat": 1,
-        "TalentMatt": 104303,
-        "SpecialityMat": 100024,
-        "AscMat": 113001,
-        "WeekMat": 113008,
-        "CustomPromote": "Wind",
-        "Curve": 104,
-        "ShowStats": {
-            "HP": 9244,
-            "ATK": 170,
-            "DEF": 703,
-            "Custom": 0.24
-        },
-        "ShowStats2": {
-            "HP": 9883,
-            "ATK": 213,
-            "DEF": 752,
-            "Custom": 0.24
-        },
-        "Version": "1.0",
-        "Fetter": 43,
-        "_CV": {
-            "_CH": "小敢",
-            "_EN": "藤田茜",
-            "_JP": "Valeria Rodriguez & Anonymous",
-            "_KR": "Kim Ha-young"
-        },
-        "Hex": 1
-    },
-    {
-        "_name": "Mona",
-        "_id": 41,
-        "Name": "Mona",
-        "Desc": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
-        "Title": "Astral Reflection",
-        "Constellation": "Astrolabos",
-        "Nation": "Mondstadt",
-        "Belong": "Mondstadt",
-        "Grade": 5,
-        "Type": "Girl",
-        "Weapon": "Catalyst",
-        "Element": "Water",
-        "Birthday": "8/31",
-        "Icon": "UI_AvatarIcon_Mona",
-        "CommonMatt": 112040,
-        "TalentMat": 2,
-        "TalentMatt": 104306,
-        "SpecialityMat": 100025,
-        "AscMat": 113012,
-        "WeekMat": 113007,
-        "CustomPromote": "ER",
-        "Curve": 105,
-        "ShowStats": {
-            "HP": 10409,
-            "ATK": 287,
-            "DEF": 653,
-            "Custom": 0.32
-        },
-        "ShowStats2": {
-            "HP": 11149,
-            "ATK": 352,
-            "DEF": 700,
-            "Custom": 0.32
-        },
-        "Version": "1.0",
-        "Fetter": 41,
-        "_CV": {
-            "_CH": "陈婷婷",
-            "_EN": "小原好美",
-            "_JP": "Felecia Angelle",
-            "_KR": "Woo Jeong-shin"
-        },
-        "Hex": 1
-    },
-    {
         "_name": "Chongyun",
         "_id": 36,
         "Name": "Chongyun",
@@ -4428,96 +4701,6 @@
             "_JP": "Cristina Vee Valenzuela",
             "_KR": "Song Ha-rim"
         }
-    },
-    {
-        "_name": "Fischl",
-        "_id": 31,
-        "Name": "Fischl",
-        "Desc": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
-        "Title": "Prinzessin der Verurteilung!",
-        "Constellation": "Corvus",
-        "Nation": "Mondstadt",
-        "Belong": "Adventurers' Guild",
-        "Grade": 4,
-        "Type": "Girl",
-        "Weapon": "Bow",
-        "Element": "Elec",
-        "Birthday": "5/27",
-        "Icon": "UI_AvatarIcon_Fischl",
-        "CommonMatt": 112013,
-        "TalentMat": 3,
-        "TalentMatt": 104309,
-        "SpecialityMat": 100055,
-        "AscMat": 113002,
-        "WeekMat": 113008,
-        "CustomPromote": "ATK",
-        "Curve": 104,
-        "ShowStats": {
-            "HP": 9189,
-            "ATK": 244,
-            "DEF": 594,
-            "Custom": 0.24
-        },
-        "ShowStats2": {
-            "HP": 9825,
-            "ATK": 307,
-            "DEF": 635,
-            "Custom": 0.24
-        },
-        "Version": "1.0",
-        "Fetter": 31,
-        "_CV": {
-            "_CH": "Mace & 赵悦程",
-            "_EN": "内田真礼 & 増谷康紀",
-            "_JP": "Brittany Cox & Ben Pronsky",
-            "_KR": "Park Go-woon & Lee Hyeon"
-        },
-        "Hex": 1
-    },
-    {
-        "_name": "Klee",
-        "_id": 29,
-        "Name": "Klee",
-        "Desc": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
-        "Title": "Fleeing Sunlight",
-        "Constellation": "Trifolium",
-        "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
-        "Grade": 5,
-        "Type": "Loli",
-        "Weapon": "Catalyst",
-        "Element": "Fire",
-        "Birthday": "7/27",
-        "Icon": "UI_AvatarIcon_Klee",
-        "CommonMatt": 112010,
-        "TalentMat": 1,
-        "TalentMatt": 104303,
-        "SpecialityMat": 100025,
-        "AscMat": 113011,
-        "WeekMat": 113007,
-        "CustomPromote": "Fire",
-        "Curve": 105,
-        "ShowStats": {
-            "HP": 10287,
-            "ATK": 311,
-            "DEF": 615,
-            "Custom": 0.288
-        },
-        "ShowStats2": {
-            "HP": 11018,
-            "ATK": 381,
-            "DEF": 659,
-            "Custom": 0.288
-        },
-        "Version": "1.0",
-        "Fetter": 29,
-        "_CV": {
-            "_CH": "花玲",
-            "_EN": "久野美咲",
-            "_JP": "Poonam Basu",
-            "_KR": "Bang Yeon-ji"
-        },
-        "Hex": 1
     },
     {
         "_name": "Ningguang",
@@ -4696,51 +4879,6 @@
         }
     },
     {
-        "_name": "Venti",
-        "_id": 22,
-        "Name": "Venti",
-        "Desc": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
-        "Title": "Windborne Bard",
-        "Constellation": "Carmen Dei",
-        "Nation": "Mondstadt",
-        "Belong": "Mondstadt",
-        "Grade": 5,
-        "Type": "Boy",
-        "Weapon": "Bow",
-        "Element": "Wind",
-        "Birthday": "6/16",
-        "Icon": "UI_AvatarIcon_Venti",
-        "CommonMatt": 112004,
-        "TalentMat": 3,
-        "TalentMatt": 104309,
-        "SpecialityMat": 100023,
-        "AscMat": 113001,
-        "WeekMat": 113006,
-        "CustomPromote": "ER",
-        "Curve": 105,
-        "ShowStats": {
-            "HP": 10531,
-            "ATK": 263,
-            "DEF": 669,
-            "Custom": 0.32
-        },
-        "ShowStats2": {
-            "HP": 11280,
-            "ATK": 322,
-            "DEF": 716,
-            "Custom": 0.32
-        },
-        "Version": "1.0",
-        "Fetter": 22,
-        "_CV": {
-            "_CH": "喵酱",
-            "_EN": "村瀬歩",
-            "_JP": "Erika Harlacher",
-            "_KR": "Jung Yoo-jung"
-        },
-        "Hex": 1
-    },
-    {
         "_name": "Ambor",
         "_id": 21,
         "Name": "Amber",
@@ -4783,51 +4921,6 @@
             "_JP": "Kelly Baskin",
             "_KR": "Kim Yeon-woo"
         }
-    },
-    {
-        "_name": "Razor",
-        "_id": 20,
-        "Name": "Razor",
-        "Desc": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
-        "Title": "Wolf Boy",
-        "Constellation": "Lupus Minor",
-        "Nation": "Mondstadt",
-        "Belong": "Wolvendom",
-        "Grade": 4,
-        "Type": "Boy",
-        "Weapon": "Claymore",
-        "Element": "Elec",
-        "Birthday": "9/9",
-        "Icon": "UI_AvatarIcon_Razor",
-        "CommonMatt": 112007,
-        "TalentMat": 2,
-        "TalentMatt": 104306,
-        "SpecialityMat": 100021,
-        "AscMat": 113002,
-        "WeekMat": 113004,
-        "CustomPromote": "Phys",
-        "Curve": 104,
-        "ShowStats": {
-            "HP": 11962,
-            "ATK": 234,
-            "DEF": 751,
-            "Custom": 0.3
-        },
-        "ShowStats2": {
-            "HP": 12790,
-            "ATK": 293,
-            "DEF": 803,
-            "Custom": 0.3
-        },
-        "Version": "1.0",
-        "Fetter": 20,
-        "_CV": {
-            "_CH": "周帅",
-            "_EN": "内山昂輝",
-            "_JP": "Todd Haberkorn",
-            "_KR": "Kim Seo-young"
-        },
-        "Hex": 1
     },
     {
         "_name": "Diluc",

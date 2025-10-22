@@ -1,5 +1,27 @@
 [
     {
+        "_id": "15515",
+        "Name": "6.2 Bow",
+        "Desc": "",
+        "Type": 5,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Bow_Arianna",
+        "Stat": 674.3345459999999,
+        "Custom": "CD",
+        "CustomStat": 0.441024,
+        "AscMatID": 114012,
+        "MatIDs": [
+            112016,
+            112037
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 115515,
+        "Extra": [],
+        "Story": 195515,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
         "_id": "15514",
         "Name": "Astral Vulture's Crimson Plumage",
         "Desc": "An ancient longbow crested with red feathers, a sacred relic of the Flower-Feather Clan that has been passed down from generation to generation.",
@@ -218,6 +240,28 @@
         "Story": 195501,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "15434",
+        "Name": "6.2 Event Bow",
+        "Desc": "",
+        "Type": 5,
+        "Rank": 4,
+        "Icons": "UI_EquipIcon_Bow_ElegguaBow",
+        "Stat": 509.605949,
+        "Custom": "ER",
+        "CustomStat": 0.45940000000000003,
+        "AscMatID": 114072,
+        "MatIDs": [
+            112118,
+            112127
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 115434,
+        "Extra": [],
+        "Story": 195434,
+        "StoryCount": 0,
+        "V": "1"
     },
     {
         "_id": "15433",
@@ -3738,6 +3782,28 @@
         "Story": 192301,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "11518",
+        "Name": "6.2 Sword",
+        "Desc": "",
+        "Type": 1,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Sword_Motsognir",
+        "Stat": 608.0745972,
+        "Custom": "CR",
+        "CustomStat": 0.330768,
+        "AscMatID": 114004,
+        "MatIDs": [
+            112130,
+            112124
+        ],
+        "EquipAffixName": "",
+        "EquipAffixID": 111518,
+        "Extra": [],
+        "Story": 191518,
+        "StoryCount": 0,
+        "V": "1"
     },
     {
         "_id": "11517",
