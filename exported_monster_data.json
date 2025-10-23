@@ -12926,12 +12926,32 @@
         "HPCurve": 2,
         "ATK": 8.0,
         "ATKCurve": 4,
-        "RESBase": {},
+        "RESBase": {
+            "Fire": 1.5,
+            "Grass": 1.5,
+            "Water": 1.5,
+            "Elec": 1.5,
+            "Wind": 1.5,
+            "Ice": 1.5,
+            "Rock": 1.5,
+            "Phys": 1.5
+        },
+        "RESState": [
+            {
+                "State": "Burn_1",
+                "All": -1
+            },
+            {
+                "State": "Weaken",
+                "All": -1.7
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Fatuimecha_AMP"
         ],
         "Color": "Ice",
         "Tutorial": 30901,
+        "Tut": 3100,
         "Class": "All-Terrain Combat Mek",
         "Category": "Fatui"
     },
