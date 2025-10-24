@@ -2246,6 +2246,7 @@
             "Tangled Vines: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Grass",
             "Blazing Brilliance: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Fire",
             "Icy Crystal: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Ice",
+            "Frostnight Herra": "UI_MonsterIcon_HerraFrost",
             "Oceanid": "UI_MonsterIcon_Oceanid"
         },
         "Local Legend": {
@@ -2692,9 +2693,6 @@
             "Frostnight Herra: Hatred and Rage": "UI_MonsterIcon_HerraFrost",
             "Battle-Hardened Lightkeeper: Mourning Echoes": "UI_MonsterIcon_WildHunt_Male_Sigurd",
             "Veteran Frost Operative: Bloodsoaked Blade": "UI_MonsterIcon_Fatuus_Escadron_Ice"
-        },
-        "<b>6.0~6.2</b>": {
-            "Frostnight Herra": "UI_MonsterIcon_HerraFrost"
         }
     }
 }
