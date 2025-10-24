@@ -11109,6 +11109,12 @@
             "Wind": 0.10000000149011612,
             "Rock": 0.10000000149011612
         },
+        "RESState": [
+            {
+                "State": "Enhanced",
+                "All": 2
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Wayob_Bisonsaurus"
         ],
@@ -12830,8 +12836,8 @@
         "Csx": [
             "ECElementalLifeforms"
         ],
-        "Class": "Elemental Lifeforms",
-        "Category": "<b>6.0~6.2</b>"
+        "Class": "Frostnight Scion",
+        "Category": "Elemental Lifeforms"
     },
     "20081101": {
         "_id": 20081101,
