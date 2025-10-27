@@ -6713,9 +6713,9 @@
     },
     "61401": {
         "_id": 61401,
-        "Name": "\"Statue of Marble and Brass\"",
+        "Name": "Legatus Golem",
         "Title": [
-            "Legatus Golem",
+            "\"Statue of Marble and Brass\"",
             "Legatus of Legion Athanatoi"
         ],
         "Desc": "A centaur-shaped golem forged of marble and brass. Under the hard stone exterior flows Ichor blood. Towering as one who commands a legion, it is ready to trample any foe that might transgress against its honor.\nThe now sunken civilization believed that war was as music, an art of rhythms to be followed. Therefore, one who marshals a legion must be like a conductor, whose shield and sword are like the strings and bow of a violin, performing a blazing melody like the raging flames upon the merciless battlefield.\n\"War is a necessary evil on the path to all-encompassing peace.\" Thus spake a Harmost, one who once led the golem legions to conquest over the entire high sea.",
@@ -12494,7 +12494,7 @@
             "Cutting Edge All-Purpose Scout"
         ],
         "Desc": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle, and are the key fulcrum of the frontline.\nThe all-purpose scout combat package is designed for both long- and short-range combat, and not only leads scout Landcruiser squads, but also provides close support for All-Purpose Storm Landcruisers during high-intensity battles, such as crossing specialized anti-Landcruiser trenches, or destroying enemy strongpoints. This Landcruiser type can also keep up with the tip of the spear as it breaks through in depth, before swinging out to the wings and swiftly attacking key targets in the enemy's rear lines.",
-        "Color": "Ice",
+        "Color": "Water",
         "HP": 4.0,
         "HPCurve": 2,
         "ATK": 5.0,
@@ -12955,7 +12955,6 @@
         "Icon": [
             "UI_MonsterIcon_Fatuimecha_AMP"
         ],
-        "Color": "Ice",
         "Tutorial": 30901,
         "Tut": 3100,
         "Class": "All-Terrain Combat Mek",
@@ -12963,7 +12962,7 @@
     },
     "22100304": {
         "_id": 22100304,
-        "Name": "",
+        "Name": "Iniquitous Baptist: Resonant Wrath",
         "Title": [
             "The Guide to the Dark Paradise"
         ],
@@ -12983,9 +12982,9 @@
     },
     "26240304": {
         "_id": 26240304,
-        "Name": "",
+        "Name": "Battle-Hardened Iktomisaurus: Frostbound Resolve",
         "Title": [
-            "Ranging Saurians of Natlan"
+            ""
         ],
         "Desc": "",
         "HP": 9.9622,
@@ -13013,7 +13012,7 @@
     },
     "24080105": {
         "_id": 24080105,
-        "Name": "",
+        "Name": "Experimental Field Generator: Extreme Potential",
         "Title": [
             "Prototype Cal. Breguet"
         ],

@@ -14,12 +14,12 @@
             112016,
             112037
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Dawning Song of Daybreak",
         "EquipAffixID": 115515,
         "Extra": [],
         "Story": 195515,
         "StoryCount": 1,
-        "V": "1"
+        "V": "2"
     },
     {
         "_id": "15514",
@@ -256,12 +256,12 @@
             112118,
             112127
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Astral Whispers Beyond the Sacred Throne",
         "EquipAffixID": 115434,
         "Extra": [],
         "Story": 195434,
         "StoryCount": 1,
-        "V": "1"
+        "V": "2"
     },
     {
         "_id": "15433",
@@ -3798,12 +3798,12 @@
             112130,
             112124
         ],
-        "EquipAffixName": "",
+        "EquipAffixName": "Day King's Searing Glory",
         "EquipAffixID": 111518,
         "Extra": [],
         "Story": 191518,
         "StoryCount": 1,
-        "V": "1"
+        "V": "2"
     },
     {
         "_id": "11517",
