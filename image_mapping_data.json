@@ -2609,7 +2609,7 @@
             "Grounded Hydroshroom": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
             "Grounded Geoshroom": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock",
             "Setekh Wenut": "UI_MonsterIcon_Sandworm",
-            "\"Statue of Marble and Brass\"": "UI_MonsterIcon_Golem_Centaur",
+            "Legatus Golem": "UI_MonsterIcon_Golem_Centaur",
             "Praetorian Golem": "UI_MonsterIcon_Golem_Legion",
             "Sternshield Crab": "UI_MonsterIcon_HermitCrab_Mature",
             "Cherubic Sea Hare": "UI_MonsterIcon_Aplysia_Mature",
@@ -2692,7 +2692,10 @@
             "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya",
             "Frostnight Herra: Hatred and Rage": "UI_MonsterIcon_HerraFrost",
             "Battle-Hardened Lightkeeper: Mourning Echoes": "UI_MonsterIcon_WildHunt_Male_Sigurd",
-            "Veteran Frost Operative: Bloodsoaked Blade": "UI_MonsterIcon_Fatuus_Escadron_Ice"
+            "Veteran Frost Operative: Bloodsoaked Blade": "UI_MonsterIcon_Fatuus_Escadron_Ice",
+            "Iniquitous Baptist: Resonant Wrath": "UI_MonsterIcon_Invoker_Archdeacon",
+            "Battle-Hardened Iktomisaurus: Frostbound Resolve": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal",
+            "Experimental Field Generator: Extreme Potential": "UI_MonsterIcon_MachinaIustitia_Gravitas"
         }
     }
 }
