@@ -319,6 +319,107 @@
     "chronicled_banners": null,
     "events": [
         {
+            "id": 130,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2025-12-02T03:59:59",
+            "end_timestamp": 1764619199,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2025-10-29T10:00:00",
+            "start_timestamp": 1761703200,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 450,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 341002,
+                    "name": "Radiant Phantasm: Sublimation",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/ad486c0d6c53f70894a762f883d18f4d.png",
+                    "num": 1,
+                    "rarity": 5,
+                    "wiki_url": null
+                },
+                {
+                    "id": 105006,
+                    "name": "Dust of Enlightenment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/fab4da768f6f2f23f065ccd7ac1efce5.png",
+                    "num": 3,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7794"
+                },
+                {
+                    "id": 341001,
+                    "name": "Radiant Phantasm",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/63f43673861c8fc25221d717fb8752d6.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "name": "The Forge Realm's Temper: Endless Swarm",
+            "description": "",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2025-12-03T07:00:00",
+            "end_timestamp": 1764716400,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2025-10-22T07:00:00",
+            "start_timestamp": 1761087600,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 107021,
+                    "name": "Lucky Coin",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
+                    "num": 8000,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
+                }
+            ]
+        },
+        {
             "id": 132,
             "name": "Saurian Sojourn",
             "description": "Born of remembrance for a bygone companion who once stood by his side, Kweku has made it his mission to share with every tribe the art of joyful kinship with the saurians. Now, he brings his teachings to the Children of Echoes...",
@@ -328,7 +429,7 @@
             "end_time": "2025-11-03T03:59:59",
             "end_timestamp": 1762113599,
             "exploration_detail": null,
-            "is_finished": null,
+            "is_finished": true,
             "start_time": "2025-10-24T10:00:00",
             "start_timestamp": 1761271200,
             "status": 2,
@@ -419,34 +520,6 @@
             ]
         },
         {
-            "id": 136,
-            "name": "The Forge Realm's Temper: Endless Swarm",
-            "description": "",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2025-12-03T07:00:00",
-            "end_timestamp": 1764716400,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2025-10-22T07:00:00",
-            "start_timestamp": 1761087600,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 107021,
-                    "name": "Lucky Coin",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
-                    "num": 8000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
-                }
-            ]
-        },
-        {
             "id": 118,
             "name": "The Isle of Cold Moonlight",
             "description": "Ancient ruins sleep beneath the tides of time, where ocean winds whisper across lonely shores. Beneath the purest moonlight, a land of chance and wonder awaits.\nThrough drifting fog and hidden valleys, trace the dancing moonbeams to where all journeys begin.",
@@ -500,24 +573,6 @@
             "name": "Ruins Exploration: Fieldwise Center",
             "description": "Returning once more to Sumeru, you reunite with old friends and set out to investigate a strange incident deep within the desert...",
             "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 130,
-            "name": "Stygian Onslaught",
-            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
-            "type": "ActTypeHardChallenge",
             "abyss_detail": null,
             "double_reward_detail": null,
             "end_time": null,
