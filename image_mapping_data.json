@@ -1506,7 +1506,7 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
-            "Battle Pass: Blazing Snow": 210265,
+            "Travel Notes: Blazing Snow": 210265,
             "???": 210263,
             "Travel Notes: Bygone Ruins": 210262,
             "Nefer: Secrets": 210261,
@@ -1962,7 +1962,7 @@
     },
     "Weapons": {
         "Bow": {
-            "6.2 Bow": "Bow_Arianna",
+            "The Daybreak Chronicles": "Bow_Arianna",
             "Astral Vulture's Crimson Plumage": "Bow_Qoyllorsnova",
             "Silvershower Heartstrings": "Bow_Arcdange",
             "The First Great Magic": "Bow_Pledge",
@@ -1973,7 +1973,7 @@
             "Elegy for the End": "Bow_Widsith",
             "Amos' Bow": "Bow_Amos",
             "Skyward Harp": "Bow_Dvalin",
-            "6.2 Event Bow": "Bow_ElegguaBow",
+            "Rainbow Serpent's Rain Bow": "Bow_ElegguaBow",
             "Snare Hook": "Bow_Ilmarinen",
             "Sequence of Solitude": "Bow_Stinger",
             "Chain Breaker": "Bow_Isikhulu",
@@ -2142,7 +2142,7 @@
             "Ferrous Shadow": "Claymore_Glaive"
         },
         "Sword": {
-            "6.2 Sword": "Sword_Motsognir",
+            "Athame Artis": "Sword_Motsognir",
             "Azurelight": "Sword_OuterSword",
             "Peak Patrol Song": "Sword_XochitlsTube",
             "Absolution": "Sword_Estoc",
