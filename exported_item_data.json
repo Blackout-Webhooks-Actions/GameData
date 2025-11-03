@@ -3,7 +3,7 @@
         "_id": 113080,
         "R": 4,
         "Name": "Cyclic Military Kuuvahki Core",
-        "Desc": "A kuuvahki device obtained from the energy core after defeating the Super-Heavy Landrover: Mechanized Fortress.<br>The Fontaine Research Institute of Kinetic Energy Engineering once defined several ideal cycle patterns for elemental working substance engines. Regardless of the type, the most perfect number of cycles has consistently been four. Although most engineers from Armory Palace and the Paha Isle Experimental Design Bureau tend to regard kuuvahki as a working substance distinct from elemental energy, design configurations beyond the four-cycle paradigm have still been proven inefficient and impractical. In a certain sense, the \"four\"-cycle might be the world's peculiar preference. Although, the world may have no preference at all, and for the world, the habit of presumptuous mortals making self-satisfied conjectures could well be the strangest preference of all.",
+        "Desc": "A kuuvahki device obtained from the energy core after defeating the Super-Heavy Landrover: Mechanized Fortress.<br>The Fontaine Research Institute of Kinetic Energy Engineering once defined several ideal cycle patterns for elemental working substance engines. Regardless of the type, the most perfect number of cycles has consistently been four. Although most engineers from the Armory Palace and the Kuuvahki Experimental Design Bureau tend to regard kuuvahki as a working substance distinct from elemental energy, design configurations beyond the four-cycle paradigm have still been proven inefficient and impractical. In a certain sense, the \"four\"-cycle might be the world's peculiar preference. Although, the world may have no preference at all, and for the world, the habit of presumptuous mortals making self-satisfied conjectures could well be the strangest preference of all.",
         "Src": [
             "Dropped by Lv. 30+ Super-Heavy Landrover: Mechanized Fortresses"
         ],
@@ -2070,7 +2070,7 @@
         "_id": 112045,
         "R": 2,
         "Name": "Kageuchi Handguard",
-        "Desc": "A handguard mounded upon a sword of some distinction.<br>Inazuma has a long tradition of sword-making. When making swords, smiths will often make several different weapons at once, before choosing from among them the \"shinuchi,\" or the best weapon, while the others are known as \"kageuchi.\"",
+        "Desc": "A handguard mounted upon a sword of some distinction.<br>Inazuma has a long tradition of sword-making. When making swords, smiths will often make several different weapons at once, before choosing from among them the \"shinuchi,\" or the best weapon, while the others are known as \"kageuchi.\"",
         "Src": [
             "Dropped by Lv. 40+ Nobushi",
             "Stardust Exchange",
@@ -5699,8 +5699,8 @@
     {
         "_id": 210265,
         "R": 4,
-        "Name": "Battle Pass: Blazing Snow",
-        "Desc": "Namecard style.<br>To press forward through ice, wind, and snow, the key lies not in solitary courage, but in the discernment to find one’s path.",
+        "Name": "Travel Notes: Blazing Snow",
+        "Desc": "Namecard style.<br>When braving wind, snow, and rain, what truly matters isn't sheer bravery alone, but the careful discernment to find the right path forward.",
         "Src": [
             "BP Reward"
         ],
@@ -8616,7 +8616,7 @@
         "R": 4,
         "Name": "???",
         "Desc": "???",
-        "Eff": "Restores 100 Stamina.",
+        "Eff": "Restores 35% of Max HP to the selected character and regenerates 930 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108855",
         "Recipe": 4905,
         "Buff": 5
@@ -8626,7 +8626,7 @@
         "R": 4,
         "Name": "???",
         "Desc": "???",
-        "Eff": "Restores 85 Stamina.",
+        "Eff": "Restores 32% of Max HP to the selected character and regenerates 730 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108854",
         "Recipe": 4905,
         "Buff": 5
@@ -8636,7 +8636,7 @@
         "R": 4,
         "Name": "???",
         "Desc": "???",
-        "Eff": "Restores 70 Stamina.",
+        "Eff": "Restores 30% of Max HP to the selected character and regenerates 510 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108854",
         "Recipe": 4905,
         "Buff": 5
@@ -8646,7 +8646,7 @@
         "R": 3,
         "Name": "Apple Stew (Trial Version)",
         "Desc": "Durin's specialty. Imitating your every move at the stove, Durin prepared the very first dish of his life. Within its rich, fruity aroma lay his nascent understanding of this world's cuisine. Along its slightly crisped edges rested the fruits of his effort to restrain his own power.",
-        "Eff": "Restores 85 Stamina.",
+        "Eff": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
         "Icon": "UI_ItemIcon_108853",
         "Recipe": 3011,
         "Avatar": 123,
@@ -8658,7 +8658,7 @@
         "R": 3,
         "Name": "\"After-Class Practice\"",
         "Desc": "Jahoda's specialty. After seeking advice on baking techniques from Ineffa for the sixth time, Jahoda finally presented her assignment — a handmade pastry. The shape is a bit wobbly, but the sweet scent of berries is irresistible, and the taste... well, it can't be too bad, right?",
-        "Eff": "Restores 85 Stamina.",
+        "Eff": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
         "Icon": "UI_ItemIcon_108852",
         "Recipe": 3604,
         "Avatar": 124,
@@ -13062,7 +13062,7 @@
         "R": 3,
         "Name": "Traditionally-Made Charcoal-Baked Ajilenakh Cake",
         "Desc": "Faruzan's specialty. The dark and sweet cake, lying as it does atop a minty-green sauce bed, almost looks like some enigmatic mechanism. Your hesitation must have somehow reached Faruzan, for she then straightened up to assertively reassure you that this was a traditional dish in Sumeru and that its flavor is guaranteed. But you can't help wondering... Is it really a \"traditional\" dish that catered to the tastes of Sumeru people a hundred years ago?",
-        "Eff": "Revives the selected character and restores 20% of Max HP, then restores an additional 1500 HP.",
+        "Eff": "Revives the selected character and restores 20% of Max HP, then restores an additional 1,500 HP.",
         "Icon": "UI_ItemIcon_108478",
         "Recipe": 3310,
         "Avatar": 76,

@@ -43,15 +43,15 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
+            "Albedo",
+            "Mona",
+            "Razor",
+            "Venti",
             "Durin",
-            "Jahoda",
             "Klee",
             "Fischl",
-            "Albedo",
             "Sucrose",
-            "Razor",
-            "Mona",
-            "Venti"
+            "Jahoda"
         ],
         "NW": [
             15434,
@@ -62,24 +62,25 @@
         "VS": [
             "L",
             "1",
-            "2"
+            "2",
+            "3"
         ],
-        "Note": "6.2v2"
+        "Note": "6.2v3"
     },
     {
         "_name": "Jahoda",
         "_id": 124,
         "Name": "Jahoda",
-        "Desc": "???",
-        "Title": "???",
+        "Desc": "The Curatorium of Secrets' extremely reliable, do-it-all super employee (or so she claims).",
+        "Title": "Windthreading Shadow",
         "Constellation": "Fragum",
         "Nation": "???",
-        "Belong": "???",
+        "Belong": "Curatorium of Secrets",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Bow",
         "Element": "Wind",
-        "Birthday": "1/1",
+        "Birthday": "1/5",
         "Icon": "UI_AvatarIcon_Jahoda",
         "CommonMatt": 112124,
         "TalentMat": 3,
@@ -101,7 +102,7 @@
             "DEF": 620,
             "Custom": 0.1846
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 124,
         "_CV": {
             "_CH": "???",
@@ -115,7 +116,7 @@
         "_id": 123,
         "Name": "Durin",
         "Desc": "???",
-        "Title": "???",
+        "Title": "\"The Undying Fire\"",
         "Constellation": "Draco Rubedo",
         "Nation": "Mondstadt",
         "Belong": "???",
@@ -145,7 +146,7 @@
             "DEF": 881,
             "Custom": 0.384
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 123,
         "_CV": {
             "_CH": "???",
@@ -189,7 +190,7 @@
             "DEF": 752,
             "Custom": 0.24
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 43,
         "_CV": {
             "_CH": "小敢",
@@ -234,7 +235,7 @@
             "DEF": 700,
             "Custom": 0.32
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 41,
         "_CV": {
             "_CH": "陈婷婷",
@@ -279,7 +280,7 @@
             "DEF": 938,
             "Custom": 0.288
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 38,
         "_CV": {
             "_CH": "Mace",
@@ -324,7 +325,7 @@
             "DEF": 635,
             "Custom": 0.24
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 31,
         "_CV": {
             "_CH": "Mace & 赵悦程",
@@ -369,7 +370,7 @@
             "DEF": 659,
             "Custom": 0.288
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 29,
         "_CV": {
             "_CH": "花玲",
@@ -414,7 +415,7 @@
             "DEF": 716,
             "Custom": 0.32
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 22,
         "_CV": {
             "_CH": "喵酱",
@@ -459,7 +460,7 @@
             "DEF": 803,
             "Custom": 0.3
         },
-        "Version": "6.2v2",
+        "Version": "6.2v3",
         "Fetter": 20,
         "_CV": {
             "_CH": "周帅",
