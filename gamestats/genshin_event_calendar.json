@@ -319,6 +319,223 @@
     "chronicled_banners": null,
     "events": [
         {
+            "id": 131,
+            "name": "Ruins Exploration: Fieldwise Center",
+            "description": "Returning once more to Sumeru, you reunite with old friends and set out to investigate a strange incident deep within the desert...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2025-11-24T03:59:59",
+            "end_timestamp": 1763927999,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2025-11-07T10:00:00",
+            "start_timestamp": 1762480800,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 960,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104319,
+                    "name": "Crown of Insight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bf059be872ce72f035e3df38da065e89.png",
+                    "num": 1,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/900"
+                },
+                {
+                    "id": 10000067,
+                    "name": "Collei",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e841487d9fda7a2a2f2af632df46148a.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2268"
+                },
+                {
+                    "id": 394636,
+                    "name": "Puzzlepal: \"Keep Calm and Carry On\"",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7800e492b1ae185da08d825930ae00f6.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 104364,
+                    "name": "Philosophies of Vagrancy",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/1f8ee5698c4defe2b21e3cb48571c273.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8590"
+                },
+                {
+                    "id": 104361,
+                    "name": "Philosophies of Elysium",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/3f8c8f6868003d0b9b28148b6958726c.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8587"
+                },
+                {
+                    "id": 104358,
+                    "name": "Philosophies of Moonlight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/8ecc303ca901fe747d40b5016c39314e.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8584"
+                },
+                {
+                    "id": 104363,
+                    "name": "Guide to Vagrancy",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/bdd7c8e04e99d8ba65ce98c09ec1eda0.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8589"
+                },
+                {
+                    "id": 104360,
+                    "name": "Guide to Elysium",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/28f0b3c352d65a8aa9bfc3d4f5ed76a9.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8586"
+                },
+                {
+                    "id": 104357,
+                    "name": "Guide to Moonlight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/eb9eff023c49d27b826e0fe7d3df28c9.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8583"
+                },
+                {
+                    "id": 104172,
+                    "name": "Prithiva Topaz Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0949ad6d7c3e8f3bd577b30f5f2aa283.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/446"
+                },
+                {
+                    "id": 104162,
+                    "name": "Shivada Jade Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8b6ce7f096e294231cef28326cb6683.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/410"
+                },
+                {
+                    "id": 104152,
+                    "name": "Vayuda Turquoise Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c3c8fe02bd7778a9e9e2befc1835c51c.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1495"
+                },
+                {
+                    "id": 104142,
+                    "name": "Vajrada Amethyst Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aed02c6795884973a597c86d2507f5b2.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/904"
+                },
+                {
+                    "id": 104132,
+                    "name": "Nagadus Emerald Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/464d55a8e7a90bd94e6cdce783805959.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2678"
+                },
+                {
+                    "id": 104122,
+                    "name": "Varunada Lazurite Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fc3a89a644e48b89bc5464dff55039af.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1036"
+                },
+                {
+                    "id": 104112,
+                    "name": "Agnidus Agate Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b53db4ba6c9a4840e7b844f46703fd21.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1099"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 104002,
+                    "name": "Adventurer's Experience",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3190775877db6975feb2aefdff7ef963.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/303"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ]
+        },
+        {
             "id": 130,
             "name": "Stygian Onslaught",
             "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
@@ -454,24 +671,6 @@
             "id": 134,
             "name": "Dance Dance Dynamic Disco",
             "description": "At the joint invitation of the People of the Springs, the Flower-Feather Clan, and the Children of Echoes, a group of friends from Sumeru has come to Natlan to host a lively \"dance exchange\"...",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 131,
-            "name": "Ruins Exploration: Fieldwise Center",
-            "description": "Returning once more to Sumeru, you reunite with old friends and set out to investigate a strange incident deep within the desert...",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
