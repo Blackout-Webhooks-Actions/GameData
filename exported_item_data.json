@@ -19078,7 +19078,7 @@
         "_id": 215017,
         "R": 4,
         "Name": "Echo: Fleeing Sunlight",
-        "Desc": "Klee's Envisaged Echo.",
+        "Desc": "Klee's Envisaged Echo. \"Da-da-da~ The Spark Knight's adventure begins!\"",
         "Src": [
             "Envisaged Echoes challenge reward"
         ],
@@ -19088,7 +19088,7 @@
         "_id": 215016,
         "R": 4,
         "Name": "Echo: Kreideprinz",
-        "Desc": "Albedo's Envisaged Echo.",
+        "Desc": "Albedo's Envisaged Echo. \"From blazing nigredo, the Solar Isotoma blossoms.\"",
         "Src": [
             "Envisaged Echoes challenge reward"
         ],

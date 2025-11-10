@@ -43,14 +43,14 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
+            "Durin",
             "Razor",
+            "Fischl",
+            "Sucrose",
             "Mona",
+            "Venti",
             "Jahoda",
             "Albedo",
-            "Durin",
-            "Sucrose",
-            "Venti",
-            "Fischl",
             "Klee"
         ],
         "NW": [
@@ -63,9 +63,10 @@
             "L",
             "1",
             "2",
-            "3"
+            "3",
+            "4"
         ],
-        "Note": "6.2v3"
+        "Note": "6.2v4"
     },
     {
         "_name": "Jahoda",
@@ -102,7 +103,7 @@
             "DEF": 620,
             "Custom": 0.1846
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 124,
         "_CV": {
             "_CH": "???",
@@ -146,7 +147,7 @@
             "DEF": 881,
             "Custom": 0.384
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 123,
         "_CV": {
             "_CH": "???",
@@ -190,7 +191,7 @@
             "DEF": 752,
             "Custom": 0.24
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 43,
         "_CV": {
             "_CH": "小敢",
@@ -235,7 +236,7 @@
             "DEF": 700,
             "Custom": 0.32
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 41,
         "_CV": {
             "_CH": "陈婷婷",
@@ -280,7 +281,7 @@
             "DEF": 938,
             "Custom": 0.288
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 38,
         "_CV": {
             "_CH": "Mace",
@@ -325,7 +326,7 @@
             "DEF": 635,
             "Custom": 0.24
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 31,
         "_CV": {
             "_CH": "Mace & 赵悦程",
@@ -370,7 +371,7 @@
             "DEF": 659,
             "Custom": 0.288
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 29,
         "_CV": {
             "_CH": "花玲",
@@ -415,7 +416,7 @@
             "DEF": 716,
             "Custom": 0.32
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 22,
         "_CV": {
             "_CH": "喵酱",
@@ -460,7 +461,7 @@
             "DEF": 803,
             "Custom": 0.3
         },
-        "Version": "6.2v3",
+        "Version": "6.2v4",
         "Fetter": 20,
         "_CV": {
             "_CH": "周帅",

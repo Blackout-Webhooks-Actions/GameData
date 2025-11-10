@@ -12328,7 +12328,7 @@
             "Oprichniki",
             "Thunderblitz Gvardiya"
         ],
-        "Desc": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snezhnaya Royal Military Academy, whether due to the privilege of noble birth or the rare talent to escape a common background. After all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals. Traditionally, only fae could become elite Gvardiya, but today, this glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
+        "Desc": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snezhnayan Royal Military Academy, whether due to the privilege of noble birth or the rare talent to escape a common background. After all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals. Traditionally, only fae could become elite Gvardiya, but today, this glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
         "Color": "Elec",
         "HP": 2.0,
         "HPCurve": 2,
@@ -12966,7 +12966,7 @@
         "Title": [
             "The Guide to the Dark Paradise"
         ],
-        "Desc": "",
+        "Desc": "A creature of the Abyss that, through the dark's stygian powers, has gained additional appendages via \"evolution.\" It is capable of wielding multiple types of elemental powers.\nIn the twisted recollections of the Ley Lines, they surface as frenzied destroyers, raising wave after wave of calamity with their blasphemous powers...",
         "HP": 164.83508,
         "HPCurve": 20,
         "ATK": 6.0,
@@ -12986,7 +12986,7 @@
         "Title": [
             "Spiritspeaker's Lament"
         ],
-        "Desc": "",
+        "Desc": "Able to use its plumage for leaping, it is the only type of Saurian to have grasped how to enter the \"Spiritspeaker\" state.\nObserving the totality of suffering and sorrow, it has been consumed by the twisted memories of the Ley Lines, transforming into a blizzard of near-absolute cold that rages with the winds of unfathomable chaos...",
         "HP": 9.9622,
         "HPCurve": 2,
         "ATK": 4.0,
@@ -13016,7 +13016,7 @@
         "Title": [
             "Prototype Cal. Breguet"
         ],
-        "Desc": "",
+        "Desc": "A product of the Fontaine Research Institute of Kinetic Energy Engineering that has gone out of control due to an accident. It has the ability to \"counteract\" the effects of gravity.\nTransformed by the chaotic Ley Lines, its core has grown violently unstable, and the gravitational fields it unleashes now surge with the force of tsunamis, ready to engulf the land...",
         "HP": 295.02527,
         "HPCurve": 20,
         "ATK": 7.0,
