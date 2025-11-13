@@ -43,15 +43,15 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Durin",
             "Razor",
-            "Fischl",
+            "Klee",
             "Sucrose",
-            "Mona",
+            "Albedo",
             "Venti",
             "Jahoda",
-            "Albedo",
-            "Klee"
+            "Fischl",
+            "Durin",
+            "Mona"
         ],
         "NW": [
             15434,
@@ -64,9 +64,10 @@
             "1",
             "2",
             "3",
-            "4"
+            "4",
+            "5"
         ],
-        "Note": "6.2v4"
+        "Note": "6.2v5"
     },
     {
         "_name": "Jahoda",
@@ -103,7 +104,7 @@
             "DEF": 620,
             "Custom": 0.1846
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 124,
         "_CV": {
             "_CH": "???",
@@ -116,16 +117,16 @@
         "_name": "Durin",
         "_id": 123,
         "Name": "Durin",
-        "Desc": "???",
+        "Desc": "A dragon born from M's pen, who came to alight in the human world. His \"story\" continues to unfold.",
         "Title": "\"The Undying Fire\"",
         "Constellation": "Draco Rubedo",
         "Nation": "Mondstadt",
-        "Belong": "???",
+        "Belong": "Hexenzirkel",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Sword",
         "Element": "Fire",
-        "Birthday": "1/1",
+        "Birthday": "3/14",
         "Icon": "UI_AvatarIcon_Durin",
         "CommonMatt": 112127,
         "TalentMat": 3,
@@ -147,7 +148,7 @@
             "DEF": 881,
             "Custom": 0.384
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 123,
         "_CV": {
             "_CH": "???",
@@ -191,7 +192,7 @@
             "DEF": 752,
             "Custom": 0.24
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 43,
         "_CV": {
             "_CH": "小敢",
@@ -236,7 +237,7 @@
             "DEF": 700,
             "Custom": 0.32
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 41,
         "_CV": {
             "_CH": "陈婷婷",
@@ -281,7 +282,7 @@
             "DEF": 938,
             "Custom": 0.288
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 38,
         "_CV": {
             "_CH": "Mace",
@@ -326,7 +327,7 @@
             "DEF": 635,
             "Custom": 0.24
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 31,
         "_CV": {
             "_CH": "Mace & 赵悦程",
@@ -371,7 +372,7 @@
             "DEF": 659,
             "Custom": 0.288
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 29,
         "_CV": {
             "_CH": "花玲",
@@ -416,7 +417,7 @@
             "DEF": 716,
             "Custom": 0.32
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 22,
         "_CV": {
             "_CH": "喵酱",
@@ -461,7 +462,7 @@
             "DEF": 803,
             "Custom": 0.3
         },
-        "Version": "6.2v4",
+        "Version": "6.2v5",
         "Fetter": 20,
         "_CV": {
             "_CH": "周帅",
