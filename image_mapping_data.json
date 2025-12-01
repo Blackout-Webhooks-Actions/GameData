@@ -1506,8 +1506,10 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
+            "Celebration: Dream Reader": 210266,
             "Travel Notes: Blazing Snow": 210265,
-            "???": 210263,
+            "Jahoda: Helping Hand": 210264,
+            "Durin: Radiant Heart": 210263,
             "Travel Notes: Bygone Ruins": 210262,
             "Nefer: Secrets": 210261,
             "Celebration: Sublime Flavors": 210260,
@@ -1769,7 +1771,11 @@
         },
         "Miscellaneous": {
             "Apple Cider": 121374,
-            "???": 108926,
+            "Sugar Sculpture: Kuuhenki": 108930,
+            "Sugar Sculpture: Jahoda": 108929,
+            "Delicious Spiced Fried Chicken": 108928,
+            "Spiced Fried Chicken": 108927,
+            "Suspicious Spiced Fried Chicken": 108926,
             "Apple Stew (Trial Version)": 108924,
             "\"After-Class Practice\"": 108921,
             "Sugar Sculpture: Nefer": 108919,
@@ -1796,6 +1802,7 @@
             "Avatar Info Error": 900003,
             "Default Manekina Avatar": 900002,
             "Default Manekin Avatar": 900001,
+            "Diligent Study": 200011,
             "Vigorous Yapping": 200010
         },
         "Profile Pictures": {
