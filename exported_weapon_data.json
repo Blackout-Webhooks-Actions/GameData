@@ -14,12 +14,12 @@
             112016,
             112037
         ],
-        "EquipAffixName": "Dawning Song of Daybreak",
+        "EquipAffixName": "Ode Beyond Time",
         "EquipAffixID": 115515,
         "Extra": [],
         "Story": 195515,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "15514",
@@ -261,7 +261,7 @@
         "Extra": [],
         "Story": 195434,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "15433",
@@ -3803,7 +3803,7 @@
         "Extra": [],
         "Story": 191518,
         "StoryCount": 1,
-        "V": "5"
+        "V": "L"
     },
     {
         "_id": "11517",

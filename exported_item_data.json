@@ -5697,6 +5697,17 @@
         "Type": "Forging Ore"
     },
     {
+        "_id": 210266,
+        "R": 4,
+        "Name": "Celebration: Dream Reader",
+        "Desc": "Namecard style.<br>They say that one's dreams at night reflect one's thoughts by day. Perhaps the same goes for the books one reads... Though that probably doesn't count as a nightmare. Probably.",
+        "Src": [
+            "Obtained from a collaboration event"
+        ],
+        "Icon": "UI_NameCardIcon_Green",
+        "Pic": "UI_NameCardPic_Green_P"
+    },
+    {
         "_id": 210265,
         "R": 4,
         "Name": "Travel Notes: Blazing Snow",
@@ -5710,8 +5721,8 @@
     {
         "_id": 210264,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Jahoda: Helping Hand",
+        "Desc": "Namecard style.<br>\"Whenever things get too busy, I wish I could borrow Jahoda's hands!\" — Surely that means the owner of these \"lendable hands\" is both agile and reliable, right?",
         "Src": [
             "Reward for reaching Friendship 10 with Jahoda"
         ],
@@ -5721,8 +5732,8 @@
     {
         "_id": 210263,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Durin: Radiant Heart",
+        "Desc": "Namecard style.<br>The ceaseless drumming in his chest reminds him thus: \"You carry the hopes of a distant past. Your soul is resplendent and nascent, and within you burns a fervor no winter blizzard can quench.\"",
         "Src": [
             "Reward for reaching Friendship 10 with Durin"
         ],
@@ -8594,8 +8605,8 @@
     {
         "_id": 108930,
         "R": 2,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Sugar Sculpture: Kuuhenki",
+        "Desc": "A sugar sculpture modeled after a mysterious creature. With an ethereal form, it's a kuuhenki drifting gently in the moonlight.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108856",
         "Recipe": 0,
@@ -8604,8 +8615,8 @@
     {
         "_id": 108929,
         "R": 2,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Sugar Sculpture: Jahoda",
+        "Desc": "A sugar sculpture crafted to capture a person's essence. The directional and guiding compass brings to mind Jahoda, the outstanding employee of the Curatorium of Secrets.",
         "Eff": "It looks great and tastes wonderful, but it doesn't really have any effect.",
         "Icon": "UI_ItemIcon_108855",
         "Recipe": 0,
@@ -8614,18 +8625,18 @@
     {
         "_id": 108928,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Delicious Spiced Fried Chicken",
+        "Desc": "Fried chicken wrapped in a crispy green skin. Take a bite while it's hot, and the spicy flavor will awaken your taste buds as the bountiful juices burst forth between your teeth, refreshing your spirit... In this state, you feel as if you could learn just about anything!",
         "Eff": "Restores 35% of Max HP to the selected character and regenerates 930 HP every 5s for 30s.",
-        "Icon": "UI_ItemIcon_108855",
+        "Icon": "UI_ItemIcon_108854",
         "Recipe": 4905,
         "Buff": 5
     },
     {
         "_id": 108927,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Spiced Fried Chicken",
+        "Desc": "Fried chicken wrapped in a crispy green skin. The chicken is wrapped in a paste mixed with spices before being deep-fried. They say that finishing this will induce within you an urge to study hard... Can there be such an amazing thing in this world?",
         "Eff": "Restores 32% of Max HP to the selected character and regenerates 730 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108854",
         "Recipe": 4905,
@@ -8634,8 +8645,8 @@
     {
         "_id": 108926,
         "R": 4,
-        "Name": "???",
-        "Desc": "???",
+        "Name": "Suspicious Spiced Fried Chicken",
+        "Desc": "Fried chicken wrapped in a crispy green skin. But before you can even taste the fried chicken, the preponderance of spices already has you choking up... You planned to study after this filling meal, but it seems a glass of water is in order first...",
         "Eff": "Restores 30% of Max HP to the selected character and regenerates 510 HP every 5s for 30s.",
         "Icon": "UI_ItemIcon_108854",
         "Recipe": 4905,
@@ -19277,6 +19288,14 @@
         "Pic": "UI_AvatarIcon_MannequinBoy_Circle"
     },
     {
+        "_id": 200011,
+        "R": 1,
+        "Name": "Diligent Study",
+        "Desc": "",
+        "Src": [],
+        "Pic": "UI_AvatarIcon_Activity_02_Circle"
+    },
+    {
         "_id": 200010,
         "R": 1,
         "Name": "Vigorous Yapping",
@@ -19480,7 +19499,7 @@
         "_id": 220126,
         "R": 5,
         "Name": "The Little Witch's Dictionary",
-        "Desc": "",
+        "Desc": "Received from Alice, this dictionary was created by the witches. Though it claims to explain a storybook of fables titled The Little Witch and the Undying Fire, it is actually filled with homework tailored by the Hexenzirkel for each reader.<br>As they say, \"To defy the current is to learn.\" Embark on your journey with your companions and seek the crown of elevation!",
         "Src": [],
         "Icon": "UI_ItemIcon_220126",
         "Type": "Gadget"

@@ -43,15 +43,15 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Albedo",
-            "Durin",
+            "Venti",
+            "Jahoda",
             "Mona",
             "Sucrose",
-            "Jahoda",
+            "Durin",
             "Fischl",
-            "Venti",
-            "Klee",
-            "Razor"
+            "Albedo",
+            "Razor",
+            "Klee"
         ],
         "NW": [
             15434,
@@ -67,7 +67,7 @@
             "4",
             "5"
         ],
-        "Note": "6.2v5"
+        "Note": "6.2"
     },
     {
         "_name": "Jahoda",
@@ -104,13 +104,13 @@
             "DEF": 620,
             "Custom": 0.1846
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 124,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "韩娇娇",
+            "_EN": "稲垣好",
+            "_JP": "Sonya Krueger",
+            "_KR": "Oh Ro-ah"
         }
     },
     {
@@ -148,13 +148,13 @@
             "DEF": 881,
             "Custom": 0.384
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 123,
         "_CV": {
-            "_CH": "???",
-            "_EN": "???",
-            "_JP": "???",
-            "_KR": "???"
+            "_CH": "陶典",
+            "_EN": "小林千晃",
+            "_JP": "Laurie Kynaston",
+            "_KR": "Kim Ji-yul"
         }
     },
     {
@@ -192,7 +192,7 @@
             "DEF": 752,
             "Custom": 0.24
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 43,
         "_CV": {
             "_CH": "小敢",
@@ -237,7 +237,7 @@
             "DEF": 700,
             "Custom": 0.32
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 41,
         "_CV": {
             "_CH": "陈婷婷",
@@ -282,7 +282,7 @@
             "DEF": 938,
             "Custom": 0.288
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 38,
         "_CV": {
             "_CH": "Mace",
@@ -327,7 +327,7 @@
             "DEF": 635,
             "Custom": 0.24
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 31,
         "_CV": {
             "_CH": "Mace & 赵悦程",
@@ -372,7 +372,7 @@
             "DEF": 659,
             "Custom": 0.288
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 29,
         "_CV": {
             "_CH": "花玲",
@@ -417,7 +417,7 @@
             "DEF": 716,
             "Custom": 0.32
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 22,
         "_CV": {
             "_CH": "喵酱",
@@ -462,7 +462,7 @@
             "DEF": 803,
             "Custom": 0.3
         },
-        "Version": "6.2v5",
+        "Version": "6.2",
         "Fetter": 20,
         "_CV": {
             "_CH": "周帅",
