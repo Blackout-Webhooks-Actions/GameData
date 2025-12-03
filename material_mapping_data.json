@@ -152,6 +152,10 @@
         "star3": "Brilliant Diamond Fragment",
         "star2": "Brilliant Diamond Sliver"
     },
+    "Remnant of the Dreadwing": {
+        "bossName": "Lord of the Hidden Depths: Whisperer of Nightmaris",
+        "itemName": "Remnant of the Dreadwing"
+    },
     "Cyclic Military Kuuvahki Core": {
         "bossName": "Super-Heavy Landrover: Mechanized Fortressis",
         "itemName": "Cyclic Military Kuuvahki Core"
@@ -320,6 +324,10 @@
         "bossName": "Anemo Hypostasis",
         "itemName": "Hurricane Seed"
     },
+    "???": {
+        "bossName": "The Doctor",
+        "itemName": "???"
+    },
     "Ascended Sample: Queen": {
         "bossName": "The Game Before the Gate",
         "itemName": "Ascended Sample: Queen"
@@ -464,6 +472,12 @@
         "bossName": "Stormterror",
         "itemName": "Dvalin's Plume"
     },
+    "Angler Of Hidden Depths Materials": {
+        "enemyName": "Angler of Hidden Depths",
+        "itemName1": "Fractured Eye of the Deep Shadow",
+        "itemName2": "Aberrant Core of the Deep Shadow",
+        "itemName3": "Beak of the Deep Shadow"
+    },
     "Wasteland Wild Hunt Materials": {
         "enemyName": "Wilderness Hunter",
         "itemName1": "Mistshroud Manifestation",
@@ -501,7 +515,7 @@
         "itemName3": "Blazing Prismshell"
     },
     "Tenebrous Mimiflora Materials": {
-        "enemyName": "Tenebrous Mimiflora",
+        "enemyName": "Tenebrous Mimiflora (High Tier)",
         "itemName1": "Refractive Bud",
         "itemName2": "Bewildering Broadleaf",
         "itemName3": "Illusory Leafcoil"
