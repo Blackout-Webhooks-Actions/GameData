@@ -6800,6 +6800,129 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 125,
+            "name": "Columbina",
+            "constellation": "???",
+            "version": "6.3",
+            "star": 5,
+            "nation": "???",
+            "element": "Hydro",
+            "weapon": "Catalyst",
+            "birthday": "01-01",
+            "title": "???",
+            "description": "???",
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "6.3",
+                    "phase": "upcoming",
+                    "wishType": "event",
+                    "info": "official"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Slimes Materials",
+                            "elementalGem": "Varunada Lazurite",
+                            "normalBossDrop": "Radiant Antler",
+                            "localSpecialty": "Winter Icelea"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Slimes Materials",
+                            "weeklyBossDrop": "???",
+                            "talentBooks": "Moonlight"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "name": "Zibai",
+            "constellation": "Equa Alba",
+            "version": "6.3",
+            "star": 5,
+            "nation": "???",
+            "element": "Geo",
+            "weapon": "Sword",
+            "birthday": "01-01",
+            "title": "???",
+            "description": "???",
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "6.3",
+                    "phase": "upcoming",
+                    "wishType": "event",
+                    "info": "official"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Fatui Oprichniki Materials",
+                            "elementalGem": "Prithiva Topaz",
+                            "normalBossDrop": "Remnant of the Dreadwing",
+                            "localSpecialty": "Glaze Lily"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Fatui Oprichniki Materials",
+                            "weeklyBossDrop": "Ascended Sample: Queen",
+                            "talentBooks": "Gold"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "name": "Illuga",
+            "constellation": "Oriolus",
+            "version": "6.3",
+            "star": 4,
+            "nation": "???",
+            "element": "Geo",
+            "weapon": "Polearm",
+            "birthday": "01-01",
+            "title": "???",
+            "description": "???",
+            "reruns": [
+                {
+                    "banner": "upcoming",
+                    "version": "6.3",
+                    "phase": "upcoming",
+                    "wishType": "event",
+                    "info": "official"
+                }
+            ],
+            "materials": [
+                {
+                    "ascension": [
+                        {
+                            "enemyDrop": "Landcruisers Materials",
+                            "elementalGem": "Prithiva Topaz",
+                            "normalBossDrop": "Cyclic Military Kuuvahki Core",
+                            "localSpecialty": "Pine Amber"
+                        }
+                    ],
+                    "talents": [
+                        {
+                            "enemyDrop": "Landcruisers Materials",
+                            "weeklyBossDrop": "Eroded Horn",
+                            "talentBooks": "Elysium"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
