@@ -43,31 +43,151 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Venti",
-            "Jahoda",
-            "Mona",
-            "Sucrose",
-            "Durin",
-            "Fischl",
-            "Albedo",
-            "Razor",
-            "Klee"
+            "Illuga",
+            "Columbina",
+            "Zibai"
         ],
         "NW": [
-            15434,
-            15515,
-            11518
+            14522,
+            11519
         ],
         "NR": [],
         "VS": [
-            "L",
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            "1"
         ],
-        "Note": "6.2"
+        "Note": "6.3v1"
+    },
+    {
+        "_name": "Illuga",
+        "_id": 127,
+        "Name": "Illuga",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "Oriolus",
+        "Nation": "???",
+        "Belong": "???",
+        "Grade": 4,
+        "Type": "Boy",
+        "Weapon": "Pole",
+        "Element": "Rock",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_Illuga",
+        "CommonMatt": 112124,
+        "TalentMat": 2,
+        "TalentMatt": 104361,
+        "SpecialityMat": 101269,
+        "AscMat": 113080,
+        "WeekMat": 113068,
+        "CustomPromote": "EM",
+        "Curve": 104,
+        "ShowStats": {
+            "HP": 11962,
+            "ATK": 191,
+            "DEF": 814,
+            "Custom": 96
+        },
+        "ShowStats2": {
+            "HP": 12790,
+            "ATK": 240,
+            "DEF": 870,
+            "Custom": 96
+        },
+        "Version": "6.3v1",
+        "Fetter": 127,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
+    },
+    {
+        "_name": "Zibai",
+        "_id": 126,
+        "Name": "Zibai",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "Equa Alba",
+        "Nation": "???",
+        "Belong": "???",
+        "Grade": 5,
+        "Type": "Lady",
+        "Weapon": "Sword",
+        "Element": "Rock",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_Zibai",
+        "CommonMatt": 112127,
+        "TalentMat": 3,
+        "TalentMatt": 104318,
+        "SpecialityMat": 100030,
+        "AscMat": 113084,
+        "WeekMat": 113075,
+        "CustomPromote": "CD",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 12919,
+            "ATK": 225,
+            "DEF": 957,
+            "Custom": 0.384
+        },
+        "ShowStats2": {
+            "HP": 13838,
+            "ATK": 275,
+            "DEF": 1025,
+            "Custom": 0.384
+        },
+        "Version": "6.3v1",
+        "Fetter": 126,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
+    },
+    {
+        "_name": "Columbina",
+        "_id": 125,
+        "Name": "Columbina",
+        "Desc": "???",
+        "Title": "???",
+        "Constellation": "???",
+        "Nation": "???",
+        "Belong": "???",
+        "Grade": 5,
+        "Type": "Girl",
+        "Weapon": "Catalyst",
+        "Element": "Water",
+        "Birthday": "1/1",
+        "Icon": "UI_AvatarIcon_Columbina",
+        "CommonMatt": 112004,
+        "TalentMat": 1,
+        "TalentMatt": 104358,
+        "SpecialityMat": 101268,
+        "AscMat": 113079,
+        "WeekMat": 113081,
+        "CustomPromote": "CR",
+        "Curve": 105,
+        "ShowStats": {
+            "HP": 14695,
+            "ATK": 96,
+            "DEF": 515,
+            "Custom": 0.192
+        },
+        "ShowStats2": {
+            "HP": 15740,
+            "ATK": 117,
+            "DEF": 552,
+            "Custom": 0.192
+        },
+        "Version": "6.3v1",
+        "Fetter": 125,
+        "_CV": {
+            "_CH": "???",
+            "_EN": "???",
+            "_JP": "???",
+            "_KR": "???"
+        }
     },
     {
         "_name": "Jahoda",

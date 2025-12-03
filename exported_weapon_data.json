@@ -990,6 +990,28 @@
         "V": "L"
     },
     {
+        "_id": "14522",
+        "Name": "Nocturne's Curtain Call",
+        "Desc": "",
+        "Type": 3,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Catalyst_Brisingamen",
+        "Stat": 541.829758,
+        "Custom": "CD",
+        "CustomStat": 0.882048,
+        "AscMatID": 114084,
+        "MatIDs": [
+            112139,
+            112127
+        ],
+        "EquipAffixName": "Ballad of the Crossroads",
+        "EquipAffixID": 114522,
+        "Extra": [],
+        "Story": 194522,
+        "StoryCount": 0,
+        "V": "1"
+    },
+    {
         "_id": "14521",
         "Name": "Reliquary of Truth",
         "Desc": "An angular box carved from gold and jade. Legend has it that it was once enshrined in a temple deep within Tulaytullah, the Sapphire City.",
@@ -3782,6 +3804,28 @@
         "Story": 192301,
         "StoryCount": 1,
         "V": "L"
+    },
+    {
+        "_id": "11519",
+        "Name": "Lightbearing Moonshard",
+        "Desc": "",
+        "Type": 1,
+        "Rank": 5,
+        "Icons": "UI_EquipIcon_Sword_SilverwareSaw",
+        "Stat": 541.829758,
+        "Custom": "CD",
+        "CustomStat": 0.882048,
+        "AscMatID": 114024,
+        "MatIDs": [
+            112136,
+            112124
+        ],
+        "EquipAffixName": "Legacy of the Jade Kingdom",
+        "EquipAffixID": 111519,
+        "Extra": [],
+        "Story": 191519,
+        "StoryCount": 0,
+        "V": "1"
     },
     {
         "_id": "11518",

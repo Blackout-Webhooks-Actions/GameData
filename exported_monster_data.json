@@ -7492,7 +7492,7 @@
     },
     "90501": {
         "_id": 90501,
-        "Name": "La Signora P1",
+        "Name": "La Signora",
         "Title": [
             "Eighth of the Fatui Harbingers"
         ],
@@ -7905,9 +7905,7 @@
         "Csx": [
             "ECEnemiesOfNote",
             "ECEnemiesOfNote"
-        ],
-        "Class": "Devourer of the Stars",
-        "Category": "Enemies of Note"
+        ]
     },
     "91001": {
         "_id": 91001,
@@ -8282,7 +8280,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.0 Overworld Local Legends",
+        "Class": "5.0 Local Legends",
         "Category": "Local Legend"
     },
     "30113": {
@@ -8311,7 +8309,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.0 Overworld Local Legends",
+        "Class": "5.0 Local Legends",
         "Category": "Local Legend"
     },
     "30116": {
@@ -8340,7 +8338,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.0 Overworld Local Legends",
+        "Class": "5.0 Local Legends",
         "Category": "Local Legend"
     },
     "30211": {
@@ -8366,7 +8364,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.0 Overworld Local Legends",
+        "Class": "5.0 Local Legends",
         "Category": "Local Legend"
     },
     "55001": {
@@ -9317,7 +9315,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.0 Overworld Local Legends",
+        "Class": "5.0 Local Legends",
         "Category": "Local Legend"
     },
     "55172": {
@@ -9423,7 +9421,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.0 Overworld Local Legends",
+        "Class": "5.0 Local Legends",
         "Category": "Local Legend"
     },
     "28021302": {
@@ -9517,7 +9515,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21203": {
@@ -9525,6 +9523,30 @@
         "Name": "Tenebrous Mimesis - Ruin Guard",
         "Title": [
             "Tenebrous Mimiflora",
+            "Void Obliterator Bubble"
+        ],
+        "Desc": "",
+        "HP": 2.4,
+        "HPCurve": 2,
+        "ATK": 5.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Tutorial": 21202,
+        "Tut": 3083,
+        "Icon": [
+            "UI_MonsterIcon_TheAbyss_Rhizome"
+        ],
+        "Csx": [
+            "ECMimeses",
+            "ECMimeses"
+        ],
+        "Class": "",
+        "Category": "The Abyss"
+    },
+    "21294": {
+        "_id": 21294,
+        "Name": "Tenebrous Mimiflora (High Tier)",
+        "Title": [
             "Void Obliterator Bubble"
         ],
         "Desc": "",
@@ -9567,6 +9589,30 @@
             "ECMimeses",
             "ECMimeses"
         ],
+        "Class": "",
+        "Category": "The Abyss"
+    },
+    "21293": {
+        "_id": 21293,
+        "Name": "Tenebrous Mimiflora (Mid Tier)",
+        "Title": [
+            "Void Obliterator Bubble"
+        ],
+        "Desc": "",
+        "HP": 2.2,
+        "HPCurve": 2,
+        "ATK": 3.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Tutorial": 21202,
+        "Tut": 3083,
+        "Icon": [
+            "UI_MonsterIcon_TheAbyss_Rhizome"
+        ],
+        "Csx": [
+            "ECMimeses",
+            "ECMimeses"
+        ],
         "Class": "Tenebrous Mimesis",
         "Category": "The Abyss"
     },
@@ -9592,7 +9638,7 @@
             "ECMimeses",
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21206": {
@@ -9617,7 +9663,7 @@
             "ECMimeses",
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21207": {
@@ -9625,6 +9671,29 @@
         "Name": "Tenebrous Mimesis: Tepetlisaurus",
         "Title": [
             "Tenebrous Mimiflora",
+            "Void Obliterator Bubble"
+        ],
+        "Desc": "",
+        "HP": 1.7,
+        "HPCurve": 2,
+        "ATK": 3.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Tutorial": 21202,
+        "Tut": 3083,
+        "Icon": [
+            "UI_MonsterIcon_TheAbyss_Rhizome"
+        ],
+        "Csx": [
+            "ECMimeses"
+        ],
+        "Class": "",
+        "Category": "The Abyss"
+    },
+    "21292": {
+        "_id": 21292,
+        "Name": "Tenebrous Mimiflora (Low Tier)",
+        "Title": [
             "Void Obliterator Bubble"
         ],
         "Desc": "",
@@ -9665,7 +9734,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21209": {
@@ -9689,7 +9758,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "40902": {
@@ -9772,6 +9841,48 @@
             "ECAutomatons"
         ]
     },
+    "21291": {
+        "_id": 21291,
+        "Name": "Tenebrous Papilla",
+        "Title": [
+            "Void Fantasy Plant"
+        ],
+        "Desc": "Abyssal creatures with plant-like forms that have descended from a deep, dark, unfathomable, contorted otherworld.\nThese twisted monstrosities are capable of infiltrating deep down into the bowels of the earth, extracting memories to imitate and manipulate. Through this process of distorting the past's memories into more abstruse and sordid forms, they gradually draw closer to Irminsul's core, threatening to undermine its very existence.\nSome say that these aberrations work constantly to corrupt the many colors of light, leaving only pitch-black information in their stead. Such a hypothesis seems to be confirmed by the branches they extend outward, as if to pierce the void itself...",
+        "HP": 8.0,
+        "HPCurve": 2,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Water": 0.2,
+            "Elec": 0.2,
+            "Ice": 0.2,
+            "Grass": 0.2,
+            "Wind": 0.2,
+            "Rock": 0.2
+        },
+        "Icon": [
+            "UI_MonsterIcon_TheAbyss_Dendrite"
+        ],
+        "RESState": [
+            {
+                "State": "Domain",
+                "All": 0.5
+            },
+            {
+                "State": "Weaken",
+                "All": -0.2
+            }
+        ],
+        "Tut": 3086,
+        "Tutorial": 21201,
+        "Csx": [
+            "ECMimeses"
+        ],
+        "Class": "Tenebrous Mimesis",
+        "Category": "The Abyss"
+    },
     "21201": {
         "_id": 21201,
         "Name": "Tenebrous Papilla: Type I",
@@ -9811,7 +9922,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Papilla",
+        "Class": "",
         "Category": "The Abyss"
     },
     "40304": {
@@ -9848,7 +9959,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.2 Overworld Local Legends",
+        "Class": "5.2 Local Legends",
         "Category": "Local Legend"
     },
     "55002": {
@@ -10386,7 +10497,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Papilla",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21217": {
@@ -10428,7 +10539,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Papilla",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21210": {
@@ -10451,7 +10562,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21211": {
@@ -10474,7 +10585,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21212": {
@@ -10497,7 +10608,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21213": {
@@ -10520,7 +10631,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21214": {
@@ -10543,7 +10654,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21215": {
@@ -10566,7 +10677,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "55155": {
@@ -10590,7 +10701,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.2 Overworld Local Legends",
+        "Class": "5.2 Local Legends",
         "Category": "Local Legend"
     },
     "55162": {
@@ -10715,7 +10826,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "21219": {
@@ -10736,7 +10847,7 @@
         "Csx": [
             "ECMimeses"
         ],
-        "Class": "Tenebrous Mimesis",
+        "Class": "",
         "Category": "The Abyss"
     },
     "55024": {
@@ -11019,7 +11130,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.5 Overworld Local Legends",
+        "Class": "5.5 Local Legends",
         "Category": "Local Legend"
     },
     "62504": {
@@ -11190,7 +11301,7 @@
         "Csx": [
             "ECLegends"
         ],
-        "Class": "5.5 Overworld Local Legends",
+        "Class": "5.5 Local Legends",
         "Category": "Local Legend"
     },
     "62901": {
@@ -11245,7 +11356,7 @@
         "Csx": [
             "ECLegends&"
         ],
-        "Class": "5.5 Overworld Local Legends",
+        "Class": "5.5 Local Legends",
         "Category": "Local Legend"
     },
     "80228": {
@@ -11266,7 +11377,7 @@
         "Csx": [
             "ECLegends&"
         ],
-        "Class": "5.5 Overworld Local Legends",
+        "Class": "5.5 Local Legends",
         "Category": "Local Legend"
     },
     "91220": {
@@ -11298,9 +11409,7 @@
         "Csx": [
             "ECEnemiesOfNote1",
             "ECEnemiesOfNote2"
-        ],
-        "Class": "Game before the Gate",
-        "Category": "Enemies of Note"
+        ]
     },
     "40905": {
         "_id": 40905,
@@ -12805,7 +12914,7 @@
         "Csx": [
             "ECLeyLine-"
         ],
-        "Class": "6.0",
+        "Class": "6.3",
         "Category": "Stygian Onslaught"
     },
     "810": {
@@ -12957,6 +13066,9 @@
         ],
         "Tutorial": 30901,
         "Tut": 3100,
+        "Csx": [
+            "ECFatui"
+        ],
         "Class": "All-Terrain Combat Mek",
         "Category": "Fatui"
     },
@@ -12977,6 +13089,9 @@
         ],
         "MultiPlayerID": 108,
         "Tutorial": 22100304,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.2",
         "Category": "Stygian Onslaught"
     },
@@ -13007,6 +13122,9 @@
         "MultiPlayerID": 108,
         "Color": "Ice",
         "Tutorial": 26240304,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.2",
         "Category": "Stygian Onslaught"
     },
@@ -13031,7 +13149,371 @@
         "Tut": 3067,
         "Color": "Rock",
         "Tutorial": 24080105,
+        "Csx": [
+            "ECLeyLine-"
+        ],
         "Class": "6.2",
+        "Category": "Stygian Onslaught"
+    },
+    "91301": {
+        "_id": 91301,
+        "Name": "The Doctor",
+        "Title": [
+            "???",
+            "???"
+        ],
+        "Desc": "",
+        "HP": 24.0,
+        "HPCurve": 2,
+        "ATK": 7.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Fire": 0.7
+        },
+        "Icon": [
+            "UI_MonsterIcon_Dotorre_Moon"
+        ],
+        "MultiPlayerID": 103,
+        "Class": "Enemies of Note",
+        "Category": "<b>6.3</b>"
+    },
+    "91302": {
+        "_id": 91302,
+        "Name": "The Doctor",
+        "Title": [
+            "???",
+            "???"
+        ],
+        "Desc": "???",
+        "HP": 24.0,
+        "HPCurve": 2,
+        "ATK": 7.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Fire": 0.7
+        },
+        "Icon": [
+            "UI_MonsterIcon_Dotorre_Moon"
+        ],
+        "MultiPlayerID": 103,
+        "Class": "Enemies of Note",
+        "Category": "<b>6.3</b>"
+    },
+    "805": {
+        "_id": 805,
+        "Name": "Surging Currents: Frostnight Scion",
+        "Title": [
+            "Frostnight Scion",
+            "Surging Currents"
+        ],
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Hydro, resulting in its present form.\nIts clear, glasslike body is composed almost entirely of the purest water droplets. Though gentler than most of its kin, once provoked it can instantly shape the surrounding water into razor-sharp blades capable of piercing any unwary intruder's defenses.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "HP": 6.4,
+        "HPCurve": 2,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Water": 0.5
+        },
+        "Icon": [
+            "UI_MonsterIcon_Moonbeast_Water"
+        ],
+        "Tut": 3092,
+        "Class": "Elemental Lifeforms",
+        "Category": "<b>6.3</b>"
+    },
+    "806": {
+        "_id": 806,
+        "Name": "Veiled Cloudchaser: Frostnight Scion",
+        "Title": [
+            "Frostnight Scion",
+            "Veiled Cloudchaser"
+        ],
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Anemo, resulting in its present form.\nThe flowing wind spun an extra pair of wings for it. Since it almost never leaves footprints on the ground, it's also known as one who walks with the wind.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "HP": 5.1,
+        "HPCurve": 2,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Wind": 0.5
+        },
+        "Icon": [
+            "UI_MonsterIcon_Moonbeast_Wind"
+        ],
+        "Tut": 3092,
+        "Class": "Elemental Lifeforms",
+        "Category": "<b>6.3</b>"
+    },
+    "807": {
+        "_id": 807,
+        "Name": "Gilded Sunshard: Frostnight Scion",
+        "Title": [
+            "Frostnight Scion",
+            "Gilded Sunshard"
+        ],
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Geo, resulting in its present form.\nLayers of solidified Geo coat nearly its whole body, and its tough antlers gleam with the luster of polished amber.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "HP": 5.1,
+        "HPCurve": 2,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Rock": 0.5
+        },
+        "Icon": [
+            "UI_MonsterIcon_Moonbeast_Rock"
+        ],
+        "Tut": 3092,
+        "Class": "Elemental Lifeforms",
+        "Category": "<b>6.3</b>"
+    },
+    "812": {
+        "_id": 812,
+        "Name": "Hexadecatonic Battle-Hardened Mandragora",
+        "Title": [
+            "Hexadecatonic Battle-Hardened Mandragora",
+            "Driftvine Phylad"
+        ],
+        "Desc": "",
+        "HP": 32.0,
+        "HPCurve": 2,
+        "ATK": 12.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Grass": 1.35
+        },
+        "Icon": [
+            "UI_MonsterIcon_Mandragora_Elite"
+        ],
+        "Class": "Elemental Lifeforms",
+        "Category": "<b>6.3</b>"
+    },
+    "813": {
+        "_id": 813,
+        "Name": "",
+        "Title": [
+            "Hexadecatonic Battle-Hardened Mandragora",
+            "Driftvine Phylad"
+        ],
+        "Desc": "",
+        "HP": 3.2,
+        "HPCurve": 2,
+        "ATK": 7.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Grass": 1.35
+        },
+        "Icon": [
+            ""
+        ],
+        "Class": "Elemental Lifeforms",
+        "Category": "<b>6.3</b>"
+    },
+    "21401": {
+        "_id": 21401,
+        "Name": "Angler of Hidden Depths",
+        "Title": [
+            "Eyrie Beast of Another World",
+            "Angler of Hidden Depths"
+        ],
+        "Desc": "An Abyss creature that slips through rifts in the hidden depths, crossing over from beyond this world.\nLong ago, ancient sages described humans as \"featherless bipeds,\" using that simple phrase to distinguish mankind from animals and assert human superiority. Yet in some sense, these deathless wanderers of the silent cosmic void, scaled instead of feathered and using their hooked beaks to draw in biomass from world to world, might still match that same simplistic definition of \"human.\"",
+        "HP": 1.5,
+        "HPCurve": 2,
+        "ATK": 3.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Lloigor_Sub"
+        ],
+        "Tut": 3101,
+        "Class": "The Abyss",
+        "Category": "<b>6.3</b>"
+    },
+    "21501": {
+        "_id": 21501,
+        "Name": "Lord of the Hidden Depths: Whisperer of Nightmares",
+        "Title": [
+            "Faceless, Boundless Overlord",
+            "Lord of the Hidden Depths: Whisperer of Nightmares"
+        ],
+        "Desc": "An Abyss creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, while its true body exists only as a formless mass of pure Abyssal energy.\nEven invaders who seek to claim this world must obey its rules to some extent. Unless the heavens split open and the earth's defenses collapse, these star-born outsiders can do little more than linger at the world's fringes, whispering their madness into this realm, their attempts to seep inside amounting to nothing... But how long can this stability and order truly last?",
+        "HP": 13.5,
+        "HPCurve": 2,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Lloigor_Primo"
+        ],
+        "Tut": 3102,
+        "Class": "The Abyss",
+        "Category": "<b>6.3</b>"
+    },
+    "10307": {
+        "_id": 10307,
+        "Name": "Mystifying Megachurl",
+        "Title": [
+            "A Shaman Who Accidentally Gained Domainlightenment",
+            "Mystifying Megachurl"
+        ],
+        "Desc": "",
+        "HP": 60.16547,
+        "HPCurve": 0,
+        "ATK": 10.31408,
+        "ATKCurve": 0,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Shaman_None_01"
+        ],
+        "Class": "Hilichurls",
+        "Category": "<b>6.3</b>"
+    },
+    "40682": {
+        "_id": 40682,
+        "Name": "Arithmetic Enhancer Mek",
+        "Title": [
+            "Arithmetic Enhancer Mek",
+            "Ser.472030",
+            "Ser.301014",
+            "Ser.735311",
+            "Ser.652190",
+            "Ser.158439",
+            "Ser.359360",
+            "Ser.174326",
+            "Ser.361617",
+            "Ser.208594",
+            "Ser.295062",
+            "Ser.775577",
+            "Ser.391908",
+            "Ser.918722",
+            "Ser.208739",
+            "Ser.422440",
+            "Ser.574902",
+            "Ser.665997",
+            "Ser.358002",
+            "Ser.776950",
+            "Ser.438412"
+        ],
+        "Desc": "A clockwork meka designed to transmit and enhance signals.\nThe power that drives this clockwork meka is generated from a controlled annihilation reaction between ousia and pneuma in the kinetic core. As a result, overloading it with excessive energy will cause its original equilibrium to be disrupted.",
+        "HP": 85.6862,
+        "HPCurve": 0,
+        "ATK": 53.95057,
+        "ATKCurve": 0,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_MachinaIustitia_Pylon"
+        ],
+        "Tut": 3049,
+        "Class": "Automatons",
+        "Category": "<b>6.3</b>"
+    },
+    "56001": {
+        "_id": 56001,
+        "Name": "Hiljetta",
+        "Title": [
+            "Hiljetta",
+            "Black-Barrel Hag"
+        ],
+        "Desc": "",
+        "HP": 52.0,
+        "HPCurve": 2,
+        "ATK": 11.2,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": -0.2
+        },
+        "Icon": [
+            "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01"
+        ],
+        "Class": "Other Human Factions",
+        "Category": "<b>6.3</b>"
+    },
+    "63004": {
+        "_id": 63004,
+        "Name": "Radiant Glacial Wolf",
+        "Title": [
+            "Radiant Beast",
+            "Glacial Wolf"
+        ],
+        "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when a dark calamity wiped out countless lives, the frontier forests fell completely silent. In that stillness, the only sound to break the dead quiet was the howl of the Glacial Wolves calling to the moon. For many nights, their mournful cries, carried on the cold moonlight, echoed across the empty wilderness.",
+        "HP": 5.5,
+        "HPCurve": 2,
+        "ATK": 6.6,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Ice": 0.5
+        },
+        "Icon": [
+            "UI_MonsterIcon_Magbeast_Steppenwolf"
+        ],
+        "Tut": 3096,
+        "Class": "Mystical Beasts",
+        "Category": "<b>6.3</b>"
+    },
+    "63005": {
+        "_id": 63005,
+        "Name": "Battle-Hardened Radiant Glacial Wolf",
+        "Title": [
+            "Radiant Beast",
+            "Lunapod"
+        ],
+        "Desc": "",
+        "HP": 41.5,
+        "HPCurve": 2,
+        "ATK": 5.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Ice": 0.5
+        },
+        "Icon": [
+            "UI_MonsterIcon_Magbeast_Steppenwolf_02"
+        ],
+        "Class": "Mystical Beasts",
+        "Category": "<b>6.3</b>"
+    },
+    "22150106": {
+        "_id": 22150106,
+        "Name": "",
+        "Title": [
+            "Faceless, Boundless Overlord",
+            "Lord of the Hidden Depths: Whisperer of Nightmares"
+        ],
+        "Desc": "",
+        "HP": 431.90787,
+        "HPCurve": 20,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "RESBase": {},
+        "Icon": [
+            "UI_MonsterIcon_Lloigor_Primo"
+        ],
+        "MultiPlayerID": 108,
+        "Tut": 3102,
+        "Tutorial": 22150106,
+        "Class": "6.3",
+        "Category": "Stygian Onslaught"
+    },
+    "26170105": {
+        "_id": 26170105,
+        "Name": "",
+        "Title": [
+            "Emperor of Fire and Iron",
+            "Searing Tide Pulsing Beneath the Mountains"
+        ],
+        "Desc": "",
+        "HP": 238.37927,
+        "HPCurve": 20,
+        "ATK": 7.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Fire": 0.6
+        },
+        "Icon": [
+            "UI_MonsterIcon_HermitCrab_Primo"
+        ],
+        "MultiPlayerID": 108,
+        "Tut": 3062,
+        "Color": "Fire",
+        "Tutorial": 26170105,
+        "Class": "6.3",
         "Category": "Stygian Onslaught"
     }
 }
