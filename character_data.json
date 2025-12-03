@@ -1126,6 +1126,12 @@
                     "endDate": "2025-09-09",
                     "version": "5.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-12-03",
+                    "endDate": "2025-12-23",
+                    "version": "6.2",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4005,6 +4011,12 @@
                     "endDate": "2025-05-06",
                     "version": "5.5",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-12-03",
+                    "endDate": "2025-12-23",
+                    "version": "6.2",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6329,6 +6341,12 @@
                     "endDate": "2025-05-06",
                     "version": "5.5",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2025-12-03",
+                    "endDate": "2025-12-23",
+                    "version": "6.2",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6733,11 +6751,10 @@
             "description": "A dragon born from M's pen, who came to alight in the human world. His \"story\" continues to unfold.",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-12-03",
+                    "endDate": "2025-12-23",
                     "version": "6.2",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6774,11 +6791,10 @@
             "description": "The Curatorium of Secrets' extremely reliable, do-it-all super employee (or so she claims).",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2025-12-03",
+                    "endDate": "2025-12-23",
                     "version": "6.2",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
