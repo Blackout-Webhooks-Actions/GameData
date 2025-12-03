@@ -228,22 +228,109 @@
             }
         }
     ],
-    "character_banners": null,
+    "character_banners": [
+        {
+            "id": 99,
+            "name": "Character Event Wish",
+            "type": 1,
+            "end_time": "2025-12-23T17:59:00",
+            "end_timestamp": 1766483940,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-12-03T07:00:00",
+            "start_timestamp": 1764716400,
+            "version": "6.2",
+            "characters": [
+                {
+                    "id": 10000123,
+                    "name": "Durin",
+                    "element": "Pyro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/5c560e25f4233835ed39a98ac6a04c5d.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000032,
+                    "name": "Bennett",
+                    "element": "Pyro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/41a97aae8bf579ce350a90bbddc59fdf.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000076,
+                    "name": "Faruzan",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/58a03d4cded3b6e93af3cc3efb708031.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000124,
+                    "name": "Jahoda",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/8ce70ee6c41e48a78bdb1a17be8b554e.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        },
+        {
+            "id": 100,
+            "name": "Character Event Wish 2",
+            "type": 1,
+            "end_time": "2025-12-23T17:59:00",
+            "end_timestamp": 1766483940,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-12-03T07:00:00",
+            "start_timestamp": 1764716400,
+            "version": "6.2",
+            "characters": [
+                {
+                    "id": 10000022,
+                    "name": "Venti",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/da04983f26f201db1a287bf922cdcaff.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000076,
+                    "name": "Faruzan",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/58a03d4cded3b6e93af3cc3efb708031.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000032,
+                    "name": "Bennett",
+                    "element": "Pyro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/41a97aae8bf579ce350a90bbddc59fdf.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000124,
+                    "name": "Jahoda",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/8ce70ee6c41e48a78bdb1a17be8b554e.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        }
+    ],
     "chronicled_banners": null,
     "events": [
         {
-            "id": 136,
-            "name": "The Forge Realm's Temper: Endless Swarm",
+            "id": 162,
+            "name": "The Forge Realm's Temper: Game of Wits",
             "description": "",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2025-12-03T07:00:00",
-            "end_timestamp": 1764716400,
+            "end_time": "2026-01-14T07:00:00",
+            "end_timestamp": 1768345200,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2025-10-22T07:00:00",
-            "start_timestamp": 1761087600,
+            "start_time": "2025-12-03T07:00:00",
+            "start_timestamp": 1764716400,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -258,7 +345,180 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
                 }
             ]
+        },
+        {
+            "id": 152,
+            "name": "Marvelous Merchandise",
+            "description": "",
+            "type": "ActTypeLiBen",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 159,
+            "name": "Heroic Clash: Saurian Brawl",
+            "description": "Driven by the ambition to showcase their daring spirit, the warriors and their Saurian companions from every tribe yearn for spirited contests. Consequently, they stand ready to enter battle at any given moment.",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 154,
+            "name": "Soulblazers' Snowbound Journey",
+            "description": "From the invitation letter, you and Paimon learn that a unique event is being held in Mondstadt: The Dragonspine International Cross Country Challenge. The two of you decide to go back and look in on the competition...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 160,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 155,
+            "name": "Bing-Bang Finchball",
+            "description": "Somewhere in Atocpan, the adorable animal expert Basima the Fifth introduces a brand-new Finch-themed pinball game to everyone...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 161,
+            "name": "Heated Battle Mode: Sprinting Stratagems",
+            "description": "At The Cat's Tail, entertaining events are held regularly, and each event will adopt a special set of Heated Battle Mode rules.\nThe rules this time are as follows:\n1. You and your opponent will use Character Cards selected on the spot and randomly generated Action Cards to battle.\n2. During the Roll phase, you will not roll Elemental Dice but instead will receive 4 Omni Dice and 4 different random Elemental Dice.\n3. Once each round, playing an Action Card will cost 2 fewer Elemental Dice.\n4. Switching Character Cards is always a Fast Action.",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
         }
     ],
-    "weapon_banners": null
+    "weapon_banners": [
+        {
+            "id": 103,
+            "name": "Weapon Event Wish",
+            "type": 2,
+            "end_time": "2025-12-23T17:59:00",
+            "end_timestamp": 1766483940,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2025-12-03T07:00:00",
+            "start_timestamp": 1764716400,
+            "version": "6.2",
+            "characters": null,
+            "weapons": [
+                {
+                    "id": 11518,
+                    "name": "Athame Artis",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/9708b5d495021c4c5472f1615be537e0.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/9045"
+                },
+                {
+                    "id": 15515,
+                    "name": "The Daybreak Chronicles",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/1112f5bf9c69ad6a989b8cb259497f6c.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/9047"
+                },
+                {
+                    "id": 11410,
+                    "name": "The Alley Flash",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c8c9aeb35a289a39adcd796d421c1b29.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1983"
+                },
+                {
+                    "id": 13427,
+                    "name": "Prospector's Drill",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/097c698fe775b593c34bff55f9b6f271.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4336"
+                },
+                {
+                    "id": 14410,
+                    "name": "Wine and Song",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/32ec1c8d3421d0a88d2e9eb8e357cf29.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1982"
+                },
+                {
+                    "id": 12405,
+                    "name": "Rainslasher",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2042"
+                },
+                {
+                    "id": 15402,
+                    "name": "The Stringless",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/da3d5e7bbc112c4e1378de554a79c6c3.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2009"
+                }
+            ]
+        }
+    ]
 }
