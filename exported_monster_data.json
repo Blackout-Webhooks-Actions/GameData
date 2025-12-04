@@ -13206,7 +13206,7 @@
             "Frostnight Scion",
             "Surging Currents"
         ],
-        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Hydro, resulting in its present form.\nIts clear, glasslike body is composed almost entirely of the purest water droplets. Though gentler than most of its kin, once provoked it can instantly shape the surrounding water into razor-sharp blades capable of piercing any unwary intruder's defenses.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Hydro, resulting in its present form.\nIts clear, glass-like body is composed almost entirely of the purest water droplets. Though gentler than most of its kin, once provoked it can instantly shape the surrounding water into razor-sharp blades capable of piercing any unwary intruder's defenses.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "HP": 6.4,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -13228,7 +13228,7 @@
             "Frostnight Scion",
             "Veiled Cloudchaser"
         ],
-        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Anemo, resulting in its present form.\nThe flowing wind spun an extra pair of wings for it. Since it almost never leaves footprints on the ground, it's also known as one who walks with the wind.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Anemo, resulting in its present form.\nThe flowing wind has spun an extra pair of wings for it. As it almost never leaves footprints on the ground, it's also known as the one who walks with the wind.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "HP": 5.1,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -13250,7 +13250,7 @@
             "Frostnight Scion",
             "Gilded Sunshard"
         ],
-        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Geo, resulting in its present form.\nLayers of solidified Geo coat nearly its whole body, and its tough antlers gleam with the luster of polished amber.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Geo, resulting in its present form.\nJust about its entire body is covered by the accumulated Geo, while its tough antlers gleam with the luster of polished amber.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
         "HP": 5.1,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -13314,7 +13314,7 @@
             "Eyrie Beast of Another World",
             "Angler of Hidden Depths"
         ],
-        "Desc": "An Abyss creature that slips through rifts in the hidden depths, crossing over from beyond this world.\nLong ago, ancient sages described humans as \"featherless bipeds,\" using that simple phrase to distinguish mankind from animals and assert human superiority. Yet in some sense, these deathless wanderers of the silent cosmic void, scaled instead of feathered and using their hooked beaks to draw in biomass from world to world, might still match that same simplistic definition of \"human.\"",
+        "Desc": "An Abyssal creature that slips through rifts in the hidden depths, crossing over from beyond this world.\nLong ago, an ancient philosopher described humans as \"featherless bipeds,\" using that simple phrase to distinguish mankind from animals and assert human superiority. In some sense, these deathless wanderers of the silent cosmic void, scaled instead of feathered, and using their hooked beaks to draw in biomass from world to world, might actually also match that same simplistic definition of \"human.\"",
         "HP": 1.5,
         "HPCurve": 2,
         "ATK": 3.0,
@@ -13334,7 +13334,7 @@
             "Faceless, Boundless Overlord",
             "Lord of the Hidden Depths: Whisperer of Nightmares"
         ],
-        "Desc": "An Abyss creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, while its true body exists only as a formless mass of pure Abyssal energy.\nEven invaders who seek to claim this world must obey its rules to some extent. Unless the heavens split open and the earth's defenses collapse, these star-born outsiders can do little more than linger at the world's fringes, whispering their madness into this realm, their attempts to seep inside amounting to nothing... But how long can this stability and order truly last?",
+        "Desc": "An Abyssal creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, for its true body exists only as a formless mass of pure Abyssal energy.\nEven invaders who seek to claim this world must obey its rules to some extent. Unless the heavens split open and the earth's defenses collapse, these star-born outsiders can do little more than linger at the world's fringes, whispering their madness into this realm, their attempts to seep inside amounting to nothing... But how long can this stability and order truly last?",
         "HP": 13.5,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -13433,7 +13433,7 @@
             "Radiant Beast",
             "Glacial Wolf"
         ],
-        "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when a dark calamity wiped out countless lives, the frontier forests fell completely silent. In that stillness, the only sound to break the dead quiet was the howl of the Glacial Wolves calling to the moon. For many nights, their mournful cries, carried on the cold moonlight, echoed across the empty wilderness.",
+        "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when a dark calamity wiped out countless lives, the frontier forests fell completely silent. In that stillness, the only sound to break the dead quiet was the howl of the Glacial Wolves calling to the moon. Night after night, their mournful cries echoed across the empty wilderness in the cold moonlight.",
         "HP": 5.5,
         "HPCurve": 2,
         "ATK": 6.6,
