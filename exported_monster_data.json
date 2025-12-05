@@ -7343,7 +7343,7 @@
         "Csx": [
             "ECEnemiesOfNote"
         ],
-        "Class": "Lupus Boreas",
+        "Class": "Great Wolf King of the North",
         "Category": "Enemies of Note"
     },
     "90301": {
@@ -7512,7 +7512,7 @@
         "Csx": [
             "ECEnemiesOfNote1"
         ],
-        "Class": "La Signora",
+        "Class": "Signora",
         "Category": "Enemies of Note"
     },
     "90502": {
@@ -7537,7 +7537,7 @@
         "Csx": [
             "ECEnemiesOfNote2"
         ],
-        "Class": "La Signora",
+        "Class": "Signora",
         "Category": "Enemies of Note"
     },
     "90602": {
@@ -7593,7 +7593,7 @@
         "Csx": [
             "ECEnemiesOfNote1"
         ],
-        "Class": "Scaramouche",
+        "Class": "Shouki no Kami, the Prodigal",
         "Category": "Enemies of Note"
     },
     "90702": {
@@ -7634,7 +7634,7 @@
         "Csx": [
             "ECEnemiesOfNote2"
         ],
-        "Class": "Scaramouche",
+        "Class": "Shouki no Kami, the Prodigal",
         "Category": "Enemies of Note"
     },
     "90800": {
@@ -7855,7 +7855,7 @@
             "ECEnemiesOfNote",
             "ECEnemiesOfNote"
         ],
-        "Class": "Devourer of the Stars",
+        "Class": "All-Devouring Narwhal",
         "Category": "Enemies of Note"
     },
     "90902": {
@@ -7882,7 +7882,7 @@
             "ECEnemiesOfNote",
             "ECEnemiesOfNote"
         ],
-        "Class": "Devourer of the Stars",
+        "Class": "All-Devouring Narwhal",
         "Category": "Enemies of Note"
     },
     "90903": {
@@ -11486,7 +11486,7 @@
             "ECEnemiesOfNote1",
             "ECEnemiesOfNote2"
         ],
-        "Class": "Game before the Gate",
+        "Class": "The Game Before the Gate",
         "Category": "Enemies of Note"
     },
     "91202": {
@@ -11519,7 +11519,7 @@
             "ECEnemiesOfNote1",
             "ECEnemiesOfNote2"
         ],
-        "Class": "Game before the Gate",
+        "Class": "The Game Before the Gate",
         "Category": "Enemies of Note"
     },
     "91211": {
@@ -11552,7 +11552,7 @@
             "ECEnemiesOfNote1",
             "ECEnemiesOfNote2"
         ],
-        "Class": "Game before the Gate",
+        "Class": "The Game Before the Gate",
         "Category": "Enemies of Note"
     },
     "91212": {
@@ -11585,7 +11585,7 @@
             "ECEnemiesOfNote1",
             "ECEnemiesOfNote2"
         ],
-        "Class": "Game before the Gate",
+        "Class": "The Game Before the Gate",
         "Category": "Enemies of Note"
     },
     "20051205": {
@@ -13174,8 +13174,8 @@
             "UI_MonsterIcon_Dotorre_Moon"
         ],
         "MultiPlayerID": 103,
-        "Class": "Enemies of Note",
-        "Category": "<b>6.3</b>"
+        "Class": "The Doctor",
+        "Category": "Enemies of Note"
     },
     "91302": {
         "_id": 91302,
@@ -13185,19 +13185,17 @@
             "???"
         ],
         "Desc": "???",
-        "HP": 24.0,
+        "HP": 54.5,
         "HPCurve": 2,
-        "ATK": 7.0,
+        "ATK": 11.0,
         "ATKCurve": 4,
-        "RESBase": {
-            "Fire": 0.7
-        },
+        "RESBase": {},
         "Icon": [
             "UI_MonsterIcon_Dotorre_Moon"
         ],
         "MultiPlayerID": 103,
-        "Class": "Enemies of Note",
-        "Category": "<b>6.3</b>"
+        "Class": "The Doctor",
+        "Category": "Enemies of Note"
     },
     "805": {
         "_id": 805,
@@ -13207,6 +13205,7 @@
             "Surging Currents"
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Hydro, resulting in its present form.\nIts clear, glass-like body is composed almost entirely of the purest water droplets. Though gentler than most of its kin, once provoked it can instantly shape the surrounding water into razor-sharp blades capable of piercing any unwary intruder's defenses.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "Color": "Water",
         "HP": 6.4,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -13218,8 +13217,8 @@
             "UI_MonsterIcon_Moonbeast_Water"
         ],
         "Tut": 3092,
-        "Class": "Elemental Lifeforms",
-        "Category": "<b>6.3</b>"
+        "Class": "Frostnight Scion",
+        "Category": "Elemental Lifeforms"
     },
     "806": {
         "_id": 806,
@@ -13229,6 +13228,7 @@
             "Veiled Cloudchaser"
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Anemo, resulting in its present form.\nThe flowing wind has spun an extra pair of wings for it. As it almost never leaves footprints on the ground, it's also known as the one who walks with the wind.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "Color": "Wind",
         "HP": 5.1,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -13240,8 +13240,8 @@
             "UI_MonsterIcon_Moonbeast_Wind"
         ],
         "Tut": 3092,
-        "Class": "Elemental Lifeforms",
-        "Category": "<b>6.3</b>"
+        "Class": "Frostnight Scion",
+        "Category": "Elemental Lifeforms"
     },
     "807": {
         "_id": 807,
@@ -13251,6 +13251,7 @@
             "Gilded Sunshard"
         ],
         "Desc": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Geo, resulting in its present form.\nJust about its entire body is covered by the accumulated Geo, while its tough antlers gleam with the luster of polished amber.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance. Perhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
+        "Color": "Rock",
         "HP": 5.1,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -13262,17 +13263,18 @@
             "UI_MonsterIcon_Moonbeast_Rock"
         ],
         "Tut": 3092,
-        "Class": "Elemental Lifeforms",
-        "Category": "<b>6.3</b>"
+        "Class": "Frostnight Scion",
+        "Category": "Elemental Lifeforms"
     },
-    "812": {
-        "_id": 812,
-        "Name": "Hexadecatonic Battle-Hardened Mandragora",
+    "8120": {
+        "_id": 8120,
+        "Name": "Hexadecatonic Mandragora",
         "Title": [
-            "Hexadecatonic Battle-Hardened Mandragora",
-            "Driftvine Phylad"
+            "Driftvine Phylad",
+            "Nurtured Phylad"
         ],
-        "Desc": "",
+        "Color": "Grass",
+        "Desc": "An exceptionally large Mandragora, likely produced through an extended artificial selection process. Although the original objective behind its cultivation is no longer known, the organism has an atypical territorial behavioral profile profile that suggests it may have been the product of a controlled social experiment.",
         "HP": 32.0,
         "HPCurve": 2,
         "ATK": 12.0,
@@ -13283,8 +13285,30 @@
         "Icon": [
             "UI_MonsterIcon_Mandragora_Elite"
         ],
-        "Class": "Elemental Lifeforms",
-        "Category": "<b>6.3</b>"
+        "Class": "6.3",
+        "Category": "Local Legend"
+    },
+    "812": {
+        "_id": 812,
+        "Name": "Hexadecatonic Battle-Hardened Mandragora",
+        "Title": [
+            "Driftvine Phylad",
+            "Nurtured Phylad"
+        ],
+        "Color": "Grass",
+        "Desc": "",
+        "HP": 8.64,
+        "HPCurve": 2,
+        "ATK": 6.6,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Grass": 1.35
+        },
+        "Icon": [
+            "UI_MonsterIcon_Mandragora_Elite"
+        ],
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "813": {
         "_id": 813,
@@ -13293,6 +13317,7 @@
             "Hexadecatonic Battle-Hardened Mandragora",
             "Driftvine Phylad"
         ],
+        "Color": "Grass",
         "Desc": "",
         "HP": 3.2,
         "HPCurve": 2,
@@ -13303,9 +13328,7 @@
         },
         "Icon": [
             ""
-        ],
-        "Class": "Elemental Lifeforms",
-        "Category": "<b>6.3</b>"
+        ]
     },
     "21401": {
         "_id": 21401,
@@ -13324,8 +13347,8 @@
             "UI_MonsterIcon_Lloigor_Sub"
         ],
         "Tut": 3101,
-        "Class": "The Abyss",
-        "Category": "<b>6.3</b>"
+        "Class": "Eyrie Beast of Another World",
+        "Category": "The Abyss"
     },
     "21501": {
         "_id": 21501,
@@ -13340,12 +13363,19 @@
         "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Weak",
+                "All": -0.7
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Lloigor_Primo"
         ],
         "Tut": 3102,
-        "Class": "The Abyss",
-        "Category": "<b>6.3</b>"
+        "Tutorial": 21501,
+        "Class": "Eyrie Beast of Another World",
+        "Category": "The Abyss"
     },
     "10307": {
         "_id": 10307,
@@ -13362,9 +13392,7 @@
         "RESBase": {},
         "Icon": [
             "UI_MonsterIcon_Shaman_None_01"
-        ],
-        "Class": "Hilichurls",
-        "Category": "<b>6.3</b>"
+        ]
     },
     "40682": {
         "_id": 40682,
@@ -13401,18 +13429,15 @@
         "Icon": [
             "UI_MonsterIcon_MachinaIustitia_Pylon"
         ],
-        "Tut": 3049,
-        "Class": "Automatons",
-        "Category": "<b>6.3</b>"
+        "Tut": 3049
     },
-    "56001": {
-        "_id": 56001,
+    "56000": {
+        "_id": 56000,
         "Name": "Hiljetta",
         "Title": [
-            "Hiljetta",
             "Black-Barrel Hag"
         ],
-        "Desc": "",
+        "Desc": "A legendary figure in the history of the Treasure Hoarders, Hiljetta was once feared and respected under the name \"Black-Barrel Hag.\" Her exploits led to countless unforgettable tales and just as many grudges. Now living in seclusion somewhere in Nod-Krai, she spends her days lost in memories of her former glory. Her final wish is to find a worthy successor, someone who can carry forward the great dream she never managed to realize.",
         "HP": 52.0,
         "HPCurve": 2,
         "ATK": 11.2,
@@ -13423,8 +13448,28 @@
         "Icon": [
             "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01"
         ],
-        "Class": "Other Human Factions",
-        "Category": "<b>6.3</b>"
+        "Class": "6.3",
+        "Category": "Local Legend"
+    },
+    "56001": {
+        "_id": 56001,
+        "Name": "Hiljetta",
+        "Title": [
+            "Black-Barrel Hag"
+        ],
+        "Desc": "",
+        "HP": 11.96,
+        "HPCurve": 2,
+        "ATK": 6.4,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Phys": -0.2
+        },
+        "Icon": [
+            "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01"
+        ],
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "63004": {
         "_id": 63004,
@@ -13434,6 +13479,7 @@
             "Glacial Wolf"
         ],
         "Desc": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when a dark calamity wiped out countless lives, the frontier forests fell completely silent. In that stillness, the only sound to break the dead quiet was the howl of the Glacial Wolves calling to the moon. Night after night, their mournful cries echoed across the empty wilderness in the cold moonlight.",
+        "Color": "Ice",
         "HP": 5.5,
         "HPCurve": 2,
         "ATK": 6.6,
@@ -13445,36 +13491,56 @@
             "UI_MonsterIcon_Magbeast_Steppenwolf"
         ],
         "Tut": 3096,
-        "Class": "Mystical Beasts",
-        "Category": "<b>6.3</b>"
+        "Class": "Radiant Beast",
+        "Category": "Mystical Beasts"
+    },
+    "630050": {
+        "_id": 630050,
+        "Name": "\"The Homesick Lone Wolf\"",
+        "Title": [
+            "Fangs of the Wilderness"
+        ],
+        "Desc": "A lone wolf estranged from the local pack, with its teal mane indicating a bloodline from a faraway land. Perhaps it is the echo of its ancestors that still lingers in its veins, for it remains steadfast in guarding a sword cemetery long forgotten by the world. In the moonlight, it waits endlessly for a knight who will never find their way home.",
+        "Color": "Wind",
+        "HP": 41.5,
+        "HPCurve": 2,
+        "ATK": 8.0,
+        "ATKCurve": 4,
+        "RESBase": {
+            "Wind": 0.5
+        },
+        "Icon": [
+            "UI_MonsterIcon_Magbeast_Steppenwolf_02"
+        ],
+        "Class": "6.3",
+        "Category": "Local Legend"
     },
     "63005": {
         "_id": 63005,
         "Name": "Battle-Hardened Radiant Glacial Wolf",
         "Title": [
-            "Radiant Beast",
-            "Lunapod"
+            "Fangs of the Wilderness"
         ],
         "Desc": "",
-        "HP": 41.5,
+        "Color": "Wind",
+        "HP": 10.79,
         "HPCurve": 2,
-        "ATK": 5.0,
+        "ATK": 4.8,
         "ATKCurve": 4,
         "RESBase": {
-            "Ice": 0.5
+            "Wind": 0.5
         },
         "Icon": [
             "UI_MonsterIcon_Magbeast_Steppenwolf_02"
         ],
-        "Class": "Mystical Beasts",
-        "Category": "<b>6.3</b>"
+        "Class": "",
+        "Category": "Battle-Hardened"
     },
     "22150106": {
         "_id": 22150106,
         "Name": "",
         "Title": [
-            "Faceless, Boundless Overlord",
-            "Lord of the Hidden Depths: Whisperer of Nightmares"
+            "Faceless, Boundless Overlord"
         ],
         "Desc": "",
         "HP": 431.90787,
@@ -13482,6 +13548,12 @@
         "ATK": 6.0,
         "ATKCurve": 4,
         "RESBase": {},
+        "RESState": [
+            {
+                "State": "Weak",
+                "All": -0.7
+            }
+        ],
         "Icon": [
             "UI_MonsterIcon_Lloigor_Primo"
         ],
