@@ -2280,6 +2280,9 @@
             "Blazing Brilliance: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Fire",
             "Icy Crystal: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Ice",
             "Frostnight Herra": "UI_MonsterIcon_HerraFrost",
+            "Surging Currents: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Water",
+            "Veiled Cloudchaser: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Wind",
+            "Gilded Sunshard: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Rock",
             "Oceanid": "UI_MonsterIcon_Oceanid"
         },
         "Local Legend": {
@@ -2332,7 +2335,10 @@
             "The Last Survivor of Tenochtzitoc": "UI_MonsterIcon_Tenoyollotzin",
             "Sigurd": "UI_MonsterIcon_WildHunt_Male_Sigurd",
             "Raskolnikov": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya",
-            "Crab Tsar": "UI_MonsterIcon_HermitCrab_Mature_Elite"
+            "Crab Tsar": "UI_MonsterIcon_HermitCrab_Mature_Elite",
+            "Hexadecatonic Mandragora": "UI_MonsterIcon_Mandragora_Elite",
+            "Hiljetta": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+            "\"The Homesick Lone Wolf\"": "UI_MonsterIcon_Magbeast_Steppenwolf_02"
         },
         "Battle-Hardened": {
             "Veteran Tainted Water-Splitting Phantasm": "UI_MonsterIcon_Necalevia_Normal",
@@ -2355,7 +2361,10 @@
             "Battle-Hardened Pipilpan Idol": "UI_MonsterIcon_Tenoyollotzin",
             "Battle-Hardened Lightkeeper": "UI_MonsterIcon_WildHunt_Male_Sigurd",
             "Battle-Hardened Fireblade Shock Trooper": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya",
-            "Battle-Scarred Rock Crab": "UI_MonsterIcon_HermitCrab_Mature_Elite"
+            "Battle-Scarred Rock Crab": "UI_MonsterIcon_HermitCrab_Mature_Elite",
+            "Hexadecatonic Battle-Hardened Mandragora": "UI_MonsterIcon_Mandragora_Elite",
+            "Hiljetta": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+            "Battle-Hardened Radiant Glacial Wolf": "UI_MonsterIcon_Magbeast_Steppenwolf_02"
         },
         "Miscellaneous": {
             "Hydro Tulpa: Flashflood": "UI_MonsterIcon_Narcissusborn_Normal_01",
@@ -2372,7 +2381,9 @@
             "Enraged Millennial Pearl Seahorse": "UI_MonsterIcon_SeaHorse_Primo_Electric",
             "Cocijo": "UI_AnimalIcon_Tortoise_Electric",
             "Secret Source Automaton: Firepower Enhanced": "UI_MonsterIcon_DragonClaw",
-            "The Game Before the Gate": "UI_MonsterIcon_GiantChess"
+            "The Game Before the Gate": "UI_MonsterIcon_GiantChess",
+            "Mystifying Megachurl": "UI_MonsterIcon_Shaman_None_01",
+            "Arithmetic Enhancer Mek": "UI_MonsterIcon_MachinaIustitia_Pylon"
         },
         "Hilichurls": {
             "Hilichurl": "UI_MonsterIcon_Hili_None_01",
@@ -2457,7 +2468,9 @@
             "Tenebrous Mimesis: Geovishap Hatchling": "UI_MonsterIcon_TheAbyss_Rhizome",
             "Tenebrous Mimesis: Tatankasaurus": "UI_MonsterIcon_TheAbyss_Rhizome",
             "Wilderness Exile": "UI_MonsterIcon_WildHunt",
-            "Wilderness Hunter": "UI_MonsterIcon_WildHunt_Elite"
+            "Wilderness Hunter": "UI_MonsterIcon_WildHunt_Elite",
+            "Angler of Hidden Depths": "UI_MonsterIcon_Lloigor_Sub",
+            "Lord of the Hidden Depths: Whisperer of Nightmares": "UI_MonsterIcon_Lloigor_Primo"
         },
         "Fatui": {
             "Fatui Skirmisher - Cryogunner Legionnaire": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
@@ -2684,7 +2697,8 @@
             "Radiant Antelope": "UI_MonsterIcon_Magbeast_Argali",
             "Radiant Bladehorn": "UI_MonsterIcon_Magbeast_Rhino",
             "Radiant Lunapod": "UI_MonsterIcon_Magbeast_Squid",
-            "Radiant Moonfly": "UI_MonsterIcon_Magbeast_Pergesa"
+            "Radiant Moonfly": "UI_MonsterIcon_Magbeast_Pergesa",
+            "Radiant Glacial Wolf": "UI_MonsterIcon_Magbeast_Steppenwolf"
         },
         "Enemies of Note": {
             "Stormterror": "UI_MonsterIcon_Dvalin",
@@ -2715,7 +2729,8 @@
             "Chess Game: King Piece": "UI_MonsterIcon_GiantChess_King",
             "Chess Game: Queen Piece": "UI_MonsterIcon_GiantChess_Queen",
             "Ascended King": "UI_MonsterIcon_GiantChess_King",
-            "Sublimated Queen": "UI_MonsterIcon_GiantChess_Queen"
+            "Sublimated Queen": "UI_MonsterIcon_GiantChess_Queen",
+            "The Doctor": "UI_MonsterIcon_Dotorre_Moon"
         },
         "Stygian Onslaught": {
             "Hydro Tulpa: Turbulent Vortex": "UI_MonsterIcon_Narcissusborn_Normal_01",
@@ -2733,20 +2748,6 @@
             "Iniquitous Baptist: Resonant Wrath": "UI_MonsterIcon_Invoker_Archdeacon",
             "Battle-Hardened Iktomisaurus: Frostbound Resolve": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal",
             "Experimental Field Generator: Extreme Potential": "UI_MonsterIcon_MachinaIustitia_Gravitas"
-        },
-        "<b>6.3</b>": {
-            "The Doctor": "UI_MonsterIcon_Dotorre_Moon",
-            "Surging Currents: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Water",
-            "Veiled Cloudchaser: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Wind",
-            "Gilded Sunshard: Frostnight Scion": "UI_MonsterIcon_Moonbeast_Rock",
-            "Hexadecatonic Battle-Hardened Mandragora": "UI_MonsterIcon_Mandragora_Elite",
-            "Angler of Hidden Depths": "UI_MonsterIcon_Lloigor_Sub",
-            "Lord of the Hidden Depths: Whisperer of Nightmares": "UI_MonsterIcon_Lloigor_Primo",
-            "Mystifying Megachurl": "UI_MonsterIcon_Shaman_None_01",
-            "Arithmetic Enhancer Mek": "UI_MonsterIcon_MachinaIustitia_Pylon",
-            "Hiljetta": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
-            "Radiant Glacial Wolf": "UI_MonsterIcon_Magbeast_Steppenwolf",
-            "Battle-Hardened Radiant Glacial Wolf": "UI_MonsterIcon_Magbeast_Steppenwolf_02"
         }
     }
 }
