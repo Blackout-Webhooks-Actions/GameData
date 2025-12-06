@@ -13174,6 +13174,7 @@
             "UI_MonsterIcon_Dotorre_Moon"
         ],
         "MultiPlayerID": 103,
+        "Tutorial": 91301,
         "Class": "The Doctor",
         "Category": "Enemies of Note"
     },
@@ -13194,6 +13195,7 @@
             "UI_MonsterIcon_Dotorre_Moon"
         ],
         "MultiPlayerID": 103,
+        "Tutorial": 91301,
         "Class": "The Doctor",
         "Category": "Enemies of Note"
     },
