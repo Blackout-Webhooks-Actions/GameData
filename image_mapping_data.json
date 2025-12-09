@@ -1513,6 +1513,9 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
+            "Travel Notes: Lanternlit": 210272,
+            "Nod-Krai: Lantern of Long Nights": 210271,
+            "Achievement: Far-Sighted": 210270,
             "???": 210267,
             "Celebration: Dream Reader": 210266,
             "Travel Notes: Blazing Snow": 210265,
@@ -1832,6 +1835,7 @@
         "Profile Pictures": {
             "Sunsettia": 100002,
             "Apple": 100001,
+            "Arrow of Terpikeraunas": 100250,
             "Netochka": 100240,
             "The Other Side of the Frostmoon": 100230,
             "The Scholar Who Crossed the Mare Jivari": 100220,
@@ -2747,7 +2751,9 @@
             "Veteran Frost Operative: Bloodsoaked Blade": "UI_MonsterIcon_Fatuus_Escadron_Ice",
             "Iniquitous Baptist: Resonant Wrath": "UI_MonsterIcon_Invoker_Archdeacon",
             "Battle-Hardened Iktomisaurus: Frostbound Resolve": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal",
-            "Experimental Field Generator: Extreme Potential": "UI_MonsterIcon_MachinaIustitia_Gravitas"
+            "Experimental Field Generator: Extreme Potential": "UI_MonsterIcon_MachinaIustitia_Gravitas",
+            "Lord of the Hidden Depths: Whisperer of Nightmares - Ravager's Edge": "UI_MonsterIcon_Lloigor_Primo",
+            "Emperor of Fire and Iron: Ordained Conquest": "UI_MonsterIcon_HermitCrab_Primo"
         }
     }
 }
