@@ -13163,9 +13163,9 @@
             "???"
         ],
         "Desc": "",
-        "HP": 24.0,
+        "HP": 140.0,
         "HPCurve": 2,
-        "ATK": 7.0,
+        "ATK": 5.5,
         "ATKCurve": 4,
         "RESBase": {
             "Fire": 0.7
@@ -13540,11 +13540,11 @@
     },
     "22150106": {
         "_id": 22150106,
-        "Name": "",
+        "Name": "Lord of the Hidden Depths: Whisperer of Nightmares - Ravager's Edge",
         "Title": [
             "Faceless, Boundless Overlord"
         ],
-        "Desc": "",
+        "Desc": "An Abyss creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, while its true body exists only as a formless mass of pure Abyssal energy.\nDriven by the turmoil of the chaotic Ley Lines, its frenzied, delirious whispers were honed into a cutting power aimed at rending the world's hard-won order...",
         "HP": 431.90787,
         "HPCurve": 20,
         "ATK": 6.0,
@@ -13567,12 +13567,12 @@
     },
     "26170105": {
         "_id": 26170105,
-        "Name": "",
+        "Name": "Emperor of Fire and Iron: Ordained Conquest",
         "Title": [
             "Emperor of Fire and Iron",
             "Searing Tide Pulsing Beneath the Mountains"
         ],
-        "Desc": "",
+        "Desc": "One of the two sovereigns who once stood at the apex of the aberrant species of the Fontemer, and the subject of many a tale among sailors. Avoiding predation, it keeps hunting and eating and so continues to grow, constantly seeking out suitable shells to become its new armor.\nTwisted by the turbulence of the Ley Lines, its violent nature has grown so intense that it now rampages like a small army, lashing out at anything it notices — a crab-like calamity on the move...",
         "HP": 238.37927,
         "HPCurve": 20,
         "ATK": 7.0,

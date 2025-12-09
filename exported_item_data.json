@@ -955,7 +955,7 @@
         "_id": 112139,
         "R": 4,
         "Name": "Beak of the Deep Shadow",
-        "Desc": "A vial recovered from the heretical testing grounds after defeating the False God of the Moon.<br>For centuries, so-called researchers have crawled at the feet of the six cardinal sins, and their self-deceiving studies amount only to circular arguments and empty words. The pursuit of truth should never be bound by any restriction. In that case, perhaps those branded heretics and villains are the only true knowledge seekers.",
+        "Desc": "Remnants shed by an angler from beyond this world, left behind after its form dispersed.<br>A hook-shaped beak akin to that of a bird, used by predators beyond this world to store the biomass they seize.",
         "Src": [
             "Dropped by Lv. 60+ Angler of Hidden Depths",
             "Stardust Exchange: Craft after exchanging",
@@ -968,7 +968,7 @@
         "_id": 112138,
         "R": 3,
         "Name": "Aberrant Core of the Deep Shadow",
-        "Desc": "A binding recovered from the heretical testing grounds after defeating the False God of the Moon.<br>Humanity defines civilization by casting out madness, yet believing that all things—whether they exist or not—can be contained within reason may be nothing more than another form of insanity. The madman sees through reason's deceit, and in his world, everything is permitted.",
+        "Desc": "Remnants shed by an angler from beyond this world, left behind after its form dispersed.<br>A core whose functions have fully shut down, showing no structural similarity to the organs of any creature found on this earth.",
         "Src": [
             "Dropped by Lv. 40+ Angler of Hidden Depths",
             "Stardust Exchange",
@@ -981,7 +981,7 @@
         "_id": 112137,
         "R": 2,
         "Name": "Fractured Eye of the Deep Shadow",
-        "Desc": "A mask recovered from the heretical testing grounds after defeating the False God of the Moon.<br>Medicine is meant to cure the ailments of the flesh, yet worldly healers turn a blind eye to the true cause of death. In the hands of a wise doctor, the frail human body is no longer bound by birth, age, sickness, or death, and may even display power beyond any common sense.",
+        "Desc": "Remnants shed by an angler from beyond this world, left behind after its form dispersed.<br>Once the shell cracked, the malice within it faded away as well.",
         "Src": [
             "Dropped by Angler of Hidden Depths",
             "Stardust Exchange"
@@ -4795,7 +4795,9 @@
         "Desc": "A gem formed from the resin of the towering ancient trees that once blanketed Nod-Krai. Over ages, the resin hardened into crystalline amber, now shining with vivid, radiant hues.<br>Snezhnayan scholars believe that, before the pioneering age, vast primordial forests once stretched across Nod-Krai. The widespread traces of Pine Amber found today are considered strong evidence of these ancient woodlands. According to old tales, the ancestors of the Frostmoon Scions turned away from all crafts deemed civilized. Yet one question remains — how, then, did they bring forth the towering palaces and lofty spires that mark their legacy?",
         "Src": [
             "Go to collect",
-            "Found in the wild"
+            "Found in the wild",
+            "",
+            ""
         ],
         "Icon": "UI_ItemIcon_101269",
         "Type": "Local Specialty (Nod-Krai)"
@@ -4807,7 +4809,9 @@
         "Desc": "A hardy plant known for withstanding relentless wind and frost, it survives even in the coldest depths of winter.<br>According to the folklore of the Northern lands, these plants are said to be the loyal warriors of the King of Winter Holly. Though each blossom lasts only from dawn to dusk and is easily swept away by wind or rain, the leaves and roots cling stubbornly to life. And as long as those roots endure, new buds will continue to bloom in succession, carrying the plant through the long winter until spring finally returns.",
         "Src": [
             "Go to collect",
-            "Found in the wild"
+            "Found in the wild",
+            "",
+            ""
         ],
         "Icon": "UI_ItemIcon_101266",
         "Type": "Local Specialty (Nod-Krai)"
@@ -5808,8 +5812,8 @@
     {
         "_id": 210272,
         "R": 4,
-        "Name": "",
-        "Desc": "???",
+        "Name": "Travel Notes: Lanternlit",
+        "Desc": "Namecard Style.<br>Pray for me a bright moon, wish me a fair morning. Let me wear my spring cloak, to where the moonlight's pouring.",
         "Src": [
             "BP Reward"
         ],
@@ -5819,10 +5823,10 @@
     {
         "_id": 210271,
         "R": 4,
-        "Name": "",
-        "Desc": "???",
+        "Name": "Nod-Krai: Lantern of Long Nights",
+        "Desc": "Namecard Style.<br>There will always be a lamp that shines when the sky reaches its darkest hour. So it is for one night, and so it is for a thousand nights.",
         "Src": [
-            "???"
+            "Reward for completing all achievements under \"Nod-Krai: An Elysium of Moonlight and Wanderings (II)\""
         ],
         "Icon": "UI_NameCardIcon_NodKrai2",
         "Pic": "UI_NameCardPic_NodKrai2_P"
@@ -5830,10 +5834,10 @@
     {
         "_id": 210270,
         "R": 4,
-        "Name": "",
-        "Desc": "???",
+        "Name": "Achievement: Far-Sighted",
+        "Desc": "Namecard Style.<br>The Traveler once stood at a town's highest point and gazed into the distance, confident that the faraway sights would eventually become milestones in their journey.",
         "Src": [
-            "???"
+            "Reward for completing all achievements under \"Mortal Travails: Series VI\""
         ],
         "Icon": "UI_NameCardIcon_Csxy6",
         "Pic": "UI_NameCardPic_Csxy6_P"
@@ -5844,7 +5848,7 @@
         "Name": "???",
         "Desc": "???",
         "Src": [
-            "???"
+            "Reward for reaching Friendship Lv. 10 with Illuga"
         ],
         "Icon": "UI_NameCardIcon_Illuga",
         "Pic": "UI_NameCardPic_Illuga_P"
@@ -5855,7 +5859,7 @@
         "Name": "???",
         "Desc": "???",
         "Src": [
-            "???"
+            "Reward for reaching Friendship Lv. 10 with Zibai"
         ],
         "Icon": "UI_NameCardIcon_Zibai",
         "Pic": "UI_NameCardPic_Zibai_P"
@@ -5866,7 +5870,7 @@
         "Name": "???",
         "Desc": "???",
         "Src": [
-            "???"
+            "Reward for reaching Friendship Lv. 10 with Columbina"
         ],
         "Icon": "UI_NameCardIcon_Columbina",
         "Pic": "UI_NameCardPic_Columbina_P"
@@ -8781,7 +8785,7 @@
         "_id": 108954,
         "R": 3,
         "Name": "Charred Mushroom Phantasm",
-        "Desc": "A bread with a sauteed vegetable filling. Cooked with little technique and fire that was barely under control, this pitch-black \"charcoal mushroom\" looks downright intimidating. Forcing down a bite might even risk poisoning...",
+        "Desc": "A bread with a sauteed vegetable filling. Haphazardly cooked over a barely controlled fire, it comes out as a pitch-black charcoal mushroom. Just looking at it is enough to intimidate, and taking a bite could be downright risky...",
         "Eff": "Best not to eat this!",
         "Icon": "UI_ItemIcon_108867",
         "Recipe": 0,
@@ -8811,7 +8815,7 @@
         "_id": 108951,
         "R": 3,
         "Name": "Nightwatch Soup",
-        "Desc": "Illuga's signature dish. A warm bowl of broth that drives away fatigue with a single sip, easing both body and mind after a long night patrol. Such a comforting effect must come from the young captain's many years of accumulated experience, and his very own recipe...",
+        "Desc": "Illuga's specialty. A steaming bowl of hot soup, just a sip after returning from the night patrol can melt away fatigue and ease tense nerves. Such an effect is likely the result of the young captain's years of accumulated experience, perfected into his own unique recipe.",
         "Eff": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
         "Icon": "UI_ItemIcon_108864",
         "Recipe": 3609,
@@ -8823,7 +8827,7 @@
         "_id": 108950,
         "R": 3,
         "Name": "Moonlit Mirage",
-        "Desc": "Columbina's signature dish. The translucent candy looks like droplets of dew gathered from moonlight. Its faint sweetness flickers in and out of reach, as if drawing you into a beautiful yet unreal dream. How she managed to create such a curious delight remains a mystery.",
+        "Desc": "Columbina's specialty. The translucent candy looks like droplets of dew gathered from moonlight. Its delicate sweetness flits in and out of reach, as if luring you into a beautiful, fleeting dream. You can't help but wonder at the skill and care that went into making it...",
         "Eff": "Increases all party members' Max HP by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108863",
         "Recipe": 3608,
@@ -8834,8 +8838,8 @@
     {
         "_id": 108949,
         "R": 3,
-        "Name": "",
-        "Desc": "",
+        "Name": "???",
+        "Desc": "???",
         "Eff": "Increases all party members' DEF by 282 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108862",
         "Recipe": 3124,
@@ -8847,7 +8851,7 @@
         "_id": 108948,
         "R": 3,
         "Name": "Delicious Mushroom Phantasm",
-        "Desc": "A bread with a sauteed vegetable filling. Its firm crust holds in the savory juices of the tender mushroom filling, creating a simple yet satisfying flavor.",
+        "Desc": "A bread with a sauteed vegetable filling. Its coarse, sturdy crust acts like a solid wall, sealing in the fragrant juices of the tender mushroom filling, creating a rustic yet satisfying taste that unfolds in your mouth.",
         "Eff": "Revives a character and restores 1,500 HP.",
         "Icon": "UI_ItemIcon_108861",
         "Recipe": 3611,
@@ -8867,7 +8871,7 @@
         "_id": 108946,
         "R": 3,
         "Name": "Suspicious Mushroom Phantasm",
-        "Desc": "A bread with a sauteed vegetable filling. You finally break through the burnt crust, only to find a muddy, earthy taste. After a few chews your head starts to spin... Could this be some new kind of poison mushroom?",
+        "Desc": "A bread with a sauteed vegetable filling. After struggling through the charred crust, you finally get a taste, only to be hit with a muddy, earthy flavor. A few bites in, your head starts to spin... Could this be a new type of poisonous mushroom?",
         "Eff": "Revives a character and restores 900 HP.",
         "Icon": "UI_ItemIcon_108861",
         "Recipe": 3611,
@@ -8877,7 +8881,7 @@
         "_id": 108945,
         "R": 3,
         "Name": "Delicious Fireside Merriment",
-        "Desc": "A platter of hearty cuts of meat. The raw cuts carry notes of pine and salt, the sausages add deep smoke, and the ham rounds it out with rich warmth. Bold and hearty, it is a feast any Nod-Krai local would praise.",
+        "Desc": "A generous spread of hearty meat cuts. The thick raw cuts carry hints of pine and salt, the sausages give off a deep smoky fragrance, and the ham slices add a rich, savory touch. Bold and hearty, it's a feast any Nod-Krai local would give a thumbs-up to.",
         "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108860",
         "Recipe": 3610,
@@ -8887,7 +8891,7 @@
         "_id": 108944,
         "R": 3,
         "Name": "Fireside Merriment",
-        "Desc": "A generous spread of hearty meat cuts combining Snezhnayan cured pieces with Nod-Krai ham and sausage. Many older Nod-Krai locals like to savor it by the fire with a drink in hand.",
+        "Desc": "A generous spread of hearty meat cuts combining Snezhnayan cured meats with Nod-Krai ham and sausage. Many older Nod-Krai locals like to savor it by the fire with a drink in hand.",
         "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108860",
         "Recipe": 3610,
@@ -8897,7 +8901,7 @@
         "_id": 108943,
         "R": 3,
         "Name": "Suspicious Fireside Merriment",
-        "Desc": "A platter of hearty cuts of meat. Its thick fat tastes bitter and salty, hitting your palate like a runaway carriage and leaving a greasy trail behind. Few can handle it.",
+        "Desc": "A generous spread of hearty meat cuts. The dense fat, bitter and salty, hits the palate like a runaway carriage, leaving a lingering, oily trail down the throat... an intense assault few could endure.",
         "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108860",
         "Recipe": 3610,
@@ -8907,7 +8911,7 @@
         "_id": 108942,
         "R": 3,
         "Name": "Delicious Veggie Pot Soup",
-        "Desc": "A soup prepared from assorted vegetables. Its simple cooking method brings out the vegetables' true flavor, just one sip sends a gentle warmth through your body.",
+        "Desc": "A soup prepared by simmering a variety of shredded vegetables with light seasoning. Cooked with simple, minimal techniques, it brings out the purest essence of the vegetables. With just one sip, a comforting warmth spreads from your stomach through your entire body.",
         "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
         "Icon": "UI_ItemIcon_108859",
         "Recipe": 3609,
@@ -8927,7 +8931,7 @@
         "_id": 108940,
         "R": 3,
         "Name": "Suspicious Veggie Pot Soup",
-        "Desc": "A soup prepared from assorted vegetables. Long simmering has turned the greens soft and wilted, with a slightly sticky texture. It may not be pleasant, but it will keep you fed.",
+        "Desc": "A soup prepared by simmering a variety of shredded vegetables with light seasoning. The long simmer has left the greens soft and limp, a bit mushy in texture. Not exactly appetizing, but it'll fill you up.",
         "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
         "Icon": "UI_ItemIcon_108859",
         "Recipe": 3609,
@@ -8937,7 +8941,7 @@
         "_id": 108939,
         "R": 3,
         "Name": "Delicious Fruity Herbal Candy",
-        "Desc": "A Nod-Krai candy. The moment this translucent candy touches your tongue, floral fragrance and berry-bright sweetness fill your senses, fresh and pleasantly sweet.",
+        "Desc": "A Nod-Krai candy. The moment this translucent treat touches your tongue, waves of floral fragrance and sweet-tart berries fill your senses, fresh and delightfully sweet.",
         "Eff": "Increases all party members' Max HP by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108858",
         "Recipe": 3608,
@@ -8957,7 +8961,7 @@
         "_id": 108937,
         "R": 3,
         "Name": "Suspicious Fruity Herbal Candy",
-        "Desc": "A Nod-Krai candy with an oddly salty and astringent taste. It's hard to believe a candy could produce such a sensation. The jolt is intense enough to make anyone cry out in disappointment and pain.",
+        "Desc": "A Nod-Krai candy. Salty and astringent in a way you wouldn't expect from a candy, it hits so hard that anyone anticipating something sweet would howl in shock and dismay.",
         "Eff": "Increases all party members' Max HP by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
         "Icon": "UI_ItemIcon_108858",
         "Recipe": 3608,
@@ -19727,7 +19731,7 @@
     {
         "_id": 100250,
         "R": 1,
-        "Name": "",
+        "Name": "Arrow of Terpikeraunas",
         "Desc": "",
         "Src": [],
         "Pic": "UI_AvatarIcon_76101_Circle"

@@ -43,9 +43,9 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
+            "Columbina",
             "Zibai",
-            "Illuga",
-            "Columbina"
+            "Illuga"
         ],
         "NW": [
             14522,
@@ -53,9 +53,10 @@
         ],
         "NR": [],
         "VS": [
-            "1"
+            "1",
+            "2"
         ],
-        "Note": "6.3v1"
+        "Note": "6.3v2"
     },
     {
         "_name": "Illuga",
@@ -92,7 +93,7 @@
             "DEF": 870,
             "Custom": 96
         },
-        "Version": "6.3v1",
+        "Version": "6.3v2",
         "Fetter": 127,
         "_CV": {
             "_CH": "???",
@@ -136,7 +137,7 @@
             "DEF": 1025,
             "Custom": 0.384
         },
-        "Version": "6.3v1",
+        "Version": "6.3v2",
         "Fetter": 126,
         "_CV": {
             "_CH": "???",
@@ -151,7 +152,7 @@
         "Name": "Columbina",
         "Desc": "???",
         "Title": "???",
-        "Constellation": "???",
+        "Constellation": "Columbina Hyposelenia",
         "Nation": "???",
         "Belong": "???",
         "Grade": 5,
@@ -180,7 +181,7 @@
             "DEF": 552,
             "Custom": 0.192
         },
-        "Version": "6.3v1",
+        "Version": "6.3v2",
         "Fetter": 125,
         "_CV": {
             "_CH": "???",
