@@ -152,9 +152,9 @@
         "star3": "Brilliant Diamond Fragment",
         "star2": "Brilliant Diamond Sliver"
     },
-    "Remnant of the Dreadwing": {
+    "Withered Remnant of the Nightmare Wing": {
         "bossName": "Lord of the Hidden Depths: Whisperer of Nightmaris",
-        "itemName": "Remnant of the Dreadwing"
+        "itemName": "Withered Remnant of the Nightmare Wing"
     },
     "Cyclic Military Kuuvahki Core": {
         "bossName": "Super-Heavy Landrover: Mechanized Fortressis",
@@ -473,10 +473,10 @@
         "itemName": "Dvalin's Plume"
     },
     "Angler Of Hidden Depths Materials": {
-        "enemyName": "Angler of Hidden Depths",
+        "enemyName": "Fisher of Hidden Depths",
         "itemName1": "Fractured Eye of the Deep Shadow",
         "itemName2": "Aberrant Core of the Deep Shadow",
-        "itemName3": "Beak of the Deep Shadow"
+        "itemName3": "Hooked Beak of the Deep Shadow"
     },
     "Wasteland Wild Hunt Materials": {
         "enemyName": "Wilderness Hunter",
