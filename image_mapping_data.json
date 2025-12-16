@@ -31,7 +31,7 @@
     "Items": {
         "Character Level-Up Material": {
             "???": 113081,
-            "Remnant of the Dreadwing": 113084,
+            "Withered Remnant of the Nightmare Wing": 113084,
             "Cyclic Military Kuuvahki Core": 113080,
             "Radiant Antler": 113079,
             "Lightbearing Scale-Feather": 113078,
@@ -113,7 +113,7 @@
             "Hurricane Seed": 113001
         },
         "Character and Weapon Enhancement Material": {
-            "Beak of the Deep Shadow": 112139,
+            "Hooked Beak of the Deep Shadow": 112139,
             "Aberrant Core of the Deep Shadow": 112138,
             "Fractured Eye of the Deep Shadow": 112137,
             "Mistshroud Helmet": 112136,
@@ -1795,9 +1795,9 @@
             "Delicious Veggie Pot Soup": 108942,
             "Veggie Pot Soup": 108941,
             "Suspicious Veggie Pot Soup": 108940,
-            "Delicious Fruity Herbal Candy": 108939,
-            "Fruity Herbal Candy": 108938,
-            "Suspicious Fruity Herbal Candy": 108937,
+            "Delicious Berry Herbal Candy": 108939,
+            "Berry Herbal Candy": 108938,
+            "Suspicious Berry Herbal Candy": 108937,
             "Sugar Sculpture: Kuuhenki": 108930,
             "Sugar Sculpture: Jahoda": 108929,
             "Delicious Spiced Fried Chicken": 108928,
@@ -2473,7 +2473,7 @@
             "Tenebrous Mimesis: Tatankasaurus": "UI_MonsterIcon_TheAbyss_Rhizome",
             "Wilderness Exile": "UI_MonsterIcon_WildHunt",
             "Wilderness Hunter": "UI_MonsterIcon_WildHunt_Elite",
-            "Angler of Hidden Depths": "UI_MonsterIcon_Lloigor_Sub",
+            "Fisher of Hidden Depths": "UI_MonsterIcon_Lloigor_Sub",
             "Lord of the Hidden Depths: Whisperer of Nightmares": "UI_MonsterIcon_Lloigor_Primo"
         },
         "Fatui": {
