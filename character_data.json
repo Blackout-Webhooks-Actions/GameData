@@ -6820,14 +6820,14 @@
         {
             "id": 125,
             "name": "Columbina",
-            "constellation": "Columbina Hyposelenia",
+            "constellation": "???",
             "version": "6.3",
             "star": 5,
             "nation": "???",
             "element": "Hydro",
             "weapon": "Catalyst",
             "birthday": "01-01",
-            "title": "???",
+            "title": "Welkin Moon's Homecoming",
             "description": "???",
             "reruns": [
                 {
@@ -6868,7 +6868,7 @@
             "element": "Geo",
             "weapon": "Sword",
             "birthday": "01-01",
-            "title": "???",
+            "title": "White Horse's Fleeting Spring",
             "description": "???",
             "reruns": [
                 {
@@ -6885,7 +6885,7 @@
                         {
                             "enemyDrop": "Fatui Oprichniki Materials",
                             "elementalGem": "Prithiva Topaz",
-                            "normalBossDrop": "Remnant of the Dreadwing",
+                            "normalBossDrop": "Withered Remnant of the Nightmare Wing",
                             "localSpecialty": "Glaze Lily"
                         }
                     ],
@@ -6909,7 +6909,7 @@
             "element": "Geo",
             "weapon": "Polearm",
             "birthday": "01-01",
-            "title": "???",
+            "title": "Nightmare's Burning Heart",
             "description": "???",
             "reruns": [
                 {
