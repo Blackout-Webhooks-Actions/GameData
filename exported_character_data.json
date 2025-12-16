@@ -43,9 +43,9 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Columbina",
+            "Zibai",
             "Illuga",
-            "Zibai"
+            "Columbina"
         ],
         "NW": [
             14522,
@@ -54,16 +54,17 @@
         "NR": [],
         "VS": [
             "1",
-            "2"
+            "2",
+            "3"
         ],
-        "Note": "6.3v2"
+        "Note": "6.3v3"
     },
     {
         "_name": "Illuga",
         "_id": 127,
         "Name": "Illuga",
         "Desc": "???",
-        "Title": "???",
+        "Title": "Nightmare's Burning Heart",
         "Constellation": "Oriolus",
         "Nation": "???",
         "Belong": "???",
@@ -93,7 +94,7 @@
             "DEF": 870,
             "Custom": 96
         },
-        "Version": "6.3v2",
+        "Version": "6.3v3",
         "Fetter": 127,
         "_CV": {
             "_CH": "???",
@@ -107,7 +108,7 @@
         "_id": 126,
         "Name": "Zibai",
         "Desc": "???",
-        "Title": "???",
+        "Title": "White Horse's Fleeting Spring",
         "Constellation": "Equa Alba",
         "Nation": "???",
         "Belong": "???",
@@ -137,7 +138,7 @@
             "DEF": 1025,
             "Custom": 0.384
         },
-        "Version": "6.3v2",
+        "Version": "6.3v3",
         "Fetter": 126,
         "_CV": {
             "_CH": "???",
@@ -151,8 +152,8 @@
         "_id": 125,
         "Name": "Columbina",
         "Desc": "???",
-        "Title": "???",
-        "Constellation": "Columbina Hyposelenia",
+        "Title": "Welkin Moon's Homecoming",
+        "Constellation": "???",
         "Nation": "???",
         "Belong": "???",
         "Grade": 5,
@@ -181,7 +182,7 @@
             "DEF": 552,
             "Custom": 0.192
         },
-        "Version": "6.3v2",
+        "Version": "6.3v3",
         "Fetter": 125,
         "_CV": {
             "_CH": "???",

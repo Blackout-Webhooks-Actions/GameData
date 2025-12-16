@@ -13163,7 +13163,7 @@
             "???"
         ],
         "Desc": "",
-        "HP": 140.0,
+        "HP": 105.0,
         "HPCurve": 2,
         "ATK": 5.5,
         "ATKCurve": 4,
@@ -13186,9 +13186,9 @@
             "???"
         ],
         "Desc": "???",
-        "HP": 54.5,
+        "HP": 62.5,
         "HPCurve": 2,
-        "ATK": 11.0,
+        "ATK": 14.0,
         "ATKCurve": 4,
         "RESBase": {},
         "Icon": [
@@ -13334,10 +13334,10 @@
     },
     "21401": {
         "_id": 21401,
-        "Name": "Angler of Hidden Depths",
+        "Name": "Fisher of Hidden Depths",
         "Title": [
             "Eyrie Beast of Another World",
-            "Angler of Hidden Depths"
+            "Fisher of Hidden Depths"
         ],
         "Desc": "An Abyssal creature that slips through rifts in the hidden depths, crossing over from beyond this world.\nLong ago, an ancient philosopher described humans as \"featherless bipeds,\" using that simple phrase to distinguish mankind from animals and assert human superiority. In some sense, these deathless wanderers of the silent cosmic void, scaled instead of feathered, and using their hooked beaks to draw in biomass from world to world, might actually also match that same simplistic definition of \"human.\"",
         "HP": 1.5,
@@ -13460,7 +13460,7 @@
             "Black-Barrel Hag"
         ],
         "Desc": "",
-        "HP": 11.96,
+        "HP": 13.26,
         "HPCurve": 2,
         "ATK": 6.4,
         "ATKCurve": 4,
