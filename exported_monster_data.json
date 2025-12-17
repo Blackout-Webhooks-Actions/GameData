@@ -13340,6 +13340,7 @@
             "Fisher of Hidden Depths"
         ],
         "Desc": "An Abyssal creature that slips through rifts in the hidden depths, crossing over from beyond this world.\nLong ago, an ancient philosopher described humans as \"featherless bipeds,\" using that simple phrase to distinguish mankind from animals and assert human superiority. In some sense, these deathless wanderers of the silent cosmic void, scaled instead of feathered, and using their hooked beaks to draw in biomass from world to world, might actually also match that same simplistic definition of \"human.\"",
+        "Color": "Elec",
         "HP": 1.5,
         "HPCurve": 2,
         "ATK": 3.0,
@@ -13360,6 +13361,7 @@
             "Lord of the Hidden Depths: Whisperer of Nightmares"
         ],
         "Desc": "An Abyssal creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, for its true body exists only as a formless mass of pure Abyssal energy.\nEven invaders who seek to claim this world must obey its rules to some extent. Unless the heavens split open and the earth's defenses collapse, these star-born outsiders can do little more than linger at the world's fringes, whispering their madness into this realm, their attempts to seep inside amounting to nothing... But how long can this stability and order truly last?",
+        "Color": "Elec",
         "HP": 13.5,
         "HPCurve": 2,
         "ATK": 6.0,
@@ -13545,6 +13547,7 @@
             "Faceless, Boundless Overlord"
         ],
         "Desc": "An Abyss creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, while its true body exists only as a formless mass of pure Abyssal energy.\nDriven by the turmoil of the chaotic Ley Lines, its frenzied, delirious whispers were honed into a cutting power aimed at rending the world's hard-won order...",
+        "Color": "Elec",
         "HP": 431.90787,
         "HPCurve": 20,
         "ATK": 6.0,
