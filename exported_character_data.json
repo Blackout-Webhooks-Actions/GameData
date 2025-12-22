@@ -43,8 +43,8 @@
             "_KR": "Lee Bo-hee"
         },
         "NA": [
-            "Illuga",
             "Zibai",
+            "Illuga",
             "Columbina"
         ],
         "NW": [
@@ -55,9 +55,10 @@
         "VS": [
             "1",
             "2",
-            "3"
+            "3",
+            "4"
         ],
-        "Note": "6.3v3"
+        "Note": "6.3v4"
     },
     {
         "_name": "Illuga",
@@ -72,7 +73,7 @@
         "Type": "Boy",
         "Weapon": "Pole",
         "Element": "Rock",
-        "Birthday": "1/1",
+        "Birthday": "12/23",
         "Icon": "UI_AvatarIcon_Illuga",
         "CommonMatt": 112124,
         "TalentMat": 2,
@@ -94,7 +95,7 @@
             "DEF": 870,
             "Custom": 96
         },
-        "Version": "6.3v3",
+        "Version": "6.3v4",
         "Fetter": 127,
         "_CV": {
             "_CH": "???",
@@ -116,7 +117,7 @@
         "Type": "Lady",
         "Weapon": "Sword",
         "Element": "Rock",
-        "Birthday": "1/1",
+        "Birthday": "5/15",
         "Icon": "UI_AvatarIcon_Zibai",
         "CommonMatt": 112127,
         "TalentMat": 3,
@@ -138,7 +139,7 @@
             "DEF": 1025,
             "Custom": 0.384
         },
-        "Version": "6.3v3",
+        "Version": "6.3v4",
         "Fetter": 126,
         "_CV": {
             "_CH": "???",
@@ -155,12 +156,12 @@
         "Title": "Welkin Moon's Homecoming",
         "Constellation": "???",
         "Nation": "???",
-        "Belong": "???",
+        "Belong": "Silvermoon Hall",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Catalyst",
         "Element": "Water",
-        "Birthday": "1/1",
+        "Birthday": "1/14",
         "Icon": "UI_AvatarIcon_Columbina",
         "CommonMatt": 112004,
         "TalentMat": 1,
@@ -182,7 +183,7 @@
             "DEF": 552,
             "Custom": 0.192
         },
-        "Version": "6.3v3",
+        "Version": "6.3v4",
         "Fetter": 125,
         "_CV": {
             "_CH": "???",

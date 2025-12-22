@@ -13295,7 +13295,7 @@
         "Name": "Hexadecatonic Battle-Hardened Mandragora",
         "Title": [
             "Driftvine Phylad",
-            "Nurtured Phylad"
+            "Hexadecatonic Mandragora"
         ],
         "Color": "Grass",
         "Desc": "",
@@ -13457,9 +13457,9 @@
     },
     "56001": {
         "_id": 56001,
-        "Name": "Hiljetta",
+        "Name": "Battle-Hardened Elite Treasure Hoarder",
         "Title": [
-            "Black-Barrel Hag"
+            "Seeker of Bygone Glories"
         ],
         "Desc": "",
         "HP": 13.26,
@@ -13542,11 +13542,11 @@
     },
     "22150106": {
         "_id": 22150106,
-        "Name": "Lord of the Hidden Depths: Whisperer of Nightmares - Ravager's Edge",
+        "Name": "Lord of the Hidden Depths: Whisperer of Nightmares — Ravager's Edge",
         "Title": [
             "Faceless, Boundless Overlord"
         ],
-        "Desc": "An Abyss creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, while its true body exists only as a formless mass of pure Abyssal energy.\nDriven by the turmoil of the chaotic Ley Lines, its frenzied, delirious whispers were honed into a cutting power aimed at rending the world's hard-won order...",
+        "Desc": "An Abyss creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, while its true body exists only as a formless mass of pure Abyssal energy.\nDriven by the turmoil of the chaotic Ley Lines, its frenzied, delirious whispers have been honed into a cutting edge aimed squarely at rending the world's hard-won order atwain...",
         "Color": "Elec",
         "HP": 431.90787,
         "HPCurve": 20,
@@ -13575,7 +13575,7 @@
             "Emperor of Fire and Iron",
             "Searing Tide Pulsing Beneath the Mountains"
         ],
-        "Desc": "One of the two sovereigns who once stood at the apex of the aberrant species of the Fontemer, and the subject of many a tale among sailors. Avoiding predation, it keeps hunting and eating and so continues to grow, constantly seeking out suitable shells to become its new armor.\nTwisted by the turbulence of the Ley Lines, its violent nature has grown so intense that it now rampages like a small army, lashing out at anything it notices — a crab-like calamity on the move...",
+        "Desc": "One of the two sovereigns who once stood at the apex of the aberrant species of the Fontemer, and the subject of many a tale among sailors. Avoiding predation, it keeps hunting and eating and so continues to grow, constantly seeking out suitable shells to become its new armor.\nTwisted by the turbulence of the Ley Lines, its violent nature has grown so intense that it now rampages like a small army, lashing out at everything it sees — a crab-shaped calamity crawling across the land...",
         "HP": 238.37927,
         "HPCurve": 20,
         "ATK": 7.0,

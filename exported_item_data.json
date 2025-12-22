@@ -41,7 +41,7 @@
         "Name": "Withered Remnant of the Nightmare Wing",
         "Desc": "A deep-black bone relic taken from the lingering corruption left behind after defeating the Whisperer of Nightmares that came invading from beyond this world.<br>The formless beast that soared through the starless void should never have required organs this world calls \"wings.\" Those grotesque, profane appendages may have arisen to adapt to the laws beneath the moon, or perhaps they are merely the distorted fragment of its true form that mortal eyes are able to witness.",
         "Src": [
-            "Dropped by Lv. 30+ Lord of the Hidden Depths: Whisperer of Nightmares"
+            "Dropped by Lv. 30+ Lords of the Hidden Depths: Whisperer of Nightmares"
         ],
         "Icon": "UI_ItemIcon_113084",
         "Type": "Character Level-Up Material"
@@ -957,7 +957,7 @@
         "Name": "Hooked Beak of the Deep Shadow",
         "Desc": "The remains of an angler from beyond this world, left after its body dissolved.<br>A birdlike, hook-shaped beak used by predators from beyond this world to store the biomass they seize.",
         "Src": [
-            "Dropped by Lv. 60+ Angler of Hidden Depths",
+            "Dropped by Lv. 60+ Anglers of Hidden Depths",
             "Stardust Exchange: Craft after exchanging",
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -970,7 +970,7 @@
         "Name": "Aberrant Core of the Deep Shadow",
         "Desc": "The remains of an angler from beyond this world, left after its body dissolved.<br>A core whose functions have fully shut down, and its structure resembles no organ of any creature found on this earth.",
         "Src": [
-            "Dropped by Lv. 40+ Angler of Hidden Depths",
+            "Dropped by Lv. 40+ Anglers of Hidden Depths",
             "Stardust Exchange",
             "Placeholder - Craftable Amount: {0}"
         ],
@@ -983,7 +983,7 @@
         "Name": "Fractured Eye of the Deep Shadow",
         "Desc": "The remains of an angler from beyond this world, left after its body dissolved.<br>Once its shell cracked, the malice housed within faded away as well.",
         "Src": [
-            "Dropped by Angler of Hidden Depths",
+            "Dropped by Anglers of Hidden Depths",
             "Stardust Exchange"
         ],
         "Icon": "UI_ItemIcon_112137",
@@ -4792,7 +4792,7 @@
         "_id": 101269,
         "R": 0,
         "Name": "Pine Amber",
-        "Desc": "A gem formed from the resin of the towering ancient trees that once blanketed Nod-Krai. Over ages, the resin hardened into crystalline amber, now shining with vivid, radiant hues.<br>Snezhnayan scholars believe that, before the pioneering age, vast primordial forests once stretched across Nod-Krai. The widespread traces of Pine Amber found today are considered strong evidence of these ancient woodlands. According to old tales, the ancestors of the Frostmoon Scions turned away from all crafts deemed civilized. Yet one question remains — how, then, did they bring forth the towering palaces and lofty spires that mark their legacy?",
+        "Desc": "A gem formed from the resin of the towering ancient trees that once blanketed Nod-Krai. Over the ages, the resin hardened into crystalline amber, which now shines with vivid, radiant hues.<br>Snezhnayan scholars believe that before the pioneering age, vast primordial forests once stretched across Nod-Krai. The widespread traces of Pine Amber found today are considered strong evidence of these ancient woodlands. According to tales, the ancestors of the Frostmoon Scions turned away from all crafts that could be deemed to be civilized. Though that begs the question — how did they bring forth the towering palaces and lofty spires that mark their legacy?",
         "Src": [
             "Go to collect",
             "Found in Dreadshade Mire",
@@ -4806,11 +4806,11 @@
         "_id": 101268,
         "R": 0,
         "Name": "Winter Icelea",
-        "Desc": "A hardy plant known for withstanding relentless wind and frost, it survives even in the coldest depths of winter.<br>According to the folklore of the Northern lands, these plants are said to be the loyal warriors of the King of Winter Holly. Though each blossom lasts only from dawn to dusk and is easily swept away by wind or rain, the leaves and roots cling stubbornly to life. And as long as those roots endure, new buds will continue to bloom in succession, carrying the plant through the long winter until spring finally returns.",
+        "Desc": "A hardy plant known for withstanding relentless wind and frost, it survives even in the coldest depths of winter.<br>According to the folklore of the northern lands, these plants are the loyal warriors of the King of Winter Holly. Though each blossom lasts only from dawn to dusk and is easily swept away by wind or rain, the leaves and roots cling stubbornly to life. As long as those roots endure, new buds will continue to bloom, carrying the plant through the long winter until spring finally returns.",
         "Src": [
             "Go to collect",
-            "Found in Pillar of Embla",
-            "Recommendation: Found near the Amsvartnir",
+            "Found at the Pillar of Embla",
+            "Recommendation: Found near Amsvartnir",
             "Grown in the Serenitea Pot"
         ],
         "Icon": "UI_ItemIcon_101266",
@@ -5812,7 +5812,7 @@
     {
         "_id": 210272,
         "R": 4,
-        "Name": "Travel Notes: Lanternlit",
+        "Name": "Travel Notes: Lanternlit Ode",
         "Desc": "Namecard Style.<br>Pray for me a bright moon, wish me a fair day. Clad in my spring cloak, I follow moonbeams' sway.",
         "Src": [
             "BP Reward"
@@ -5823,7 +5823,7 @@
     {
         "_id": 210271,
         "R": 4,
-        "Name": "Nod-Krai: Lantern of Long Nights",
+        "Name": "Nod-Krai: Lantern of Longest Night",
         "Desc": "Namecard Style.<br>In the blackest of nights, a lamp shall rise, tonight, and for a thousand nights beyond.",
         "Src": [
             "Reward for completing all achievements under \"Nod-Krai: An Elysium of Moonlight and Wanderings (II)\""
@@ -19732,7 +19732,7 @@
         "_id": 100250,
         "R": 1,
         "Name": "Arrow of Terpikeraunas",
-        "Desc": "",
+        "Desc": "Complete \"Nightingale's Song\" to unlock",
         "Src": [],
         "Pic": "UI_AvatarIcon_76101_Circle"
     },
