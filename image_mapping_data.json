@@ -1513,8 +1513,8 @@
             "Iron Chunk": 101001
         },
         "Namecards": {
-            "Travel Notes: Lanternlit": 210272,
-            "Nod-Krai: Lantern of Long Nights": 210271,
+            "Travel Notes: Lanternlit Ode": 210272,
+            "Nod-Krai: Lantern of Longest Night": 210271,
             "Achievement: Far-Sighted": 210270,
             "???": 210267,
             "Celebration: Dream Reader": 210266,
@@ -2367,7 +2367,7 @@
             "Battle-Hardened Fireblade Shock Trooper": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya",
             "Battle-Scarred Rock Crab": "UI_MonsterIcon_HermitCrab_Mature_Elite",
             "Hexadecatonic Battle-Hardened Mandragora": "UI_MonsterIcon_Mandragora_Elite",
-            "Hiljetta": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+            "Battle-Hardened Elite Treasure Hoarder": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
             "Battle-Hardened Radiant Glacial Wolf": "UI_MonsterIcon_Magbeast_Steppenwolf_02"
         },
         "Miscellaneous": {
@@ -2752,7 +2752,7 @@
             "Iniquitous Baptist: Resonant Wrath": "UI_MonsterIcon_Invoker_Archdeacon",
             "Battle-Hardened Iktomisaurus: Frostbound Resolve": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal",
             "Experimental Field Generator: Extreme Potential": "UI_MonsterIcon_MachinaIustitia_Gravitas",
-            "Lord of the Hidden Depths: Whisperer of Nightmares - Ravager's Edge": "UI_MonsterIcon_Lloigor_Primo",
+            "Lord of the Hidden Depths: Whisperer of Nightmares — Ravager's Edge": "UI_MonsterIcon_Lloigor_Primo",
             "Emperor of Fire and Iron: Ordained Conquest": "UI_MonsterIcon_HermitCrab_Primo"
         }
     }
