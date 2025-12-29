@@ -319,6 +319,88 @@
     "chronicled_banners": null,
     "events": [
         {
+            "id": 159,
+            "name": "Heroic Clash: Saurian Brawl",
+            "description": "Driven by the ambition to showcase their daring spirit, the warriors and their Saurian companions from every tribe yearn for spirited contests. Consequently, they stand ready to enter battle at any given moment.",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-01-07T03:59:59",
+            "end_timestamp": 1767729599,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2025-12-29T10:00:00",
+            "start_timestamp": 1766973600,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 420,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104355,
+                    "name": "Philosophies of Conflict",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2b6a25706537c4d0ce08ef97bdcec851.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6638"
+                },
+                {
+                    "id": 104352,
+                    "name": "Philosophies of Kindling",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c868bbcc972c249b2618303a118748f0.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6635"
+                },
+                {
+                    "id": 104349,
+                    "name": "Philosophies of Contention",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/639e76079428eed2caf8b495b248bb42.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6632"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ]
+        },
+        {
             "id": 154,
             "name": "Soulblazers' Snowbound Journey",
             "description": "From the invitation letter, you and Paimon learn that a unique event is being held in Mondstadt: The Dragonspine International Cross Country Challenge. The two of you decide to go back and look in on the competition...",
@@ -642,24 +724,6 @@
             "name": "Marvelous Merchandise",
             "description": "",
             "type": "ActTypeLiBen",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 159,
-            "name": "Heroic Clash: Saurian Brawl",
-            "description": "Driven by the ambition to showcase their daring spirit, the warriors and their Saurian companions from every tribe yearn for spirited contests. Consequently, they stand ready to enter battle at any given moment.",
-            "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
             "end_time": null,
