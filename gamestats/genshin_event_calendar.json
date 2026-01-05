@@ -319,6 +319,124 @@
     "chronicled_banners": null,
     "events": [
         {
+            "id": 152,
+            "name": "Marvelous Merchandise",
+            "description": "",
+            "type": "ActTypeLiBen",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-01-12T03:59:59",
+            "end_timestamp": 1768161599,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-01-05T10:00:00",
+            "start_timestamp": 1767578400,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 380,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                },
+                {
+                    "id": 114073,
+                    "name": "Artful Device Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/9a489820394571851e7d98308af11c67.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8591"
+                },
+                {
+                    "id": 114077,
+                    "name": "Ember of Long Night Flint",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/4c8b983a7a3e4e16e28c0268502e0f1d.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8595"
+                },
+                {
+                    "id": 114081,
+                    "name": "Sundered Glory of the Far-North Scions",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/67eb6c5127dd8a416ba7df4fcdd8cdf0.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8599"
+                },
+                {
+                    "id": 104362,
+                    "name": "Teachings of Vagrancy",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/e75a9ebad1820befc0313c4a27a6e7f0.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8588"
+                },
+                {
+                    "id": 104359,
+                    "name": "Teachings of Elysium",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/8d9f3bb4f92b033ba8f47686b61a056c.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8585"
+                },
+                {
+                    "id": 104356,
+                    "name": "Teachings of Moonlight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/e9a1f0ea9a567c50a4c9620c71561d84.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8582"
+                },
+                {
+                    "id": 104012,
+                    "name": "Fine Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/48b91babbffc33c1836ce6c00cfe2ee0.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1326"
+                }
+            ]
+        },
+        {
             "id": 159,
             "name": "Heroic Clash: Saurian Brawl",
             "description": "Driven by the ambition to showcase their daring spirit, the warriors and their Saurian companions from every tribe yearn for spirited contests. Consequently, they stand ready to enter battle at any given moment.",
@@ -500,24 +618,6 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
                 }
             ]
-        },
-        {
-            "id": 152,
-            "name": "Marvelous Merchandise",
-            "description": "",
-            "type": "ActTypeLiBen",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
         }
     ],
     "weapon_banners": [
