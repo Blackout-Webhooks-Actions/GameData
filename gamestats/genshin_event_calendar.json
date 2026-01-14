@@ -228,22 +228,140 @@
             }
         }
     ],
-    "character_banners": null,
+    "character_banners": [
+        {
+            "id": 107,
+            "name": "Character Event Wish",
+            "type": 1,
+            "end_time": "2026-02-03T17:59:00",
+            "end_timestamp": 1770112740,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-01-14T07:00:00",
+            "start_timestamp": 1768345200,
+            "version": "6.3",
+            "characters": [
+                {
+                    "id": 10000125,
+                    "name": "Columbina",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/3e648c232fb84bea351096c3f2129489.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000097,
+                    "name": "Sethos",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/62ddf4187c2aea2dda21813b9d90f27f.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000031,
+                    "name": "Fischl",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/207a0e35e0637a2bcb0a28fdfa61f7a4.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000113,
+                    "name": "Ifa",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/0b3127bb721214a48b20001c64ab727a.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        },
+        {
+            "id": 108,
+            "name": "Character Event Wish 2",
+            "type": 1,
+            "end_time": "2026-02-03T17:59:00",
+            "end_timestamp": 1770112740,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-01-14T07:00:00",
+            "start_timestamp": 1768345200,
+            "version": "6.3",
+            "characters": [
+                {
+                    "id": 10000116,
+                    "name": "Ineffa",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/f1723762f28902659f73902bbbda1fd6.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000097,
+                    "name": "Sethos",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/62ddf4187c2aea2dda21813b9d90f27f.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000031,
+                    "name": "Fischl",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/207a0e35e0637a2bcb0a28fdfa61f7a4.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000113,
+                    "name": "Ifa",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/0b3127bb721214a48b20001c64ab727a.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        }
+    ],
     "chronicled_banners": null,
     "events": [
         {
-            "id": 162,
-            "name": "The Forge Realm's Temper: Game of Wits",
+            "id": 198,
+            "name": "The Lament of the Cliff-Shadowed Hollow",
+            "description": "Climb the tower that stands unbroken from the pioneering age. Gaze upon the time-worn wilds — as the first Ratniki once did — and the mountains that have endured the passing years.\nThe blood of bygone battles remains, and a quiet tale continues to resonate among the ruined walls of the lakeside palace. As old enemies regroup beneath the dark, leaden clouds, the restless north wind carries the marching songs of war once more.",
+            "type": "ActTypeExplore",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-04-07T14:59:59",
+            "end_timestamp": 1775545199,
+            "is_finished": null,
+            "start_time": "2026-01-14T07:00:00",
+            "start_timestamp": 1768345200,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 400,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                }
+            ],
+            "exploration_detail": {
+                "explored_percentage": 11.0,
+                "is_finished": null
+            }
+        },
+        {
+            "id": 186,
+            "name": "The Forge Realm's Temper: Clever Stratagems",
             "description": "",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-01-14T07:00:00",
-            "end_timestamp": 1768345200,
+            "end_time": "2026-02-25T07:00:00",
+            "end_timestamp": 1771974000,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2025-12-03T07:00:00",
-            "start_timestamp": 1764716400,
+            "start_time": "2026-01-14T07:00:00",
+            "start_timestamp": 1768345200,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -258,7 +376,201 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
                 }
             ]
+        },
+        {
+            "id": 187,
+            "name": "May Fortune Find You: Spring's Premonition",
+            "description": "",
+            "type": "ActTypeSignIn",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 182,
+            "name": "Moonlit Patrol Exercise",
+            "description": "Edler of the Maison Gardiennage has traveled to Nod-Krai, hoping to draw on the region's unique traits to refine her wargame. However, while out in the wilderness, she found herself waylaid by an unexpected encounter...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 183,
+            "name": "A Lanternlit Ode to the Silver Moon",
+            "description": "As the Lantern Rite comes around once more, you and Paimon return to a bustling Liyue Harbor...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 184,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 181,
+            "name": "Shutterflash Memory Hunt",
+            "description": "A new Kamera is ready for field testing, but its timid operator requires a bit of help... And so the mantle of Teyvat's Special Guest Photographer falls once more across your shoulders. Travel across the land, visit old friends, and capture the moments that show off who they are!",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 200,
+            "name": "Ley Line Overflow",
+            "description": "",
+            "type": "ActTypeDouble",
+            "abyss_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null,
+            "double_reward_detail": {
+                "remaining": 3,
+                "total": 3
+            }
+        },
+        {
+            "id": 185,
+            "name": "Heated Battle Mode: Automatic Artistry",
+            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
         }
     ],
-    "weapon_banners": null
+    "weapon_banners": [
+        {
+            "id": 110,
+            "name": "Weapon Event Wish",
+            "type": 2,
+            "end_time": "2026-02-03T17:59:00",
+            "end_timestamp": 1770112740,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-01-14T07:00:00",
+            "start_timestamp": 1768345200,
+            "version": "6.3",
+            "characters": null,
+            "weapons": [
+                {
+                    "id": 14522,
+                    "name": "Nocturne's Curtain Call",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/045d1721aca8d78c25b640867cdb4171.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/9250"
+                },
+                {
+                    "id": 13515,
+                    "name": "Fractured Halo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/9d23036ecf61183797246cf410765956.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8299"
+                },
+                {
+                    "id": 13430,
+                    "name": "Mountain-Bracing Bolt",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27f9739cc6d08a99e6d902f1f9895903.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7031"
+                },
+                {
+                    "id": 14430,
+                    "name": "Waveriding Whirl",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bfae38e15e0405f03aa28fdc7b101820.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7114"
+                },
+                {
+                    "id": 15412,
+                    "name": "Mitternachts Waltz",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/425d13a6970fbdb3802304349b4f7de3.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1965"
+                },
+                {
+                    "id": 11402,
+                    "name": "The Flute",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e72bdcaaeb4b0a1ea13cfb76c88aa4cb.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2007"
+                },
+                {
+                    "id": 12403,
+                    "name": "Sacrificial Greatsword",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b79312ddc86e05133b8a8d984f9931e1.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2004"
+                }
+            ]
+        }
+    ]
 }
