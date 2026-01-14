@@ -5197,6 +5197,12 @@
                     "endDate": "2025-08-19",
                     "version": "5.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-01-14",
+                    "endDate": "2026-02-03",
+                    "version": "6.3",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5939,6 +5945,12 @@
                     "endDate": "2025-09-09",
                     "version": "5.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-01-14",
+                    "endDate": "2026-02-03",
+                    "version": "6.3",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6058,6 +6070,12 @@
                     "startDate": "2025-07-30",
                     "endDate": "2025-08-19",
                     "version": "5.8",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2026-01-14",
+                    "endDate": "2026-02-03",
+                    "version": "6.3",
                     "wishType": "event"
                 }
             ],
@@ -6541,6 +6559,12 @@
                     "endDate": "2025-08-19",
                     "version": "5.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-01-14",
+                    "endDate": "2026-02-03",
+                    "version": "6.3",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6861,11 +6885,10 @@
             "description": "???",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2026-01-14",
+                    "endDate": "2026-02-03",
                     "version": "6.3",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
