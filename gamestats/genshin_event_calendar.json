@@ -81,8 +81,8 @@
                 }
             ],
             "abyss_detail": {
-                "has_data": null,
-                "max_star": null,
+                "has_data": true,
+                "max_star": 35,
                 "total_star": 36,
                 "unlocked": true
             }
@@ -581,7 +581,7 @@
                 }
             ],
             "exploration_detail": {
-                "explored_percentage": 39.0,
+                "explored_percentage": 46.0,
                 "is_finished": null
             }
         },
