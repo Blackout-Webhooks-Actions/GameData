@@ -9,7 +9,7 @@
             "end_time": "2026-02-16T03:59:59",
             "end_timestamp": 1771185599,
             "exploration_detail": null,
-            "is_finished": null,
+            "is_finished": true,
             "start_time": "2026-01-16T04:00:00",
             "start_timestamp": 1768507200,
             "status": 2,
@@ -82,7 +82,7 @@
             ],
             "abyss_detail": {
                 "has_data": true,
-                "max_star": 35,
+                "max_star": 36,
                 "total_star": 36,
                 "unlocked": true
             }
@@ -318,61 +318,6 @@
     ],
     "chronicled_banners": null,
     "events": [
-        {
-            "id": 187,
-            "name": "May Fortune Find You: Spring's Premonition",
-            "description": "",
-            "type": "ActTypeSignIn",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-02-03T03:59:59",
-            "end_timestamp": 1770062399,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-01-16T04:00:00",
-            "start_timestamp": 1768507200,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 223,
-                    "name": "Intertwined Fate",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ef01e359ae9a48fc8da02e0a9e94e0a8.png",
-                    "num": 10,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1332"
-                },
-                {
-                    "id": 105006,
-                    "name": "Dust of Enlightenment",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/fab4da768f6f2f23f065ccd7ac1efce5.png",
-                    "num": 1,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7794"
-                },
-                {
-                    "id": 104003,
-                    "name": "Hero's Wit",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
-                },
-                {
-                    "id": 202,
-                    "name": "Mora",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                }
-            ]
-        },
         {
             "id": 184,
             "name": "Stygian Onslaught",
@@ -683,6 +628,61 @@
                     "num": 8000,
                     "rarity": 3,
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
+                }
+            ]
+        },
+        {
+            "id": 187,
+            "name": "May Fortune Find You: Spring's Premonition",
+            "description": "",
+            "type": "ActTypeSignIn",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-02-03T03:59:59",
+            "end_timestamp": 1770062399,
+            "exploration_detail": null,
+            "is_finished": true,
+            "start_time": "2026-01-16T04:00:00",
+            "start_timestamp": 1768507200,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 223,
+                    "name": "Intertwined Fate",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ef01e359ae9a48fc8da02e0a9e94e0a8.png",
+                    "num": 10,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1332"
+                },
+                {
+                    "id": 105006,
+                    "name": "Dust of Enlightenment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/fab4da768f6f2f23f065ccd7ac1efce5.png",
+                    "num": 1,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7794"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
                 }
             ]
         },
