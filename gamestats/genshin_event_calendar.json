@@ -319,6 +319,277 @@
     "chronicled_banners": null,
     "events": [
         {
+            "id": 183,
+            "name": "A Lanternlit Ode to the Silver Moon",
+            "description": "As the Lantern Rite comes around once more, you and Paimon return to a bustling Liyue Harbor...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-02-23T03:59:59",
+            "end_timestamp": 1771790399,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-01-30T10:00:00",
+            "start_timestamp": 1769738400,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 1000,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 0,
+                    "name": "Outfit",
+                    "homepage_show": null,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/12/27/d4ece0037c07fb8c5cb3d12a6706a664_329038158635823779.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 0,
+                    "name": "Characters",
+                    "homepage_show": null,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/12/27/38c54279882f4a679eb608074d87bf90_2005834610169435341.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 200007,
+                    "name": "Xiao Lantern Flight Manual",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/c2bcc8c2743830dc2316f6759e02832e.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 200006,
+                    "name": "Gift Xiao Lantern",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/83e5c2cc2ee1276df0a809f7f61e0ad0.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 200005,
+                    "name": "Celebratory Xiao Lantern",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/0c97eecf49fc390d87d94d6f5007709e.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 121427,
+                    "name": "Lantern Rite Gift: Gift of Radiant Night",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/92bfceacae72d348494485a261adf00c.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 121432,
+                    "name": "Lantern Rite Gift: Gift of Guiding Moonlight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/f4ef75fcc77513a95eea80a059669ff2.png",
+                    "num": 1,
+                    "rarity": 3,
+                    "wiki_url": null
+                },
+                {
+                    "id": 121431,
+                    "name": "Lantern Rite Gift: Gift of Venerable Virtue",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/f4ef75fcc77513a95eea80a059669ff2.png",
+                    "num": 1,
+                    "rarity": 3,
+                    "wiki_url": null
+                },
+                {
+                    "id": 121430,
+                    "name": "Lantern Rite Gift: Gift of Joyous Wishes",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/f4ef75fcc77513a95eea80a059669ff2.png",
+                    "num": 1,
+                    "rarity": 3,
+                    "wiki_url": null
+                },
+                {
+                    "id": 121429,
+                    "name": "Lantern Rite Gift: Gift of Distant Longing",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/f4ef75fcc77513a95eea80a059669ff2.png",
+                    "num": 1,
+                    "rarity": 3,
+                    "wiki_url": null
+                },
+                {
+                    "id": 121428,
+                    "name": "Lantern Rite Gift: Gift of Seeking Light",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/f4ef75fcc77513a95eea80a059669ff2.png",
+                    "num": 1,
+                    "rarity": 3,
+                    "wiki_url": null
+                },
+                {
+                    "id": 200008,
+                    "name": "Moon Lights the Sky, Spring Blossoms High",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9f031b90ccf4f9c71b2aaa671a131f61.png",
+                    "num": 1,
+                    "rarity": 3,
+                    "wiki_url": null
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 104317,
+                    "name": "Guide to Gold",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/adc1a137ba5d53be88fe82694d41a186.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/199"
+                },
+                {
+                    "id": 104314,
+                    "name": "Guide to Diligence",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cb09b286ac18ddc4bc4ab485507faa35.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/75"
+                },
+                {
+                    "id": 104311,
+                    "name": "Guide to Prosperity",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/73613a4898e66464acf88b537b42c396.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/151"
+                },
+                {
+                    "id": 104172,
+                    "name": "Prithiva Topaz Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0949ad6d7c3e8f3bd577b30f5f2aa283.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/446"
+                },
+                {
+                    "id": 104162,
+                    "name": "Shivada Jade Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8b6ce7f096e294231cef28326cb6683.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/410"
+                },
+                {
+                    "id": 104152,
+                    "name": "Vayuda Turquoise Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c3c8fe02bd7778a9e9e2befc1835c51c.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1495"
+                },
+                {
+                    "id": 104142,
+                    "name": "Vajrada Amethyst Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aed02c6795884973a597c86d2507f5b2.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/904"
+                },
+                {
+                    "id": 104132,
+                    "name": "Nagadus Emerald Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/464d55a8e7a90bd94e6cdce783805959.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2678"
+                },
+                {
+                    "id": 104122,
+                    "name": "Varunada Lazurite Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fc3a89a644e48b89bc5464dff55039af.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1036"
+                },
+                {
+                    "id": 104112,
+                    "name": "Agnidus Agate Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b53db4ba6c9a4840e7b844f46703fd21.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1099"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 104002,
+                    "name": "Adventurer's Experience",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3190775877db6975feb2aefdff7ef963.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/303"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ]
+        },
+        {
             "id": 184,
             "name": "Stygian Onslaught",
             "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
@@ -509,24 +780,6 @@
             "id": 182,
             "name": "Moonlit Patrol Exercise",
             "description": "Edler of the Maison Gardiennage has traveled to Nod-Krai, hoping to draw on the region's unique traits to refine her wargame. However, while out in the wilderness, she found herself waylaid by an unexpected encounter...",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 183,
-            "name": "A Lanternlit Ode to the Silver Moon",
-            "description": "As the Lantern Rite comes around once more, you and Paimon return to a bustling Liyue Harbor...",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
