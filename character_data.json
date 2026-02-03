@@ -2889,6 +2889,12 @@
                     "endDate": "2025-03-04",
                     "version": "5.4",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-02-03",
+                    "endDate": "2026-02-24",
+                    "version": "6.3",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4665,6 +4671,12 @@
                     "endDate": "2024-12-31",
                     "version": "5.2",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-02-03",
+                    "endDate": "2026-02-24",
+                    "version": "6.3",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6197,6 +6209,12 @@
                     "endDate": "2025-10-21",
                     "version": "6.0",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-02-03",
+                    "endDate": "2026-02-24",
+                    "version": "6.3",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6925,11 +6943,10 @@
             "description": "???",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2026-02-03",
+                    "endDate": "2026-02-24",
                     "version": "6.3",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6966,11 +6983,10 @@
             "description": "???",
             "reruns": [
                 {
-                    "banner": "upcoming",
+                    "startDate": "2026-02-03",
+                    "endDate": "2026-02-24",
                     "version": "6.3",
-                    "phase": "upcoming",
-                    "wishType": "event",
-                    "info": "official"
+                    "wishType": "event"
                 }
             ],
             "materials": [
