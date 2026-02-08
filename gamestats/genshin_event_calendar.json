@@ -689,8 +689,8 @@
                 }
             ],
             "exploration_detail": {
-                "explored_percentage": 51.0,
-                "is_finished": null
+                "explored_percentage": 93.0,
+                "is_finished": true
             }
         },
         {
