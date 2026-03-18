@@ -230,7 +230,7 @@
     ],
     "character_banners": [
         {
-            "id": 119,
+            "id": 120,
             "name": "Character Event Wish",
             "type": 1,
             "end_time": "2026-04-07T14:59:59",
@@ -242,10 +242,10 @@
             "version": "6.4",
             "characters": [
                 {
-                    "id": 10000112,
-                    "name": "Escoffier",
+                    "id": 10000114,
+                    "name": "Skirk",
                     "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/6c4f7f722b0226a1171ec265485de61c.png",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/b3007bcbb99dd9b47af558ecc1bb65ff.png",
                     "rarity": 5
                 },
                 {
@@ -273,7 +273,7 @@
             "weapons": null
         },
         {
-            "id": 120,
+            "id": 119,
             "name": "Character Event Wish 2",
             "type": 1,
             "end_time": "2026-04-07T14:59:59",
@@ -285,10 +285,10 @@
             "version": "6.4",
             "characters": [
                 {
-                    "id": 10000114,
-                    "name": "Skirk",
+                    "id": 10000112,
+                    "name": "Escoffier",
                     "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/b3007bcbb99dd9b47af558ecc1bb65ff.png",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/6c4f7f722b0226a1171ec265485de61c.png",
                     "rarity": 5
                 },
                 {
