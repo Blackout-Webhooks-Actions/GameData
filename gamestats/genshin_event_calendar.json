@@ -483,32 +483,25 @@
             ]
         },
         {
-            "id": 211,
-            "name": "Heated Battle Mode: Tactical Formation",
-            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nYou and your opponent will use Character Cards selected on the spot and randomly generated Action Cards to battle.",
-            "type": "ActTypeOther",
+            "id": 204,
+            "name": "Overflowing Abundance",
+            "description": "",
+            "type": "ActTypeDouble",
             "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-03-30T03:59:59",
-            "end_timestamp": 1774814399,
+            "end_time": "2026-04-06T03:59:59",
+            "end_timestamp": 1775419199,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-03-14T10:00:00",
-            "start_timestamp": 1773453600,
+            "start_time": "2026-03-30T04:00:00",
+            "start_timestamp": 1774814400,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 107021,
-                    "name": "Lucky Coin",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
-                    "num": 3000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
-                }
-            ]
+            "rewards": null,
+            "double_reward_detail": {
+                "remaining": 3,
+                "total": 3
+            }
         },
         {
             "id": 212,
@@ -567,27 +560,6 @@
             "exploration_detail": {
                 "explored_percentage": 100.0,
                 "is_finished": true
-            }
-        },
-        {
-            "id": 204,
-            "name": "Overflowing Abundance",
-            "description": "",
-            "type": "ActTypeDouble",
-            "abyss_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null,
-            "double_reward_detail": {
-                "remaining": 3,
-                "total": 3
             }
         }
     ],
