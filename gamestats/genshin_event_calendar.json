@@ -392,27 +392,6 @@
             ]
         },
         {
-            "id": 204,
-            "name": "Overflowing Abundance",
-            "description": "",
-            "type": "ActTypeDouble",
-            "abyss_detail": null,
-            "end_time": "2026-04-06T03:59:59",
-            "end_timestamp": 1775419199,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-03-30T04:00:00",
-            "start_timestamp": 1774814400,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null,
-            "double_reward_detail": {
-                "remaining": 3,
-                "total": 3
-            }
-        },
-        {
             "id": 212,
             "name": "The Forge Realm's Temper: Endless Swarm",
             "description": "",
