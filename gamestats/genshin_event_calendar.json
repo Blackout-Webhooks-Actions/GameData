@@ -228,22 +228,140 @@
             }
         }
     ],
-    "character_banners": null,
+    "character_banners": [
+        {
+            "id": 129,
+            "name": "Character Event Wish",
+            "type": 1,
+            "end_time": "2026-04-28T17:59:00",
+            "end_timestamp": 1777370340,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
+            "version": "6.5",
+            "characters": [
+                {
+                    "id": 10000130,
+                    "name": "Linnea",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/69d58c7d/d1c44e49e1fcfdf9474ba6c2d2c9369d.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000127,
+                    "name": "Illuga",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/64666707baedabc3e6a7d80738d24730.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000121,
+                    "name": "Aino",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000034,
+                    "name": "Noelle",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1eb5023b8ca517a5fe27316b3771a191.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        },
+        {
+            "id": 130,
+            "name": "Character Event Wish 2",
+            "type": 1,
+            "end_time": "2026-04-28T17:59:00",
+            "end_timestamp": 1777370340,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
+            "version": "6.5",
+            "characters": [
+                {
+                    "id": 10000104,
+                    "name": "Chasca",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c009627a0c0289646a10d41779001b9d.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000127,
+                    "name": "Illuga",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/64666707baedabc3e6a7d80738d24730.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000121,
+                    "name": "Aino",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000034,
+                    "name": "Noelle",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1eb5023b8ca517a5fe27316b3771a191.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        }
+    ],
     "chronicled_banners": null,
     "events": [
         {
-            "id": 212,
-            "name": "The Forge Realm's Temper: Endless Swarm",
+            "id": 225,
+            "name": "The Stilled Interstice of a Thousand Winds",
+            "description": "The gentle sea breeze carries the scent of fine wine through the bustling port.\nYet there are places that even the ever-present wind cannot reach, or rather, it chooses not to.\nShould one choose to follow a secluded path to the tranquil mountain sanatorium, what might await — peaceful rest, or an adventure beyond mortal imagination?",
+            "type": "ActTypeExplore",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-06-30T14:59:59",
+            "end_timestamp": 1782802799,
+            "is_finished": null,
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 400,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                }
+            ],
+            "exploration_detail": {
+                "explored_percentage": null,
+                "is_finished": null
+            }
+        },
+        {
+            "id": 220,
+            "name": "The Forge Realm's Temper: Game of Wits",
             "description": "",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-04-08T07:00:00",
-            "end_timestamp": 1775602800,
+            "end_time": "2026-05-20T07:00:00",
+            "end_timestamp": 1779231600,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-02-25T07:00:00",
-            "start_timestamp": 1771974000,
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -258,7 +376,183 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
                 }
             ]
+        },
+        {
+            "id": 224,
+            "name": "Rapid Capture",
+            "description": "One day, you and Paimon seem to hear someone arguing near the Fountain of Lucine...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 219,
+            "name": "Where Waves Meet the Reef",
+            "description": "You and Paimon receive a letter from the Curatorium of Secrets. Nefer seems to have a commission that only you can handle...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 222,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 223,
+            "name": "Surveying & Mapping Studies",
+            "description": "For the purpose of exchanging surveying and mapping experience and making progress together, Mika from the Reconnaissance Company is working with excellent knights from other squads to conduct an interesting surveying and mapping exercise...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 218,
+            "name": "Ley Line Overflow",
+            "description": "",
+            "type": "ActTypeDouble",
+            "abyss_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null,
+            "double_reward_detail": {
+                "remaining": 3,
+                "total": 3
+            }
+        },
+        {
+            "id": 221,
+            "name": "Heated Battle Mode: Automatic Artistry",
+            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
         }
     ],
-    "weapon_banners": null
+    "weapon_banners": [
+        {
+            "id": 131,
+            "name": "Weapon Event Wish",
+            "type": 2,
+            "end_time": "2026-04-28T17:59:00",
+            "end_timestamp": 1777370340,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
+            "version": "6.5",
+            "characters": null,
+            "weapons": [
+                {
+                    "id": 15516,
+                    "name": "Golden Frostbound Oath",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/69d58c7d/f2f6618938b4163623b68daf1b165fe0.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/10547"
+                },
+                {
+                    "id": 15514,
+                    "name": "Astral Vulture's Crimson Plumage",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/afac47d999995ce3577c7034ff277c44.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7116"
+                },
+                {
+                    "id": 13401,
+                    "name": "Dragon's Bane",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1940"
+                },
+                {
+                    "id": 12403,
+                    "name": "Sacrificial Greatsword",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b79312ddc86e05133b8a8d984f9931e1.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2004"
+                },
+                {
+                    "id": 14409,
+                    "name": "Eye of Perception",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/811ff594eebe6cc05f12e02662803239.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1980"
+                },
+                {
+                    "id": 15430,
+                    "name": "Flower-Wreathed Feathers",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/03b273f10d0633aedb370051950e91fd.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7115"
+                },
+                {
+                    "id": 11405,
+                    "name": "Lion's Roar",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/85dbd526e5a6d0f20af4d0253be63ac0.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1941"
+                }
+            ]
+        }
+    ]
 }
