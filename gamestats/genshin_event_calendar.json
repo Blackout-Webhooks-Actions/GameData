@@ -2,17 +2,104 @@
     "challenges": [
         {
             "id": 0,
+            "name": "Abyssal Moon Spire",
+            "description": "",
+            "type": "ActTypeTower",
+            "double_reward_detail": null,
+            "end_time": "2026-05-16T03:59:59",
+            "end_timestamp": 1778875199,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-04-16T04:00:00",
+            "start_timestamp": 1776283200,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 800,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 117027,
+                    "name": "Domain Reliquary: Tier I",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8ee2288648c40774aa87b3e90455b79b.png",
+                    "num": 4,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5670"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": 24,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 117026,
+                    "name": "Domain Reliquary: Tier II",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a961b5577eafc005d199f1d2f0b595d7.png",
+                    "num": 8,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5671"
+                },
+                {
+                    "id": 104002,
+                    "name": "Adventurer's Experience",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3190775877db6975feb2aefdff7ef963.png",
+                    "num": 42,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/303"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": 72,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": 585000,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ],
+            "abyss_detail": {
+                "has_data": true,
+                "max_star": 9,
+                "total_star": 36,
+                "unlocked": true
+            }
+        },
+        {
+            "id": 0,
             "name": "Imaginarium Theater",
             "description": "",
             "type": "ActTypeRoleCombat",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-04-01T03:59:59",
-            "end_timestamp": 1774987199,
+            "end_time": "2026-05-01T03:59:59",
+            "end_timestamp": 1777579199,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-03-01T04:00:00",
-            "start_timestamp": 1772308800,
+            "start_time": "2026-04-01T04:00:00",
+            "start_timestamp": 1774987200,
             "status": 2,
             "strategy": null,
             "rewards": [
@@ -139,327 +226,111 @@
                 "max_round": null,
                 "unlocked": true
             }
-        },
-        {
-            "id": 0,
-            "name": "Abyssal Moon Spire",
-            "description": "",
-            "type": "ActTypeTower",
-            "double_reward_detail": null,
-            "end_time": "2026-03-16T03:59:59",
-            "end_timestamp": 1773604799,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-02-16T04:00:00",
-            "start_timestamp": 1771185600,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 201,
-                    "name": "Primogem",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 800,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
-                },
-                {
-                    "id": 117027,
-                    "name": "Domain Reliquary: Tier I",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8ee2288648c40774aa87b3e90455b79b.png",
-                    "num": 4,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5670"
-                },
-                {
-                    "id": 104003,
-                    "name": "Hero's Wit",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
-                    "num": 24,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
-                },
-                {
-                    "id": 117026,
-                    "name": "Domain Reliquary: Tier II",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a961b5577eafc005d199f1d2f0b595d7.png",
-                    "num": 8,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5671"
-                },
-                {
-                    "id": 104002,
-                    "name": "Adventurer's Experience",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3190775877db6975feb2aefdff7ef963.png",
-                    "num": 42,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/303"
-                },
-                {
-                    "id": 104013,
-                    "name": "Mystic Enhancement Ore",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
-                    "num": 72,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
-                },
-                {
-                    "id": 202,
-                    "name": "Mora",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
-                    "num": 585000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                }
-            ],
-            "abyss_detail": {
-                "has_data": true,
-                "max_star": 29,
-                "total_star": 36,
-                "unlocked": true
-            }
         }
     ],
     "character_banners": [
         {
-            "id": 116,
+            "id": 129,
             "name": "Character Event Wish",
             "type": 1,
-            "end_time": "2026-03-17T17:59:00",
-            "end_timestamp": 1773741540,
+            "end_time": "2026-04-28T17:59:00",
+            "end_timestamp": 1777370340,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-02-25T07:00:00",
-            "start_timestamp": 1771974000,
-            "version": "6.4",
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
+            "version": "6.5",
             "characters": [
                 {
-                    "id": 10000128,
-                    "name": "Varka",
-                    "element": "Anemo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/bd2ad505d700cc342095d8ddd49d0c7b.png",
+                    "id": 10000130,
+                    "name": "Linnea",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/69d58c7d/d1c44e49e1fcfdf9474ba6c2d2c9369d.png",
                     "rarity": 5
                 },
                 {
-                    "id": 10000032,
-                    "name": "Bennett",
-                    "element": "Pyro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/41a97aae8bf579ce350a90bbddc59fdf.png",
+                    "id": 10000127,
+                    "name": "Illuga",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/64666707baedabc3e6a7d80738d24730.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000023,
-                    "name": "Xiangling",
-                    "element": "Pyro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png",
+                    "id": 10000121,
+                    "name": "Aino",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000043,
-                    "name": "Sucrose",
-                    "element": "Anemo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27ee1aba588f3e8e42800249fe1047e8.png",
+                    "id": 10000034,
+                    "name": "Noelle",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1eb5023b8ca517a5fe27316b3771a191.png",
                     "rarity": 4
                 }
             ],
             "weapons": null
         },
         {
-            "id": 117,
+            "id": 130,
             "name": "Character Event Wish 2",
             "type": 1,
-            "end_time": "2026-03-17T17:59:00",
-            "end_timestamp": 1773741540,
+            "end_time": "2026-04-28T17:59:00",
+            "end_timestamp": 1777370340,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-02-25T07:00:00",
-            "start_timestamp": 1771974000,
-            "version": "6.4",
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
+            "version": "6.5",
             "characters": [
                 {
-                    "id": 10000120,
-                    "name": "Flins",
-                    "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/6aae9f16cbe14ac60dd6eb2956e4acf2.png",
+                    "id": 10000104,
+                    "name": "Chasca",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c009627a0c0289646a10d41779001b9d.png",
                     "rarity": 5
                 },
                 {
-                    "id": 10000032,
-                    "name": "Bennett",
-                    "element": "Pyro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/41a97aae8bf579ce350a90bbddc59fdf.png",
+                    "id": 10000127,
+                    "name": "Illuga",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/64666707baedabc3e6a7d80738d24730.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000023,
-                    "name": "Xiangling",
-                    "element": "Pyro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png",
+                    "id": 10000121,
+                    "name": "Aino",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000043,
-                    "name": "Sucrose",
-                    "element": "Anemo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27ee1aba588f3e8e42800249fe1047e8.png",
+                    "id": 10000034,
+                    "name": "Noelle",
+                    "element": "Geo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1eb5023b8ca517a5fe27316b3771a191.png",
                     "rarity": 4
                 }
             ],
             "weapons": null
         }
     ],
-    "chronicled_banners": [
-        {
-            "id": 118,
-            "name": "Chronicled Wish",
-            "type": 3,
-            "end_time": "2026-03-17T17:59:00",
-            "end_timestamp": 1773741540,
-            "jump_url": null,
-            "pool_status": 2,
-            "start_time": "2026-02-25T07:00:00",
-            "start_timestamp": 1771974000,
-            "version": "6.4",
-            "characters": [
-                {
-                    "id": 10000051,
-                    "name": "Eula",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4ea05e98ca62e2d3c7de83ea6bcf641b.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000041,
-                    "name": "Mona",
-                    "element": "Hydro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/e73c8896a2a5e52cfaa8847daaee53b8.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000029,
-                    "name": "Klee",
-                    "element": "Pyro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/54f52fb2be4b82fdbde390db0fce89ea.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000016,
-                    "name": "Diluc",
-                    "element": "Pyro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/929d6645727e400b3a294b559e36a03f.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000003,
-                    "name": "Jean",
-                    "element": "Anemo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/eabf3af20320ed8dc3fed73ab11148cc.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000038,
-                    "name": "Albedo",
-                    "element": "Geo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/1ed38170d66966f44b6e48f0f26605b1.png",
-                    "rarity": 5
-                }
-            ],
-            "weapons": [
-                {
-                    "id": 11502,
-                    "name": "Skyward Blade",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ecb922197e45697d9edde75af4b8df93.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1954"
-                },
-                {
-                    "id": 11501,
-                    "name": "Aquila Favonia",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2e40de313b0b488549fde96e553e7fcf.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2046"
-                },
-                {
-                    "id": 12503,
-                    "name": "Song of Broken Pines",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/13a14bc2183b1a33041042b77ac4b640.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1986"
-                },
-                {
-                    "id": 12502,
-                    "name": "Wolf's Gravestone",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/45c64eb0f4dfffe24ab9e993616f02c6.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1992"
-                },
-                {
-                    "id": 15501,
-                    "name": "Skyward Harp",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/504e181be5a8ba069b7249a3f7cf978d.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1956"
-                },
-                {
-                    "id": 12501,
-                    "name": "Skyward Pride",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e53f3ec6e717e1430f991aedf5a33e0a.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1953"
-                },
-                {
-                    "id": 13502,
-                    "name": "Skyward Spine",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/32df7904999ca5913e0501847a6f57b0.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1957"
-                },
-                {
-                    "id": 14501,
-                    "name": "Skyward Atlas",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d3f398d9ee417e931b1e273242dd8008.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1955"
-                },
-                {
-                    "id": 14502,
-                    "name": "Lost Prayer to the Sacred Winds",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/856b4ea453095a88e8cbb3f438d3fa83.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1951"
-                },
-                {
-                    "id": 15503,
-                    "name": "Elegy for the End",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e9555699ff95fac410422d9dfd7e631a.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2008"
-                }
-            ]
-        }
-    ],
+    "chronicled_banners": null,
     "events": [
         {
-            "id": 205,
-            "name": "Homeward, He Who Caught the Wind",
-            "description": "One day, you and Paimon suddenly receive an invitation from the Knights of Favonius. And so, you return to Mondstadt to take part in a welcome ceremony that feels both familiar and just a little different...",
-            "type": "ActTypeOther",
+            "id": 222,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-03-16T03:59:59",
-            "end_timestamp": 1773604799,
+            "end_time": "2026-05-19T03:59:59",
+            "end_timestamp": 1779134399,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-02-27T10:00:00",
-            "start_timestamp": 1772157600,
+            "start_time": "2026-04-15T10:00:00",
+            "start_timestamp": 1776218400,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -469,45 +340,36 @@
                     "name": "Primogem",
                     "homepage_show": true,
                     "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 960,
+                    "num": 450,
                     "rarity": 5,
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
                 },
                 {
-                    "id": 104319,
-                    "name": "Crown of Insight",
+                    "id": 341002,
+                    "name": "Radiant Phantasm: Sublimation",
                     "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bf059be872ce72f035e3df38da065e89.png",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/ad486c0d6c53f70894a762f883d18f4d.png",
                     "num": 1,
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/900"
-                },
-                {
-                    "id": 220128,
-                    "name": "Spotter Kamera",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d4ea92d9d861df36406ed05a4cdc1070.png",
-                    "num": 1,
-                    "rarity": 4,
                     "wiki_url": null
                 },
                 {
-                    "id": 341801,
-                    "name": "Phantasmal Gift: Star Omen",
+                    "id": 105006,
+                    "name": "Dust of Enlightenment",
                     "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/e5730155cb9648c693f9a58d612f1095.png",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/fab4da768f6f2f23f065ccd7ac1efce5.png",
+                    "num": 3,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7794"
+                },
+                {
+                    "id": 341001,
+                    "name": "Radiant Phantasm",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/63f43673861c8fc25221d717fb8752d6.png",
                     "num": 1,
                     "rarity": 4,
                     "wiki_url": null
-                },
-                {
-                    "id": 105003,
-                    "name": "Sanctifying Essence",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/072e0e7314f48321b34d056a6a1d8ef6.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1262"
                 },
                 {
                     "id": 104003,
@@ -519,141 +381,6 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
                 },
                 {
-                    "id": 114011,
-                    "name": "Shackles of the Dandelion Gladiator",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/57a8ef64d3f3e2adf30b8e2dfb3a05d0.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1162"
-                },
-                {
-                    "id": 114007,
-                    "name": "Boreal Wolf's Broken Fang",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f14c5738ff699c60315789e9e239902.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/326"
-                },
-                {
-                    "id": 114003,
-                    "name": "Fragment of Decarabian's Epic",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9b57d2a0d3134be18942cc67b2af0caf.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1877"
-                },
-                {
-                    "id": 104309,
-                    "name": "Philosophies of Ballad",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c93c7484a9dd83dcba29cdf2e4397a72.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/177"
-                },
-                {
-                    "id": 104306,
-                    "name": "Philosophies of Resistance",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6562e5becc490be4ac3ce33f54f12f17.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/109"
-                },
-                {
-                    "id": 104303,
-                    "name": "Philosophies of Freedom",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/59b8cdcbbfe31d4c7dc59b6f57145ad3.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/162"
-                },
-                {
-                    "id": 121505,
-                    "name": "Dodoco's Enchanted Candy",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/b947d5e98f3991257a8ed7796da9d279.png",
-                    "num": 1,
-                    "rarity": 3,
-                    "wiki_url": null
-                },
-                {
-                    "id": 114010,
-                    "name": "Chains of the Dandelion Gladiator",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f3e846a5f038d08875b29371158e8d91.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1161"
-                },
-                {
-                    "id": 114006,
-                    "name": "Boreal Wolf's Cracked Tooth",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/624d5c967df200b79762c91169c597e1.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/327"
-                },
-                {
-                    "id": 114002,
-                    "name": "Debris of Decarabian's City",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5172b1535e43034659198d7837d9f9ed.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1878"
-                },
-                {
-                    "id": 105002,
-                    "name": "Sanctifying Unction",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
-                },
-                {
-                    "id": 104308,
-                    "name": "Guide to Ballad",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0ea447b6a746617d607b06e68000b78f.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/178"
-                },
-                {
-                    "id": 104305,
-                    "name": "Guide to Resistance",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c7675c9f8f2332fa9599abe76479a8f6.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/110"
-                },
-                {
-                    "id": 104302,
-                    "name": "Guide to Freedom",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e4369698f353e3056b84bd2445de944c.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/163"
-                },
-                {
-                    "id": 104013,
-                    "name": "Mystic Enhancement Ore",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
-                },
-                {
                     "id": 202,
                     "name": "Mora",
                     "homepage_show": null,
@@ -661,31 +388,53 @@
                     "num": null,
                     "rarity": 3,
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                },
-                {
-                    "id": 0,
-                    "name": "Furnishing",
-                    "homepage_show": null,
-                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
-                    "num": 6,
-                    "rarity": 1,
-                    "wiki_url": null
                 }
             ]
         },
         {
-            "id": 212,
-            "name": "The Forge Realm's Temper: Endless Swarm",
+            "id": 225,
+            "name": "The Stilled Interstice of a Thousand Winds",
+            "description": "The gentle sea breeze carries the scent of fine wine through the bustling port.\nYet there are places that even the ever-present wind cannot reach, or rather, it chooses not to.\nShould one choose to follow a secluded path to the tranquil mountain sanatorium, what might await — peaceful rest, or an adventure beyond mortal imagination?",
+            "type": "ActTypeExplore",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-06-30T14:59:59",
+            "end_timestamp": 1782802799,
+            "is_finished": null,
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 400,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                }
+            ],
+            "exploration_detail": {
+                "explored_percentage": null,
+                "is_finished": null
+            }
+        },
+        {
+            "id": 220,
+            "name": "The Forge Realm's Temper: Game of Wits",
             "description": "",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-04-08T07:00:00",
-            "end_timestamp": 1775602800,
+            "end_time": "2026-05-20T07:00:00",
+            "end_timestamp": 1779231600,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-02-25T07:00:00",
-            "start_timestamp": 1771974000,
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -702,17 +451,18 @@
             ]
         },
         {
-            "id": 198,
-            "name": "The Lament of the Cliff-Shadowed Hollow",
-            "description": "Climb the tower that stands unbroken from the pioneering age. Gaze upon the time-worn wilds — as the first Ratniki once did — and the mountains that have endured the passing years.\nThe blood of bygone battles remains, and a quiet tale continues to resonate among the ruined walls of the lakeside palace. As old enemies regroup beneath the dark, leaden clouds, the restless north wind carries the marching songs of war once more.",
-            "type": "ActTypeExplore",
+            "id": 223,
+            "name": "Surveying & Mapping Studies",
+            "description": "For the purpose of exchanging surveying and mapping experience and making progress together, Mika from the Reconnaissance Company is working with excellent knights from other squads to conduct an interesting surveying and mapping exercise...",
+            "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-04-07T14:59:59",
-            "end_timestamp": 1775545199,
+            "end_time": "2026-04-20T03:59:59",
+            "end_timestamp": 1776628799,
+            "exploration_detail": null,
             "is_finished": true,
-            "start_time": "2026-01-14T07:00:00",
-            "start_timestamp": 1768345200,
+            "start_time": "2026-04-10T10:00:00",
+            "start_timestamp": 1775786400,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -722,20 +472,124 @@
                     "name": "Primogem",
                     "homepage_show": true,
                     "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 400,
+                    "num": 420,
                     "rarity": 5,
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 114022,
+                    "name": "Piece of Aerosiderite",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/06de4aafce2e55bf43efc901d3dd3184.png",
+                    "num": 3,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1070"
+                },
+                {
+                    "id": 114018,
+                    "name": "Mist Veiled Mercury Elixir",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8620714389460aa9005d8a3886f34ac.png",
+                    "num": 3,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1722"
+                },
+                {
+                    "id": 114014,
+                    "name": "Lustrous Stone from Guyun",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cee6333dfc7e05acd748c8cb8a3c765c.png",
+                    "num": 3,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/617"
+                },
+                {
+                    "id": 114010,
+                    "name": "Chains of the Dandelion Gladiator",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f3e846a5f038d08875b29371158e8d91.png",
+                    "num": 3,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1161"
+                },
+                {
+                    "id": 114006,
+                    "name": "Boreal Wolf's Cracked Tooth",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/624d5c967df200b79762c91169c597e1.png",
+                    "num": 3,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/327"
+                },
+                {
+                    "id": 114002,
+                    "name": "Debris of Decarabian's City",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5172b1535e43034659198d7837d9f9ed.png",
+                    "num": 3,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1878"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 104002,
+                    "name": "Adventurer's Experience",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3190775877db6975feb2aefdff7ef963.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/303"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                },
+                {
+                    "id": 0,
+                    "name": "Furnishing",
+                    "homepage_show": null,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
+                    "num": 3,
+                    "rarity": 1,
+                    "wiki_url": null
                 }
-            ],
-            "exploration_detail": {
-                "explored_percentage": 100.0,
-                "is_finished": true
-            }
+            ]
         },
         {
-            "id": 209,
-            "name": "Operation Stronghold Defense",
-            "description": "In Nod-Krai, you encounter a messenger named Blue Bolt, who seems to be testing a certain mechanical defense unit...",
+            "id": 224,
+            "name": "Rapid Capture",
+            "description": "One day, you and Paimon seem to hear someone arguing near the Fountain of Lucine...",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
@@ -751,9 +605,9 @@
             "rewards": null
         },
         {
-            "id": 206,
-            "name": "Sightseeing With Friends",
-            "description": "The two of you run into several familiar faces at Bayda Harbor in Sumeru. And so, a rather special sightseeing journey begins...",
+            "id": 219,
+            "name": "Where Waves Meet the Reef",
+            "description": "You and Paimon receive a letter from the Curatorium of Secrets. Nefer seems to have a commission that only you can handle...",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
@@ -769,26 +623,8 @@
             "rewards": null
         },
         {
-            "id": 210,
-            "name": "Stygian Onslaught",
-            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
-            "type": "ActTypeHardChallenge",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 204,
-            "name": "Overflowing Abundance",
+            "id": 218,
+            "name": "Ley Line Overflow",
             "description": "",
             "type": "ActTypeDouble",
             "abyss_detail": null,
@@ -808,9 +644,9 @@
             }
         },
         {
-            "id": 211,
-            "name": "Heated Battle Mode: Tactical Formation",
-            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nYou and your opponent will use Character Cards selected on the spot and randomly generated Action Cards to battle.",
+            "id": 221,
+            "name": "Heated Battle Mode: Automatic Artistry",
+            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
@@ -828,66 +664,66 @@
     ],
     "weapon_banners": [
         {
-            "id": 121,
+            "id": 131,
             "name": "Weapon Event Wish",
             "type": 2,
-            "end_time": "2026-03-17T17:59:00",
-            "end_timestamp": 1773741540,
+            "end_time": "2026-04-28T17:59:00",
+            "end_timestamp": 1777370340,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-02-25T07:00:00",
-            "start_timestamp": 1771974000,
-            "version": "6.4",
+            "start_time": "2026-04-08T07:00:00",
+            "start_timestamp": 1775602800,
+            "version": "6.5",
             "characters": null,
             "weapons": [
                 {
-                    "id": 12515,
-                    "name": "Gest of the Mighty Wolf",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3ccb453e2177597f059193e5c6e50735.png",
+                    "id": 15516,
+                    "name": "Golden Frostbound Oath",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/69d58c7d/f2f6618938b4163623b68daf1b165fe0.png",
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/9456"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/10547"
                 },
                 {
-                    "id": 13516,
-                    "name": "Bloodsoaked Ruins",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/51a4244e38d1011926a21f25942e78c6.png",
+                    "id": 15514,
+                    "name": "Astral Vulture's Crimson Plumage",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/afac47d999995ce3577c7034ff277c44.png",
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8838"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7116"
                 },
                 {
-                    "id": 13434,
-                    "name": "Sacrificer's Staff",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68f81e8b/c8d9e50b48a7a69f8f90b6d2e566d5dc.png",
+                    "id": 13401,
+                    "name": "Dragon's Bane",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8989"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1940"
                 },
                 {
-                    "id": 11401,
-                    "name": "Favonius Sword",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png",
+                    "id": 12403,
+                    "name": "Sacrificial Greatsword",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b79312ddc86e05133b8a8d984f9931e1.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2017"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2004"
                 },
                 {
-                    "id": 12401,
-                    "name": "Favonius Greatsword",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7646388f158d62d56f368631a37427c3.png",
+                    "id": 14409,
+                    "name": "Eye of Perception",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/811ff594eebe6cc05f12e02662803239.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2018"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1980"
                 },
                 {
-                    "id": 14403,
-                    "name": "Sacrificial Fragments",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/807ae55311a3a8382194a656e214e7b1.png",
+                    "id": 15430,
+                    "name": "Flower-Wreathed Feathers",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/03b273f10d0633aedb370051950e91fd.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2006"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7115"
                 },
                 {
-                    "id": 15403,
-                    "name": "Sacrificial Bow",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4a03625fdbc739dca379573871a4c2ca.png",
+                    "id": 11405,
+                    "name": "Lion's Roar",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/85dbd526e5a6d0f20af4d0253be63ac0.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2005"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1941"
                 }
             ]
         }
