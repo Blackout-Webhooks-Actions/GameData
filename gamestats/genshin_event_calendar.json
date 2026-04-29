@@ -749,7 +749,7 @@
                 }
             ],
             "exploration_detail": {
-                "explored_percentage": 2.0,
+                "explored_percentage": 4.0,
                 "is_finished": null
             }
         },
