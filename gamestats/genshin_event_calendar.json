@@ -228,53 +228,109 @@
             }
         }
     ],
-    "character_banners": null,
+    "character_banners": [
+        {
+            "id": 170,
+            "name": "Character Event Wish",
+            "type": 1,
+            "end_time": "2026-06-09T17:59:00",
+            "end_timestamp": 1780999140,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-05-20T07:00:00",
+            "start_timestamp": 1779231600,
+            "version": "6.6",
+            "characters": [
+                {
+                    "id": 10000131,
+                    "name": "Nicole",
+                    "element": "Pyro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/233e3baf9bd2c030a49b46c31173da9e.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000132,
+                    "name": "Prune",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/e1a65f12e336519381e38a4068d537d3.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000020,
+                    "name": "Razor",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a8a2c7373dcc8f2549b645d0c3374b7.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000031,
+                    "name": "Fischl",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/207a0e35e0637a2bcb0a28fdfa61f7a4.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        },
+        {
+            "id": 171,
+            "name": "Character Event Wish 2",
+            "type": 1,
+            "end_time": "2026-06-09T17:59:00",
+            "end_timestamp": 1780999140,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-05-20T07:00:00",
+            "start_timestamp": 1779231600,
+            "version": "6.6",
+            "characters": [
+                {
+                    "id": 10000123,
+                    "name": "Durin",
+                    "element": "Pyro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/2e43dacd8259a9fc447b3a314a354642.png",
+                    "rarity": 5
+                },
+                {
+                    "id": 10000132,
+                    "name": "Prune",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/e1a65f12e336519381e38a4068d537d3.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000020,
+                    "name": "Razor",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a8a2c7373dcc8f2549b645d0c3374b7.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000031,
+                    "name": "Fischl",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/207a0e35e0637a2bcb0a28fdfa61f7a4.png",
+                    "rarity": 4
+                }
+            ],
+            "weapons": null
+        }
+    ],
     "chronicled_banners": null,
     "events": [
         {
-            "id": 225,
-            "name": "The Stilled Interstice of a Thousand Winds",
-            "description": "The gentle sea breeze carries the scent of fine wine through the bustling port.\nYet there are places that even the ever-present wind cannot reach, or rather, it chooses not to.\nShould one choose to follow a secluded path to the tranquil mountain sanatorium, what might await — peaceful rest, or an adventure beyond mortal imagination?",
-            "type": "ActTypeExplore",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-06-30T14:59:59",
-            "end_timestamp": 1782802799,
-            "is_finished": null,
-            "start_time": "2026-04-08T07:00:00",
-            "start_timestamp": 1775602800,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 201,
-                    "name": "Primogem",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 400,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
-                }
-            ],
-            "exploration_detail": {
-                "explored_percentage": 73.0,
-                "is_finished": null
-            }
-        },
-        {
-            "id": 220,
-            "name": "The Forge Realm's Temper: Game of Wits",
+            "id": 318,
+            "name": "The Forge Realm's Temper: Clever Stratagems",
             "description": "",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-05-20T07:00:00",
-            "end_timestamp": 1779231600,
+            "end_time": "2026-07-01T07:00:00",
+            "end_timestamp": 1782860400,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-04-08T07:00:00",
-            "start_timestamp": 1775602800,
+            "start_time": "2026-05-20T07:00:00",
+            "start_timestamp": 1779231600,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -289,7 +345,162 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
                 }
             ]
+        },
+        {
+            "id": 316,
+            "name": "Kaleidoscopic Color Chase",
+            "description": "You return to the Easybreeze Holiday Resort, where you run into an old friend together with some rather special Ashas...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 315,
+            "name": "Trials of the Brave Warrior",
+            "description": "A group of expert fighters has gathered in Nod-Krai's Nasha Town to compete for the crown of the \"Technical Martial Challenge.\" While the competition is locked in a stalemate, the arrival of you and Paimon could be the key to deciding a winner...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 314,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 313,
+            "name": "Phantasmal Pals",
+            "description": "While heading to Aisa Bathhouse to relax, you meet a peculiar child in Chinju Forest, setting the stage for another whimsical adventure...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 317,
+            "name": "Heated Battle Mode: Sprinting Stratagems",
+            "description": "At The Cat's Tail, entertaining events are held regularly, and each event will adopt a special set of Heated Battle Mode rules.\nThe rules this time are as follows:\n1. You and your opponent will use Character Cards selected on the spot and randomly generated Action Cards to battle.\n2. During the Roll phase, you will not roll Elemental Dice but instead will receive 4 Omni Dice and 4 different random Elemental Dice.\n3. Once each round, playing an Action Card will cost 2 fewer Elemental Dice.\n4. Switching Character Cards is always a Fast Action.",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
         }
     ],
-    "weapon_banners": null
+    "weapon_banners": [
+        {
+            "id": 172,
+            "name": "Weapon Event Wish",
+            "type": 2,
+            "end_time": "2026-06-09T17:59:00",
+            "end_timestamp": 1780999140,
+            "jump_url": null,
+            "pool_status": 2,
+            "start_time": "2026-05-20T07:00:00",
+            "start_timestamp": 1779231600,
+            "version": "6.6",
+            "characters": null,
+            "weapons": [
+                {
+                    "id": 14523,
+                    "name": "Angelos' Heptades",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/8bc74e76d3888a46a6279ba1a765978b.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/10757"
+                },
+                {
+                    "id": 11518,
+                    "name": "Athame Artis",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/9708b5d495021c4c5472f1615be537e0.png",
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/9045"
+                },
+                {
+                    "id": 11434,
+                    "name": "Moonweaver's Dawn",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/22a2b4dd7289c7085f7cb13e8a41c069.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8512"
+                },
+                {
+                    "id": 15412,
+                    "name": "Mitternachts Waltz",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/425d13a6970fbdb3802304349b4f7de3.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1965"
+                },
+                {
+                    "id": 12402,
+                    "name": "The Bell",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f9ca521e414f63dfe24876b91cc139.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2033"
+                },
+                {
+                    "id": 13401,
+                    "name": "Dragon's Bane",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1940"
+                },
+                {
+                    "id": 14402,
+                    "name": "The Widsith",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/22d2b64c9fd0ab81ef934c8387f72d0c.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1991"
+                }
+            ]
+        }
+    ]
 }
