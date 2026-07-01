@@ -838,6 +838,12 @@
                     "endDate": "2025-05-06",
                     "version": "5.5",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -1356,6 +1362,12 @@
                     "endDate": "2025-02-11",
                     "version": "5.3",
                     "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -1754,6 +1766,12 @@
                     "endDate": "2026-03-17",
                     "version": "6.4",
                     "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -3289,6 +3307,12 @@
                     "endDate": "2025-06-17",
                     "version": "5.6",
                     "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -3858,6 +3882,12 @@
                     "startDate": "2025-09-10",
                     "endDate": "2025-09-30",
                     "version": "6.0",
+                    "wishType": "chronicled"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
                     "wishType": "chronicled"
                 }
             ],
@@ -4783,6 +4813,12 @@
                     "endDate": "2024-05-14",
                     "version": "4.6",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -4829,6 +4865,12 @@
                     "endDate": "2025-03-25",
                     "version": "5.4",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
@@ -5945,6 +5987,12 @@
                     "endDate": "2025-08-19",
                     "version": "5.8",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -6031,6 +6079,12 @@
                     "endDate": "2025-03-04",
                     "version": "5.4",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-01",
+                    "endDate": "2026-07-21",
+                    "version": "6.7",
+                    "wishType": "chronicled"
                 }
             ],
             "materials": [
