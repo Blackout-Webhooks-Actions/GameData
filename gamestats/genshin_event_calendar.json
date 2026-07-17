@@ -406,6 +406,97 @@
     ],
     "events": [
         {
+            "id": 334,
+            "name": "Final Long-Range Sightlines",
+            "description": "Warriors from across Teyvat continue to exchange techniques and refine their tactics together. Recently, skilled shooters from the Knights of Favonius, Fontaine's Maison Gardiennage, and Natlan's Flower-Feather Clan assembled at Lumidouce Harbor for a distinctive joint exercise...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-07-27T03:59:59",
+            "end_timestamp": 1785095999,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-07-17T10:00:00",
+            "start_timestamp": 1784253600,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 420,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 114050,
+                    "name": "Chapter of an Ancient Chord",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2a61c0d889d542f08344a75e2080a2ff.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4032"
+                },
+                {
+                    "id": 114054,
+                    "name": "Sublimation of Pure Sacred Dewdrop",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4d6f548fa61668caee2506d5c0599d2c.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4036"
+                },
+                {
+                    "id": 114058,
+                    "name": "Wine Goblet of the Pristine Sea",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/922e44c9ae6ab60a0aeaed63d1eca249.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4027"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                },
+                {
+                    "id": 0,
+                    "name": "Furnishing",
+                    "homepage_show": null,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
+                    "num": 1,
+                    "rarity": 1,
+                    "wiki_url": null
+                }
+            ]
+        },
+        {
             "id": 333,
             "name": "Stygian Onslaught",
             "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
@@ -763,24 +854,6 @@
             "id": 335,
             "name": "Dance Dance Easy-Breezy Disco",
             "description": "A courier comes bearing good news — another party is about to kick off at Easybreeze Holiday Resort! This time, unexpected new guests will join the rhythmic ensemble and dance joyfully with us!",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 334,
-            "name": "Final Long-Range Sightlines",
-            "description": "Warriors from across Teyvat continue to exchange techniques and refine their tactics together. Recently, skilled shooters from the Knights of Favonius, Fontaine's Maison Gardiennage, and Natlan's Flower-Feather Clan assembled at Lumidouce Harbor for a distinctive joint exercise...",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
