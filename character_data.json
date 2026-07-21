@@ -2696,6 +2696,12 @@
                     "endDate": "2025-06-17",
                     "version": "5.6",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-21",
+                    "endDate": "2026-08-11",
+                    "version": "6.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5491,6 +5497,12 @@
                     "endDate": "2026-02-03",
                     "version": "6.3",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-21",
+                    "endDate": "2026-08-11",
+                    "version": "6.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -5888,6 +5900,12 @@
                     "startDate": "2025-08-19",
                     "endDate": "2025-09-09",
                     "version": "5.8",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-21",
+                    "endDate": "2026-08-11",
+                    "version": "6.7",
                     "wishType": "event"
                 }
             ],
@@ -7293,6 +7311,12 @@
                     "endDate": "2026-05-19",
                     "version": "6.5",
                     "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-21",
+                    "endDate": "2026-08-11",
+                    "version": "6.7",
+                    "wishType": "event"
                 }
             ],
             "materials": [
@@ -7332,6 +7356,12 @@
                     "startDate": "2026-01-14",
                     "endDate": "2026-02-03",
                     "version": "6.3",
+                    "wishType": "event"
+                },
+                {
+                    "startDate": "2026-07-21",
+                    "endDate": "2026-08-11",
+                    "version": "6.7",
                     "wishType": "event"
                 }
             ],
