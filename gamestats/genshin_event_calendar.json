@@ -230,180 +230,93 @@
     ],
     "character_banners": [
         {
-            "id": 194,
+            "id": 198,
             "name": "Character Event Wish",
             "type": 1,
-            "end_time": "2026-07-21T17:59:00",
-            "end_timestamp": 1784627940,
+            "end_time": "2026-08-11T14:59:59",
+            "end_timestamp": 1786431599,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-07-01T07:00:00",
-            "start_timestamp": 1782860400,
+            "start_time": "2026-07-21T18:00:00",
+            "start_timestamp": 1784628000,
             "version": "6.7",
             "characters": [
                 {
-                    "id": 10000133,
-                    "name": "Sandrone",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a44588e/417922ce01627959571b3355b9f462ac.png",
+                    "id": 10000125,
+                    "name": "Columbina",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/3e648c232fb84bea351096c3f2129489.png",
                     "rarity": 5
                 },
                 {
-                    "id": 10000024,
-                    "name": "Beidou",
+                    "id": 10000124,
+                    "name": "Jahoda",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/8ce70ee6c41e48a78bdb1a17be8b554e.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000105,
+                    "name": "Ororon",
                     "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bc2903d1a46616c871d5108d033a463d.png",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/64a90c55b4bb72cf06068f3d82dbc8da.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000039,
-                    "name": "Diona",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3de7b18fbecffbb57a73fe5032d24950.png",
-                    "rarity": 4
-                },
-                {
-                    "id": 10000085,
-                    "name": "Freminet",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/34ef1ba51a4893d9df4be717e56891ae.png",
+                    "id": 10000097,
+                    "name": "Sethos",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/62ddf4187c2aea2dda21813b9d90f27f.png",
                     "rarity": 4
                 }
             ],
             "weapons": null
         },
         {
-            "id": 195,
+            "id": 199,
             "name": "Character Event Wish 2",
             "type": 1,
-            "end_time": "2026-07-21T17:59:00",
-            "end_timestamp": 1784627940,
+            "end_time": "2026-08-11T14:59:59",
+            "end_timestamp": 1786431599,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-07-01T07:00:00",
-            "start_timestamp": 1782860400,
+            "start_time": "2026-07-21T18:00:00",
+            "start_timestamp": 1784628000,
             "version": "6.7",
             "characters": [
                 {
-                    "id": 10000107,
-                    "name": "Citlali",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/abe2da348abe64c67d9c2763d2d8c4e7.png",
+                    "id": 10000052,
+                    "name": "Raiden Shogun",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/23aa979c8e86b7006a62039b9dd81c5b.png",
                     "rarity": 5
                 },
                 {
-                    "id": 10000024,
-                    "name": "Beidou",
+                    "id": 10000124,
+                    "name": "Jahoda",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/8ce70ee6c41e48a78bdb1a17be8b554e.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000105,
+                    "name": "Ororon",
                     "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bc2903d1a46616c871d5108d033a463d.png",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/64a90c55b4bb72cf06068f3d82dbc8da.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000039,
-                    "name": "Diona",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3de7b18fbecffbb57a73fe5032d24950.png",
-                    "rarity": 4
-                },
-                {
-                    "id": 10000085,
-                    "name": "Freminet",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/34ef1ba51a4893d9df4be717e56891ae.png",
+                    "id": 10000097,
+                    "name": "Sethos",
+                    "element": "Electro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/62ddf4187c2aea2dda21813b9d90f27f.png",
                     "rarity": 4
                 }
             ],
             "weapons": null
         }
     ],
-    "chronicled_banners": [
-        {
-            "id": 197,
-            "name": "Chronicled Wish / Lightrace Wish",
-            "type": 3,
-            "end_time": "2026-07-21T17:59:00",
-            "end_timestamp": 1784627940,
-            "jump_url": null,
-            "pool_status": 2,
-            "start_time": "2026-07-01T07:00:00",
-            "start_timestamp": 1782860400,
-            "version": "6.7",
-            "characters": [
-                {
-                    "id": 10000109,
-                    "name": "Yumemizuki Mizuki",
-                    "element": "Anemo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1cebf43ac944ad3ff2a0581bebe309d8.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000086,
-                    "name": "Wriothesley",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7786cf3f9620456f6d14a226dfdcca67.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000071,
-                    "name": "Cyno",
-                    "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8eb1a5cca01c9e988581067a31e8b1d6.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000058,
-                    "name": "Yae Miko",
-                    "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/54f9f46e282f81dc06c45d2783e0206a.png",
-                    "rarity": 5
-                },
-                {
-                    "id": 10000035,
-                    "name": "Qiqi",
-                    "element": "Cryo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2825ff5127afc078dd1bd3e1b2e39996.png",
-                    "rarity": 5
-                }
-            ],
-            "weapons": [
-                {
-                    "id": 14518,
-                    "name": "Sunny Morning Sleep-In",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fa7fc655e5c1bab724c7893ec3f58d91.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7434"
-                },
-                {
-                    "id": 14513,
-                    "name": "Cashflow Supervision",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f540cf493ce73c0b3afa3bc32940bfa0.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4340"
-                },
-                {
-                    "id": 14509,
-                    "name": "Kagura's Verity",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5df4b80100a07922792ac85362ee6af8.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2001"
-                },
-                {
-                    "id": 11502,
-                    "name": "Skyward Blade",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ecb922197e45697d9edde75af4b8df93.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1954"
-                },
-                {
-                    "id": 13511,
-                    "name": "Staff of the Scarlet Sands",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0045e2a1f5eb25cabe20db8c79b3cfd6.png",
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2849"
-                }
-            ]
-        }
-    ],
+    "chronicled_banners": null,
     "events": [
         {
             "id": 334,
@@ -920,66 +833,66 @@
     ],
     "weapon_banners": [
         {
-            "id": 196,
+            "id": 200,
             "name": "Weapon Event Wish",
             "type": 2,
-            "end_time": "2026-07-21T17:59:00",
-            "end_timestamp": 1784627940,
+            "end_time": "2026-08-11T14:59:59",
+            "end_timestamp": 1786431599,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-07-01T07:00:00",
-            "start_timestamp": 1782860400,
+            "start_time": "2026-07-21T18:00:00",
+            "start_timestamp": 1784628000,
             "version": "6.7",
             "characters": null,
             "weapons": [
                 {
-                    "id": 12516,
-                    "name": "A Teaspoon of Transcendence",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a44588e/0ce22fa824865975f716bc620a24a0d8.png",
+                    "id": 14522,
+                    "name": "Nocturne's Curtain Call",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/045d1721aca8d78c25b640867cdb4171.png",
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/10949"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/9250"
                 },
                 {
-                    "id": 14517,
-                    "name": "Starcaller's Watch",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dbf7751578357bde53f9b563aee72250.png",
+                    "id": 13509,
+                    "name": "Engulfing Lightning",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/481772ac498bbc4a9b61c694144096e5.png",
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7366"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2014"
                 },
                 {
-                    "id": 11401,
-                    "name": "Favonius Sword",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png",
+                    "id": 14430,
+                    "name": "Waveriding Whirl",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bfae38e15e0405f03aa28fdc7b101820.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2017"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7114"
                 },
                 {
-                    "id": 12405,
-                    "name": "Rainslasher",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
+                    "id": 11403,
+                    "name": "Sacrificial Sword",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8d40dcb0e8e25ad6c5940095fa6984ab.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2042"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2003"
                 },
                 {
-                    "id": 13401,
-                    "name": "Dragon's Bane",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+                    "id": 12402,
+                    "name": "The Bell",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f9ca521e414f63dfe24876b91cc139.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1940"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2033"
                 },
                 {
-                    "id": 14403,
-                    "name": "Sacrificial Fragments",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/807ae55311a3a8382194a656e214e7b1.png",
+                    "id": 15401,
+                    "name": "Favonius Warbow",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f0b8edcc330cd9de1dcf97eccb20cbaf.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2006"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2019"
                 },
                 {
-                    "id": 15403,
-                    "name": "Sacrificial Bow",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4a03625fdbc739dca379573871a4c2ca.png",
+                    "id": 13407,
+                    "name": "Favonius Lance",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7db45b7a84bb80468aaf0f5f430e9bdc.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2005"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2021"
                 }
             ]
         }
