@@ -392,6 +392,153 @@
             ]
         },
         {
+            "id": 336,
+            "name": "Heated Battle Mode: Automatic Artistry",
+            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-08-03T03:59:59",
+            "end_timestamp": 1785700799,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-07-18T10:00:00",
+            "start_timestamp": 1784340000,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 107021,
+                    "name": "Lucky Coin",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
+                    "num": 3000,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
+                }
+            ]
+        },
+        {
+            "id": 337,
+            "name": "The Forge Realm's Temper: Endless Swarm",
+            "description": "",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-08-12T07:00:00",
+            "end_timestamp": 1786489200,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-07-01T07:00:00",
+            "start_timestamp": 1782860400,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 107021,
+                    "name": "Lucky Coin",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
+                    "num": 8000,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
+                }
+            ]
+        },
+        {
+            "id": 334,
+            "name": "Final Long-Range Sightlines",
+            "description": "Warriors from across Teyvat continue to exchange techniques and refine their tactics together. Recently, skilled shooters from the Knights of Favonius, Fontaine's Maison Gardiennage, and Natlan's Flower-Feather Clan assembled at Lumidouce Harbor for a distinctive joint exercise...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-07-27T03:59:59",
+            "end_timestamp": 1785095999,
+            "exploration_detail": null,
+            "is_finished": true,
+            "start_time": "2026-07-17T10:00:00",
+            "start_timestamp": 1784253600,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 420,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 114050,
+                    "name": "Chapter of an Ancient Chord",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2a61c0d889d542f08344a75e2080a2ff.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4032"
+                },
+                {
+                    "id": 114054,
+                    "name": "Sublimation of Pure Sacred Dewdrop",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4d6f548fa61668caee2506d5c0599d2c.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4036"
+                },
+                {
+                    "id": 114058,
+                    "name": "Wine Goblet of the Pristine Sea",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/922e44c9ae6ab60a0aeaed63d1eca249.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4027"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                },
+                {
+                    "id": 0,
+                    "name": "Furnishing",
+                    "homepage_show": null,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
+                    "num": 1,
+                    "rarity": 1,
+                    "wiki_url": null
+                }
+            ]
+        },
+        {
             "id": 339,
             "name": "Sunny Summer Fontinalia",
             "description": "The Fontinalia Film Festival is here, and all kinds of wonderful films are being prepared with great excitement! Let's follow the summer breeze back to Fontaine and take a look. Who knows? We might even run into some old friends there!",
@@ -401,7 +548,7 @@
             "end_time": "2026-08-11T03:59:59",
             "end_timestamp": 1786391999,
             "exploration_detail": null,
-            "is_finished": null,
+            "is_finished": true,
             "start_time": "2026-06-30T10:00:00",
             "start_timestamp": 1782784800,
             "status": 2,
@@ -639,153 +786,6 @@
                     "homepage_show": null,
                     "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
                     "num": null,
-                    "rarity": 1,
-                    "wiki_url": null
-                }
-            ]
-        },
-        {
-            "id": 336,
-            "name": "Heated Battle Mode: Automatic Artistry",
-            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-08-03T03:59:59",
-            "end_timestamp": 1785700799,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-07-18T10:00:00",
-            "start_timestamp": 1784340000,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 107021,
-                    "name": "Lucky Coin",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
-                    "num": 3000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
-                }
-            ]
-        },
-        {
-            "id": 337,
-            "name": "The Forge Realm's Temper: Endless Swarm",
-            "description": "",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-08-12T07:00:00",
-            "end_timestamp": 1786489200,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-07-01T07:00:00",
-            "start_timestamp": 1782860400,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 107021,
-                    "name": "Lucky Coin",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
-                    "num": 8000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
-                }
-            ]
-        },
-        {
-            "id": 334,
-            "name": "Final Long-Range Sightlines",
-            "description": "Warriors from across Teyvat continue to exchange techniques and refine their tactics together. Recently, skilled shooters from the Knights of Favonius, Fontaine's Maison Gardiennage, and Natlan's Flower-Feather Clan assembled at Lumidouce Harbor for a distinctive joint exercise...",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-07-27T03:59:59",
-            "end_timestamp": 1785095999,
-            "exploration_detail": null,
-            "is_finished": true,
-            "start_time": "2026-07-17T10:00:00",
-            "start_timestamp": 1784253600,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 201,
-                    "name": "Primogem",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 420,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
-                },
-                {
-                    "id": 104003,
-                    "name": "Hero's Wit",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
-                },
-                {
-                    "id": 114050,
-                    "name": "Chapter of an Ancient Chord",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2a61c0d889d542f08344a75e2080a2ff.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4032"
-                },
-                {
-                    "id": 114054,
-                    "name": "Sublimation of Pure Sacred Dewdrop",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4d6f548fa61668caee2506d5c0599d2c.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4036"
-                },
-                {
-                    "id": 114058,
-                    "name": "Wine Goblet of the Pristine Sea",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/922e44c9ae6ab60a0aeaed63d1eca249.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4027"
-                },
-                {
-                    "id": 105002,
-                    "name": "Sanctifying Unction",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
-                },
-                {
-                    "id": 202,
-                    "name": "Mora",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                },
-                {
-                    "id": 0,
-                    "name": "Furnishing",
-                    "homepage_show": null,
-                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
-                    "num": 1,
                     "rarity": 1,
                     "wiki_url": null
                 }
