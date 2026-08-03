@@ -319,106 +319,6 @@
     "chronicled_banners": null,
     "events": [
         {
-            "id": 335,
-            "name": "Dance Dance Easy-Breezy Disco",
-            "description": "A courier comes bearing good news — another party is about to kick off at Easybreeze Holiday Resort! This time, unexpected new guests will join the rhythmic ensemble and dance joyfully with us!",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-08-03T03:59:59",
-            "end_timestamp": 1785700799,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-07-24T10:00:00",
-            "start_timestamp": 1784858400,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 201,
-                    "name": "Primogem",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 420,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
-                },
-                {
-                    "id": 114050,
-                    "name": "Chapter of an Ancient Chord",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2a61c0d889d542f08344a75e2080a2ff.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4032"
-                },
-                {
-                    "id": 114054,
-                    "name": "Sublimation of Pure Sacred Dewdrop",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4d6f548fa61668caee2506d5c0599d2c.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4036"
-                },
-                {
-                    "id": 114058,
-                    "name": "Wine Goblet of the Pristine Sea",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/922e44c9ae6ab60a0aeaed63d1eca249.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/4027"
-                },
-                {
-                    "id": 114062,
-                    "name": "Blazing Sacrificial Heart's Hesitance",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aa7ca12e69eb79d5c6c2e3b5ed4117b4.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6657"
-                },
-                {
-                    "id": 114066,
-                    "name": "Delirious Desolation of the Sacred Lord",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0bed4d311e895d47b5e89fa4749ae539.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6661"
-                },
-                {
-                    "id": 114070,
-                    "name": "Night-Wind's Mystic Premonition",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0e1a7c97dc96ed0c83c13e796c4f18ae.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6665"
-                },
-                {
-                    "id": 202,
-                    "name": "Mora",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                },
-                {
-                    "id": 0,
-                    "name": "Furnishing",
-                    "homepage_show": null,
-                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
-                    "num": 2,
-                    "rarity": 1,
-                    "wiki_url": null
-                }
-            ]
-        },
-        {
             "id": 333,
             "name": "Stygian Onslaught",
             "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
@@ -492,32 +392,25 @@
             ]
         },
         {
-            "id": 336,
-            "name": "Heated Battle Mode: Automatic Artistry",
-            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
-            "type": "ActTypeOther",
+            "id": 332,
+            "name": "Ley Line Overflow",
+            "description": "",
+            "type": "ActTypeDouble",
             "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-08-03T03:59:59",
-            "end_timestamp": 1785700799,
+            "end_time": "2026-08-10T03:59:59",
+            "end_timestamp": 1786305599,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-07-18T10:00:00",
-            "start_timestamp": 1784340000,
+            "start_time": "2026-08-03T04:00:00",
+            "start_timestamp": 1785700800,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 107021,
-                    "name": "Lucky Coin",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bddb5ec01f91494e65157d2201c2a165.png",
-                    "num": 3000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
-                }
-            ]
+            "rewards": null,
+            "double_reward_detail": {
+                "remaining": 3,
+                "total": 3
+            }
         },
         {
             "id": 337,
@@ -799,27 +692,6 @@
                     "wiki_url": null
                 }
             ]
-        },
-        {
-            "id": 332,
-            "name": "Ley Line Overflow",
-            "description": "",
-            "type": "ActTypeDouble",
-            "abyss_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null,
-            "double_reward_detail": {
-                "remaining": 3,
-                "total": 3
-            }
         }
     ],
     "weapon_banners": [
