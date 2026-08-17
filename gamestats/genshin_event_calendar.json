@@ -81,8 +81,8 @@
                 }
             ],
             "abyss_detail": {
-                "has_data": null,
-                "max_star": null,
+                "has_data": true,
+                "max_star": 27,
                 "total_star": 36,
                 "unlocked": true
             }
@@ -222,8 +222,8 @@
                 }
             ],
             "theater_detail": {
-                "has_data": null,
-                "max_round": null,
+                "has_data": true,
+                "max_round": 8,
                 "unlocked": true
             }
         }
