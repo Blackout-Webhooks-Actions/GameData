@@ -2,6 +2,146 @@
     "challenges": [
         {
             "id": 0,
+            "name": "Imaginarium Theater",
+            "description": "",
+            "type": "ActTypeRoleCombat",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-10-01T03:59:59",
+            "end_timestamp": 1790798399,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-09-01T04:00:00",
+            "start_timestamp": 1788206400,
+            "status": 2,
+            "strategy": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 1000,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 105005,
+                    "name": "Sanctifying Elixir",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b9cb6e2b1a75354bb241e2d6079a3c65.png",
+                    "num": 2,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6850"
+                },
+                {
+                    "id": 206,
+                    "name": "Toy Medal",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fc4e85aaaff1e9070abd8cadd2d30699.png",
+                    "num": 3,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5837"
+                },
+                {
+                    "id": 107012,
+                    "name": "Transient Resin",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/be0487bd0323269f5ac9f5fc885d23e2.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2955"
+                },
+                {
+                    "id": 105003,
+                    "name": "Sanctifying Essence",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/072e0e7314f48321b34d056a6a1d8ef6.png",
+                    "num": 26,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1262"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": 600000,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                },
+                {
+                    "id": 104372,
+                    "name": "Guide to Glory",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/49c17985b5f79430cf0e3950cf4916a5.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11351"
+                },
+                {
+                    "id": 104369,
+                    "name": "Guide to Fortitude",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/329c050a11f93509778db724521be91a.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11348"
+                },
+                {
+                    "id": 104366,
+                    "name": "Guide to Charity",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/ae44b2c8f34c7de009f074a36459cd62.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11345"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": 28,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 104371,
+                    "name": "Teachings of Glory",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/00ae71d14d5503c7e7fef5fd5596e7d1.png",
+                    "num": 12,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11350"
+                },
+                {
+                    "id": 104368,
+                    "name": "Teachings of Fortitude",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/9abd23bda582f9f7321ec67892fdc4a8.png",
+                    "num": 12,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11347"
+                },
+                {
+                    "id": 104365,
+                    "name": "Teachings of Charity",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/942bd75944577b6a2924cdc633512970.png",
+                    "num": 12,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11344"
+                }
+            ],
+            "theater_detail": {
+                "has_data": null,
+                "max_round": null,
+                "unlocked": true
+            }
+        },
+        {
+            "id": 0,
             "name": "Abyssal Moon Spire",
             "description": "",
             "type": "ActTypeTower",
@@ -84,146 +224,6 @@
                 "has_data": true,
                 "max_star": 27,
                 "total_star": 36,
-                "unlocked": true
-            }
-        },
-        {
-            "id": 0,
-            "name": "Imaginarium Theater",
-            "description": "",
-            "type": "ActTypeRoleCombat",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-09-01T03:59:59",
-            "end_timestamp": 1788206399,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-08-01T04:00:00",
-            "start_timestamp": 1785528000,
-            "status": 2,
-            "strategy": null,
-            "rewards": [
-                {
-                    "id": 201,
-                    "name": "Primogem",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 1000,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
-                },
-                {
-                    "id": 105005,
-                    "name": "Sanctifying Elixir",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b9cb6e2b1a75354bb241e2d6079a3c65.png",
-                    "num": 2,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6850"
-                },
-                {
-                    "id": 206,
-                    "name": "Toy Medal",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fc4e85aaaff1e9070abd8cadd2d30699.png",
-                    "num": 3,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5837"
-                },
-                {
-                    "id": 107012,
-                    "name": "Transient Resin",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/be0487bd0323269f5ac9f5fc885d23e2.png",
-                    "num": 1,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2955"
-                },
-                {
-                    "id": 105003,
-                    "name": "Sanctifying Essence",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/072e0e7314f48321b34d056a6a1d8ef6.png",
-                    "num": 26,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1262"
-                },
-                {
-                    "id": 202,
-                    "name": "Mora",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
-                    "num": 600000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                },
-                {
-                    "id": 104363,
-                    "name": "Guide to Vagrancy",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/bdd7c8e04e99d8ba65ce98c09ec1eda0.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8589"
-                },
-                {
-                    "id": 104360,
-                    "name": "Guide to Elysium",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/28f0b3c352d65a8aa9bfc3d4f5ed76a9.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8586"
-                },
-                {
-                    "id": 104357,
-                    "name": "Guide to Moonlight",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/eb9eff023c49d27b826e0fe7d3df28c9.png",
-                    "num": 6,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8583"
-                },
-                {
-                    "id": 105002,
-                    "name": "Sanctifying Unction",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
-                    "num": 28,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
-                },
-                {
-                    "id": 104362,
-                    "name": "Teachings of Vagrancy",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/e75a9ebad1820befc0313c4a27a6e7f0.png",
-                    "num": 12,
-                    "rarity": 2,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8588"
-                },
-                {
-                    "id": 104359,
-                    "name": "Teachings of Elysium",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/8d9f3bb4f92b033ba8f47686b61a056c.png",
-                    "num": 12,
-                    "rarity": 2,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8585"
-                },
-                {
-                    "id": 104356,
-                    "name": "Teachings of Moonlight",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/e9a1f0ea9a567c50a4c9620c71561d84.png",
-                    "num": 12,
-                    "rarity": 2,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8582"
-                }
-            ],
-            "theater_detail": {
-                "has_data": true,
-                "max_round": 8,
                 "unlocked": true
             }
         }
