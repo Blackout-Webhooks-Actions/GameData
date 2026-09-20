@@ -392,27 +392,6 @@
             ]
         },
         {
-            "id": 429,
-            "name": "Ley Line Overflow",
-            "description": "",
-            "type": "ActTypeDouble",
-            "abyss_detail": null,
-            "end_time": "2026-09-21T03:59:59",
-            "end_timestamp": 1789934399,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-09-14T04:00:00",
-            "start_timestamp": 1789329600,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null,
-            "double_reward_detail": {
-                "remaining": 3,
-                "total": 3
-            }
-        },
-        {
             "id": 428,
             "name": "The Forge Realm's Temper: Game of Wits",
             "description": "",
