@@ -230,86 +230,86 @@
     ],
     "character_banners": [
         {
-            "id": 225,
+            "id": 231,
             "name": "Character Event Wish",
             "type": 1,
-            "end_time": "2026-09-22T14:59:59",
-            "end_timestamp": 1790060399,
+            "end_time": "2026-10-13T17:59:00",
+            "end_timestamp": 1791885540,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-09-01T18:00:00",
-            "start_timestamp": 1788256800,
-            "version": "7.0",
+            "start_time": "2026-09-23T07:00:00",
+            "start_timestamp": 1790118000,
+            "version": "7.1",
             "characters": [
                 {
-                    "id": 10000120,
-                    "name": "Flins",
-                    "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/6aae9f16cbe14ac60dd6eb2956e4acf2.png",
+                    "id": 10000143,
+                    "name": "Vesna",
+                    "element": "Anemo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/88e4654b892a5ada8d0fd21301c07518.png",
                     "rarity": 5
                 },
                 {
-                    "id": 10000121,
-                    "name": "Aino",
-                    "element": "Hydro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
+                    "id": 10000039,
+                    "name": "Diona",
+                    "element": "Cryo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3de7b18fbecffbb57a73fe5032d24950.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000110,
-                    "name": "Iansan",
-                    "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67e3357c/f44e8b4c7a61a4abb2aa2ccfe9b810cd.png",
-                    "rarity": 4
-                },
-                {
-                    "id": 10000108,
-                    "name": "Lan Yan",
+                    "id": 10000076,
+                    "name": "Faruzan",
                     "element": "Anemo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/eba829f8ca4b38367c4a2551d0e228ae.png",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/58a03d4cded3b6e93af3cc3efb708031.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000036,
+                    "name": "Chongyun",
+                    "element": "Cryo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/38b5bd856ea9fff842477a77265da49b.png",
                     "rarity": 4
                 }
             ],
             "weapons": null
         },
         {
-            "id": 226,
+            "id": 232,
             "name": "Character Event Wish 2",
             "type": 1,
-            "end_time": "2026-09-22T14:59:59",
-            "end_timestamp": 1790060399,
+            "end_time": "2026-10-13T17:59:00",
+            "end_timestamp": 1791885540,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-09-01T18:00:00",
-            "start_timestamp": 1788256800,
-            "version": "7.0",
+            "start_time": "2026-09-23T07:00:00",
+            "start_timestamp": 1790118000,
+            "version": "7.1",
             "characters": [
                 {
-                    "id": 10000116,
-                    "name": "Ineffa",
-                    "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/f1723762f28902659f73902bbbda1fd6.png",
+                    "id": 10000140,
+                    "name": "Vodyanitsa",
+                    "element": "Hydro",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/750126424226dddd1dbe8a75db5cbad1.png",
                     "rarity": 5
                 },
                 {
-                    "id": 10000121,
-                    "name": "Aino",
-                    "element": "Hydro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
+                    "id": 10000039,
+                    "name": "Diona",
+                    "element": "Cryo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3de7b18fbecffbb57a73fe5032d24950.png",
                     "rarity": 4
                 },
                 {
-                    "id": 10000110,
-                    "name": "Iansan",
-                    "element": "Electro",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67e3357c/f44e8b4c7a61a4abb2aa2ccfe9b810cd.png",
-                    "rarity": 4
-                },
-                {
-                    "id": 10000108,
-                    "name": "Lan Yan",
+                    "id": 10000076,
+                    "name": "Faruzan",
                     "element": "Anemo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/eba829f8ca4b38367c4a2551d0e228ae.png",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/58a03d4cded3b6e93af3cc3efb708031.png",
+                    "rarity": 4
+                },
+                {
+                    "id": 10000036,
+                    "name": "Chongyun",
+                    "element": "Cryo",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/38b5bd856ea9fff842477a77265da49b.png",
                     "rarity": 4
                 }
             ],
@@ -319,18 +319,18 @@
     "chronicled_banners": null,
     "events": [
         {
-            "id": 428,
-            "name": "The Forge Realm's Temper: Game of Wits",
+            "id": 451,
+            "name": "The Forge Realm's Temper: Clever Stratagems",
             "description": "",
             "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-09-23T07:00:00",
-            "end_timestamp": 1790118000,
+            "end_time": "2026-11-04T07:00:00",
+            "end_timestamp": 1793746800,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-08-12T07:00:00",
-            "start_timestamp": 1786489200,
+            "start_time": "2026-09-23T07:00:00",
+            "start_timestamp": 1790118000,
             "status": 2,
             "strategy": null,
             "theater_detail": null,
@@ -345,42 +345,223 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
                 }
             ]
+        },
+        {
+            "id": 453,
+            "name": "Across the Frozen Wilds, Honing One's Edge",
+            "description": "",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-11-03T14:59:59",
+            "end_timestamp": 1793689199,
+            "exploration_detail": null,
+            "is_finished": true,
+            "start_time": "2026-09-23T07:00:00",
+            "start_timestamp": 1790118000,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 0,
+                    "name": "Characters",
+                    "homepage_show": true,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/12/27/38c54279882f4a679eb608074d87bf90_2005834610169435341.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": null
+                }
+            ]
+        },
+        {
+            "id": 454,
+            "name": "Tabletop Troupe: A Gathering on Adventure's Eve",
+            "description": "",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-11-03T14:59:59",
+            "end_timestamp": 1793689199,
+            "exploration_detail": null,
+            "is_finished": true,
+            "start_time": "2026-09-23T07:00:00",
+            "start_timestamp": 1790118000,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 0,
+                    "name": "Characters",
+                    "homepage_show": true,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/12/27/38c54279882f4a679eb608074d87bf90_2005834610169435341.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": null
+                }
+            ]
+        },
+        {
+            "id": 449,
+            "name": "Carefree Snowball Fight",
+            "description": "While passing through the snowfields southwest of Morepesok, you come across a group of children happily having a snowball fight, led by a Frost Operative, and decide to join in...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 448,
+            "name": "Predictive Victory Dynamics",
+            "description": "In the territory of Natlan's Children of Echoes, the Interactive Woven Scroll expert Vigee, elite warrior Liliuo, and Fatui operative Wislawa are using a Combat Simulator to simulate battles, hoping to develop a model for calculating one's odds of victory...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 447,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 446,
+            "name": "Silverwing in Pursuit of the Moon",
+            "description": "Following an invitation from a friend, you and Paimon return to Chenyu Vale. A grand festival is already underway in Yilong Wharf...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
+        },
+        {
+            "id": 452,
+            "name": "Overflowing Favor",
+            "description": "",
+            "type": "ActTypeDouble",
+            "abyss_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null,
+            "double_reward_detail": {
+                "remaining": 3,
+                "total": 3
+            }
+        },
+        {
+            "id": 450,
+            "name": "Heated Battle Mode: Automatic Artistry",
+            "description": "In The Cat's Tail, there will be a regularly scheduled event that uses special Heated Battle Mode rules.\nRules for this period:\nSelect characters specially dedicated to this mode to build a team and enhance them. Characters will automatically battle!",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": null,
+            "end_timestamp": null,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": null,
+            "start_timestamp": null,
+            "status": 1,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": null
         }
     ],
     "weapon_banners": [
         {
-            "id": 227,
+            "id": 233,
             "name": "Weapon Event Wish",
             "type": 2,
-            "end_time": "2026-09-22T14:59:59",
-            "end_timestamp": 1790060399,
+            "end_time": "2026-10-13T17:59:00",
+            "end_timestamp": 1791885540,
             "jump_url": null,
             "pool_status": 2,
-            "start_time": "2026-09-01T18:00:00",
-            "start_timestamp": 1788256800,
-            "version": "7.0",
+            "start_time": "2026-09-23T07:00:00",
+            "start_timestamp": 1790118000,
+            "version": "7.1",
             "characters": null,
             "weapons": [
                 {
-                    "id": 13516,
-                    "name": "Bloodsoaked Ruins",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/51a4244e38d1011926a21f25942e78c6.png",
+                    "id": 11522,
+                    "name": "Beyond the Chrysalis",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/ecedbeb41258bf291e127603ea519449.png",
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8838"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11728"
                 },
                 {
-                    "id": 13515,
-                    "name": "Fractured Halo",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/9d23036ecf61183797246cf410765956.png",
+                    "id": 14524,
+                    "name": "Hymn of the Maelstrom",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/c506b7ca17eac4081f7749f68a3ad398.png",
                     "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/8299"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11729"
                 },
                 {
-                    "id": 11402,
-                    "name": "The Flute",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e72bdcaaeb4b0a1ea13cfb76c88aa4cb.png",
+                    "id": 11437,
+                    "name": "New Bough",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/a6fbdeef294997e18e778f4cba34df66.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2007"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11730"
+                },
+                {
+                    "id": 14437,
+                    "name": "Winter's Heavy Heart",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/b84084f9e87288a72730c7114c997e4a.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11732"
+                },
+                {
+                    "id": 15437,
+                    "name": "Breezeborne Refrain",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/59eed844cf69781f41f9f9f733b1bc4b.png",
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11733"
                 },
                 {
                     "id": 12401,
@@ -390,25 +571,11 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2018"
                 },
                 {
-                    "id": 13407,
-                    "name": "Favonius Lance",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7db45b7a84bb80468aaf0f5f430e9bdc.png",
+                    "id": 13401,
+                    "name": "Dragon's Bane",
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
                     "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2021"
-                },
-                {
-                    "id": 14409,
-                    "name": "Eye of Perception",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/811ff594eebe6cc05f12e02662803239.png",
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1980"
-                },
-                {
-                    "id": 15402,
-                    "name": "The Stringless",
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/da3d5e7bbc112c4e1378de554a79c6c3.png",
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2009"
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1940"
                 }
             ]
         }
