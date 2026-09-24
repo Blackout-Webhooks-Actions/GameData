@@ -319,6 +319,295 @@
     "chronicled_banners": null,
     "events": [
         {
+            "id": 446,
+            "name": "Silverwing in Pursuit of the Moon",
+            "description": "Following an invitation from a friend, you and Paimon return to Chenyu Vale. A grand festival is already underway in Yilong Wharf...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-10-12T03:59:59",
+            "end_timestamp": 1791748799,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-09-24T10:00:00",
+            "start_timestamp": 1790215200,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 950,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104319,
+                    "name": "Crown of Insight",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bf059be872ce72f035e3df38da065e89.png",
+                    "num": 1,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/900"
+                },
+                {
+                    "id": 11438,
+                    "name": "Silver Light",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/0c2f38fc6c8afb31613c16f6f950c517.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11731"
+                },
+                {
+                    "id": 104312,
+                    "name": "Philosophies of Prosperity",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/df24e3b4feeed265eb198886016f97bb.png",
+                    "num": 3,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/150"
+                },
+                {
+                    "id": 104315,
+                    "name": "Philosophies of Diligence",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5518ce4ae1de39dd0f489b6bba3bec0f.png",
+                    "num": 3,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/74"
+                },
+                {
+                    "id": 104318,
+                    "name": "Philosophies of Gold",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1e5e2ef2fc26e036a7861c319e36b22d.png",
+                    "num": 3,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/198"
+                },
+                {
+                    "id": 109667,
+                    "name": "Recipe: Celestial Tea Crisp",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d06aa6487cbfc237896c45a364b00f6f.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 114015,
+                    "name": "Relic from Guyun",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/852d97b9dd8b51ec81863580fe2ba220.png",
+                    "num": 3,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/615"
+                },
+                {
+                    "id": 114019,
+                    "name": "Mist Veiled Gold Elixir",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/531ecb1148fd13175df581a5c27c7372.png",
+                    "num": 3,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1724"
+                },
+                {
+                    "id": 114023,
+                    "name": "Bit of Aerosiderite",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e66b539dbbb6ab994234565f76cb5d2e.png",
+                    "num": 3,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1072"
+                },
+                {
+                    "id": 200129,
+                    "name": "Tea-Scented Tassel",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/f7152dedb4c9014e6567a552c03f3898.png",
+                    "num": 4,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11775"
+                },
+                {
+                    "id": 380485,
+                    "name": "Moonlit Splendor Along Every Way",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7800e492b1ae185da08d825930ae00f6.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 380486,
+                    "name": "Bright Prospects, Brighter Profits",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7800e492b1ae185da08d825930ae00f6.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 105003,
+                    "name": "Sanctifying Essence",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/072e0e7314f48321b34d056a6a1d8ef6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1262"
+                },
+                {
+                    "id": 104112,
+                    "name": "Agnidus Agate Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b53db4ba6c9a4840e7b844f46703fd21.png",
+                    "num": 2,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1099"
+                },
+                {
+                    "id": 104122,
+                    "name": "Varunada Lazurite Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fc3a89a644e48b89bc5464dff55039af.png",
+                    "num": 2,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1036"
+                },
+                {
+                    "id": 104132,
+                    "name": "Nagadus Emerald Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/464d55a8e7a90bd94e6cdce783805959.png",
+                    "num": 2,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/2678"
+                },
+                {
+                    "id": 104142,
+                    "name": "Vajrada Amethyst Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aed02c6795884973a597c86d2507f5b2.png",
+                    "num": 2,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/904"
+                },
+                {
+                    "id": 104152,
+                    "name": "Vayuda Turquoise Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c3c8fe02bd7778a9e9e2befc1835c51c.png",
+                    "num": 2,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1495"
+                },
+                {
+                    "id": 104162,
+                    "name": "Shivada Jade Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8b6ce7f096e294231cef28326cb6683.png",
+                    "num": 2,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/410"
+                },
+                {
+                    "id": 104172,
+                    "name": "Prithiva Topaz Fragment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0949ad6d7c3e8f3bd577b30f5f2aa283.png",
+                    "num": 2,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/446"
+                },
+                {
+                    "id": 104311,
+                    "name": "Guide to Prosperity",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/73613a4898e66464acf88b537b42c396.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/151"
+                },
+                {
+                    "id": 104314,
+                    "name": "Guide to Diligence",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cb09b286ac18ddc4bc4ab485507faa35.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/75"
+                },
+                {
+                    "id": 104317,
+                    "name": "Guide to Gold",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/adc1a137ba5d53be88fe82694d41a186.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/199"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                },
+                {
+                    "id": 104012,
+                    "name": "Fine Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/48b91babbffc33c1836ce6c00cfe2ee0.png",
+                    "num": null,
+                    "rarity": 2,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1326"
+                },
+                {
+                    "id": 0,
+                    "name": "Furnishing",
+                    "homepage_show": null,
+                    "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/10/31/4173e4a85d0419853caaadd3f4863d67_599113805414825291.png",
+                    "num": 3,
+                    "rarity": 1,
+                    "wiki_url": null
+                }
+            ]
+        },
+        {
             "id": 451,
             "name": "The Forge Realm's Temper: Clever Stratagems",
             "description": "",
@@ -443,24 +732,6 @@
             "name": "Stygian Onslaught",
             "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
             "type": "ActTypeHardChallenge",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 446,
-            "name": "Silverwing in Pursuit of the Moon",
-            "description": "Following an invitation from a friend, you and Paimon return to Chenyu Vale. A grand festival is already underway in Yilong Wharf...",
-            "type": "ActTypeOther",
             "abyss_detail": null,
             "double_reward_detail": null,
             "end_time": null,
