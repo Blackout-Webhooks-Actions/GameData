@@ -222,8 +222,8 @@
                 }
             ],
             "theater_detail": {
-                "has_data": null,
-                "max_round": null,
+                "has_data": true,
+                "max_round": 3,
                 "unlocked": true
             }
         }
