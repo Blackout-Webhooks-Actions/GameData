@@ -2,104 +2,17 @@
     "challenges": [
         {
             "id": 0,
-            "name": "Abyssal Moon Spire",
-            "description": "",
-            "type": "ActTypeTower",
-            "double_reward_detail": null,
-            "end_time": "2026-10-16T03:59:59",
-            "end_timestamp": 1792094399,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-09-16T04:00:00",
-            "start_timestamp": 1789502400,
-            "status": 2,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 201,
-                    "name": "Primogem",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 800,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
-                },
-                {
-                    "id": 117031,
-                    "name": "Domain Reliquary: Tier I",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8ee2288648c40774aa87b3e90455b79b.png",
-                    "num": 4,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5670"
-                },
-                {
-                    "id": 104003,
-                    "name": "Hero's Wit",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
-                    "num": 24,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
-                },
-                {
-                    "id": 117030,
-                    "name": "Domain Reliquary: Tier II",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a961b5577eafc005d199f1d2f0b595d7.png",
-                    "num": 8,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5671"
-                },
-                {
-                    "id": 104002,
-                    "name": "Adventurer's Experience",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3190775877db6975feb2aefdff7ef963.png",
-                    "num": 42,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/303"
-                },
-                {
-                    "id": 104013,
-                    "name": "Mystic Enhancement Ore",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
-                    "num": 72,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
-                },
-                {
-                    "id": 202,
-                    "name": "Mora",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
-                    "num": 585000,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                }
-            ],
-            "abyss_detail": {
-                "has_data": true,
-                "max_star": 9,
-                "total_star": 36,
-                "unlocked": true
-            }
-        },
-        {
-            "id": 0,
             "name": "Imaginarium Theater",
             "description": "",
             "type": "ActTypeRoleCombat",
             "abyss_detail": null,
             "double_reward_detail": null,
-            "end_time": "2026-10-01T03:59:59",
-            "end_timestamp": 1790798399,
+            "end_time": "2026-11-01T03:59:59",
+            "end_timestamp": 1793476799,
             "exploration_detail": null,
             "is_finished": null,
-            "start_time": "2026-09-01T04:00:00",
-            "start_timestamp": 1788206400,
+            "start_time": "2026-10-01T04:00:00",
+            "start_timestamp": 1790798400,
             "status": 2,
             "strategy": null,
             "rewards": [
@@ -222,8 +135,95 @@
                 }
             ],
             "theater_detail": {
+                "has_data": null,
+                "max_round": null,
+                "unlocked": true
+            }
+        },
+        {
+            "id": 0,
+            "name": "Abyssal Moon Spire",
+            "description": "",
+            "type": "ActTypeTower",
+            "double_reward_detail": null,
+            "end_time": "2026-10-16T03:59:59",
+            "end_timestamp": 1792094399,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-09-16T04:00:00",
+            "start_timestamp": 1789502400,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 800,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 117031,
+                    "name": "Domain Reliquary: Tier I",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8ee2288648c40774aa87b3e90455b79b.png",
+                    "num": 4,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5670"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": 24,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 117030,
+                    "name": "Domain Reliquary: Tier II",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a961b5577eafc005d199f1d2f0b595d7.png",
+                    "num": 8,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/5671"
+                },
+                {
+                    "id": 104002,
+                    "name": "Adventurer's Experience",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3190775877db6975feb2aefdff7ef963.png",
+                    "num": 42,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/303"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": 72,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": 585000,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ],
+            "abyss_detail": {
                 "has_data": true,
-                "max_round": 3,
+                "max_star": 9,
+                "total_star": 36,
                 "unlocked": true
             }
         }
@@ -318,6 +318,79 @@
     ],
     "chronicled_banners": null,
     "events": [
+        {
+            "id": 447,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-11-03T03:59:59",
+            "end_timestamp": 1793649599,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-09-30T10:00:00",
+            "start_timestamp": 1790733600,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 450,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 105006,
+                    "name": "Dust of Enlightenment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/fab4da768f6f2f23f065ccd7ac1efce5.png",
+                    "num": 3,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7794"
+                },
+                {
+                    "id": 341002,
+                    "name": "Radiant Phantasm: Sublimation",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/ad486c0d6c53f70894a762f883d18f4d.png",
+                    "num": 1,
+                    "rarity": 5,
+                    "wiki_url": null
+                },
+                {
+                    "id": 341001,
+                    "name": "Radiant Phantasm",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/63f43673861c8fc25221d717fb8752d6.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ]
+        },
         {
             "id": 446,
             "name": "Silverwing in Pursuit of the Moon",
@@ -714,24 +787,6 @@
             "name": "Predictive Victory Dynamics",
             "description": "In the territory of Natlan's Children of Echoes, the Interactive Woven Scroll expert Vigee, elite warrior Liliuo, and Fatui operative Wislawa are using a Combat Simulator to simulate battles, hoping to develop a model for calculating one's odds of victory...",
             "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null
-        },
-        {
-            "id": 447,
-            "name": "Stygian Onslaught",
-            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
-            "type": "ActTypeHardChallenge",
             "abyss_detail": null,
             "double_reward_detail": null,
             "end_time": null,
