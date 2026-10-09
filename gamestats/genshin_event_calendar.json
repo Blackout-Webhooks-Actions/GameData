@@ -15,6 +15,7 @@
             "start_timestamp": 1790798400,
             "status": 2,
             "strategy": null,
+            "stygian_detail": null,
             "rewards": [
                 {
                     "id": 201,
@@ -154,6 +155,7 @@
             "start_timestamp": 1789502400,
             "status": 2,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": [
                 {
@@ -389,7 +391,17 @@
                     "rarity": 3,
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
                 }
-            ]
+            ],
+            "stygian_detail": {
+                "difficulty": null,
+                "icon": null,
+                "time_used": null,
+                "unlocked": true,
+                "disturbance_outbreak": {
+                    "max_progress": null,
+                    "progress": null
+                }
+            }
         },
         {
             "id": 446,
@@ -406,6 +418,7 @@
             "start_timestamp": 1790215200,
             "status": 2,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": [
                 {
@@ -695,6 +708,7 @@
             "start_timestamp": 1790118000,
             "status": 2,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": [
                 {
@@ -723,6 +737,7 @@
             "start_timestamp": 1790118000,
             "status": 2,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": [
                 {
@@ -751,6 +766,7 @@
             "start_timestamp": 1790118000,
             "status": 2,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": [
                 {
@@ -779,6 +795,7 @@
             "start_timestamp": null,
             "status": 1,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": null
         },
@@ -797,6 +814,7 @@
             "start_timestamp": null,
             "status": 1,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": null
         },
@@ -814,6 +832,7 @@
             "start_timestamp": null,
             "status": 1,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": null,
             "double_reward_detail": {
@@ -836,6 +855,7 @@
             "start_timestamp": null,
             "status": 1,
             "strategy": null,
+            "stygian_detail": null,
             "theater_detail": null,
             "rewards": null
         }
