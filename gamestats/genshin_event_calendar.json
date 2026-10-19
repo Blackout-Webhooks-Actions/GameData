@@ -321,89 +321,6 @@
     "chronicled_banners": null,
     "events": [
         {
-            "id": 448,
-            "name": "Predictive Victory Dynamics",
-            "description": "In the territory of Natlan's Children of Echoes, the Interactive Woven Scroll expert Vigee, elite warrior Liliuo, and Fatui operative Wislawa are using a Combat Simulator to simulate battles, hoping to develop a model for calculating one's odds of victory...",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": "2026-10-23T09:59:59",
-            "end_timestamp": 1792720799,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": "2026-10-12T10:00:00",
-            "start_timestamp": 1791770400,
-            "status": 2,
-            "strategy": null,
-            "stygian_detail": null,
-            "theater_detail": null,
-            "rewards": [
-                {
-                    "id": 201,
-                    "name": "Primogem",
-                    "homepage_show": true,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
-                    "num": 420,
-                    "rarity": 5,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
-                },
-                {
-                    "id": 104003,
-                    "name": "Hero's Wit",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
-                    "num": null,
-                    "rarity": 4,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
-                },
-                {
-                    "id": 104348,
-                    "name": "Guide to Contention",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b098bbd379a05fefda6e59dcacf4e8e7.png",
-                    "num": 4,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6631"
-                },
-                {
-                    "id": 104351,
-                    "name": "Guide to Kindling",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/489bb2ef7a705feb69ea9e374d4ce404.png",
-                    "num": 4,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6634"
-                },
-                {
-                    "id": 104354,
-                    "name": "Guide to Conflict",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c35153f90364d02c80bd87323fea592.png",
-                    "num": 4,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6637"
-                },
-                {
-                    "id": 105002,
-                    "name": "Sanctifying Unction",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
-                },
-                {
-                    "id": 202,
-                    "name": "Mora",
-                    "homepage_show": null,
-                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
-                    "num": null,
-                    "rarity": 3,
-                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
-                }
-            ]
-        },
-        {
             "id": 447,
             "name": "Stygian Onslaught",
             "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
@@ -541,6 +458,89 @@
                     "num": 8000,
                     "rarity": 3,
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
+                }
+            ]
+        },
+        {
+            "id": 448,
+            "name": "Predictive Victory Dynamics",
+            "description": "In the territory of Natlan's Children of Echoes, the Interactive Woven Scroll expert Vigee, elite warrior Liliuo, and Fatui operative Wislawa are using a Combat Simulator to simulate battles, hoping to develop a model for calculating one's odds of victory...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-10-23T09:59:59",
+            "end_timestamp": 1792720799,
+            "exploration_detail": null,
+            "is_finished": true,
+            "start_time": "2026-10-12T10:00:00",
+            "start_timestamp": 1791770400,
+            "status": 2,
+            "strategy": null,
+            "stygian_detail": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 420,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 104348,
+                    "name": "Guide to Contention",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b098bbd379a05fefda6e59dcacf4e8e7.png",
+                    "num": 4,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6631"
+                },
+                {
+                    "id": 104351,
+                    "name": "Guide to Kindling",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/489bb2ef7a705feb69ea9e374d4ce404.png",
+                    "num": 4,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6634"
+                },
+                {
+                    "id": 104354,
+                    "name": "Guide to Conflict",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c35153f90364d02c80bd87323fea592.png",
+                    "num": 4,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/6637"
+                },
+                {
+                    "id": 105002,
+                    "name": "Sanctifying Unction",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f8783369f7417e8f52d81747a3ea183e.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1261"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
                 }
             ]
         },
