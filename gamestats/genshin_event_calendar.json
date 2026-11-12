@@ -321,6 +321,89 @@
     "chronicled_banners": null,
     "events": [
         {
+            "id": 466,
+            "name": "Stygian Onslaught",
+            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
+            "type": "ActTypeHardChallenge",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-12-15T03:59:59",
+            "end_timestamp": 1797278399,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-11-11T10:00:00",
+            "start_timestamp": 1794362400,
+            "status": 2,
+            "strategy": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 450,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 105006,
+                    "name": "Dust of Enlightenment",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/fab4da768f6f2f23f065ccd7ac1efce5.png",
+                    "num": 3,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/7794"
+                },
+                {
+                    "id": 341002,
+                    "name": "Radiant Phantasm: Sublimation",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/ad486c0d6c53f70894a762f883d18f4d.png",
+                    "num": 1,
+                    "rarity": 5,
+                    "wiki_url": null
+                },
+                {
+                    "id": 341001,
+                    "name": "Radiant Phantasm",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/63f43673861c8fc25221d717fb8752d6.png",
+                    "num": 1,
+                    "rarity": 4,
+                    "wiki_url": null
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ],
+            "stygian_detail": {
+                "difficulty": null,
+                "icon": null,
+                "time_used": null,
+                "unlocked": true,
+                "disturbance_outbreak": {
+                    "max_progress": 1200,
+                    "progress": null
+                }
+            }
+        },
+        {
             "id": 465,
             "name": "The Grand Defense: Defy the Unjust Judgment",
             "description": "The Nail of Retribution has descended, and the Holy Soil phenomenon is spreading across Teyvat, throwing one region after another into crisis.\nThe seven nations are now joining forces, mobilizing every resource at their disposal to push back the disasters erupting on all fronts...",
@@ -667,34 +750,6 @@
             "stygian_detail": null,
             "theater_detail": null,
             "rewards": null
-        },
-        {
-            "id": 466,
-            "name": "Stygian Onslaught",
-            "description": "A strange Ley Line Disturbance has once again appeared, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain, for only by defeating powerful foes can the turmoil be quelled... Of course, where danger awaits, so too do extraordinary treasures...",
-            "type": "ActTypeHardChallenge",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "theater_detail": null,
-            "rewards": null,
-            "stygian_detail": {
-                "difficulty": null,
-                "icon": null,
-                "time_used": null,
-                "unlocked": true,
-                "disturbance_outbreak": {
-                    "max_progress": null,
-                    "progress": null
-                }
-            }
         },
         {
             "id": 464,
