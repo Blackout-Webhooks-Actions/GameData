@@ -408,6 +408,89 @@
     ],
     "events": [
         {
+            "id": 468,
+            "name": "Frames of Fierce Splendor",
+            "description": "Esfir, who is always eager to hone her filmmaking skills, has invited you and Paimon to work with her. She hopes that, with your help, she can create something that will lift the spirits of people across Snezhnaya...",
+            "type": "ActTypeOther",
+            "abyss_detail": null,
+            "double_reward_detail": null,
+            "end_time": "2026-12-07T03:59:59",
+            "end_timestamp": 1796587199,
+            "exploration_detail": null,
+            "is_finished": null,
+            "start_time": "2026-11-27T10:00:00",
+            "start_timestamp": 1795744800,
+            "status": 2,
+            "strategy": null,
+            "stygian_detail": null,
+            "theater_detail": null,
+            "rewards": [
+                {
+                    "id": 201,
+                    "name": "Primogem",
+                    "homepage_show": true,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a862d7fc50ffe15c045de4f6799a357b.png",
+                    "num": 420,
+                    "rarity": 5,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3485"
+                },
+                {
+                    "id": 104003,
+                    "name": "Hero's Wit",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/83c367f4bc16c7b4f1d93a25fd828cd6.png",
+                    "num": null,
+                    "rarity": 4,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/475"
+                },
+                {
+                    "id": 114086,
+                    "name": "Muster of the Pale Star Army",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/b7f3579b369e2959acd1545f7a6d4576.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11354"
+                },
+                {
+                    "id": 114090,
+                    "name": "Intoxication of the Cellared Spiritual Nectar",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/1c28e7a42c307bfb74d7bc6079827cf0.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11358"
+                },
+                {
+                    "id": 114094,
+                    "name": "The Frost Emperor's Ceremony",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/fd77db711cbf441e8dffaf9f92c63c08.png",
+                    "num": 6,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/11362"
+                },
+                {
+                    "id": 104013,
+                    "name": "Mystic Enhancement Ore",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8f5a55008fb5b959c359563220890b6f.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/1327"
+                },
+                {
+                    "id": 202,
+                    "name": "Mora",
+                    "homepage_show": null,
+                    "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fb7fc53d0cdd0ddeefda020fb16f92e7.png",
+                    "num": null,
+                    "rarity": 3,
+                    "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/757"
+                }
+            ]
+        },
+        {
             "id": 467,
             "name": "Stress Block Smashing Project",
             "description": "Two yumekui-baku employees of the Aisa Bathhouse have arrived at the Easybreeze Holiday Resort to operate a special game. Come join the playtesters and \"crush your stress\" to your heart's content!",
@@ -920,25 +1003,6 @@
                     "wiki_url": "https://wiki.hoyolab.com/pc/genshin/entry/3333"
                 }
             ]
-        },
-        {
-            "id": 468,
-            "name": "Frames of Fierce Splendor",
-            "description": "Esfir, who is always eager to hone her filmmaking skills, has invited you and Paimon to work with her. She hopes that, with your help, she can create something that will lift the spirits of people across Snezhnaya...",
-            "type": "ActTypeOther",
-            "abyss_detail": null,
-            "double_reward_detail": null,
-            "end_time": null,
-            "end_timestamp": null,
-            "exploration_detail": null,
-            "is_finished": null,
-            "start_time": null,
-            "start_timestamp": null,
-            "status": 1,
-            "strategy": null,
-            "stygian_detail": null,
-            "theater_detail": null,
-            "rewards": null
         },
         {
             "id": 464,
